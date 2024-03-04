@@ -26,7 +26,10 @@ function init_page() {
             update_games(season, null)
         })
         $("#game_selector").on('change', function () {
-            update_page()
+            update_page(true)
+        })
+        $("#player_selector").on('change', function () {
+            update_page(false)
         })
     })
 }
@@ -78,29 +81,31 @@ function update_games(season, data) {
         }))
     }
 
-    update_page()
+    update_page(true)
 }
 
-function update_page() {
+function update_page(select_name) {
     season_selected = $("#season_selector").val()
     date_selected = $("#date_selector").val()
     game_selected = $("#game_selector").val()
+    player_selected = $("#player_selector").val()
     url = '../../data/shots/' + season_selected + '/' + game_selected + '_' + date_selected + '.csv'
-    update_players(url)
+    update_players(url, player_selected, select_name)
 }
 
 
-function update_players(url) {
+function update_players(url, player_selected, select_name) {
     $.ajax({
         url: url,
         async: false,
         success: function (csvd) {
             shots = $.csv.toObjects(csvd)
-            //console.log(shots)
+            
             var players = new Set()
             for (shot of shots) {
                 players.add(shot.PLAYER_NAME)
             }
+
             $("#player_selector").empty()
             for (player of players) {
                 $("#player_selector").append($('<option>', {
@@ -108,6 +113,28 @@ function update_players(url) {
                     text: player
                 }))
             }
+            if (select_name) {
+                player_selected = Array.from(players)[0]
+            }
+            $("#player_selector").val(player_selected)
+
+            // draw
+            positions = []
+            for (shot of shots) {
+                if (shot.PLAYER_NAME == player_selected) {
+                    quarter = shot.QUARTER
+                    min = (quarter <= 4) ? (12 - shot.MINS_LEFT) : (5 - shot.MINS_LEFT) 
+                    sec = 60 - shot.SECS_LEFT
+                    time = min + ':' + sec + ' (' + ((quarter <= 4) ? (quarter + '. Quarter') : ((quarter - 4) + '. Overtime')) + ')'
+                    positions.push({'x': shot.LOC_X, 
+                                    'y': shot.LOC_Y, 
+                                    'shot_made': shot.SHOT_MADE == 'True',
+                                    'distance': shot.SHOT_DISTANCE + ' ft',
+                                    'time': time
+                                    })
+                }
+            }
+            drawShotChart(positions)
         },
         dataType: "text",
         complete: function () {

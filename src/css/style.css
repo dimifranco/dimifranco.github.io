@@ -1,0 +1,11 @@
+circle {
+    cursor: pointer; 
+}
+
+.label {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    fill: black;
+    pointer-events: none; 
+    display: none;
+}
