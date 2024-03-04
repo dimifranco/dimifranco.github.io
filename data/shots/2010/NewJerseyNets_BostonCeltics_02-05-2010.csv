@@ -1,0 +1,141 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+80270,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.25,25,4,0,2
+80276,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.25,25,4,0,12
+80291,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.9,29.05,23,4,0,21
+80297,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,15.45,24,4,0,27
+80316,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,21.95,24,4,0,35
+80323,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,29.95,24,4,0,53
+80332,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,23.65,19,4,0,59
+80338,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,10.25,10,4,1,16
+80345,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.45,24,4,1,52
+80354,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,18.95,24,4,2,0
+80364,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,4.25,17,4,2,9
+80367,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.95,2,4,2,29
+80388,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,24.75,26,4,2,48
+80395,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.95,1,4,3,8
+80400,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.75,23,4,3,32
+80419,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.1,29.15,24,4,4,19
+80428,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.65,22,4,4,26
+80444,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,9.35,13,4,5,4
+80449,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.35,2,4,5,24
+80452,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.95,1,4,5,48
+80461,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,4,5,51
+80469,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,5.55,21,4,6,12
+80487,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.05,24,4,7,11
+80495,2010,2009-10,1610612738,Boston Celtics,201611,Henry Walker,G,SG-SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,10.05,4,4,7,18
+80501,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,10.25,9,4,7,39
+80505,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.95,22,4,8,3
+80508,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,24.95,20,4,8,22
+80529,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.25,25,4,9,12
+80533,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.3,12.45,8,4,9,27
+80537,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,10.45,17,4,9,54
+80545,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.2,20.65,15,4,10,13
+80551,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,18.75,21,4,10,26
+80558,2010,2009-10,1610612751,New Jersey Nets,2039,Keyon Dooling,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,7.55,18,4,10,41
+80566,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.75,2,4,10,55
+80572,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,8.65,4,4,11,15
+80579,2010,2009-10,1610612751,New Jersey Nets,201604,Chris Douglas-Roberts,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,17.55,18,4,11,47
+80592,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,19.75,21,3,0,0
+80614,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,3,0,30
+80644,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,8.55,6,3,1,0
+80676,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.65,1,3,1,59
+80687,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,5.95,11,3,2,1
+80694,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,5.95,4,3,2,17
+80696,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.15,2,3,2,37
+80730,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,3,3,49
+80734,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,3,4,9
+80741,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,3,4,32
+80743,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,4.95,5,3,4,33
+80771,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.5,8.95,21,3,4,56
+80776,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,10.45,6,3,5,25
+80780,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,19.85,23,3,5,49
+80785,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.15,2,3,6,7
+80789,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.45,1,3,6,29
+80796,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,15.95,10,3,6,38
+80824,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,21.25,24,3,7,3
+80834,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.85,2,3,7,11
+80837,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,3,7,27
+80841,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,22.35,24,3,10,53
+80852,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,28.05,22,3,7,45
+80869,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,6.65,4,3,8,34
+80871,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,22.05,20,3,8,55
+80879,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,26.55,24,3,9,19
+80898,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,9,48
+80906,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.75,0,3,10,15
+80911,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,7.45,18,3,10,25
+80918,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,15.65,24,3,10,45
+80925,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,3,10,51
+80932,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,7.15,8,3,11,3
+80940,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.75,2,3,11,16
+80946,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.85,5,3,11,31
+80950,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,3,11,47
+81036,2010,2009-10,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.9,17.15,12,2,0,35
+81040,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,7.85,16,2,0,56
+81044,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.55,2,2,1,3
+81059,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.15,2,2,1,15
+81085,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.95,2,2,1,56
+81093,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.2,19.75,14,2,2,9
+81096,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.2,23.95,19,2,2,29
+81115,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,5.25,17,2,2,53
+81121,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,7.25,10,2,3,12
+81134,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.9,12.65,22,2,3,37
+81136,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,2,4,1
+81139,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,4.65,3,2,4,3
+81175,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,22.05,21,2,4,49
+81201,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.05,1,2,5,31
+81242,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,5.25,6,2,6,0
+81245,2010,2009-10,1610612751,New Jersey Nets,201604,Chris Douglas-Roberts,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,14.65,12,2,6,27
+81255,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,28.85,24,2,6,48
+81264,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,5.55,4,2,6,56
+81272,2010,2009-10,1610612738,Boston Celtics,201611,Henry Walker,G,SG-SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,11.35,7,2,7,0
+81276,2010,2009-10,1610612751,New Jersey Nets,201604,Chris Douglas-Roberts,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.85,23,2,7,16
+81280,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,20.15,19,2,7,31
+81289,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,20.35,20,2,8,4
+81315,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,8.35,9,2,8,28
+81345,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,14.95,24,2,8,54
+81350,2010,2009-10,1610612751,New Jersey Nets,201944,Terrence Williams,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.7,20.05,15,2,9,11
+81387,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.45,24,2,9,59
+81396,2010,2009-10,1610612751,New Jersey Nets,201944,Terrence Williams,F,SF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,16.05,13,2,10,5
+81402,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,24.45,19,2,10,28
+81406,2010,2009-10,1610612751,New Jersey Nets,201944,Terrence Williams,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.55,3,2,10,45
+81409,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,5.85,11,2,11,6
+81413,2010,2009-10,1610612751,New Jersey Nets,2039,Keyon Dooling,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,27.25,24,2,11,25
+81415,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,2,11,41
+81430,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.25,2,1,0,9
+81431,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,7.15,9,1,0,30
+81435,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,1,0,48
+81441,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,1,1,22
+81482,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.5,15.75,10,1,1,57
+81486,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,1,2,17
+81496,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,15.75,24,1,2,22
+81504,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.85,23,1,2,27
+81511,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.8,18.95,15,1,2,42
+81516,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,18.95,25,1,2,51
+81549,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,28.25,23,1,3,32
+81563,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.95,1,1,3,53
+81569,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,1,4,25
+81594,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,5.35,19,1,4,51
+81597,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,11.95,11,1,5,11
+81611,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.4,19.55,22,1,5,29
+81617,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,22.25,17,1,5,46
+81620,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.35,22,1,5,57
+81626,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,1,6,9
+81630,2010,2009-10,1610612751,New Jersey Nets,2553,Jarvis Hayes,F,SF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,23.15,25,1,6,26
+81638,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.1,20.35,15,1,6,52
+81666,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,13.45,18,1,7,24
+81672,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,11.05,11,1,7,37
+81676,2010,2009-10,1610612751,New Jersey Nets,2734,Devin Harris,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.95,2,1,8,4
+81689,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.05,2,1,8,12
+81694,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,1,8,26
+81703,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,15.75,10,1,8,34
+81705,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,9.95,8,1,8,48
+81711,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,1,9,4
+81718,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-05-2010,20900733,BOS,NJN,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.0,20.85,15,1,9,20
+81726,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,19.85,14,1,9,26
+81754,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.65,3,1,9,52
+81764,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,1,10,13
+81772,2010,2009-10,1610612751,New Jersey Nets,201584,Courtney Lee,G,SG,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.55,24,1,10,28
+81776,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.4,26.05,21,1,10,46
+81782,2010,2009-10,1610612751,New Jersey Nets,201146,Yi Jianlian,F,PF,02-05-2010,20900733,BOS,NJN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.65,2,1,11,13
+81796,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,1,11,23
+81806,2010,2009-10,1610612751,New Jersey Nets,201572,Brook Lopez,C,C,02-05-2010,20900733,BOS,NJN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,8.85,9,1,11,41

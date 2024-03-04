@@ -1,0 +1,167 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+139927,2013,2012-13,1610612754,Indiana Pacers,203101,Miles Plumlee,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,4,0,29
+139929,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,22.05,18,4,0,36
+139932,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,23.65,26,4,0,44
+139933,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.0,15.45,10,4,1,2
+139944,2013,2012-13,1610612754,Indiana Pacers,203101,Miles Plumlee,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,6.75,13,4,1,39
+139945,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,8.65,6,4,1,54
+139954,2013,2012-13,1610612754,Indiana Pacers,203101,Miles Plumlee,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,4,2,0
+139957,2013,2012-13,1610612754,Indiana Pacers,201965,Jeff Ayres,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,6.75,18,4,2,2
+139972,2013,2012-13,1610612762,Utah Jazz,202379,Jeremy Evans,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.15,3,4,2,20
+140017,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,7.15,15,4,2,58
+140037,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.3,14.35,9,4,3,12
+140044,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.05,24,4,3,28
+140049,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.3,31.75,26,4,3,34
+140053,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.25,1,4,3,50
+140061,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.45,1,4,3,52
+140073,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,4,4,12
+140077,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,4,4,23
+140081,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.85,0,4,4,24
+140086,2013,2012-13,1610612754,Indiana Pacers,203101,Miles Plumlee,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.45,18,4,4,31
+140092,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,21.75,18,4,4,49
+140108,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,4,5,11
+140112,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.85,2,4,5,22
+140113,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.25,1,4,5,41
+140121,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,14.65,9,4,5,45
+140127,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.95,2,4,6,8
+140147,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.75,4,4,6,10
+140182,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.35,16,4,7,17
+140190,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.35,16,4,7,51
+140208,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,6.15,10,4,8,20
+140212,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,29.05,26,4,8,36
+140244,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,12.15,6,4,9,5
+140250,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,9.65,19,4,9,17
+140256,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,10.05,6,4,9,38
+140268,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,19.05,19,4,10,5
+140276,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,29.65,26,4,10,21
+140277,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.05,0,4,10,36
+140283,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,4,10,43
+140289,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,7.15,5,4,10,54
+140293,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,4,11,0
+140300,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.45,1,4,11,6
+140306,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.4,21.15,15,4,11,27
+140312,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,4,11,47
+140318,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,12.15,14,4,11,49
+140330,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,41.05,40,3,0,0
+140346,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,3,0,13
+140371,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,3,0,46
+140378,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.55,15,3,0,55
+140399,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,3.85,16,3,1,36
+140414,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,13.05,18,3,2,10
+140423,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,2,45
+140429,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,26.15,26,3,3,0
+140457,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,3,3,28
+140463,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,30.65,27,3,3,43
+140483,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,24.65,19,3,4,8
+140485,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,20.85,18,3,4,33
+140492,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.05,4,3,4,42
+140498,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,4.75,9,3,4,58
+140508,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,28.55,28,3,5,12
+140524,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,18.75,19,3,5,42
+140530,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,3,6,1
+140535,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.65,1,3,6,21
+140546,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,6,24
+140549,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,6.45,11,3,6,25
+140555,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,19.45,16,3,6,31
+140587,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,3.95,1,3,7,10
+140595,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.65,22,3,7,30
+140598,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,3,7,52
+140605,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,8,13
+140617,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,10.85,6,3,8,32
+140642,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,3,8,51
+140646,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,5.35,17,3,9,19
+140656,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.85,0,3,9,42
+140662,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.55,2,3,10,1
+140681,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.25,1,3,10,19
+140690,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,5.65,9,3,10,20
+140701,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,4.75,10,3,10,28
+140718,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,3,10,40
+140739,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,8.35,5,3,11,6
+140748,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,16.85,19,3,11,22
+140757,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,7.25,10,3,11,46
+140770,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,27.45,26,2,0,0
+140771,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,27.25,25,2,0,4
+140774,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,25.55,27,2,0,25
+140806,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,24.75,19,2,1,18
+140816,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,5.25,11,2,1,31
+140820,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,25.55,26,2,1,43
+140823,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.55,6,2,2,3
+140843,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,28.75,26,2,2,42
+140859,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,21.15,25,2,2,58
+140865,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.05,0,2,3,13
+140876,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,9.75,6,2,3,18
+140880,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,6.35,15,2,3,40
+140888,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.85,23,2,3,46
+140901,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,30.45,25,2,4,7
+140905,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,10.55,5,2,4,14
+140914,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,2,4,26
+140917,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,23.35,26,2,4,28
+140920,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.05,17,2,4,42
+140929,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,18.45,18,2,4,53
+140938,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,21.95,17,2,5,17
+140944,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,2,5,35
+140983,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,24.15,18,2,5,50
+140989,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,2,6,8
+140997,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.65,4,2,6,13
+141005,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.85,25,2,6,23
+141009,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,19.45,18,2,6,47
+141013,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,20.65,27,2,6,59
+141023,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,4.25,17,2,7,39
+141031,2013,2012-13,1610612754,Indiana Pacers,203162,Ben Hansbrough,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,31.25,26,2,7,55
+141037,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,5.25,12,2,8,19
+141070,2013,2012-13,1610612754,Indiana Pacers,201970,Sam Young,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,5.25,19,2,8,39
+141072,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,2,8,49
+141083,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,26.05,20,2,8,54
+141093,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,21.95,16,2,9,12
+141114,2013,2012-13,1610612754,Indiana Pacers,203162,Ben Hansbrough,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,26.55,21,2,9,39
+141121,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,20.15,18,2,9,56
+141128,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,7.45,10,2,10,9
+141149,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,3.35,11,2,10,29
+141154,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,2,10,48
+141170,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,8.05,4,2,11,10
+141181,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,24.25,19,2,11,40
+141204,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.15,18,1,0,0
+141207,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,22.25,18,1,0,4
+141216,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.7,15.35,25,1,0,26
+141245,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,6.75,17,1,0,54
+141254,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.45,4,1,1,19
+141258,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.85,3,1,1,37
+141279,2013,2012-13,1610612754,Indiana Pacers,201970,Sam Young,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,1,1,54
+141291,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.35,1,1,2,0
+141297,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,8.55,7,1,2,7
+141303,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.35,25,1,2,23
+141310,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,12.35,16,1,2,37
+141359,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,23.35,18,1,3,7
+141367,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,5.35,9,1,3,13
+141368,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.4,12.65,16,1,3,31
+141373,2013,2012-13,1610612754,Indiana Pacers,101123,Gerald Green,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.55,23,1,3,51
+141378,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,12.95,18,1,4,6
+141387,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.8,25.35,20,1,4,33
+141394,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.45,3,1,4,40
+141435,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.35,15,1,5,5
+141443,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.55,3,1,5,24
+141450,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.45,23,1,5,31
+141458,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,9.65,5,1,5,38
+141463,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,31.55,26,1,5,53
+141474,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.25,23,1,6,0
+141476,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,26.95,26,1,6,16
+141487,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.55,2,1,6,27
+141500,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.55,3,1,6,54
+141506,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.1,20.55,15,1,7,15
+141511,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.95,1,1,7,36
+141526,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,1,7,45
+141531,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-19-2012,21200369,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,1,7,51
+141541,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,12.75,14,1,7,55
+141550,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.35,1,1,8,7
+141553,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,27.65,22,1,8,22
+141564,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,10.25,14,1,8,40
+141570,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-19-2012,21200369,IND,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.55,11,1,9,20
+141586,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,11.05,6,1,9,30
+141590,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,6.15,14,1,9,47
+141598,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.25,17,1,10,3
+141601,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,24.75,20,1,10,25
+141612,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,25.35,20,1,10,39
+141615,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,24.45,26,1,10,54
+141628,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.15,25,1,11,0
+141635,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-19-2012,21200369,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,22.25,18,1,11,5
+141644,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-19-2012,21200369,IND,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.95,8,1,11,27

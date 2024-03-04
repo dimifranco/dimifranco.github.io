@@ -1,0 +1,176 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+152031,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,29.45,27,4,0,0
+152035,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,11.45,7,4,0,6
+152037,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.6,27.05,23,4,0,29
+152041,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.85,1,4,0,37
+152043,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.85,3,4,0,38
+152046,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,6.35,6,4,0,45
+152049,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.85,1,4,0,58
+152056,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,1,44
+152057,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,4.65,22,4,1,48
+152067,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.9,37.05,31,4,2,52
+152068,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.95,1,4,3,24
+152069,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,28.15,25,4,3,48
+152070,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,24.55,26,4,3,55
+152073,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.4,30.15,24,4,4,11
+152075,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.2,5.25,23,4,4,31
+152076,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.7,26.55,25,4,4,58
+152078,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.5,30.45,25,4,5,15
+152082,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,12.95,21,4,5,39
+152087,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,5,54
+152088,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.55,24,4,5,55
+152089,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.55,1,4,6,2
+152094,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.4,19.15,22,4,6,35
+152096,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,21.25,16,4,7,6
+152099,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.15,24,4,7,19
+152102,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.4,18.65,16,4,7,31
+152107,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,21.65,20,4,7,51
+152110,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,20.65,21,4,8,2
+152114,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.05,2,4,8,14
+152118,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,6.15,0,4,8,24
+152120,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.55,1,4,8,36
+152121,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.2,29.95,24,4,8,53
+152123,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,20.15,25,4,9,13
+152128,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.75,23,4,9,31
+152130,2016,2015-16,1610612741,Chicago Bulls,203926,Doug McDermott,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.35,1,4,9,42
+152137,2016,2015-16,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,6.55,1,4,9,46
+152139,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,9.85,4,4,9,47
+152141,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,5.95,22,4,10,20
+152144,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.0,29.45,24,4,10,26
+152148,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,3.65,23,4,10,45
+152151,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,5.55,4,4,11,3
+152153,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.7,16.85,15,4,11,19
+152162,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.4,3.65,19,4,11,44
+152169,2016,2015-16,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,6.65,1,3,0,1
+152170,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,6.15,1,3,0,2
+152176,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.2,6.85,23,3,0,18
+152178,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,6.55,1,3,0,40
+152181,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.7,30.45,25,3,0,48
+152183,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,21.65,19,3,1,1
+152188,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,26.65,21,3,1,20
+152190,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,3,1,35
+152193,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.45,3,3,1,48
+152196,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,30.45,25,3,2,9
+152198,2016,2015-16,1610612741,Chicago Bulls,203926,Doug McDermott,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.75,6,3,2,18
+152200,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,23.55,19,3,2,39
+152208,2016,2015-16,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,22.15,25,3,2,52
+152211,2016,2015-16,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,4.25,22,3,3,5
+152217,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,3,36
+152221,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,26.05,25,3,3,46
+152233,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,4,25
+152235,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.25,17,3,4,41
+152237,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,5.95,1,3,4,58
+152240,2016,2015-16,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.5,27.05,24,3,5,3
+152243,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,5.95,12,3,5,9
+152249,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.5,5.95,13,3,5,28
+152252,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,10.35,5,3,5,43
+152266,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,12.75,17,3,6,12
+152269,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.9,17.65,20,3,6,20
+152273,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.0,21.15,19,3,6,43
+152274,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,17.85,22,3,6,54
+152288,2016,2015-16,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.55,25,3,7,22
+152291,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.85,1,3,7,36
+152294,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,6.85,1,3,7,39
+152297,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,7.35,2,3,7,42
+152299,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,8,6
+152303,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,25.55,24,3,8,17
+152305,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.3,18.15,21,3,8,21
+152308,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,4.65,23,3,8,36
+152311,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.8,17.85,20,3,8,53
+152312,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,22.65,18,3,9,3
+152314,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,18.15,19,3,9,27
+152316,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,17.65,21,3,9,34
+152317,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,6.65,1,3,9,55
+152324,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.3,12.25,8,3,10,28
+152327,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,3.65,13,3,11,5
+152329,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,12.75,18,3,11,30
+152332,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,22.25,18,3,11,40
+152335,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,4.75,15,2,0,0
+152338,2016,2015-16,1610612741,Chicago Bulls,203926,Doug McDermott,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,2.85,23,2,0,14
+152341,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,18.15,15,2,0,29
+152361,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,24.65,19,2,1,2
+152366,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,30.15,25,2,1,26
+152369,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,25.05,20,2,2,8
+152378,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.25,17,2,2,44
+152387,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.2,27.55,24,2,3,5
+152391,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.35,2,2,3,17
+152393,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,21.15,16,2,3,18
+152396,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.4,5.15,16,2,3,43
+152398,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.4,26.25,21,2,4,1
+152404,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,2,4,16
+152407,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.45,0,2,4,17
+152408,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,19.65,24,2,4,33
+152412,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.5,16.85,12,2,4,44
+152414,2016,2015-16,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,9.55,18,2,5,10
+152418,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.9,24.75,19,2,5,16
+152436,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,9.35,4,2,6,0
+152439,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.6,28.65,25,2,6,18
+152443,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,7.85,2,2,6,31
+152457,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,22.75,19,2,6,56
+152458,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,10.35,15,2,7,6
+152461,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,18.35,18,2,7,17
+152462,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.05,1,2,7,47
+152465,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.6,20.15,17,2,8,4
+152469,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.45,0,2,8,20
+152470,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,22.25,24,2,8,32
+152472,2016,2015-16,1610612741,Chicago Bulls,203926,Doug McDermott,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.15,1,2,8,44
+152476,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.3,30.45,25,2,8,50
+152479,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,7.15,1,2,9,1
+152481,2016,2015-16,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,9,18
+152485,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,9,33
+152487,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,10.85,6,2,9,36
+152489,2016,2015-16,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.5,28.95,26,2,9,56
+152491,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,5.45,14,2,10,15
+152493,2016,2015-16,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.8,2.85,23,2,10,43
+152497,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,22.15,18,2,10,55
+152500,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,10.85,13,2,11,8
+152506,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.6,23.05,25,2,11,34
+152509,2016,2015-16,1610612741,Chicago Bulls,203926,Doug McDermott,F,SF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,30.15,24,2,11,42
+152514,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,28.95,24,1,0,0
+152516,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,23.75,19,1,0,7
+152517,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,28
+152520,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.9,22.75,19,1,0,42
+152524,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,27.65,25,1,0,57
+152529,2016,2015-16,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,7.05,7,1,1,11
+152531,2016,2015-16,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.5,4.65,23,1,1,44
+152534,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.8,4.25,14,1,2,5
+152537,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,5.55,19,1,2,21
+152541,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,3.15,11,1,2,35
+152544,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.5,6.85,11,1,2,52
+152545,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.15,16,1,3,12
+152551,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.8,5.25,0,1,3,28
+152554,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.7,5.95,10,1,3,31
+152560,2016,2015-16,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,1,3,43
+152565,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.7,16.85,17,1,3,47
+152566,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,22.15,19,1,4,1
+152567,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,3.75,23,1,4,19
+152569,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,12.25,7,1,4,45
+152575,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.2,28.05,25,1,4,57
+152577,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,11.35,6,1,5,17
+152583,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.35,6,1,5,39
+152587,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.9,26.25,21,1,5,48
+152590,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,20.15,20,1,6,3
+152594,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,11.35,20,1,6,11
+152597,2016,2015-16,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,30
+152598,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.35,23,1,6,47
+152600,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.35,2,1,7,4
+152603,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.1,17.25,19,1,7,6
+152607,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,8.55,13,1,7,22
+152611,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,20.15,17,1,7,31
+152615,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,23.05,17,1,7,43
+152620,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,21.75,16,1,7,56
+152623,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.2,20.85,16,1,8,9
+152627,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.5,8.35,14,1,8,18
+152631,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,10.95,11,1,8,31
+152638,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.4,27.05,21,1,8,53
+152645,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,18.35,18,1,9,22
+152647,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,21.75,17,1,9,40
+152649,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.5,20.65,19,1,9,55
+152651,2016,2015-16,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,9.85,13,1,10,7
+152652,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.95,2,1,10,28
+152654,2016,2015-16,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,17.65,21,1,10,34
+152656,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.85,4,1,10,48
+152659,2016,2015-16,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-10-2015,21500330,CHI,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,5.15,2,1,10,56
+152662,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.4,21.15,18,1,11,11
+152666,2016,2015-16,1610612741,Chicago Bulls,2200,Pau Gasol,C,C,12-10-2015,21500330,CHI,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,21.65,20,1,11,31
+152668,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,12-10-2015,21500330,CHI,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,19.35,21,1,11,44

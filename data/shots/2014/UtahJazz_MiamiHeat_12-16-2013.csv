@@ -1,0 +1,156 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+144296,2014,2013-14,1610612762,Utah Jazz,200839,Mike Harris,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,16.75,16,4,0,19
+144298,2014,2013-14,1610612748,Miami Heat,2427,Roger Mason Jr.,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.75,20,4,0,36
+144300,2014,2013-14,1610612762,Utah Jazz,200839,Mike Harris,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,5.55,6,4,0,49
+144305,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,18.35,15,4,1,0
+144306,2014,2013-14,1610612762,Utah Jazz,200839,Mike Harris,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,8.55,5,4,1,13
+144310,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,23.85,18,4,1,31
+144315,2014,2013-14,1610612762,Utah Jazz,200839,Mike Harris,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.95,19,4,1,42
+144320,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,4,1,55
+144326,2014,2013-14,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,4,2,7
+144345,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.25,23,4,2,30
+144349,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,12.65,18,4,2,37
+144353,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,20.05,18,4,2,56
+144360,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,4,3,10
+144362,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,4,3,25
+144367,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,4,3,42
+144368,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,4,3,59
+144371,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,19.55,21,4,4,19
+144374,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,10.25,17,4,4,34
+144381,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.35,24,4,5,11
+144407,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,12.95,7,4,5,51
+144414,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,4,6,6
+144419,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.75,23,4,6,12
+144441,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,6.75,17,4,6,54
+144451,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.05,6,4,7,24
+144456,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,17.15,17,4,7,34
+144459,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,17.55,18,4,7,50
+144466,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.5,20.85,16,4,8,9
+144481,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,12.45,7,4,8,47
+144499,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,4,9,20
+144500,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,4,9,27
+144504,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,11.35,7,4,9,47
+144507,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,10,6
+144509,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,6.35,23,4,10,16
+144515,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,7.45,4,4,10,52
+144518,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,4,11,10
+144526,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,17.95,24,4,11,26
+144533,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,4,11,50
+144549,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,31.75,29,3,0,0
+144566,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,11.65,11,3,0,19
+144570,2014,2013-14,1610612762,Utah Jazz,201575,Brandon Rush,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,20.35,18,3,0,31
+144575,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,18.35,17,3,0,53
+144588,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,3,1,35
+144600,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,6.15,11,3,1,53
+144604,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,3,2,22
+144606,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.8,6.75,7,3,2,34
+144625,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.75,2,3,2,40
+144631,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,13.55,8,3,3,0
+144638,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,9.35,22,3,3,6
+144668,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,3,4,26
+144674,2014,2013-14,1610612762,Utah Jazz,203197,Diante Garrett,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.4,19.75,14,3,4,33
+144684,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,6.45,7,3,4,56
+144687,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,7.15,23,3,5,6
+144690,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,18.75,18,3,5,34
+144721,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.25,22,3,6,12
+144727,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,6,19
+144732,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,13.55,8,3,6,36
+144763,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,3,7,4
+144768,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,3,7,22
+144772,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,3,7,35
+144777,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.4,22.25,17,3,7,50
+144799,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,19.45,25,3,7,57
+144805,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,14.15,10,3,8,4
+144813,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,8.65,14,3,8,9
+144817,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,3,8,25
+144821,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.35,23,3,8,33
+144823,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,3,8,42
+144828,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,3,8,44
+144832,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.25,24,3,9,0
+144839,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,14.55,15,3,9,17
+144841,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,8.85,8,3,9,26
+144843,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.35,22,3,9,44
+144848,2014,2013-14,1610612762,Utah Jazz,2210,Richard Jefferson,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,3,9,59
+144855,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,3,10,5
+144857,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,6.95,14,3,10,13
+144882,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,3,10,45
+144889,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.85,0,3,11,12
+144898,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.15,25,3,11,22
+144902,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,11,39
+144905,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,16.75,24,3,11,44
+144910,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.65,0,2,0,0
+144915,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.5,32.15,27,2,0,1
+144920,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.25,23,2,0,10
+144923,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,2,0,32
+144925,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,0,55
+144935,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,2,1,23
+144946,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,28.05,26,2,1,28
+144959,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.35,2,2,1,44
+144980,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,2,2,19
+144998,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,2,3,0
+145003,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,6.95,8,2,3,3
+145006,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,2,3,23
+145008,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,2,3,33
+145014,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.9,12.95,8,2,3,35
+145030,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,7.15,2,2,4,7
+145033,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,2,4,34
+145036,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,4,40
+145040,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,10.85,5,2,4,57
+145049,2014,2013-14,1610612762,Utah Jazz,203197,Diante Garrett,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,7.45,24,2,5,15
+145055,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,24.75,19,2,5,35
+145058,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.65,1,2,5,50
+145063,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,30.15,24,2,5,54
+145074,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,17.05,20,2,6,16
+145090,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,22.45,18,2,6,45
+145092,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,2,6,59
+145100,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,6.45,23,2,7,7
+145104,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,14.65,9,2,7,23
+145120,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,2,7,42
+145124,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,10.45,5,2,7,53
+145128,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,12.75,13,2,8,8
+145136,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,27.75,25,2,8,29
+145151,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,5.55,7,2,8,50
+145155,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,2,9,26
+145161,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.45,4,2,9,29
+145167,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.25,22,2,9,43
+145169,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,10,6
+145197,2014,2013-14,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,13.25,9,2,10,57
+145202,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.25,22,2,11,20
+145203,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,2,11,43
+145210,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,6.0,19.85,15,1,0,0
+145227,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,17.65,24,1,0,16
+145234,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,1,0,40
+145242,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.3,22.85,20,1,1,0
+145248,2014,2013-14,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,1,1,6
+145252,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.25,23,1,1,28
+145256,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,7.55,12,1,1,39
+145274,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,9.45,6,1,2,26
+145282,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.15,2,1,2,39
+145306,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,1,2,53
+145309,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,1,3,2
+145310,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.3,12.65,8,1,3,8
+145314,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.45,9,1,3,33
+145315,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,1,3,59
+145323,2014,2013-14,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,1,4,16
+145352,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,22.75,28,1,4,42
+145357,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,11.25,14,1,5,11
+145361,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.35,0,1,5,33
+145369,2014,2013-14,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.45,22,1,5,36
+145372,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,10.55,24,1,6,0
+145377,2014,2013-14,1610612762,Utah Jazz,2210,Richard Jefferson,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,20.85,18,1,6,12
+145393,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,6.95,11,1,6,46
+145398,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,1,7,4
+145429,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,22.45,19,1,7,32
+145457,2014,2013-14,1610612762,Utah Jazz,2210,Richard Jefferson,F,SF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,24.95,25,1,8,9
+145478,2014,2013-14,1610612762,Utah Jazz,2210,Richard Jefferson,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,21.45,24,1,8,40
+145483,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.6,16.45,12,1,8,59
+145487,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.45,23,1,9,10
+145497,2014,2013-14,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,7.15,11,1,9,32
+145501,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,9,45
+145504,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,1,9,48
+145508,2014,2013-14,1610612762,Utah Jazz,2210,Richard Jefferson,F,SF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.85,2,1,9,54
+145511,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,19.45,18,1,10,13
+145522,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,7.75,17,1,10,40
+145524,2014,2013-14,1610612762,Utah Jazz,203504,Trey Burke,G,PG,12-16-2013,21300360,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,18.65,24,1,11,3
+145533,2014,2013-14,1610612762,Utah Jazz,101107,Marvin Williams,F,PF,12-16-2013,21300360,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,11.55,21,1,11,10
+145538,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-16-2013,21300360,MIA,UTA,Made Shot,True,Hook Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,6.15,8,1,11,33

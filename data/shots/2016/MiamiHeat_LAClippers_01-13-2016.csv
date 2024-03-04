@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+109471,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,28.45,26,4,0,0
+109476,2016,2015-16,1610612746,LA Clippers,203912,C.J. Wilcox,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,24.25,21,4,0,4
+109482,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,5.95,4,4,0,26
+109488,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.65,24,4,1,5
+109490,2016,2015-16,1610612748,Miami Heat,2365,Chris Andersen,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.8,30.95,25,4,1,20
+109492,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.35,2,4,1,35
+109496,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.85,1,4,1,39
+109500,2016,2015-16,1610612746,LA Clippers,203912,C.J. Wilcox,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.05,3,4,1,47
+109504,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,5.15,1,4,2,6
+109505,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,22.15,27,4,2,18
+109528,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,31.15,25,4,3,2
+109554,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,11.35,11,4,3,32
+109558,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,7.05,14,4,3,47
+109566,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,8.35,3,4,3,51
+109583,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.85,3,4,4,28
+109587,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.1,21.75,17,4,4,51
+109589,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,5,13
+109619,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,3.15,22,4,5,46
+109625,2016,2015-16,1610612746,LA Clippers,203143,Pablo Prigioni,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.7,4.65,11,4,6,15
+109628,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.5,28.05,25,4,6,36
+109633,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.7,21.15,20,4,6,52
+109644,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.25,19,4,7,24
+109651,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,22.15,18,4,7,34
+109676,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.4,11.45,6,4,8,5
+109685,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.0,31.45,26,4,8,21
+109697,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.8,23.55,18,4,8,39
+109706,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,8,56
+109729,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.05,1,4,9,23
+109735,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.55,1,4,9,35
+109747,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.5,19.15,19,4,9,57
+109753,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,14.95,16,4,10,13
+109781,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,7.85,24,4,10,40
+109784,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,10,54
+109795,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,27.05,27,4,11,0
+109804,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,5.55,0,4,11,21
+109808,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.55,3,4,11,34
+109826,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,23.75,20,3,0,1
+109845,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.85,2,3,0,23
+109859,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.85,1,3,0,41
+109866,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,3.15,22,3,1,10
+109868,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,30.45,26,3,1,27
+109874,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-6.3,19.65,15,3,1,53
+109880,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,9.35,8,3,2,18
+109942,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.35,3,3,3,26
+109948,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.4,20.65,15,3,3,35
+109957,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.85,2,3,3,51
+109988,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,24.55,27,3,4,8
+109995,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.85,1,3,4,23
+110025,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,10.45,5,3,4,53
+110032,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,3,4,58
+110038,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,11.75,12,3,5,14
+110051,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.9,28.45,25,3,5,34
+110053,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,5.95,23,3,5,56
+110058,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,9.35,4,3,6,11
+110066,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,7.35,2,3,6,15
+110074,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,10.35,5,3,6,27
+110105,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.7,10.35,5,3,6,51
+110117,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,9.55,11,3,7,8
+110124,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,30.45,25,3,7,16
+110128,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,31.45,26,3,7,35
+110132,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.85,3,3,7,51
+110136,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,5.95,24,3,8,13
+110141,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.8,5.15,24,3,8,31
+110160,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.9,20.85,19,3,8,56
+110162,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.7,29.65,24,3,9,12
+110172,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.8,13.25,11,3,9,29
+110186,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.35,4,3,9,49
+110192,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,3,9,52
+110200,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.8,19.15,20,3,10,2
+110213,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,31
+110218,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,13.95,25,3,10,39
+110240,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.0,31.45,26,3,11,17
+110243,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,13.25,13,3,11,40
+110263,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,25.25,25,2,0,0
+110269,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.2,15.25,12,2,0,0
+110294,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,2,0,31
+110325,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.05,2,2,0,45
+110332,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,22.15,17,2,1,9
+110338,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,11.75,24,2,1,30
+110363,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.6,10.95,25,2,1,38
+110380,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,9.85,4,2,1,53
+110385,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,12.25,24,2,2,7
+110389,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.7,15.25,15,2,2,21
+110393,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,22.65,18,2,2,42
+110395,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-25.0,8.35,25,2,2,55
+110400,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,3,9
+110403,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,16.25,11,2,3,27
+110406,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.0,7.05,24,2,3,52
+110410,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.9,31.15,25,2,3,58
+110414,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,4,6
+110430,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.55,22,2,4,23
+110435,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.5,23.05,28,2,4,42
+110439,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,21.15,19,2,5,1
+110442,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,6.05,2,2,5,15
+110448,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.8,5.95,23,2,5,29
+110450,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.2,19.65,14,2,5,48
+110454,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,20.35,20,2,6,7
+110460,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.8,27.05,25,2,6,30
+110465,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,13.75,14,2,6,46
+110485,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,19.65,18,2,7,9
+110488,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,3.35,23,2,7,28
+110491,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,51
+110503,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.35,2,2,8,12
+110509,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.25,7,2,8,15
+110520,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,15.35,11,2,8,30
+110541,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.5,10.35,5,2,8,37
+110545,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.2,10.95,6,2,9,2
+110551,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.6,5.55,18,2,9,18
+110554,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.95,5,2,9,35
+110560,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,5.45,19,2,9,47
+110566,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.6,18.65,14,2,10,0
+110581,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,15.25,13,2,10,16
+110602,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.85,3,2,10,28
+110609,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.85,5,2,10,36
+110614,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.6,3.15,24,2,10,50
+110618,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.7,8.35,5,2,10,58
+110641,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,22.25,18,2,11,35
+110647,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.35,4,2,11,50
+110667,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-6.6,57.45,52,1,0,1
+110672,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.85,2,1,0,3
+110677,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,5.45,23,1,0,5
+110679,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.0,14.95,14,1,0,30
+110681,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,1,0,46
+110697,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,26.55,25,1,1,21
+110701,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.25,25,1,1,42
+110709,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,15.25,10,1,1,56
+110713,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,7.05,2,1,2,16
+110751,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.05,1,1,2,49
+110757,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,15.35,16,1,2,56
+110763,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.05,25,1,3,4
+110800,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.7,20.65,19,1,3,23
+110806,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,7.05,3,1,3,35
+110807,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,13.95,8,1,3,51
+110815,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,14.75,17,1,4,3
+110821,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,17.65,12,1,4,22
+110826,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,24.05,20,1,4,27
+110832,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,9.85,8,1,4,48
+110836,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.4,10.35,5,1,5,7
+110842,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.5,5.45,2,1,5,11
+110854,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.8,6.15,3,1,5,32
+110863,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,18.15,16,1,5,46
+110883,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.05,2,1,6,1
+110893,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,25.25,26,1,6,8
+110912,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,9.05,3,1,6,28
+110945,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,10.35,24,1,6,47
+110949,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,6.85,23,1,6,58
+110960,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.9,20.65,15,1,7,36
+110965,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,16.85,16,1,7,56
+110972,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.1,16.35,12,1,8,20
+110983,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,25.25,25,1,8,44
+110995,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,10.85,15,1,9,7
+111006,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.35,2,1,9,28
+111014,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.7,27.65,25,1,9,30
+111023,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,10.45,5,1,9,43
+111030,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.85,4,1,10,5
+111038,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.0,29.95,25,1,10,19
+111046,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,27.55,26,1,10,27
+111058,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.85,3,1,10,39
+111061,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-13-2016,21500586,LAC,MIA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,11,5
+111071,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,5.15,20,1,11,14
+111080,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,4.65,12,1,11,22
+111090,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-13-2016,21500586,LAC,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,7.05,2,1,11,35

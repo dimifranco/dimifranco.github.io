@@ -1,0 +1,162 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+103826,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,29.35,26,4,0,2
+103834,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,30.75,26,4,0,6
+103845,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.75,23,4,0,25
+103848,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.15,1,4,0,27
+103851,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,6.95,7,4,0,28
+103857,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,29.65,25,4,0,37
+103860,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,27.95,24,4,1,7
+103866,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,24.75,19,4,1,18
+103867,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,26.55,24,4,1,33
+103870,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.75,2,4,1,40
+103873,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.75,2,4,2,3
+103875,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,11.95,6,4,2,13
+103880,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,10.45,22,4,2,34
+103928,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.95,22,4,3,56
+103931,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,9.75,13,4,4,19
+103948,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,6.75,18,4,4,37
+103957,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,29.95,26,4,4,53
+103960,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,7.0,19.45,15,4,5,17
+103969,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,13.05,18,4,5,35
+103970,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.45,3,4,5,58
+103979,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,11.65,6,4,6,13
+103981,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,19.05,18,4,6,37
+103986,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.95,24,4,6,59
+103988,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.75,22,4,7,24
+104017,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,22.55,22,4,7,44
+104024,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,25.05,20,4,8,0
+104029,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,6.35,11,4,8,13
+104036,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.65,3,4,8,29
+104038,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,7.45,19,4,8,49
+104057,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,23.35,19,4,9,8
+104069,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.65,23,4,9,37
+104093,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.95,25,4,10,5
+104117,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,14.95,20,4,10,43
+104121,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,30.65,25,4,10,59
+104126,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,25.75,21,4,11,26
+104134,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,15.75,20,4,11,45
+104144,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.95,2,3,0,0
+104168,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.65,2,3,0,6
+104189,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.45,3,3,0,34
+104193,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,3,0,54
+104198,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,13.3,55.65,52,3,1,15
+104205,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,29.95,25,3,1,39
+104206,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,30.75,25,3,2,0
+104245,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.7,12.75,8,3,2,43
+104249,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,17.85,25,3,2,54
+104265,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,7.85,3,3,3,21
+104266,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,9.75,7,3,3,37
+104276,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.1,12.95,16,3,4,22
+104288,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,7.45,8,3,4,39
+104296,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,22.75,25,3,5,11
+104305,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.15,4,3,5,18
+104309,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,6.95,7,3,5,39
+104317,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.75,3,3,5,41
+104325,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,9.65,20,3,5,56
+104356,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,7.15,14,3,6,40
+104361,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,14.15,21,3,6,59
+104369,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,3,7,17
+104375,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,29.45,25,3,7,30
+104380,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,7.85,16,3,7,48
+104399,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,7.15,15,3,8,23
+104403,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,19.45,20,3,8,34
+104407,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,8.55,23,3,8,54
+104417,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,25.35,24,3,9,17
+104420,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,22.75,26,3,9,31
+104433,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.75,1,3,9,49
+104437,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,24.15,22,3,9,50
+104444,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,10.05,19,3,9,58
+104451,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,23.15,24,3,10,16
+104461,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.35,23,3,10,25
+104474,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,23.65,24,3,11,10
+104479,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,20.55,17,3,11,25
+104483,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,3.35,11,3,11,43
+104491,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,27.25,26,2,0,0
+104496,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,7.85,6,2,0,4
+104499,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,25.25,25,2,0,24
+104508,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.2,30.15,25,2,0,33
+104512,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.65,23,2,0,52
+104519,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,29.05,25,2,1,5
+104523,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,2,1,31
+104527,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,8.55,17,2,1,44
+104539,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,2,1,47
+104543,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.75,2,2,2,1
+104545,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.65,3,2,2,3
+104553,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.65,6,2,2,8
+104578,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.95,1,2,2,31
+104582,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.75,1,2,2,46
+104585,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.15,2,2,3,7
+104593,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.95,1,2,3,11
+104606,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,15.95,17,2,3,39
+104615,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.45,24,2,3,52
+104640,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,17.65,19,2,4,23
+104645,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,4.75,14,2,4,44
+104653,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.35,6,2,4,46
+104654,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.65,1,2,5,3
+104658,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.3,18.15,12,2,5,8
+104675,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.75,1,2,5,33
+104680,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,6.15,8,2,5,50
+104694,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,26.65,26,2,6,16
+104696,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.05,23,2,6,38
+104704,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.25,2,2,6,52
+104712,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,25.35,21,2,7,13
+104723,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,2,7,31
+104742,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,14.05,20,2,7,48
+104749,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,23.65,24,2,8,27
+104756,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,9.95,16,2,8,52
+104758,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,7.45,5,2,8,56
+104779,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.55,23,2,9,32
+104786,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.45,2,2,9,39
+104792,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,8.05,9,2,9,57
+104815,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,23.95,26,2,10,42
+104832,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.95,2,2,10,53
+104836,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,16.05,13,2,10,55
+104843,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,13.55,8,2,11,17
+104848,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,9.45,12,2,11,38
+104856,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.8,12.15,25,2,11,40
+104876,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,26.85,24,1,0,0
+104880,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,5.65,14,1,0,0
+104887,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.25,2,1,0,9
+104890,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,19.85,25,1,0,9
+104908,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,1,0,47
+104918,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,5.85,15,1,0,59
+104930,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.75,2,1,1,19
+104934,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,1,1,23
+104940,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.15,2,1,1,49
+104947,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,20.85,21,1,2,29
+104961,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.55,2,1,2,43
+104971,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,17.95,20,1,2,55
+104977,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,1,3,6
+104992,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.25,2,1,3,33
+104995,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.55,2,1,3,45
+105000,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.25,2,1,3,51
+105025,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.45,3,1,4,8
+105029,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,26.55,25,1,4,26
+105035,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.05,2,1,4,33
+105044,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.35,10,1,4,39
+105052,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.55,2,1,5,2
+105056,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,22.05,24,1,5,19
+105071,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,11.55,15,1,5,44
+105076,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,5,57
+105081,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.15,2,1,6,15
+105089,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,9.65,15,1,6,27
+105095,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,20.15,20,1,6,42
+105106,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,26.05,25,1,6,49
+105113,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,1,7,12
+105120,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,1,7,24
+105129,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,26.55,23,1,7,35
+105139,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,25.55,24,1,7,46
+105148,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,20.35,20,1,7,58
+105172,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.15,2,1,8,39
+105181,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,21.95,17,1,8,46
+105193,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,21.25,20,1,8,58
+105196,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,21.65,20,1,9,24
+105205,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,25.55,24,1,9,40
+105212,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,24.75,25,1,10,2
+105220,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.95,15,1,10,10
+105225,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,11.05,7,1,10,31
+105230,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,01-15-2011,21000591,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,8.85,13,1,10,45
+105232,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,8.55,7,1,11,0
+105235,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-15-2011,21000591,CHI,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,8.05,10,1,11,16
+105240,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.15,24,1,11,36
+105250,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-15-2011,21000591,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,15.35,15,1,11,41

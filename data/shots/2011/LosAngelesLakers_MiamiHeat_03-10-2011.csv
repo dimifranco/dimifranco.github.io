@@ -1,0 +1,157 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+43207,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.65,25,4,0,3
+43208,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,19.05,19,4,0,10
+43212,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,31.75,28,4,0,20
+43217,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.65,2,4,0,46
+43220,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.25,2,4,1,4
+43224,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,12.95,24,4,1,6
+43228,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.9,18.65,21,4,1,9
+43234,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.55,2,4,1,27
+43237,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.25,2,4,1,45
+43239,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.7,19.85,15,4,1,57
+43240,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,23.05,28,4,2,26
+43241,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.45,2,4,2,50
+43242,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.1,20.85,15,4,2,55
+43244,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,17.85,16,4,3,21
+43246,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.95,2,4,3,47
+43247,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.25,23,4,4,8
+43249,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.45,2,4,4,26
+43251,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.45,2,4,4,42
+43253,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.95,2,4,4,57
+43255,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,8.55,10,4,5,8
+43258,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,6.75,12,4,5,25
+43262,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,22.25,17,4,5,50
+43264,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.15,23,4,6,8
+43266,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,17.95,15,4,6,31
+43267,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.85,3,4,6,51
+43273,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.55,23,4,7,10
+43279,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.4,17.85,14,4,7,35
+43282,2011,2010-11,1610612747,Los Angeles Lakers,2581,Steve Blake,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,22.75,29,4,7,58
+43284,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.75,2,4,8,2
+43290,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.65,2,4,8,29
+43291,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,6.35,3,4,8,48
+43295,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,19.45,20,4,8,50
+43297,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,23.35,18,4,9,1
+43305,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.55,24,4,9,42
+43307,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.85,2,4,10,3
+43311,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,7.75,2,4,10,5
+43312,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.65,1,4,10,12
+43318,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.55,24,4,10,55
+43322,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,27.65,22,4,11,8
+43327,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,7.15,2,4,11,39
+43332,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,10.55,7,4,11,41
+43333,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,19.45,19,3,0,0
+43335,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.05,24,3,0,19
+43337,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,17.65,12,3,0,36
+43340,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,9.95,12,3,0,45
+43343,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.15,2,3,1,0
+43346,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.65,25,3,1,23
+43349,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,5.55,5,3,1,30
+43350,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,4.75,20,3,1,44
+43363,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,10.85,14,3,2,51
+43367,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,18.95,24,3,3,9
+43369,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,20.35,19,3,3,14
+43371,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.3,18.35,14,3,3,33
+43373,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.25,2,3,3,50
+43384,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.45,7,3,4,43
+43386,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.15,2,3,5,1
+43388,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.15,1,3,5,20
+43391,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,16.45,20,3,5,25
+43395,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,21.45,16,3,5,37
+43402,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,20.15,19,3,6,2
+43404,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,3,6,10
+43407,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,20.85,21,3,6,47
+43412,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,18.45,15,3,7,9
+43414,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,7.15,23,3,7,24
+43416,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,26.35,25,3,7,38
+43418,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.25,2,3,7,51
+43422,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.35,24,3,8,9
+43424,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.85,25,3,8,32
+43425,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,3,8,59
+43429,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,8.65,4,3,9,2
+43430,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,12.15,12,3,9,27
+43433,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,17.55,16,3,10,15
+43434,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,15.75,18,3,10,33
+43436,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,16.85,15,3,10,44
+43443,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.2,13.45,8,3,11,11
+43444,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,24.45,25,3,11,29
+43448,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.85,2,2,0,17
+43449,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.85,23,2,0,19
+43450,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.45,2,2,0,37
+43452,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,6.35,8,2,0,39
+43458,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.25,2,2,1,23
+43461,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,14.55,13,2,1,34
+43462,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.45,2,2,1,54
+43474,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.85,2,2,2,38
+43476,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.25,2,2,2,40
+43477,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,7.25,2,2,2,42
+43480,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,18.75,17,2,2,57
+43483,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,2,3,22
+43488,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,22.85,22,2,3,41
+43490,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,15.95,19,2,3,58
+43491,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,22.25,20,2,4,18
+43493,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,6.75,13,2,4,28
+43494,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.55,2,2,4,53
+43497,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,17.85,19,2,5,9
+43499,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,6.45,19,2,5,33
+43505,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,9.45,23,2,5,56
+43514,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.65,4,2,6,31
+43516,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,14.55,13,2,6,33
+43519,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,13.45,12,2,6,52
+43520,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.45,2,2,7,9
+43521,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.6,11.05,8,2,7,12
+43526,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.05,24,2,7,50
+43537,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,7.15,18,2,8,12
+43539,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,30.65,25,2,8,29
+43542,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.45,1,2,8,47
+43545,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.35,15,2,8,49
+43546,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.15,3,2,9,4
+43547,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,6.95,2,2,9,9
+43548,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.6,10.05,5,2,9,11
+43553,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,12.75,8,2,9,41
+43554,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,30.15,24,2,10,4
+43556,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.25,2,2,10,26
+43557,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.25,3,2,10,43
+43558,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.35,25,2,10,54
+43561,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.75,2,2,10,58
+43562,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.25,24,2,11,13
+43566,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,7.45,13,2,11,33
+43569,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,7.25,9,1,0,0
+43571,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.45,4,1,0,7
+43572,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,5.25,23,1,0,29
+43574,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,7.55,14,1,0,43
+43586,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,20.35,24,1,1,32
+43591,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,14.35,9,1,2,13
+43594,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.9,21.05,24,1,2,26
+43596,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,8.05,3,1,2,45
+43606,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,1,2,59
+43608,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,9.35,5,1,3,3
+43609,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.95,2,1,3,22
+43610,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.65,2,1,3,42
+43613,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.95,2,1,3,44
+43616,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Running Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.85,3,1,3,46
+43621,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,15.75,18,1,4,14
+43622,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,12.35,13,1,4,35
+43623,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,4.75,16,1,4,57
+43628,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,10.05,16,1,5,29
+43630,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,6.45,20,1,5,36
+43633,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,25.25,25,1,5,51
+43635,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,1,6,9
+43639,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,24.15,19,1,6,27
+43644,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,11.35,8,1,6,46
+43651,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.75,2,1,7,17
+43653,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,13.25,10,1,7,23
+43658,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,22.25,25,1,8,0
+43660,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.45,2,1,8,26
+43662,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,9.65,4,1,8,33
+43665,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.25,2,1,8,37
+43667,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.75,26,1,9,3
+43669,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,19.45,25,1,9,14
+43670,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,26.85,24,1,9,25
+43671,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,16.75,18,1,9,36
+43681,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.35,19,1,10,1
+43683,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,20.05,26,1,10,17
+43686,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,5.95,23,1,10,40
+43689,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-10-2011,21000964,MIA,LAL,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.95,3,1,10,55
+43690,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,03-10-2011,21000964,MIA,LAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.75,19,1,11,18
+43692,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-10-2011,21000964,MIA,LAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.85,2,1,11,38

@@ -1,0 +1,152 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+147074,2015,2014-15,1610612741,Chicago Bulls,202734,E'Twaun Moore,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,18.35,24,4,0,10
+147090,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,6.15,11,4,0,51
+147121,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,27.75,24,4,1,6
+147128,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,4,1,23
+147130,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,20.65,24,4,1,37
+147131,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,19.45,18,4,1,47
+147135,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,23.55,24,4,2,7
+147141,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,4,2,27
+147145,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,13.05,7,4,2,38
+147146,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,29.85,24,4,3,2
+147150,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,3,26
+147154,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.05,2,4,3,42
+147162,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.75,1,4,3,55
+147164,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,7.25,17,4,4,3
+147174,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,28.85,24,4,4,41
+147179,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,4,4,59
+147183,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.95,23,4,5,16
+147198,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,19.05,24,4,5,29
+147205,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.65,1,4,5,34
+147207,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,18.35,19,4,5,57
+147221,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,13.25,8,4,6,31
+147223,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,26.65,24,4,6,40
+147228,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.6,22.85,17,4,6,51
+147235,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,5.95,7,4,7,9
+147245,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,19.05,13,4,7,41
+147248,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.85,25,4,8,4
+147250,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,22.45,17,4,8,33
+147263,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,22.75,24,4,8,48
+147268,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,4,8,55
+147271,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,25.25,25,4,9,10
+147273,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,4,9,28
+147280,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.25,19,4,9,53
+147287,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.15,25,4,10,7
+147293,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.95,25,4,10,25
+147302,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.35,25,4,10,42
+147317,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,25.35,24,4,11,18
+147325,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.95,3,3,0,2
+147332,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,5.25,11,3,0,24
+147337,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,3,0,44
+147342,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,26.55,24,3,1,0
+147347,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.95,24,3,1,4
+147350,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.95,1,3,1,19
+147359,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,1,40
+147365,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,6.35,17,3,1,49
+147370,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.95,23,3,2,2
+147382,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,11.65,18,3,2,27
+147391,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,7.55,18,3,2,42
+147413,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,29.45,24,3,3,2
+147414,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,22.85,24,3,3,19
+147416,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.35,2,3,3,26
+147418,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,3,3,28
+147424,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,15.35,12,3,3,38
+147432,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,17.05,13,3,3,56
+147440,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,3,4,18
+147447,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,6.15,8,3,4,39
+147451,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,5.25,16,3,5,4
+147469,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,16.25,18,3,5,43
+147475,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,8.05,8,3,5,58
+147488,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,8.25,10,3,6,30
+147499,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.8,21.15,16,3,7,3
+147500,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,3,7,21
+147505,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,3,7,23
+147512,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,17.05,24,3,7,43
+147517,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,20.05,17,3,7,55
+147524,2015,2014-15,1610612748,Miami Heat,200761,Shawne Williams,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,17.35,15,3,8,8
+147527,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,3,8,35
+147535,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.7,12.45,8,3,8,49
+147540,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.8,22.55,17,3,9,1
+147546,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,3,9,15
+147551,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,4.15,17,3,9,35
+147554,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,7.15,16,3,9,52
+147573,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,16.85,16,3,10,30
+147579,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.3,28.75,24,3,10,47
+147581,2015,2014-15,1610612748,Miami Heat,200761,Shawne Williams,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.45,24,3,10,56
+147583,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,13.75,17,3,11,6
+147585,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,17.65,16,3,11,27
+147591,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,5.65,10,3,11,43
+147598,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,28.75,30,2,0,1
+147608,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,11.65,7,2,0,25
+147612,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,6.45,9,2,0,41
+147618,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,7.75,8,2,0,58
+147623,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,2,1,16
+147629,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,7.15,9,2,1,19
+147634,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,2,1
+147638,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.3,14.55,17,2,2,8
+147641,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.95,0,2,2,20
+147655,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,18.65,16,2,2,57
+147669,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,16.25,19,2,3,27
+147671,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,2,3,47
+147676,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,2,3,51
+147680,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,7.15,9,2,3,58
+147695,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,10.45,23,2,4,23
+147700,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,2,4,31
+147710,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.85,2,2,10,8
+147716,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,2,4,46
+147721,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,4,53
+147725,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,5,12
+147735,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,5.05,8,2,5,42
+147741,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,9.95,11,2,5,44
+147757,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,5.55,18,2,6,1
+147762,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,28.75,25,2,6,13
+147766,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,19.75,18,2,6,31
+147769,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,5.65,24,2,7,1
+147772,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,2,7,24
+147775,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.3,15.95,10,2,7,26
+147783,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,8.25,4,2,7,43
+147800,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,4.95,2,2,10,49
+147805,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,2,8,15
+147811,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,4.45,14,2,8,44
+147819,2015,2014-15,1610612748,Miami Heat,200761,Shawne Williams,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.55,25,2,9,5
+147827,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,22.45,25,2,9,28
+147829,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.75,2,2,9,37
+147833,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,23.15,25,2,9,44
+147835,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,27.25,25,2,9,55
+147842,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,2,10,10
+147850,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.25,24,2,10,25
+147857,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.45,1,2,11,27
+147867,2015,2014-15,1610612748,Miami Heat,101122,Danny Granger,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,19.85,24,1,0,1
+147889,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.85,3,1,1,47
+147896,2015,2014-15,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,16.85,16,1,2,8
+147909,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,2,32
+147913,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,11.05,6,1,2,45
+147920,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.95,23,1,3,2
+147928,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,1,3,21
+147931,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,20.05,24,1,3,27
+147941,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,1,3,35
+147948,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,23.15,25,1,3,53
+147973,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.0,15.75,12,1,4,41
+147975,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,15.35,10,1,5,7
+147982,2015,2014-15,1610612748,Miami Heat,200761,Shawne Williams,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,24.25,25,1,5,44
+147986,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.7,14.65,11,1,5,53
+148000,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,11.05,13,1,6,16
+148003,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.45,24,1,6,32
+148018,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,1,7,14
+148027,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,7,48
+148042,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,1,8,7
+148052,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,17.65,12,1,8,25
+148058,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,11.65,10,1,8,29
+148066,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,8.25,4,1,8,40
+148071,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,8.65,6,1,8,51
+148076,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,4.95,1,1,11,23
+148078,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,1,9,17
+148098,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,5.85,15,1,9,50
+148104,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.9,11.65,8,1,10,4
+148110,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,21.15,17,1,10,14
+148112,2015,2014-15,1610612748,Miami Heat,203120,Justin Hamilton,C,C,12-14-2014,21400349,MIA,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,4.95,2,1,10,28
+148118,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.45,2,1,10,31
+148122,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,12-14-2014,21400349,MIA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,10,47
+148129,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.75,25,1,10,53
+148132,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,3.15,13,1,11,40
+148138,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-14-2014,21400349,MIA,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,8.25,5,1,11,4

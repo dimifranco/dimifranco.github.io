@@ -1,0 +1,151 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+197146,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,23.85,25,4,0,25
+197153,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.95,4,4,1,15
+197155,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,8.65,14,4,1,29
+197171,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,8.65,4,4,2,26
+197174,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,8.95,18,4,2,28
+197176,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,26.05,25,4,2,43
+197177,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,4,2,53
+197179,2011,2010-11,1610612743,Denver Nuggets,201814,Gary Forbes,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.15,4,4,2,59
+197182,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,9.75,5,4,3,27
+197183,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.85,3,4,3,46
+197185,2011,2010-11,1610612743,Denver Nuggets,201814,Gary Forbes,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.75,0,4,4,5
+197187,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.75,3,4,4,11
+197189,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,4,4,36
+197190,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,12.45,16,4,4,42
+197196,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,9.45,14,4,5,3
+197208,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,7.85,10,4,5,27
+197209,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.25,3,4,5,50
+197226,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,8.25,23,4,6,13
+197257,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,11.85,20,4,6,48
+197258,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,11.35,6,4,7,12
+197273,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,22.75,20,4,7,42
+197287,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,19.55,17,4,8,13
+197291,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.2,21.15,15,4,8,29
+197322,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,4,9,3
+197353,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,4,10,3
+197359,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.8,6.45,1,4,10,5
+197363,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,15.95,24,4,10,7
+197372,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.05,0,4,10,27
+197379,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,4.95,2,4,10,30
+197390,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,8.25,22,4,10,37
+197401,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,19.45,25,4,11,7
+197408,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,12.35,9,4,11,20
+197419,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,8.95,5,4,11,42
+197449,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.95,25,3,0,3
+197452,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,23.05,25,3,0,9
+197469,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,24.15,24,3,0,29
+197473,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,23.55,21,3,0,36
+197485,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,10.45,11,3,0,58
+197491,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,17.35,25,3,1,11
+197504,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,3,1,25
+197505,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,3,1,45
+197516,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.65,3,3,1,58
+197521,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,3,2,6
+197533,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,7.75,2,3,2,11
+197550,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,18.35,26,3,2,48
+197579,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.95,23,3,3,14
+197581,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.25,3,3,3,25
+197590,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,7.45,24,3,3,40
+197595,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,10.45,5,3,3,57
+197601,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.45,2,3,4,26
+197625,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,13.85,15,3,4,54
+197630,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,3,5,15
+197633,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,20.65,18,3,5,16
+197669,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,3,5,46
+197676,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,5.95,4,3,5,59
+197703,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,24.65,26,3,6,40
+197717,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,23.55,21,3,7,7
+197719,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.35,24,3,7,34
+197727,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,14.55,19,3,7,46
+197733,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.65,25,3,8,0
+197738,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,10.85,14,3,8,11
+197740,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,8.05,18,3,8,32
+197748,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,32.15,26,3,8,37
+197774,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,8.95,4,3,9,1
+197783,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,3,9,17
+197810,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,9,34
+197813,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.55,2,3,9,43
+197844,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,7.75,10,3,10,8
+197850,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,3,10,24
+197857,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,12.75,17,3,10,29
+197869,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.65,2,3,10,37
+197875,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,3,10,45
+197884,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.05,1,3,11,16
+197892,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,7.25,15,3,11,31
+197968,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,2,0,3
+197990,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,23.65,19,2,0,34
+198011,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.75,3,2,1,3
+198012,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,23.85,19,2,1,27
+198021,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,22.05,22,2,1,37
+198046,2011,2010-11,1610612743,Denver Nuggets,2408,Melvin Ely,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.95,2,2,1,51
+198067,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,9.45,9,2,2,9
+198101,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.45,4,2,2,34
+198103,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.05,19,2,2,53
+198114,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,21.25,20,2,3,7
+198165,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,2,3,32
+198168,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,24.45,19,2,3,47
+198221,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.7,31.05,26,2,4,50
+198242,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.3,16.25,11,2,5,5
+198261,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,10.05,5,2,5,25
+198294,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.85,0,2,5,49
+198299,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,18.95,20,2,5,50
+198302,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,9.15,14,2,5,55
+198306,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.95,2,2,6,21
+198318,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,2,6,26
+198321,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,13.45,19,2,6,52
+198339,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,6.45,17,2,7,16
+198344,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,26.15,21,2,7,28
+198350,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.15,1,2,7,37
+198407,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,21.25,19,2,8,30
+198418,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,1,6,37
+198514,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,8.35,3,2,9,19
+198520,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,2,9,38
+198527,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,24.45,25,2,9,39
+198551,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,9.95,19,2,10,10
+198573,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,5.95,4,2,10,37
+198592,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,2,11,26
+198629,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.65,2,1,6,38
+198642,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,11.65,19,1,0,0
+198664,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.3,9.95,5,1,0,7
+198701,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,7.75,22,1,0,38
+198707,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,19.85,24,1,0,47
+198713,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,6.65,17,1,0,54
+198720,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,21.45,19,1,1,17
+198740,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.35,3,1,1,29
+198750,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,1,1,37
+198755,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,21.65,26,1,1,58
+198759,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,10.55,18,1,2,9
+198775,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.55,24,1,2,33
+198823,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,1,3,18
+198828,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.55,17,1,3,32
+198835,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,1,3,56
+198853,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,27.75,25,1,4,21
+198857,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.65,23,1,4,32
+198880,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,22.25,20,1,4,51
+198897,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,14.65,24,1,5,9
+198921,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.1,6.75,22,1,5,29
+198925,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,10.45,14,1,5,44
+198932,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,22.75,18,1,6,4
+198936,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,14.15,18,1,6,16
+198949,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,6,35
+198958,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.15,2,1,6,36
+198962,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,12.75,17,1,6,39
+198981,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.8,5.55,24,1,6,58
+198998,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,1,7,8
+199023,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.1,13.45,8,1,7,38
+199040,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,22.85,26,1,7,47
+199074,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,1,7,59
+199095,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.85,2,1,8,9
+199100,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,1,8,11
+199108,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,20.85,16,1,8,25
+199138,2011,2010-11,1610612743,Denver Nuggets,200749,Shelden Williams,F,PF,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,8.05,17,1,8,38
+199143,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,28.75,25,1,8,48
+199161,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,32.15,27,1,9,13
+199171,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,7.25,24,1,9,46
+199195,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,24.65,20,1,10,5
+199204,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,1,10,19
+199211,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,6.95,12,1,10,34
+199223,2011,2010-11,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,13.05,14,1,10,49
+199243,2011,2010-11,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,10-27-2010,21000014,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,29.45,26,1,11,8
+199260,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,10-27-2010,21000014,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,11.25,18,1,11,37

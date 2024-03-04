@@ -1,0 +1,151 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+179184,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,17.35,24,4,0,13
+179203,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.65,4,4,0,21
+179208,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,4,0,26
+179235,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,12.75,16,4,0,40
+179251,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,4,0,43
+179259,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.75,4,4,1,7
+179277,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,16.85,13,4,1,56
+179285,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.0,27.45,22,4,2,3
+179294,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.55,1,3,2,3
+179302,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.35,0,4,2,11
+179311,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.95,23,4,2,33
+179316,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,4.45,23,4,3,1
+179321,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,17.85,18,4,3,29
+179328,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.35,23,4,3,53
+179334,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.95,0,4,4,15
+179339,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,4,4,16
+179346,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.05,2,4,4,31
+179351,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,4,4,36
+179359,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,5.55,23,4,4,44
+179362,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.3,5.25,0,3,2,35
+179376,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,3,2,53
+179380,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,4,5,29
+179402,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,12.95,24,4,5,55
+179406,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,5.85,15,4,6,17
+179410,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,6,42
+179419,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,7.55,10,4,6,56
+179430,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,10.85,8,4,7,32
+179434,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.35,1,4,7,40
+179440,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,19.45,19,4,7,59
+179446,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,20.45,26,3,3,42
+179451,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,8,29
+179454,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.75,2,4,8,31
+179458,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.35,3,4,8,35
+179469,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,25.25,25,3,3,49
+179473,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.25,0,3,4,10
+179485,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,21.25,24,4,8,45
+179512,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,8.35,6,4,9,38
+179519,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,13.75,19,4,9,47
+179526,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,7.15,16,4,10,10
+179530,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,5.25,12,4,10,23
+179535,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,23.15,25,4,10,51
+179549,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,10.05,8,4,11,11
+179555,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,11,45
+179563,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,10.55,14,3,4,56
+179593,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,3,0,40
+179600,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,3,1,6
+179604,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,17.15,25,3,1,8
+179619,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,7.25,4,3,1,29
+179622,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.45,22,3,1,44
+179626,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.75,23,3,5,25
+179651,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,16.55,21,3,6,1
+179659,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,31.35,26,3,6,14
+179676,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.25,2,3,6,40
+179679,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,8.95,3,3,7,0
+179690,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,17.55,12,3,7,13
+179701,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,6.45,5,3,7,36
+179706,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,15.95,25,3,7,39
+179714,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.05,22,3,7,50
+179719,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.05,4,3,7,58
+179724,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,3,8,11
+179728,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,5.25,12,3,8,17
+179740,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,26.35,25,3,8,38
+179747,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.85,24,3,8,47
+179750,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,6.15,16,3,9,8
+179765,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,19.25,26,3,9,31
+179768,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.05,0,3,9,53
+179772,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.75,0,3,10,0
+179777,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,11.05,10,3,10,4
+179788,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,3,10,20
+179792,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.05,2,3,10,29
+179796,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,6.15,24,3,10,38
+179813,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,26.05,20,3,11,23
+179817,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,19.75,19,3,11,33
+179830,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,9.65,18,2,0,0
+179841,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.35,4,2,0,14
+179855,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,9.65,19,2,0,30
+179859,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,8.95,5,2,0,35
+179861,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.6,11.85,8,2,0,48
+179867,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.9,16.05,11,2,1,1
+179870,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.5,12.45,8,2,1,13
+179879,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,2,1,25
+179884,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,14.95,25,2,1,39
+179887,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.05,1,2,1,57
+179890,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,27.95,22,2,2,13
+179893,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,2,2,41
+179913,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,26.05,21,2,3,8
+179931,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.05,15,2,3,33
+179937,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,4.65,10,2,3,46
+179938,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,12.75,19,2,4,10
+179942,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,31.85,26,2,4,21
+179958,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.65,22,2,4,56
+179975,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,2,5,33
+179984,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.75,0,2,5,46
+179991,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Running Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,7.45,9,2,5,54
+179999,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,23.05,25,2,6,3
+180007,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,2,6,47
+180010,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,18.95,14,2,6,50
+180016,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,22.85,20,2,7,13
+180025,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,23.85,25,2,7,44
+180033,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,20.85,18,2,8,9
+180039,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,2,8,51
+180042,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,17.35,15,2,9,4
+180046,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,2,9,19
+180052,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,2.05,17,2,9,29
+180068,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,2.05,23,2,9,52
+180070,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,21.25,17,2,10,17
+180078,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,21.45,26,2,10,37
+180079,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,2,10,53
+180083,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,5.2,19.85,15,2,11,16
+180091,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,16.55,14,2,11,39
+180109,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,41.05,37,1,0,0
+180111,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,32.85,27,1,0,1
+180114,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,20.85,16,1,0,29
+180119,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.45,23,1,0,48
+180123,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,15.75,17,1,1,10
+180126,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,4.75,16,1,1,25
+180129,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.65,1,1,1,49
+180141,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,22.75,18,1,2,13
+180144,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.65,1,1,2,33
+180152,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Running Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.35,3,1,2,41
+180156,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,1,3,1
+180170,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.65,3,1,3,24
+180176,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,13.85,8,1,3,41
+180191,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,26.05,25,1,4,6
+180196,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,23.15,25,1,4,20
+180198,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,2.55,14,1,4,41
+180203,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,4.95,2,1,4,53
+180209,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,10.05,14,1,5,11
+180214,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,12.15,15,1,5,23
+180217,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,4.95,1,1,5,35
+180220,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,14.15,16,1,5,45
+180229,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,21.45,20,1,6,11
+180235,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-17-2012,21200138,PHX,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,1,6,56
+180239,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,20.35,24,1,7,11
+180240,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,1,7,36
+180269,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.65,1,1,8,11
+180273,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,4.45,16,1,8,14
+180277,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.6,20.35,15,1,8,23
+180284,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.55,3,1,8,32
+180290,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.55,2,1,8,37
+180298,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,26.15,26,1,8,42
+180304,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.95,23,1,8,56
+180309,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,15.65,18,1,9,7
+180320,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,5.65,17,1,9,27
+180338,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,1,10,2
+180348,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,19.45,24,1,10,17
+180353,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,11-17-2012,21200138,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,7.45,24,1,10,26
+180358,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,1,10,36
+180379,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-17-2012,21200138,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,4.95,10,1,11,0
+180388,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-17-2012,21200138,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,11,26

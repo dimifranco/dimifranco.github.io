@@ -1,0 +1,156 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+94957,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,27.65,25,4,0,1
+94985,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,21.65,26,4,0,3
+95077,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,14.65,12,4,0,29
+95086,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,9.45,8,4,0,44
+95100,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,13.05,17,4,0,53
+95109,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.65,23,4,1,18
+95115,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,18.35,17,4,1,40
+95122,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,20.95,18,4,2,1
+95150,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,23.35,26,4,2,39
+95158,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,10.85,17,4,2,58
+95163,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.6,29.65,25,4,3,14
+95170,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,6.15,17,4,3,31
+95173,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,15.15,19,4,3,50
+95185,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,21.65,26,4,4,8
+95193,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,14.15,15,4,4,29
+95201,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,4,32
+95220,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.95,0,4,4,55
+95229,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,4,5,13
+95235,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,4,5,19
+95240,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,4,5,26
+95255,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,29.35,26,4,5,59
+95266,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,4,6,12
+95270,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,6,35
+95310,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,5.85,19,4,7,22
+95323,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,28.55,27,4,7,42
+95328,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,9.65,24,4,7,51
+95352,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.4,9.75,16,4,8,23
+95358,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,4,8,50
+95385,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,7.75,24,4,9,5
+95393,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,21.45,16,4,9,33
+95399,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.45,23,4,9,40
+95414,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,6.75,23,4,9,54
+95416,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,12.75,15,4,10,15
+95430,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,12.75,7,4,10,26
+95441,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,10,46
+95451,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,4,10,48
+95460,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,10.75,14,4,10,57
+95470,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,10.45,9,4,11,22
+95495,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,9.15,11,3,0,0
+95509,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,8.35,7,3,0,20
+95514,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,29.85,26,3,0,34
+95535,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,13.25,8,3,1,16
+95537,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,6.75,19,3,1,48
+95547,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,7.75,24,3,1,55
+95552,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.55,23,3,2,13
+95564,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,7.75,10,3,2,21
+95573,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.65,23,3,2,42
+95615,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,17.85,25,3,3,0
+95625,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.95,6,3,3,17
+95658,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,3,3,41
+95666,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,5.65,8,3,3,47
+95672,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,3,4,2
+95678,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.35,24,3,4,23
+95691,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,6.75,6,3,4,43
+95695,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,3,5,4
+95707,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.85,0,3,5,23
+95711,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.35,7,3,5,30
+95720,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,11.85,19,3,5,45
+95726,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.95,23,3,6,13
+95732,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,6,24
+95737,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,7.15,13,3,6,27
+95743,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,12.35,15,3,6,49
+95759,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,12.45,17,3,7,17
+95765,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,9.35,16,3,7,41
+95777,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,8.05,19,3,7,51
+95785,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,26.55,27,3,8,16
+95794,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,3,8,31
+95804,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,3,8,34
+95810,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,12.95,17,3,8,36
+95817,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,17.35,16,3,8,39
+95820,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,15.35,18,3,9,0
+95827,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,6.75,8,3,9,10
+95853,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,6.75,17,3,9,43
+95855,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,14.35,13,3,10,10
+95868,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,8.25,12,3,10,17
+95875,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,8.55,17,3,10,34
+95885,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,12.75,15,3,10,50
+95901,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,7.45,17,3,11,21
+95907,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.0,16.25,12,3,11,34
+95929,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.3,32.35,27,2,0,0
+95953,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,2,0,28
+95960,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,14.85,19,2,0,37
+95966,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,19.05,21,2,0,57
+95974,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,29.85,25,2,1,4
+95983,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,2,1,14
+95991,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,31.05,26,2,1,20
+95999,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,1,36
+96007,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,6.35,11,2,1,44
+96010,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,7.75,14,2,2,4
+96014,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,2,23
+96023,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,10.75,13,2,3,5
+96038,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,21.65,25,2,3,32
+96059,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,26.95,26,2,4,2
+96070,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,7.45,14,2,4,15
+96073,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.45,23,2,4,40
+96082,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.9,15.15,17,2,4,59
+96085,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,6.35,6,2,5,10
+96093,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.95,20,2,5,18
+96124,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,8.35,16,2,6,5
+96133,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,30.65,27,2,6,29
+96136,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,20.15,18,2,6,50
+96145,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,7,14
+96155,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,15.45,11,2,7,31
+96171,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,20.05,25,2,7,44
+96178,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,7.55,17,2,7,57
+96180,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.15,6,2,8,10
+96205,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,9.45,9,2,8,48
+96215,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.45,23,2,8,58
+96218,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,2,9,19
+96227,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,9,21
+96237,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,20.85,19,2,9,43
+96243,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,2,10,1
+96253,2011,2010-11,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,8.25,9,2,10,19
+96262,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,9.15,14,2,10,33
+96275,2011,2010-11,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,9.45,12,2,10,55
+96278,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,6.65,17,2,11,21
+96300,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,16.25,14,1,0,14
+96318,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.9,31.35,26,1,0,34
+96327,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,1,0,47
+96375,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,1,1,8
+96380,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,6.35,17,1,1,26
+96382,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.85,23,1,1,46
+96387,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.9,24.65,19,1,1,56
+96392,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,11.25,16,1,2,16
+96400,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,29.95,26,1,2,21
+96411,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,19.55,19,1,2,56
+96416,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.85,1,1,3,11
+96426,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,1,3,14
+96443,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,30.75,26,1,3,34
+96445,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,9.75,6,1,4,0
+96459,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.5,19.05,15,1,4,12
+96465,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,1,4,28
+96471,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,1,4,51
+96476,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,1,5,27
+96483,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.3,18.75,14,1,5,33
+96515,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,10.05,5,1,5,57
+96525,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,10.25,24,1,6,15
+96536,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,11.55,16,1,6,48
+96544,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,31.55,26,1,7,11
+96560,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,6.65,9,1,7,21
+96570,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,30.95,27,1,7,34
+96583,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,20.65,18,1,7,43
+96591,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,8.05,9,1,8,6
+96637,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.05,0,1,8,32
+96648,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,6.75,17,1,8,47
+96659,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,1,9,8
+96670,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.85,12,1,9,11
+96673,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,15.35,16,1,9,36
+96684,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,8.35,9,1,9,49
+96688,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2011,21000642,DET,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,18.35,16,1,10,9
+96719,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,10,49
+96733,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.9,13.75,16,1,10,58
+96738,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,5.95,15,1,11,18
+96753,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2011,21000642,DET,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,5.85,5,1,11,41
+96765,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-22-2011,21000642,DET,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.75,22,1,11,47

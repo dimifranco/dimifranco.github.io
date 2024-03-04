@@ -1,0 +1,167 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+15156,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.65,1,4,0,5
+15158,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,4,0,11
+15171,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,10.05,5,4,0,26
+15172,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Bank shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,7.85,10,4,0,47
+15176,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,5.25,15,4,1,2
+15177,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,11.35,8,4,1,26
+15182,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,4.65,24,4,1,40
+15186,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.9,12.75,8,4,2,0
+15187,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,4,2,30
+15194,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.15,2,4,2,43
+15195,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,23.85,21,4,3,9
+15198,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,5.55,15,4,3,26
+15199,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,23.65,20,4,3,47
+15203,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,20.95,25,4,4,16
+15207,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,4,4,38
+15208,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.65,2,4,4,39
+15211,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,23.35,21,4,4,42
+15218,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.95,1,4,4,52
+15220,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,4,4,53
+15230,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.25,2,4,5,33
+15231,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,6.35,13,4,5,54
+15234,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,7.55,10,4,6,12
+15242,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.25,22,4,6,57
+15244,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.75,1,4,7,8
+15250,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,5.7,19.55,15,4,7,15
+15251,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.95,1,4,7,40
+15254,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,20.05,18,4,8,6
+15260,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.15,2,4,8,29
+15266,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,25.25,24,4,8,40
+15267,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,4.75,13,4,9,6
+15276,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.75,2,4,9,40
+15288,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.15,2,4,9,54
+15305,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.8,25.85,20,4,10,39
+15318,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,21.25,16,4,11,22
+15321,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,4,11,39
+15327,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,12.45,7,3,0,2
+15342,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.65,1,3,0,47
+15343,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,14.95,9,3,0,49
+15345,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.35,4,3,0,55
+15346,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,22.25,20,3,1,1
+15358,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.85,26,3,1,40
+15359,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,20.65,21,3,1,49
+15363,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.05,3,3,1,55
+15370,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.15,19,3,2,20
+15382,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,24.15,23,3,2,43
+15385,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,3,2,52
+15387,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,3,3,1
+15390,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.45,2,3,3,13
+15395,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,7.45,13,3,3,18
+15396,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,15.35,16,3,3,45
+15402,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,9.35,5,3,3,58
+15405,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,6.45,10,3,4,22
+15406,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,20.55,15,3,4,38
+15414,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,3,5,10
+15415,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,17.55,12,3,5,12
+15419,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,3,5,39
+15421,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.45,2,3,5,40
+15430,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,18.95,24,3,6,8
+15433,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,12.35,7,3,6,15
+15434,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,4.65,18,3,6,39
+15437,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.25,2,3,6,49
+15439,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,25.55,21,3,7,13
+15442,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,3,7,33
+15443,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,14.05,17,3,7,45
+15448,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,3,8,6
+15451,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.75,1,3,8,13
+15452,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,24.75,21,3,8,27
+15456,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.15,24,3,8,34
+15459,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,5.25,9,3,8,51
+15466,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.25,7,3,9,10
+15468,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.9,17.05,13,3,9,21
+15476,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.25,24,3,9,50
+15482,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,5.25,13,3,9,58
+15483,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,27.15,21,3,10,12
+15486,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,17.55,14,3,10,31
+15487,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,23.35,21,3,10,50
+15490,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,10.45,15,3,11,6
+15491,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.35,2,3,11,24
+15494,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.15,2,3,11,43
+15503,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,-13.6,45.25,42,2,0,1
+15506,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,2,0,4
+15511,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.35,23,2,0,10
+15517,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.75,2,2,0,31
+15518,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,24.95,25,2,0,38
+15521,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,15.35,22,2,0,48
+15534,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,13.45,14,2,1,0
+15537,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.55,2,2,1,23
+15538,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,10.55,15,2,1,29
+15541,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,2.85,17,2,1,39
+15542,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.15,2,2,1,57
+15546,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,4.25,23,2,2,20
+15553,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.15,1,2,2,35
+15558,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,21.65,20,2,2,50
+15563,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,21.75,17,2,3,15
+15567,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.45,1,2,3,26
+15569,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,20.95,16,2,3,27
+15570,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,2,3,49
+15571,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,2,3,51
+15576,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,9.15,3,2,4,13
+15578,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.75,2,2,4,15
+15579,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.45,2,2,4,31
+15582,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,10.45,10,2,4,41
+15587,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.15,2,2,5,10
+15591,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.95,22,2,5,29
+15592,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,2,5,54
+15601,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,8.35,12,2,6,14
+15602,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.95,2,2,6,30
+15606,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,5.55,13,2,6,43
+15616,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.65,2,2,7,0
+15618,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.95,23,2,7,6
+15620,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.15,2,2,7,10
+15623,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.15,2,2,7,21
+15640,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,2,7,36
+15643,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,2,7,44
+15648,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,4.45,19,2,7,50
+15654,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,04-02-2011,21001133,CHI,TOR,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.75,1,2,8,28
+15656,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,4.65,18,2,8,33
+15667,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,4.75,24,2,8,58
+15668,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,5.25,16,2,9,25
+15671,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,2,9,35
+15676,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,5.65,5,2,9,50
+15679,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,3.65,19,2,10,5
+15681,2011,2010-11,1610612761,Toronto Raptors,201949,James Johnson,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.05,5,2,10,24
+15690,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,21.15,16,2,10,43
+15691,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,2,11,4
+15696,2011,2010-11,1610612761,Toronto Raptors,201603,Sonny Weems,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.35,7,2,11,19
+15699,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.9,14.65,10,2,11,37
+15707,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,11.05,5,1,0,1
+15710,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,6.05,1,1,0,6
+15715,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,1,0,10
+15717,2011,2010-11,1610612761,Toronto Raptors,201603,Sonny Weems,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,6.35,23,1,0,29
+15722,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.7,6.05,2,1,0,45
+15725,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,1,1,3
+15738,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.15,2,1,1,43
+15742,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,17.65,19,1,1,47
+15744,2011,2010-11,1610612761,Toronto Raptors,2571,Leandro Barbosa,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.25,23,1,2,9
+15755,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,6.35,15,1,2,35
+15756,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,21.25,20,1,2,43
+15760,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,11.05,5,1,3,8
+15763,2011,2010-11,1610612761,Toronto Raptors,201603,Sonny Weems,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,23.65,18,1,3,34
+15766,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,18.35,19,1,3,57
+15768,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.95,2,1,4,5
+15772,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.95,2,1,4,6
+15774,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,23.05,21,1,4,19
+15787,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,24.45,19,1,4,48
+15792,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,17.35,12,1,5,7
+15812,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,18.45,19,1,5,55
+15817,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.55,19,1,6,18
+15821,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.1,21.15,16,1,6,35
+15826,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,13.75,17,1,6,47
+15830,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.8,6.45,7,1,6,53
+15833,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,21.45,19,1,7,12
+15842,2011,2010-11,1610612761,Toronto Raptors,202334,Ed Davis,F,PF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.8,20.85,16,1,7,38
+15846,2011,2010-11,1610612761,Toronto Raptors,201573,Jerryd Bayless,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,27.75,26,1,7,56
+15855,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,1,8,10
+15859,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,3.95,22,1,8,27
+15865,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,7.15,9,1,8,30
+15877,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.55,24,1,9,2
+15881,2011,2010-11,1610612761,Toronto Raptors,201603,Sonny Weems,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,5.25,9,1,9,9
+15888,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,9.95,13,1,9,39
+15893,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,9.35,18,1,10,6
+15895,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.85,2,1,10,16
+15906,2011,2010-11,1610612761,Toronto Raptors,201603,Sonny Weems,F,SF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,21.75,20,1,10,37
+15938,2011,2010-11,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,1,11,10
+15944,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,04-02-2011,21001133,CHI,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.75,19,1,11,24
+15945,2011,2010-11,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,04-02-2011,21001133,CHI,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,10.85,17,1,11,46

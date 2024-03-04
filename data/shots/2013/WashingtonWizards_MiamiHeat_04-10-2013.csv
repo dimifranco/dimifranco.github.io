@@ -1,0 +1,156 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+9373,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,20.15,24,4,0,3
+9384,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,29.65,27,4,0,7
+9390,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,24.65,26,4,0,10
+9407,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,4,0,18
+9415,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,8.25,5,4,0,19
+9420,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,4,0,31
+9421,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,4,0,53
+9425,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,26.95,27,4,0,56
+9444,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,32.15,27,4,1,43
+9446,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,24.65,25,4,1,53
+9460,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,4,2,12
+9467,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.55,7,4,2,35
+9505,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.0,17.35,25,4,3,5
+9510,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.25,19,4,3,12
+9513,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.15,23,4,3,24
+9515,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.45,1,4,3,58
+9523,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,26.65,24,4,4,12
+9545,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.95,3,4,4,43
+9546,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.85,3,4,4,59
+9570,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,4,5,32
+9577,2013,2012-13,1610612748,Miami Heat,2592,James Jones,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,7.45,24,4,5,38
+9580,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,29.15,28,4,5,58
+9600,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.65,26,4,6,31
+9622,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,7.85,4,4,7,1
+9625,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.55,23,4,7,22
+9627,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.65,4,4,7,41
+9640,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,4,8,27
+9656,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,4,8,48
+9664,2013,2012-13,1610612748,Miami Heat,2592,James Jones,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,9.15,22,4,9,18
+9670,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.75,1,4,9,25
+9674,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.75,23,4,9,36
+9679,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,7.75,5,4,9,51
+9709,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,19.05,25,4,10,28
+9713,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.9,24.65,20,4,10,40
+9718,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.15,1,4,11,4
+9722,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,26.35,26,4,11,24
+9730,2013,2012-13,1610612748,Miami Heat,2592,James Jones,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,9.45,23,4,11,39
+9743,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,27.45,26,3,0,2
+9759,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,3,0,27
+9767,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.65,0,3,0,37
+9776,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,7.85,20,3,0,47
+9786,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.9,18.75,14,3,1,5
+9796,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,34.55,32,3,1,17
+9799,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,11.05,6,3,1,43
+9837,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,3,2,29
+9846,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,6.15,9,3,2,35
+9850,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,6.95,14,3,2,42
+9852,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,9.65,24,3,3,1
+9855,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.0,18.15,26,3,3,22
+9860,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,26.35,25,3,3,39
+9903,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.55,3,3,4,18
+9911,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.25,23,3,4,33
+9917,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.4,30.75,26,3,4,46
+9921,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,3,5,4
+9927,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,14.15,14,3,5,23
+9937,2013,2012-13,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.45,2,3,5,35
+9948,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.4,31.05,26,3,6,7
+9953,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,11.95,24,3,6,34
+9959,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.75,25,3,6,50
+9966,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,3,7,0
+9973,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.65,24,3,7,6
+9976,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,7,28
+9979,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,3,7,47
+9984,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,20.85,16,3,8,9
+9994,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,18.45,19,3,8,20
+10000,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.45,23,3,8,37
+10023,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.65,1,3,9,1
+10036,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,29.05,26,3,9,20
+10043,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.5,20.35,15,3,9,30
+10052,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.25,22,3,9,35
+10060,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,7.25,4,3,9,43
+10066,2013,2012-13,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.45,1,3,9,58
+10075,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,7.25,7,3,10,1
+10081,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.3,18.45,15,3,10,15
+10095,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.65,23,3,10,30
+10105,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,3,11,4
+10111,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,8.65,24,3,11,19
+10113,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,20.05,17,3,11,41
+10135,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,41.15,39,2,0,0
+10138,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,8.55,23,2,0,2
+10144,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,18.65,26,2,0,26
+10152,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.65,1,2,1,8
+10158,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.75,0,2,1,12
+10166,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,-15.4,45.35,42,2,1,34
+10171,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.25,6,2,1,59
+10177,2013,2012-13,1610612764,Washington Wizards,202686,Jan Vesely,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,18.65,13,2,2,3
+10183,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,25.75,26,2,2,20
+10191,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,2,39
+10200,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.55,2,2,2,43
+10245,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.8,32.65,28,2,3,27
+10252,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,8.25,23,2,3,39
+10263,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.7,32.35,27,2,3,50
+10285,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,21.25,16,2,4,10
+10286,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,12.35,10,2,4,28
+10293,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,4,45
+10297,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,7.45,20,2,5,3
+10299,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,17.05,13,2,5,24
+10322,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,2,5,36
+10323,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,30.95,26,2,5,53
+10329,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,10.25,17,2,6,9
+10373,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,22.75,17,2,6,53
+10395,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,10.05,6,2,7,21
+10403,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.55,3,2,7,42
+10409,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.55,23,2,7,55
+10422,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.8,6.45,7,2,8,5
+10441,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,8.65,24,2,8,43
+10449,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,21.25,16,2,8,53
+10455,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.05,0,2,9,5
+10469,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,10.25,5,2,9,27
+10484,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,11.05,19,2,9,51
+10490,2013,2012-13,1610612764,Washington Wizards,202698,Chris Singleton,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,19.45,17,2,9,59
+10494,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,2,10,11
+10501,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.3,20.65,15,2,10,14
+10505,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,8.05,23,2,10,33
+10510,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,28.85,26,2,10,50
+10517,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.3,32.35,27,2,11,9
+10521,2013,2012-13,1610612764,Washington Wizards,201858,Cartier Martin,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,27.75,26,2,11,16
+10528,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,12.35,24,2,11,23
+10546,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,3.85,1,2,11,41
+10559,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.85,3,2,11,44
+10572,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,32.35,27,1,0,1
+10582,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,29.45,29,1,0,35
+10589,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.35,25,1,0,55
+10593,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,14.55,14,1,1,8
+10600,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,10.55,12,1,1,18
+10615,2013,2012-13,1610612764,Washington Wizards,202338,Kevin Seraphin,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.15,4,1,1,53
+10626,2013,2012-13,1610612764,Washington Wizards,201985,AJ Price,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,18.45,25,1,2,17
+10639,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.65,22,1,2,25
+10676,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.85,19,1,3,15
+10686,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,1,3,34
+10700,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.2,16.75,13,1,3,58
+10711,2013,2012-13,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,8.65,6,1,4,4
+10716,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,1,4,20
+10723,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.45,0,1,4,42
+10747,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,32.05,30,1,5,16
+10768,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,1,5,42
+10773,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,6.75,23,1,5,53
+10797,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.65,0,1,6,20
+10804,2013,2012-13,1610612764,Washington Wizards,101110,Martell Webster,F,SF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.85,24,1,6,20
+10818,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,26.55,27,1,6,35
+10821,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,13.55,13,1,6,43
+10856,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,19.05,13,1,7,15
+10859,2013,2012-13,1610612764,Washington Wizards,2403,Nene,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,5.6,19.75,15,1,7,23
+10869,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.0,18.45,26,1,8,4
+10884,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,1,8,35
+10899,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,29.05,26,1,9,10
+10928,2013,2012-13,1610612764,Washington Wizards,2731,Emeka Okafor,C,C,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.8,19.05,14,1,9,39
+10944,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,7.15,16,1,9,57
+10952,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,10,12
+10961,2013,2012-13,1610612764,Washington Wizards,202322,John Wall,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,7.85,16,1,10,17
+10966,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,29.85,29,1,10,38
+10972,2013,2012-13,1610612764,Washington Wizards,202066,Garrett Temple,G,SG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.95,17,1,10,45
+10984,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.65,22,1,10,58
+11001,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,04-10-2013,21201165,WAS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,27.95,26,1,11,36
+11010,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-10-2013,21201165,WAS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,7.55,12,1,11,41

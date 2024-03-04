@@ -1,0 +1,155 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+135565,2011,2010-11,1610612749,Milwaukee Bucks,201972,Jon Brockman,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.65,1,4,0,21
+135589,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,3.85,23,4,0,34
+135614,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.95,23,4,0,51
+135621,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,6.35,3,4,1,11
+135631,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,25.05,25,4,1,17
+135632,2011,2010-11,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.3,23.15,17,4,1,40
+135642,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,4.25,21,4,2,7
+135643,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,5.65,14,4,2,20
+135657,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,6.35,5,4,2,26
+135665,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,6.35,15,4,2,45
+135670,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,20.35,17,4,2,52
+135676,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,3,15
+135680,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,4,3,29
+135682,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.35,0,4,3,31
+135688,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,10.75,8,4,3,43
+135708,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,22.05,26,4,4,6
+135710,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,4,4,21
+135714,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,10.85,21,4,4,47
+135718,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,4,5,13
+135724,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,4,5,35
+135730,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,29.45,26,4,5,59
+135735,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.45,1,4,6,22
+135740,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,22.75,17,4,6,35
+135750,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,8.95,7,4,6,43
+135753,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.95,3,4,7,4
+135758,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,9.45,5,4,7,8
+135779,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,8.35,10,4,7,52
+135786,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,18.15,13,4,8,7
+135794,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,7.85,8,4,8,15
+135800,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.25,23,4,8,37
+135804,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,21.95,25,4,8,56
+135808,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.95,6,4,9,13
+135833,2011,2010-11,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.6,28.25,25,4,10,9
+135835,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,4.75,12,4,10,31
+135838,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,8.65,3,4,10,51
+135862,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,9.35,6,4,11,45
+135874,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,13.05,8,3,0,0
+135876,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.75,23,3,0,6
+135893,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,21.45,18,3,0,34
+135896,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,3.65,22,3,0,49
+135906,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,29.65,25,3,1,11
+135908,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,14.05,17,3,1,38
+135926,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.85,3,3,1,54
+135930,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,9.15,8,3,2,17
+135944,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,27.15,26,3,2,56
+135951,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.05,22,3,3,11
+135963,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,5.85,4,3,3,44
+135966,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.75,4,3,3,53
+135967,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.1,28.55,25,3,4,22
+135974,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,20.65,26,3,4,32
+135980,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,8.25,6,3,4,49
+135983,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.15,17,3,5,8
+135989,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,8.65,16,3,5,17
+135994,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,5.25,14,3,5,45
+136000,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.65,16,3,6,12
+136003,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,4.95,6,3,6,34
+136005,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,6,50
+136008,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,9.15,5,3,6,51
+136014,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.15,7,3,7,10
+136031,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,5.35,24,3,7,31
+136037,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,13.45,21,3,7,41
+136039,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,8.35,9,3,7,56
+136066,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.85,7,3,8,33
+136075,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,9.35,14,3,8,49
+136079,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,3,9,12
+136081,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,9,13
+136106,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.6,3.55,13,3,9,48
+136121,2011,2010-11,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.65,5,3,10,19
+136126,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,3,10,41
+136145,2011,2010-11,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,3.65,23,3,11,24
+136147,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,3,11,41
+136157,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,37.55,34,2,0,0
+136177,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,20.85,17,2,0,5
+136201,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,21.75,26,2,0,52
+136204,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,2,1,2
+136208,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,27.75,26,2,1,29
+136211,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.85,23,2,1,44
+136213,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,10.45,9,2,2,4
+136218,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,10.55,5,2,2,22
+136220,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,2,2,40
+136225,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,7.75,17,2,2,46
+136232,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,30.25,26,2,3,15
+136234,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,13.45,12,2,3,32
+136239,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,26.05,27,2,3,44
+136248,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,9.15,5,2,4,9
+136267,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,31.35,26,2,4,35
+136272,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,30.95,26,2,4,45
+136276,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,2,4,58
+136281,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,17.85,12,2,5,19
+136295,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.5,5.85,2,2,5,39
+136297,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,24.25,20,2,6,0
+136299,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.45,19,2,6,16
+136302,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,23.35,18,2,6,30
+136304,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.95,17,2,6,48
+136322,2011,2010-11,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,13.55,12,2,6,59
+136325,2011,2010-11,1610612749,Milwaukee Bucks,1894,Corey Maggette,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,6.45,14,2,7,23
+136329,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,20.65,17,2,7,37
+136333,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,8.05,22,2,7,54
+136336,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,4.25,12,2,8,15
+136344,2011,2010-11,1610612749,Milwaukee Bucks,1894,Corey Maggette,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,5.65,12,2,8,24
+136350,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,21.95,17,2,8,34
+136355,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,24.15,20,2,9,1
+136361,2011,2010-11,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,6.15,7,2,9,18
+136377,2011,2010-11,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.65,1,2,10,8
+136382,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.05,3,2,10,16
+136386,2011,2010-11,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,9.95,7,2,10,26
+136390,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.8,20.55,15,2,10,47
+136396,2011,2010-11,1610612749,Milwaukee Bucks,1894,Corey Maggette,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,5.65,17,2,10,53
+136404,2011,2010-11,1610612749,Milwaukee Bucks,1894,Corey Maggette,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,11,6
+136409,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.8,29.35,26,2,11,31
+136410,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.95,7,2,11,45
+136417,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,12.7,44.95,41,1,0,0
+136419,2011,2010-11,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.55,25,1,0,2
+136430,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,7.75,3,1,0,14
+136435,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,6.75,7,1,0,37
+136436,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,4.75,11,1,0,50
+136441,2011,2010-11,1610612749,Milwaukee Bucks,2400,Drew Gooden,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,1,1,10
+136445,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,8.55,6,1,1,21
+136450,2011,2010-11,1610612749,Milwaukee Bucks,1894,Corey Maggette,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,16.75,19,1,1,33
+136453,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,20.05,17,1,1,49
+136458,2011,2010-11,1610612749,Milwaukee Bucks,2039,Keyon Dooling,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,23.65,19,1,2,9
+136464,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,11.95,16,1,2,21
+136515,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,12.75,15,1,3,9
+136523,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,1,3,31
+136529,2011,2010-11,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,4.75,16,1,3,38
+136530,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,11.55,17,1,4,7
+136537,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,30.95,26,1,4,19
+136544,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,18.95,19,1,4,39
+136549,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.25,5,1,4,58
+136557,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,12.15,9,1,5,20
+136560,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,15.15,15,1,5,42
+136561,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,8.55,9,1,5,54
+136563,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,8.65,9,1,6,12
+136583,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,14.95,13,1,6,41
+136599,2011,2010-11,1610612749,Milwaukee Bucks,201604,Chris Douglas-Roberts,F,SF,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.15,7,1,6,56
+136604,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,1,7,4
+136608,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,1,7,6
+136615,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,9.35,14,1,7,24
+136636,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,17.85,17,1,8,9
+136642,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.5,14.65,9,1,8,28
+136646,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,9.65,4,1,8,40
+136647,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.7,6.65,7,1,8,57
+136653,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,8.05,3,1,9,0
+136659,2011,2010-11,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,29.15,26,1,9,15
+136667,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,5.95,5,1,9,25
+136675,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,20.55,19,1,9,34
+136678,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,6.75,8,1,9,49
+136702,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,14.65,14,1,10,17
+136711,2011,2010-11,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,1,10,34
+136718,2011,2010-11,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,20.85,26,1,10,51
+136724,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,10.85,6,1,11,0
+136735,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,29.05,27,1,11,8
+136742,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-18-2010,21000396,MIL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,9.45,6,1,11,30
+136750,2011,2010-11,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,12-18-2010,21000396,MIL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,16.75,18,1,11,47

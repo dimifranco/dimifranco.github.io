@@ -1,0 +1,153 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+75586,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,27.15,26,4,0,2
+75591,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,6.45,4,4,0,12
+75598,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.3,8.05,21,4,0,31
+75605,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,17.15,24,4,0,40
+75607,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.25,23,4,1,3
+75615,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,4,1,13
+75618,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,27.45,25,4,1,26
+75621,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,7.55,17,4,2,5
+75625,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,17.65,19,4,2,29
+75639,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,5.95,14,4,3,12
+75651,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.4,29.65,24,4,3,31
+75669,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.95,1,4,4,4
+75674,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,33.25,28,4,4,18
+75678,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,6.15,3,4,5,2
+75702,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.8,18.95,15,4,5,42
+75704,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,2.45,15,4,5,58
+75706,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.85,25,4,6,20
+75708,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.8,15.35,24,4,6,40
+75728,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,7.25,15,4,7,6
+75731,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,3.55,23,4,7,21
+75734,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,4.65,23,4,7,46
+75736,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.45,24,4,8,6
+75744,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.75,24,4,8,28
+75754,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.2,22.05,17,4,9,0
+75760,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,11.35,6,4,9,40
+75765,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,5.55,18,4,10,1
+75789,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,7.45,15,4,10,48
+75794,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,16.85,25,4,11,6
+75800,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.65,4,4,11,16
+75803,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,11.55,15,4,11,18
+75820,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,0,0
+75828,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.35,2,3,0,17
+75831,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.55,3,3,0,18
+75839,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,27.75,25,3,0,39
+75845,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.85,22,3,0,52
+75850,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,7.85,3,3,1,16
+75854,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,9.75,18,3,1,49
+75868,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.25,23,3,2,14
+75870,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,2,42
+75874,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,7.85,20,3,3,12
+75876,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,3,3,25
+75880,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,28.75,25,3,3,41
+75881,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,5.55,18,3,4,3
+75887,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,6.45,16,3,4,16
+75905,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,26.65,26,3,4,42
+75920,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,7.45,17,3,5,3
+75921,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.4,12.35,8,3,5,18
+75931,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,25.75,24,3,5,56
+75935,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,9.75,23,3,6,9
+75944,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,3,6,30
+75946,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,3,6,40
+75963,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,3,6,58
+75969,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,26.95,24,3,7,28
+75973,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,21.25,25,3,7,40
+75980,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,3,7,57
+75983,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,7.85,6,3,8,10
+75989,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,6.95,5,3,8,33
+75994,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,25.85,25,3,8,44
+75998,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.65,25,3,8,53
+76002,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,17.05,25,3,9,13
+76004,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,4.15,18,3,9,27
+76006,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.35,2,3,9,39
+76010,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,6.35,9,3,9,56
+76013,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,20.35,26,3,10,12
+76015,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,17.95,24,3,10,38
+76021,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,29.65,25,3,10,46
+76025,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,6.65,14,3,10,53
+76033,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,3,11,5
+76036,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,20.15,24,3,11,25
+76038,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,11,46
+76057,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,2,0,2
+76061,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.35,24,2,0,4
+76066,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.3,29.85,24,2,0,28
+76077,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,5.95,9,2,0,39
+76082,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.95,22,2,0,52
+76087,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.85,25,2,0,59
+76092,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,2,1,18
+76095,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,29.85,25,2,1,36
+76102,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.3,23.55,18,2,1,58
+76125,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.05,22,2,2,28
+76129,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,2,2,53
+76141,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,11.55,24,2,3,14
+76146,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.75,2,2,3,30
+76149,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,4.75,2,2,3,32
+76154,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.25,2,2,3,40
+76158,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,19.25,17,2,4,0
+76161,2014,2013-14,1610612756,Phoenix Suns,202397,Ish Smith,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,2,4,16
+76167,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,14.15,8,2,4,25
+76186,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,2,5,8
+76188,2014,2013-14,1610612756,Phoenix Suns,202397,Ish Smith,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,9.35,4,2,5,27
+76192,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.55,2,2,5,40
+76212,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.0,15.65,12,2,6,0
+76215,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,2,6,11
+76217,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,2,6,21
+76235,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,2,6,49
+76250,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,27.15,24,2,7,19
+76252,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.45,1,2,7,31
+76256,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,2,7,34
+76265,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,17.05,21,2,7,58
+76272,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,2,8,26
+76277,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,9.65,5,2,8,30
+76297,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.45,24,2,8,49
+76300,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.95,0,2,9,11
+76305,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,9.45,6,2,9,16
+76306,2014,2013-14,1610612756,Phoenix Suns,202397,Ish Smith,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,2,9,35
+76310,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,9.45,5,2,9,41
+76313,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,12.95,18,2,9,56
+76318,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.6,9.75,5,2,10,8
+76321,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,17.85,17,2,10,34
+76340,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,19.45,17,2,11,2
+76348,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.35,24,2,11,28
+76362,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,15.75,25,1,0,0
+76367,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.05,2,1,0,4
+76388,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,21.95,22,1,0,47
+76394,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,1,0,59
+76396,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,20.35,25,1,1,4
+76404,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,20.35,25,1,1,25
+76419,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.35,25,1,1,53
+76432,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.65,2,1,2,19
+76436,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,12.75,24,1,2,21
+76463,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,18.15,24,1,2,56
+76466,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,1,3,14
+76470,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,1,3,34
+76473,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,1,3,37
+76491,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.65,23,1,3,57
+76493,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,3.85,14,1,4,13
+76494,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,1,4,26
+76497,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.45,23,1,4,37
+76501,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,1,4,56
+76510,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,8.25,3,1,5,0
+76515,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,1,5,31
+76519,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,5.25,23,1,5,42
+76523,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-11-2014,21300774,PHX,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.95,0,1,6,7
+76548,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,23.55,24,1,6,55
+76552,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,7.45,13,1,7,3
+76556,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,20.55,25,1,7,23
+76566,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,1,7,33
+76573,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.75,1,1,7,37
+76600,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,3.65,23,1,8,9
+76609,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,10.85,10,1,8,32
+76613,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,8.95,22,1,8,40
+76618,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.45,23,1,9,1
+76626,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.75,4,1,9,38
+76629,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.15,2,1,9,42
+76641,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,1,10,3
+76645,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.95,25,1,10,15
+76652,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,1,10,25
+76662,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,10.55,5,1,10,37
+76668,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,1,10,49
+76673,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,3.55,17,1,10,58
+76682,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,3.05,13,1,11,10
+76694,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-11-2014,21300774,PHX,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,20.95,25,1,11,42

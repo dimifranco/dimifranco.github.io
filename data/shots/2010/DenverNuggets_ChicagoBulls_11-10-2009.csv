@@ -1,0 +1,172 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+183582,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,7.25,14,4,0,13
+183585,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,33
+183588,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,34
+183590,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.65,22,4,0,37
+183598,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.4,16.25,18,4,1,10
+183600,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,43
+183602,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,56
+183604,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.75,20,4,2,1
+183607,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,24
+183611,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,45
+183618,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,53
+183621,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,3.65,23,4,3,16
+183627,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,25.35,20,4,3,49
+183634,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,8.05,14,4,4,2
+183639,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,15.35,12,4,4,13
+183641,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,21
+183642,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,17.55,19,4,4,43
+183652,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,7.75,20,4,5,8
+183655,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,18.95,18,4,5,30
+183665,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,2
+183666,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,19.45,20,4,6,16
+183669,2010,2009-10,1610612743,Denver Nuggets,2365,Chris Andersen,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,37
+183672,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,39
+183679,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,6.45,13,4,7,12
+183683,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,36
+183685,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,13.85,19,4,7,53
+183688,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,25.55,25,4,8,4
+183700,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,32
+183701,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.3,14.95,17,4,8,49
+183706,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,4
+183708,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.65,22,4,9,6
+183713,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.6,30.45,25,4,9,15
+183718,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,25
+183720,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,24.15,20,4,9,27
+183726,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,14
+183728,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,26
+183740,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,0
+183744,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,18
+183750,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,8.05,24,4,11,24
+183755,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.05,25,4,11,27
+183762,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,37
+183765,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,18.75,20,4,11,47
+183772,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,25.25,25,3,0,0
+183783,2010,2009-10,1610612743,Denver Nuggets,2365,Chris Andersen,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,30
+183786,2010,2009-10,1610612743,Denver Nuggets,2365,Chris Andersen,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,30
+183789,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,31
+183792,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,30.75,25,3,0,41
+183797,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,16
+183802,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,42
+183815,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,12.45,9,3,2,1
+183816,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,21
+183819,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,6.35,14,3,2,35
+183832,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,8.85,12,3,2,59
+183835,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,15.45,19,3,3,8
+183836,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,23
+183840,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,25
+183843,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,45
+183848,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,46
+183854,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.45,23,3,3,52
+183856,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,27.75,24,3,4,12
+183867,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,17.95,24,3,4,38
+183877,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,23.85,22,3,4,54
+183880,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,11
+183892,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,55
+183893,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,8
+183910,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.05,23,3,6,42
+183915,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.25,22,3,7,1
+183919,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.65,6,3,7,17
+183922,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,5.35,14,3,7,37
+183926,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,11.25,13,3,7,47
+183929,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.4,20.85,15,3,7,50
+183932,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,5
+183935,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,16
+183936,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,34
+183951,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,23
+183955,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,6.35,17,3,9,37
+183958,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,4.65,19,3,9,50
+183965,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,56
+183968,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,18.95,18,3,10,37
+183971,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,11.25,17,3,11,3
+183974,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,20
+183977,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,11.35,16,3,11,27
+183979,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,15.15,16,3,11,36
+183986,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,30.25,25,2,0,1
+183996,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,16
+184001,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,21.25,21,2,0,23
+184007,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,29.05,27,2,0,30
+184009,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,14.55,19,2,0,39
+184011,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,1
+184016,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,13.05,18,2,1,9
+184034,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,51
+184040,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,57
+184042,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,13.45,8,2,1,58
+184052,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,24
+184060,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,23.65,19,2,2,51
+184063,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,25.25,25,2,2,58
+184068,2010,2009-10,1610612743,Denver Nuggets,1853,Anthony Carter,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,17.05,16,2,3,2
+184070,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.05,23,2,3,20
+184073,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,34
+184081,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,42
+184082,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,43
+184100,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,28.55,25,2,4,4
+184111,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,55
+184114,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,57
+184118,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,17.35,20,2,5,9
+184130,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,30.65,25,2,5,50
+184134,2010,2009-10,1610612743,Denver Nuggets,1853,Anthony Carter,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.25,23,2,5,55
+184138,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,13.55,18,2,6,13
+184148,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,32
+184152,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,24.25,19,2,6,39
+184156,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,13.25,21,2,6,49
+184158,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,30.15,25,2,6,59
+184162,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,5.85,17,2,7,4
+184164,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,25
+184171,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,12.65,20,2,7,54
+184173,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,7
+184176,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,11.05,12,2,8,21
+184192,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,16.45,20,2,8,35
+184195,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.65,23,2,8,52
+184199,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.55,17,2,9,3
+184208,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,18.45,20,2,9,28
+184212,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,16.05,18,2,9,35
+184221,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,6.45,17,2,9,50
+184223,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.85,25,2,10,8
+184227,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,6.45,13,2,10,29
+184233,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,54
+184237,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.05,23,2,10,57
+184240,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,20
+184245,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,18.35,20,2,11,27
+184246,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.25,24,2,11,41
+184249,2010,2009-10,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,9.2,62.95,58,1,0,0
+184252,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,1
+184254,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,9
+184259,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,25.35,24,1,0,30
+184260,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,5.25,18,1,0,42
+184261,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,10.05,5,1,0,54
+184262,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,6.45,17,1,1,9
+184263,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.95,22,1,1,28
+184270,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,49
+184278,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,6.35,18,1,2,10
+184281,2010,2009-10,1610612743,Denver Nuggets,2747,JR Smith,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,26
+184290,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,7.75,8,1,2,50
+184293,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,23.55,24,1,2,58
+184296,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.95,23,1,3,2
+184317,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,24
+184319,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,30.25,25,1,4,28
+184324,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,15.95,17,1,4,39
+184330,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,5.65,13,1,5,2
+184340,2010,2009-10,1610612743,Denver Nuggets,1497,Chauncey Billups,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.0,12.35,8,1,5,19
+184342,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,20.55,16,1,5,35
+184344,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.0,14.95,9,1,5,56
+184351,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.95,4,1,6,7
+184355,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,20
+184368,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,15.15,21,1,6,38
+184375,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,15.95,16,1,6,55
+184382,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,11.95,19,1,7,14
+184388,2010,2009-10,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,9.65,23,1,7,21
+184390,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.1,15.15,11,1,7,36
+184392,2010,2009-10,1610612743,Denver Nuggets,2403,Nene,C,C,11-10-2009,20900105,CHI,DEN,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,59
+184398,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,16.05,17,1,8,14
+184401,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,33
+184406,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,20.85,22,1,8,43
+184411,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,8.65,17,1,8,55
+184415,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,7.15,18,1,9,18
+184430,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,26.15,20,1,9,53
+184437,2010,2009-10,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,24.45,21,1,10,5
+184441,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,14.15,15,1,10,31
+184446,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,5.25,13,1,10,54
+184452,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.75,23,1,11,5
+184458,2010,2009-10,1610612743,Denver Nuggets,2546,Carmelo Anthony,F,SF,11-10-2009,20900105,CHI,DEN,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,20
+184463,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-10-2009,20900105,CHI,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,5.65,17,1,11,43

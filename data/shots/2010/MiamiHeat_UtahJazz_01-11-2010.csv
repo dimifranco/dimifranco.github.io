@@ -1,0 +1,159 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+111112,2010,2009-10,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.45,3,4,0,13
+111118,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,22.25,21,4,0,17
+111119,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,22.75,21,4,0,32
+111125,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,29.95,24,4,0,48
+111127,2010,2009-10,1610612762,Utah Jazz,201585,Kosta Koufos,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,12.75,7,4,1,3
+111150,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,29
+111154,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,24.15,24,4,1,38
+111159,2010,2009-10,1610612762,Utah Jazz,201585,Kosta Koufos,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,14.95,9,4,1,50
+111161,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,23.95,24,4,2,11
+111172,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.25,5,4,2,22
+111179,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,27.95,24,4,2,55
+111181,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,3.05,19,4,3,24
+111183,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,35
+111185,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,3.95,18,4,3,49
+111216,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,12.75,17,4,4,52
+111225,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,23.85,24,4,5,0
+111229,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,8.25,7,4,5,12
+111233,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,3.95,12,4,5,28
+111251,2010,2009-10,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,1
+111257,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,26.35,25,4,6,4
+111267,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.95,23,4,6,30
+111272,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.95,25,4,6,46
+111294,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,34
+111307,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.05,23,4,7,40
+111309,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,17.85,21,4,7,51
+111319,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,26.85,25,4,8,7
+111330,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,25.05,19,4,8,37
+111333,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,4.65,16,4,8,46
+111353,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.3,28.85,24,4,9,2
+111354,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.95,1,4,9,23
+111359,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,28.35,25,4,9,46
+111368,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,15.45,17,4,10,17
+111374,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,34
+111385,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.45,23,4,10,45
+111390,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,22.25,17,4,11,6
+111395,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,20.05,18,4,11,13
+111396,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.35,23,4,11,26
+111440,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,4
+111461,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,5.25,21,3,0,32
+111464,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,19.85,25,3,0,44
+111466,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,26.15,25,3,1,6
+111500,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,8.05,4,3,1,50
+111505,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,26.05,24,3,2,9
+111521,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,20.35,24,3,2,56
+111526,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,5.55,24,3,3,20
+111552,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,22.25,25,3,3,54
+111556,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,11
+111559,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,5.95,6,3,4,36
+111563,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,59
+111566,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,11
+111574,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.65,23,3,5,26
+111582,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,36
+111595,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,10.55,9,3,5,48
+111597,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,8
+111599,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,3.55,20,3,6,22
+111619,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,22.05,18,3,7,10
+111626,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,28
+111629,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.05,4,3,7,30
+111641,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,39
+111643,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,13.55,16,3,7,49
+111649,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,11.25,24,3,8,3
+111655,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,24.65,24,3,8,16
+111656,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,41
+111664,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,22.75,20,3,9,4
+111668,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,22.55,17,3,9,28
+111672,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,17.95,17,3,9,38
+111678,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,13.25,23,3,9,43
+111680,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.5,16.85,11,3,10,11
+111692,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,0
+111697,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,24.15,22,3,11,9
+111701,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,22
+111719,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,6.95,11,3,11,43
+111737,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-17.4,53.15,50,2,0,1
+111744,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,5.95,6,2,0,2
+111758,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,8
+111773,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,29
+111779,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,10.85,23,2,0,33
+111781,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,5.85,20,2,0,51
+111784,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,17.55,12,2,1,3
+111788,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.05,23,2,1,34
+111798,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,7.25,5,2,1,52
+111811,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,13
+111815,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,6.35,21,2,2,19
+111820,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.05,4,2,2,28
+111827,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,21.15,17,2,2,52
+111838,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,25.05,24,2,3,2
+111842,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,31
+111845,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,55
+111850,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,10
+111853,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,38
+111858,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,43
+111863,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,8.25,15,2,4,56
+111872,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,19
+111881,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,25.75,24,2,5,38
+111884,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,21.15,18,2,5,44
+111892,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,56
+111901,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,18.15,24,2,6,14
+111931,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,52
+111936,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,9
+111944,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.35,24,2,7,13
+111962,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,29
+111969,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,16.25,18,2,7,38
+111974,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.25,22,2,7,51
+111978,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,13
+111985,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,34
+111991,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,41
+112001,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,21.75,25,2,9,7
+112014,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,40
+112041,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,29.95,25,2,10,6
+112060,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,10.25,6,2,10,27
+112071,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,34
+112075,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,16.45,11,2,10,38
+112078,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.8,29.95,24,2,11,0
+112083,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,20.35,23,2,11,16
+112088,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,21.95,18,2,11,44
+112100,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,14.65,9,1,0,1
+112104,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,26
+112107,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,26
+112122,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,13.75,8,1,0,49
+112129,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,11.85,18,1,1,8
+112131,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,14.55,20,1,1,29
+112141,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,48
+112145,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,49
+112165,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.85,3,1,2,6
+112174,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,10
+112180,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,21.95,18,1,2,25
+112185,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,8.95,9,1,2,35
+112187,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,6.35,20,1,2,56
+112192,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,13.05,16,1,3,24
+112197,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,31
+112199,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,51
+112203,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.05,19,1,4,9
+112216,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,31
+112223,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,36
+112229,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,19.85,17,1,4,49
+112233,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,11
+112236,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,32
+112242,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.05,22,1,5,53
+112247,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,25.55,24,1,6,7
+112255,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,22.25,18,1,6,17
+112262,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.3,27.95,24,1,6,27
+112268,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,40
+112284,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,8
+112293,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,14
+112301,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,18.95,20,1,7,42
+112309,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,21.15,17,1,8,0
+112327,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,11
+112335,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,4.45,21,1,8,38
+112341,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,16.75,24,1,8,59
+112350,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,6
+112373,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,25.05,21,1,9,48
+112376,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-11-2010,20900551,UTA,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,3
+112385,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,13
+112389,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.75,4,1,10,14
+112398,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,4.95,20,1,10,26
+112410,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,01-11-2010,20900551,UTA,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,14
+112420,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.85,3,1,11,24
+112431,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-11-2010,20900551,UTA,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,4.15,17,1,11,45

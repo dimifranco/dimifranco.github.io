@@ -1,0 +1,146 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+57314,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,25.35,24,4,0,15
+57317,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.25,2,4,0,26
+57327,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,4,0,40
+57331,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,2.75,23,4,1,3
+57333,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,10.45,6,4,1,14
+57351,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,4,1,59
+57353,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,17.15,18,4,2,10
+57360,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,21.75,17,4,2,43
+57362,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,24.65,26,4,3,6
+57365,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.65,2,4,3,31
+57369,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.15,3,4,3,44
+57371,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,13.75,18,4,4,6
+57373,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,4,4,26
+57376,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,11.85,11,4,4,44
+57379,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,4.25,18,4,5,1
+57385,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.75,3,4,5,22
+57390,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,20.55,16,4,5,40
+57402,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,4,6,11
+57417,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.1,16.25,25,4,7,10
+57418,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Running Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,29.85,25,4,7,23
+57419,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,11.05,8,4,7,29
+57422,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,16.45,14,4,7,47
+57429,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,5.55,6,4,8,11
+57432,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,4.45,20,4,8,34
+57435,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,4,8,45
+57438,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,3.35,23,4,9,12
+57442,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.65,1,4,9,37
+57443,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,4,9,43
+57448,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,22.45,19,4,9,52
+57451,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,5.85,1,4,10,9
+57454,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,13.85,10,4,10,21
+57463,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,28.35,25,4,11,5
+57466,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.45,24,4,11,20
+57469,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.75,1,4,11,26
+57474,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,-4.8,46.55,41,3,0,0
+57477,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.3,29.15,24,3,0,2
+57479,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,3,0,10
+57483,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.55,16,3,0,45
+57484,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,5.65,20,3,1,13
+57491,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.75,2,3,1,36
+57493,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,27.15,25,3,1,52
+57496,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.05,4,3,1,56
+57500,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,26.55,21,3,2,17
+57510,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,3,2,52
+57518,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,16.55,11,3,3,26
+57521,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.65,2,3,3,47
+57523,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,24.65,20,3,3,57
+57528,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.65,1,3,4,15
+57536,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,3.65,19,3,4,45
+57539,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.55,2,3,4,53
+57542,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,3,4,55
+57550,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,22.75,19,3,5,38
+57554,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.45,2,3,5,52
+57557,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,12.45,20,3,6,5
+57560,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,3,6,36
+57565,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.15,2,3,6,49
+57567,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.25,2,3,7,11
+57576,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.8,6.65,1,3,7,41
+57578,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,26.35,25,3,7,57
+57581,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,6.45,4,3,8,4
+57583,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,8.95,5,3,8,20
+57585,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.25,11,3,8,56
+57589,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,25.25,20,3,9,18
+57592,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,24.45,19,3,9,32
+57594,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,3,10,1
+57598,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,10.55,13,3,10,34
+57601,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,3,10,47
+57603,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.55,2,3,10,50
+57604,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,22.55,19,3,10,53
+57606,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,18.35,13,3,11,13
+57615,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,11.65,13,3,11,44
+57623,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,22.85,20,2,0,0
+57627,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,4.25,20,2,0,18
+57630,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,8.25,12,2,0,35
+57631,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,31.35,26,2,0,53
+57636,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,3.95,19,2,1,3
+57639,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,26.15,25,2,1,16
+57649,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,2,2,9
+57652,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,4.45,22,2,2,22
+57654,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,30.75,25,2,2,38
+57660,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,4.95,14,2,2,55
+57662,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,3.35,23,2,3,15
+57663,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,17.05,18,2,3,37
+57672,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,9.15,6,2,3,58
+57675,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,25.85,26,2,4,16
+57678,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.65,1,2,4,37
+57680,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,19.25,16,2,4,49
+57682,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,7.45,17,2,5,13
+57684,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,23.85,25,2,5,32
+57687,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,3.55,22,2,5,38
+57696,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.65,3,2,5,46
+57698,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,2,5,52
+57700,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.15,25,2,6,11
+57706,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,16.75,14,2,6,50
+57707,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,3.55,19,2,7,9
+57711,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,4.95,1,2,7,16
+57714,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.65,24,2,7,25
+57718,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.85,22,2,7,49
+57720,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,20.85,17,2,8,0
+57721,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.65,1,2,8,16
+57722,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,6.45,15,2,8,33
+57736,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.15,1,2,9,29
+57739,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,13.05,17,2,9,39
+57753,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,14.15,11,2,10,25
+57755,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,2,10,45
+57758,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,9.45,4,2,10,54
+57760,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,2,11,1
+57766,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.35,2,2,11,40
+57770,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.95,1,1,0,0
+57772,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,20.95,17,1,0,4
+57779,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,1,0,40
+57790,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,1,0,54
+57795,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,5.95,20,1,1,6
+57799,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,24.75,21,1,1,12
+57810,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,24.75,25,1,1,41
+57814,2013,2012-13,1610612751,Brooklyn Nets,2743,Kris Humphries,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.45,2,1,2,1
+57821,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,8.55,16,1,2,38
+57824,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,23.05,17,1,2,55
+57829,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,1,3,33
+57831,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,1,3,57
+57835,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,7.15,9,1,4,14
+57839,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,1,4,43
+57842,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,18.75,19,1,4,44
+57850,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.05,1,1,5,25
+57852,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.35,1,1,5,51
+57854,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,1,6,7
+57857,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.2,29.95,25,1,6,20
+57862,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,26.05,24,1,6,37
+57867,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,4.95,1,1,6,45
+57872,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,4.65,17,1,7,12
+57875,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,27.95,24,1,7,31
+57878,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.6,20.55,15,1,7,58
+57884,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,1,8,8
+57890,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,6.45,4,1,8,29
+57894,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,2.75,24,1,8,55
+57897,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,4.25,16,1,9,6
+57902,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,6.15,9,1,9,13
+57906,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,7.15,13,1,9,27
+57912,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,25.85,24,1,9,56
+57914,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.35,15,1,10,13
+57917,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,10,31
+57925,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,20.55,25,1,10,41
+57928,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-02-2013,21200877,CHI,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,1,10,56
+57931,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-02-2013,21200877,CHI,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,1,11,18
+57934,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-02-2013,21200877,CHI,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,1,11,30

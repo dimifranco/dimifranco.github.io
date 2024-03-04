@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+26114,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,30.75,25,4,0,5
+26131,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.15,2,4,0,14
+26133,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.85,25,4,0,15
+26163,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.25,1,4,0,27
+26178,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,4,0,30
+26186,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,4,0,57
+26193,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,26.35,26,4,0,59
+26206,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,5.55,1,4,1,22
+26219,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,5.25,19,4,1,34
+26225,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,4,1,58
+26234,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,24.95,27,4,2,5
+26244,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,5.95,16,4,2,19
+26251,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,23.95,24,4,2,45
+26282,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.85,25,4,3,7
+26289,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.15,1,4,3,15
+26304,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,4,3,32
+26311,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,4,3,43
+26397,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.95,1,4,4,11
+26402,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.35,4,4,4,32
+26408,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,4,4,52
+26415,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,6.95,13,4,4,56
+26455,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,3.15,23,4,5,34
+26475,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,11.05,6,4,5,53
+26483,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,18.95,25,4,6,8
+26484,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.05,1,4,6,26
+26500,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,7.85,5,4,6,39
+26509,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,28.25,25,4,6,46
+26516,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.65,24,4,7,3
+26519,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,8.05,12,4,7,24
+26551,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.95,1,4,7,50
+26557,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,7.25,10,4,7,52
+26570,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,19.45,19,4,8,2
+26598,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,5.85,10,4,8,25
+26605,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,25.55,26,4,8,36
+26608,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,4,8,54
+26621,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,5.55,13,4,9,4
+26635,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.25,24,4,9,20
+26644,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,4,9,27
+26679,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,6.75,5,4,9,46
+26687,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,25.85,24,4,9,50
+26697,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.75,2,4,10,3
+26703,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,6.15,12,4,10,23
+26711,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.35,2,4,10,27
+26725,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,11.55,18,4,10,56
+26733,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,9.75,4,4,10,59
+26769,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,22.25,24,4,11,19
+26784,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,7.45,24,4,11,45
+26813,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.95,1,3,0,1
+26825,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,3,0,16
+26839,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,26.85,24,3,0,38
+26844,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,3,0,53
+26855,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,22.85,24,3,1,14
+26864,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,3,1,25
+26875,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,3,1,43
+26878,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,19.45,18,3,1,44
+26883,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.95,26,3,2,25
+26911,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,3,2,27
+26921,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,7.25,18,3,2,32
+26926,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,5.65,18,3,2,52
+26941,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,22.25,24,3,3,27
+26945,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,3,3,55
+26952,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.65,2,3,4,15
+26968,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,26.65,24,3,4,30
+26977,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,3.95,23,3,4,34
+26988,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.05,16,3,4,38
+27006,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,7.85,8,3,4,56
+27019,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,6.15,23,3,5,32
+27029,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,28.85,26,3,5,43
+27038,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,20.35,16,3,6,4
+27053,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,3,6,26
+27062,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,22.25,24,3,6,31
+27096,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,26.15,20,3,7,5
+27100,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,20.35,17,3,7,18
+27108,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.5,25.75,21,3,7,22
+27145,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.25,2,3,7,45
+27159,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,7.45,15,3,8,5
+27180,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,20.85,19,3,8,43
+27200,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.45,5,3,9,8
+27204,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,3,9,30
+27216,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,8.55,15,3,9,58
+27230,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,3,10,22
+27239,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.45,2,3,10,43
+27246,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.95,23,3,11,6
+27247,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,3,11,30
+27255,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,8.25,5,3,11,36
+27267,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,10.85,21,3,11,42
+27288,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,2,0,1
+27319,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,5.65,15,2,0,25
+27335,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,11.85,6,2,0,28
+27347,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.25,2,2,0,36
+27358,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,5.25,15,2,0,39
+27417,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,2,1,37
+27420,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,8.65,16,2,1,54
+27432,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,2,2,8
+27444,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.95,1,2,2,33
+27453,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,20.55,19,2,2,45
+27456,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.65,2,2,3,11
+27462,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,2,3,38
+27467,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,23.35,20,2,3,55
+27484,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.15,24,2,4,30
+27499,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,9.95,12,2,4,39
+27502,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.45,2,2,5,0
+27517,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,2,5,18
+27524,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.75,2,2,5,20
+27548,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.15,2,2,5,45
+27557,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,2,5,59
+27562,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,2,6,20
+27569,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,12.65,18,2,6,45
+27593,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,7.25,16,2,7,13
+27600,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,23.85,19,2,7,26
+27610,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.2,14.05,9,2,7,41
+27620,2013,2012-13,1610612741,Chicago Bulls,201161,Daequan Cook,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,26.15,24,2,7,58
+27625,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,2,8,21
+27661,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.65,24,2,8,54
+27676,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,3.95,23,2,9,22
+27681,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,6.45,13,2,9,47
+27688,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,4.45,21,2,10,12
+27700,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.95,24,2,10,28
+27704,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.3,17.65,13,2,10,48
+27712,2013,2012-13,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,5.25,14,2,10,59
+27727,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,11.65,20,2,11,19
+27732,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,25.75,25,2,11,45
+27749,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.65,4,1,0,0
+27753,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,1,0,6
+27760,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,1,0,6
+27783,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,24.45,19,1,0,52
+27788,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,1,1,2
+27790,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.35,4,1,1,20
+27832,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,1,1,58
+27844,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,1,2,18
+27847,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,12.65,7,1,2,20
+27896,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,1,2,55
+27904,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.95,22,1,3,9
+27913,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,15.65,13,1,3,16
+27947,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.15,2,1,3,42
+27960,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,30.25,25,1,3,54
+27969,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,23.85,26,1,4,6
+27971,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,1,4,22
+27993,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,1,4,40
+28000,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.35,3,1,4,50
+28004,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,5.55,16,1,5,14
+28017,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-27-2013,21201062,CHI,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.25,2,1,5,51
+28042,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,22.85,25,1,6,15
+28056,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.55,2,1,6,22
+28060,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,22.75,24,1,6,23
+28079,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,23.35,24,1,6,45
+28098,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,24.45,26,1,6,56
+28137,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.95,2,1,7,18
+28139,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,24.25,25,1,7,43
+28191,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,21.75,24,1,8,20
+28203,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.35,2,1,8,36
+28215,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,1,8,39
+28237,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,22.25,18,1,9,2
+28245,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.55,15,1,9,9
+28256,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,23.55,21,1,9,21
+28265,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,19.85,14,1,9,36
+28294,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.5,18.65,15,1,10,3
+28305,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,1,10,20
+28311,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.65,4,1,10,34
+28321,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-27-2013,21201062,CHI,MIA,Made Shot,True,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,1,10,55
+28332,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-27-2013,21201062,CHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,7.55,24,1,11,12
+28351,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-27-2013,21201062,CHI,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,3.65,11,1,11,42

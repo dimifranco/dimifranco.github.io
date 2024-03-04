@@ -1,0 +1,157 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+144991,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,4,0,35
+144992,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,4,0,43
+144995,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,4,0,54
+144998,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,15.75,11,4,1,18
+145007,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,3.95,22,4,1,43
+145009,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.75,6,4,1,49
+145012,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,4,1,56
+145017,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,4,2,3
+145025,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,11.85,23,4,2,8
+145028,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.7,5.85,20,4,2,26
+145033,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,25.25,24,4,2,45
+145036,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,22.25,17,4,2,54
+145052,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.15,22,4,3,29
+145057,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.7,9.35,22,4,3,47
+145077,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.05,22,4,4,22
+145083,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,4,4,39
+145085,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.75,25,4,4,55
+145091,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.15,23,4,5,8
+145100,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,27.75,24,4,5,31
+145104,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.85,24,4,5,51
+145109,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,14.05,24,4,5,59
+145130,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.95,25,4,6,33
+145151,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.15,2,4,7,1
+145176,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,4,7,15
+145201,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,4,7,28
+145213,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,27.25,25,4,7,41
+145223,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,5.85,8,4,7,54
+145225,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,20.35,19,4,8,11
+145255,2011,2010-11,1610612753,Orlando Magic,2047,Quentin Richardson,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.95,3,4,8,27
+145259,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,4,8,33
+145265,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.6,31.75,26,4,8,43
+145268,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,6.65,5,4,9,3
+145282,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.65,22,4,9,29
+145285,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,7.75,9,4,9,42
+145295,2011,2010-11,1610612753,Orlando Magic,2047,Quentin Richardson,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,25.55,23,4,9,48
+145299,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,27.65,24,4,10,12
+145304,2011,2010-11,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,28.85,24,4,10,32
+145309,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,17.85,19,4,10,44
+145311,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.45,7,4,11,1
+145330,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,13.55,13,4,11,31
+145355,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.85,1,3,0,0
+145369,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.85,2,3,0,19
+145375,2011,2010-11,1610612753,Orlando Magic,2047,Quentin Richardson,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,8.05,22,3,0,28
+145382,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,12.15,16,3,0,50
+145386,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,10.05,6,3,1,29
+145412,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,6.95,9,3,1,56
+145419,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.35,2,3,2,12
+145424,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.35,24,3,2,21
+145430,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,5.95,20,3,2,28
+145433,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,22.45,24,3,2,48
+145436,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,12.95,15,3,3,12
+145440,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.75,2,3,3,23
+145448,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.55,23,3,3,31
+145451,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,3,46
+145457,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.25,25,3,4,5
+145478,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.05,23,3,4,41
+145482,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,15.95,24,3,4,52
+145501,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,7.85,4,3,5,16
+145506,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,27.65,25,3,5,28
+145535,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,17.05,17,3,6,6
+145552,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,8.85,5,3,6,38
+145557,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,15.45,16,3,6,56
+145559,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,11.95,17,3,7,27
+145565,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,26.55,21,3,7,48
+145582,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,26.65,24,3,8,19
+145589,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,3,8,47
+145596,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,13.55,9,3,8,50
+145631,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,6.75,5,3,9,28
+145638,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.45,2,3,9,34
+145654,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,3,10,9
+145669,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.35,1,3,10,33
+145675,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,3,10,41
+145678,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,3,11,2
+145686,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,29.35,24,3,11,10
+145693,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.15,24,3,11,25
+145700,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,9.75,12,3,11,42
+145718,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-0.0,86.95,81,2,0,0
+145727,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,10.85,5,2,0,1
+145779,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,2,0,34
+145787,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,23.95,22,2,0,41
+145822,2011,2010-11,1610612753,Orlando Magic,2124,Malik Allen,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,20.85,18,2,1,21
+145830,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,2,1,35
+145835,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.65,2,2,1,36
+145839,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.45,22,2,1,50
+145841,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,7.85,6,2,2,6
+145892,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,2,2,39
+145896,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,15.35,24,2,2,51
+145901,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,3,7
+145916,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,2,3,13
+145919,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,3,13
+145942,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,2,3,44
+145952,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,15.75,18,2,3,50
+145959,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,12.65,17,2,4,1
+145966,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,8.35,4,2,4,9
+145994,2011,2010-11,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,2,4,45
+146044,2011,2010-11,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,2,5,15
+146049,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,14.85,24,2,5,29
+146055,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.35,7,2,5,37
+146058,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,20.85,22,2,5,52
+146061,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.95,1,2,6,10
+146066,2011,2010-11,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,6.35,15,2,6,20
+146074,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,9.15,7,2,6,41
+146101,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,12.15,13,2,7,17
+146105,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,12.75,8,2,7,36
+146109,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.55,24,2,8,1
+146115,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.85,25,2,8,16
+146120,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,11.35,10,2,8,26
+146125,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.4,20.95,15,2,8,44
+146138,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,31.05,27,2,9,0
+146153,2011,2010-11,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.05,2,2,9,48
+146155,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.2,18.95,17,2,10,6
+146159,2011,2010-11,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,29.35,25,2,10,21
+146192,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,22.45,19,2,11,27
+146220,2011,2010-11,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-5.3,66.75,61,1,0,0
+146246,2011,2010-11,1610612753,Orlando Magic,2124,Malik Allen,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,23.35,20,1,0,19
+146254,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,23.65,20,1,0,34
+146277,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,1,1,6
+146306,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,1,1,23
+146315,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.55,6,1,1,37
+146326,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,7.15,4,1,1,51
+146334,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,8.85,4,1,2,1
+146339,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,20.65,24,1,2,13
+146344,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,13.75,12,1,2,24
+146349,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.25,22,1,2,44
+146352,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,18.15,14,1,3,1
+146358,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,13.75,11,1,3,15
+146361,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.9,13.25,16,1,3,33
+146407,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.05,2,1,4,6
+146415,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.55,5,1,4,13
+146420,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.95,0,1,4,35
+146431,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,11.55,7,1,4,42
+146445,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,1,5,0
+146451,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,5.65,4,1,5,10
+146452,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,5.85,12,1,5,21
+146456,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,4.95,1,1,5,35
+146460,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.1,13.25,9,1,5,49
+146469,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,5.95,14,1,6,3
+146476,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,12.95,11,1,6,14
+146481,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,1,6,38
+146488,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.9,6.45,20,1,6,49
+146492,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,15.45,24,1,6,58
+146517,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.95,5,1,7,37
+146530,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.55,3,1,8,6
+146534,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,8,22
+146548,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,23.65,18,1,8,39
+146559,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.25,6,1,8,58
+146568,2011,2010-11,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.8,26.25,24,1,9,10
+146579,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.35,1,1,9,27
+146615,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,1,9,51
+146621,2011,2010-11,1610612753,Orlando Magic,1740,Rashard Lewis,F,SF-PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,1,10,6
+146646,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,17.95,13,1,10,39
+146651,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,10.25,15,1,10,52
+146656,2011,2010-11,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,1,11,12
+146664,2011,2010-11,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,9.45,19,1,11,15
+146673,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-10-2010,21000339,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.85,20,1,11,25
+146691,2011,2010-11,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-10-2010,21000339,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,1,11,41

@@ -1,0 +1,165 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+80013,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,4,0,6
+80015,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,14.05,13,4,0,13
+80016,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-5.6,19.25,15,4,0,20
+80018,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.95,1,4,0,52
+80022,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.2,12.35,8,4,0,54
+80023,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,1,7
+80024,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,4,1,11
+80027,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,6.95,16,4,1,17
+80028,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,4,1,41
+80029,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,15.45,20,4,1,52
+80031,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,20.35,16,4,2,11
+80033,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,24.45,26,4,2,16
+80034,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.15,2,4,2,28
+80036,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,4,3,18
+80037,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,23.05,19,4,3,34
+80038,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,12.35,19,4,3,58
+80040,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,7.25,20,4,4,14
+80041,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,4,4,34
+80044,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,18.45,13,4,4,54
+80048,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,5,17
+80052,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,16.55,11,4,5,31
+80055,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.1,13.85,9,4,5,54
+80058,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.45,1,4,6,13
+80060,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,21.95,21,4,6,27
+80062,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,18.65,18,4,6,47
+80068,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.45,2,4,7,3
+80070,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.45,22,4,7,6
+80071,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,4,7,14
+80072,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.35,10,4,7,22
+80074,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,8.05,16,4,7,33
+80075,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.15,2,4,7,51
+80078,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,17.85,17,4,7,55
+80081,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,31.85,26,4,8,15
+80082,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,18.65,17,4,8,41
+80084,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,6.45,1,4,9,18
+80090,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.1,15.45,25,4,9,4
+80091,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,4,9,20
+80095,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,6.45,22,4,9,23
+80096,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,8.25,8,4,9,42
+80106,2012,2011-12,1610612752,New York Knicks,200779,Steve Novak,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.85,25,4,10,6
+80109,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.95,25,4,10,21
+80112,2012,2011-12,1610612752,New York Knicks,200779,Steve Novak,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,23.85,25,4,10,44
+80113,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,6.35,19,4,11,12
+80118,2012,2011-12,1610612752,New York Knicks,2407,Jared Jeffries,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,4,11,38
+80120,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.15,1,4,11,40
+80129,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,14.7,54.75,51,3,0,0
+80131,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,6.95,15,3,0,0
+80132,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,18.35,13,3,0,14
+80148,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,3,0,49
+80152,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,8.55,9,3,1,2
+80163,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,20.55,24,3,1,34
+80164,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,15.75,17,3,1,48
+80183,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.35,23,3,2,57
+80185,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,8.95,10,3,3,6
+80193,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,27.15,24,3,3,41
+80196,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,9.75,11,3,3,54
+80199,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,10.55,11,3,4,31
+80201,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,12.15,18,3,4,51
+80204,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,18.15,18,3,5,0
+80208,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,18.65,24,3,5,26
+80214,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,14.15,9,3,5,49
+80223,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,15.65,15,3,6,14
+80226,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,13.85,12,3,6,25
+80228,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,19.25,20,3,6,39
+80231,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,22.75,18,3,6,58
+80242,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,7.85,16,3,7,45
+80244,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.3,14.55,16,3,8,0
+80249,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,3,8,25
+80251,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,14.15,16,3,8,33
+80253,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,7.75,17,3,8,41
+80261,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,3,9,21
+80269,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,16.85,20,3,9,36
+80271,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,9.35,6,3,9,44
+80273,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,3,9,56
+80274,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.45,1,3,10,9
+80282,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,12.15,20,3,10,34
+80291,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.65,25,3,11,5
+80297,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.15,24,3,11,18
+80299,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.1,30.15,24,3,11,36
+80301,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,3,11,44
+80306,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.65,18,2,0,0
+80307,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,30.15,27,2,0,9
+80313,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,29.95,24,2,0,35
+80317,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,0,38
+80320,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.35,1,2,0,55
+80322,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.15,0,2,0,57
+80328,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,30.45,25,2,1,6
+80329,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,7.25,24,2,1,33
+80341,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,2,6
+80342,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,2,2,29
+80346,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.85,5,2,2,59
+80351,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,2,3,9
+80352,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,7.55,19,2,3,11
+80363,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.65,1,2,3,55
+80367,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,6.65,22,2,4,1
+80369,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,13.75,9,2,4,9
+80370,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,2,4,23
+80372,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,4,24
+80375,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.4,12.65,9,2,4,31
+80378,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,6.75,10,2,4,45
+80380,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,25.25,25,2,4,55
+80383,2012,2011-12,1610612752,New York Knicks,2747,JR Smith,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,9.65,10,2,5,18
+80390,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,8.55,16,2,5,52
+80396,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.75,1,2,6,18
+80401,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,17.05,18,2,6,34
+80404,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,10.45,7,2,6,43
+80406,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,6.75,17,2,6,47
+80409,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,6.65,11,2,7,0
+80410,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,2,7,22
+80412,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.65,6,2,7,41
+80418,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.65,0,2,8,23
+80428,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,8,38
+80432,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,10.85,23,2,8,45
+80434,2012,2011-12,1610612752,New York Knicks,2407,Jared Jeffries,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,22.85,19,2,9,4
+80435,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,14.35,9,2,9,18
+80441,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,23.65,19,2,9,28
+80449,2012,2011-12,1610612752,New York Knicks,200779,Steve Novak,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,7.85,22,2,10,2
+80450,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,2,10,16
+80454,2012,2011-12,1610612752,New York Knicks,200779,Steve Novak,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.65,23,2,10,32
+80455,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,2,10,46
+80456,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,2,11,0
+80461,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.65,4,2,11,2
+80464,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.45,24,2,11,16
+80467,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.85,0,2,11,37
+80475,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.75,25,1,0,0
+80479,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.0,19.85,14,1,0,11
+80483,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.25,22,1,0,44
+80486,2012,2011-12,1610612752,New York Knicks,1884,Baron Davis,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,11.55,8,1,0,51
+80487,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,1,1,18
+80500,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,1,27
+80504,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,17.05,18,1,1,39
+80507,2012,2011-12,1610612752,New York Knicks,200779,Steve Novak,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,16.45,25,1,1,59
+80510,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.55,25,1,2,21
+80521,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,21.25,18,1,3,11
+80525,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,1,3,28
+80528,2012,2011-12,1610612752,New York Knicks,202391,Jeremy Lin,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,1,3,49
+80530,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,10.85,20,1,3,56
+80537,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.85,0,1,4,19
+80544,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,1,4,43
+80547,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,4,53
+80550,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,1,5,22
+80553,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.45,4,1,5,32
+80558,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,6.05,1,1,5,34
+80559,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,6.15,1,1,5,35
+80563,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,13.25,8,1,5,37
+80569,2012,2011-12,1610612752,New York Knicks,202361,Landry Fields,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,19.45,19,1,6,31
+80573,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.85,18,1,6,40
+80588,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,1,7,35
+80591,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,7,37
+80593,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.4,24.75,20,1,7,53
+80594,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,16.45,18,1,8,5
+80600,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.8,19.65,17,1,8,25
+80615,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,15.35,10,1,9,6
+80619,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.95,1,1,9,13
+80623,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,9,34
+80626,2012,2011-12,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,1,9,39
+80627,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,1,9,54
+80637,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,1,10,7
+80641,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.05,0,1,10,15
+80643,2012,2011-12,1610612752,New York Knicks,2405,Amar'e Stoudemire,F,PF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,8.25,4,1,10,34
+80648,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,8.05,24,1,10,56
+80655,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.55,17,1,11,13
+80656,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,1,11,34
+80657,2012,2011-12,1610612752,New York Knicks,2546,Carmelo Anthony,F,SF,02-23-2012,21100499,MIA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,16.25,18,1,11,44

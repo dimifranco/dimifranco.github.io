@@ -1,0 +1,161 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+109012,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,25.35,25,4,0,0
+109017,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,21.75,24,4,0,15
+109032,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,19.45,14,4,0,38
+109037,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,18.15,25,4,0,43
+109038,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,7.85,4,4,0,49
+109042,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,4,1,8
+109050,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,8.35,7,4,1,11
+109056,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.8,10.25,25,4,1,30
+109073,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.05,23,4,1,58
+109092,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.75,0,4,2,32
+109093,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,3.95,23,4,2,51
+109100,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,27.75,25,4,3,2
+109122,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.8,14.15,24,4,3,31
+109128,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,23.55,26,4,3,37
+109133,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.95,3,4,3,48
+109134,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,4,4,13
+109142,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.15,25,4,4,25
+109149,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,22.05,17,4,4,42
+109152,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,26.95,25,4,5,4
+109159,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.75,2,4,5,23
+109178,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,21.95,17,4,5,57
+109186,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,10.85,9,4,6,15
+109203,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,27.65,25,4,6,40
+109209,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,4,7,29
+109218,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,8.85,4,4,7,40
+109224,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,9.45,4,4,7,49
+109246,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,4,8,23
+109255,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,4,8,25
+109258,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,4,8,27
+109266,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,8.65,4,4,8,44
+109268,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,17.85,18,4,9,2
+109275,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,23.35,18,4,9,13
+109288,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,21.95,16,4,9,26
+109295,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.95,0,4,9,52
+109304,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,11.55,16,4,10,20
+109314,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,10,38
+109334,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.05,1,4,10,47
+109337,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,5.05,5,4,10,48
+109350,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,9.15,4,4,11,7
+109358,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.35,2,4,11,18
+109368,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,10.05,10,4,11,33
+109373,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.85,0,4,11,42
+109386,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,20.65,25,3,0,2
+109394,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,19.75,16,3,0,5
+109396,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,3,0,29
+109400,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,10.85,25,3,0,37
+109405,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,3,0,58
+109410,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,23.35,18,3,1,18
+109415,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.65,0,3,1,36
+109456,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,12.45,19,3,2,14
+109461,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,17.85,17,3,2,31
+109464,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,11.95,17,3,2,54
+109470,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,17.55,16,3,3,3
+109474,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,22.05,19,3,3,21
+109496,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,3,3,46
+109520,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,3,4,5
+109524,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,6.65,18,3,4,7
+109527,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,3,4,38
+109533,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,6.15,12,3,4,58
+109562,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.55,24,3,5,25
+109586,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,3.95,14,3,6,29
+109596,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,18.45,13,3,6,37
+109619,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,33.75,28,3,7,5
+109627,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,4.75,3,3,7,27
+109631,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,3,7,52
+109635,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,3,8,11
+109638,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,15.95,24,3,8,28
+109655,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,9,12
+109666,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,6.15,19,3,9,22
+109669,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.85,7,3,9,39
+109679,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.9,15.65,26,3,10,3
+109688,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,3,10,13
+109690,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,25.05,25,3,10,32
+109699,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,9.65,14,3,10,56
+109705,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,5.55,13,3,11,17
+109714,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,3,11,38
+109720,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.25,2,3,11,42
+109741,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,7.55,4,2,0,0
+109795,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,2,0,34
+109800,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,2,0,40
+109813,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,4.45,17,2,0,51
+109826,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,2,1,0
+109832,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,6.15,19,2,1,9
+109843,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,9.15,6,2,1,18
+109850,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,23.55,18,2,1,35
+109860,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,10.05,24,2,1,52
+109866,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,18.65,24,2,2,16
+109874,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.15,23,2,2,25
+109889,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,13.45,24,2,2,43
+109893,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,6.35,6,2,2,54
+109903,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,2,3,11
+109909,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,2,3,12
+109919,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,2,3,28
+109926,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,18.45,24,2,3,32
+109932,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.75,24,2,3,54
+109936,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,4,13
+109944,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,4,20
+109973,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,15.45,18,2,4,59
+109986,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,16.05,16,2,5,10
+109993,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,27.15,26,2,5,31
+110003,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,5.35,16,2,5,38
+110006,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.75,1,2,5,58
+110012,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,2,6,14
+110015,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,2,6,21
+110022,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,3.35,23,2,6,25
+110027,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,9.75,9,2,6,44
+110047,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,17.85,15,2,7,5
+110055,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,27.95,27,2,7,22
+110065,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.85,22,2,7,47
+110074,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,2,7,58
+110076,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,5.85,4,2,7,59
+110080,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,12.15,17,2,8,12
+110088,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,8.25,8,2,8,27
+110108,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,7.15,4,2,8,53
+110114,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,8.05,8,2,9,6
+110118,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,2,9,26
+110131,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,2,9,48
+110148,2012,2011-12,1610612749,Milwaukee Bucks,202720,Jon Leuer,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.85,2,2,9,57
+110158,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.75,24,2,10,10
+110180,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,11.65,18,2,10,40
+110188,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.65,4,2,10,48
+110192,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,8.35,6,2,11,16
+110202,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,31.25,26,2,11,34
+110230,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,36.95,33,1,0,0
+110236,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,26.85,26,1,0,2
+110240,2012,2011-12,1610612749,Milwaukee Bucks,1536,Stephen Jackson,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,1,0,23
+110243,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.85,0,1,0,32
+110249,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,26.85,22,1,0,49
+110282,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,1,1,6
+110290,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,1,1,8
+110291,2012,2011-12,1610612749,Milwaukee Bucks,1536,Stephen Jackson,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,28.85,25,1,1,9
+110312,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.8,8.25,22,1,1,33
+110318,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.35,24,1,1,51
+110357,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,4.25,19,1,2,35
+110365,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,22.55,25,1,3,12
+110372,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.5,18.65,15,1,3,23
+110381,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,3.95,13,1,3,35
+110412,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,1,4,23
+110420,2012,2011-12,1610612749,Milwaukee Bucks,1536,Stephen Jackson,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,1,4,29
+110425,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.45,1,1,4,31
+110431,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,9.15,3,1,4,43
+110437,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,3.85,12,1,5,5
+110456,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.85,4,1,5,38
+110459,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,3.55,22,1,5,54
+110472,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,14.15,17,1,6,22
+110493,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,3.95,9,1,6,56
+110495,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,7,14
+110507,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,24.75,19,1,7,45
+110514,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,19.05,17,1,8,8
+110519,2012,2011-12,1610612749,Milwaukee Bucks,2733,Shaun Livingston,G,SG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,1,8,25
+110529,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,1,8,50
+110540,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,1,8,54
+110554,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,24.45,25,1,9,13
+110593,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,28.75,25,1,9,31
+110621,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.35,23,1,9,59
+110624,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.85,1,1,10,16
+110668,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,28.85,24,1,10,50
+110679,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.75,25,1,11,12
+110688,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-01-2012,21100319,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.1,12.15,16,1,11,26
+110697,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,02-01-2012,21100319,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,9.95,17,1,11,42

@@ -1,0 +1,150 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+152417,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-15.7,55.85,52,4,0,0
+152423,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,5.55,13,4,0,1
+152435,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.2,5.55,21,4,0,10
+152438,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.5,20.85,15,4,0,22
+152447,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,21.25,16,4,0,38
+152451,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,7.15,5,4,1,0
+152454,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.85,23,4,1,21
+152457,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,28
+152459,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,5
+152466,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,32
+152474,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,8.05,24,4,3,6
+152477,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.35,24,4,3,23
+152479,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,49
+152482,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.25,22,4,4,11
+152486,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,20.85,25,4,4,26
+152488,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,30.65,25,4,4,51
+152491,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.95,23,4,4,58
+152493,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,17.95,19,4,5,17
+152496,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,12.75,7,4,5,33
+152501,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,52
+152505,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,9.15,7,4,5,53
+152509,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,21.25,19,4,6,10
+152511,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,6.15,4,4,6,30
+152513,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,22.55,22,4,6,45
+152520,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,28.05,25,4,7,29
+152524,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,1.4500000000000002,17,4,8,5
+152527,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.5,22.45,18,4,8,41
+152537,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.2,20.55,15,4,9,15
+152543,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.95,4,4,10,0
+152545,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,27
+152547,2010,2009-10,1610612759,San Antonio Spurs,2427,Roger Mason Jr.,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,20.05,18,4,10,34
+152553,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,26.95,25,4,10,52
+152555,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,17.95,19,4,11,11
+152557,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.7,24.45,20,4,11,28
+152559,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,25.75,20,4,11,49
+152565,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,17
+152567,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,6.45,5,3,0,20
+152570,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,9.65,5,3,0,37
+152573,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,29.65,24,3,0,58
+152575,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.85,23,3,1,11
+152578,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,9.35,9,3,1,30
+152580,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,9.45,6,3,1,44
+152583,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,5.25,10,3,1,52
+152586,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,5
+152589,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,6.15,22,3,2,17
+152590,2010,2009-10,1610612759,San Antonio Spurs,2427,Roger Mason Jr.,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,29.95,24,3,2,28
+152592,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.85,23,3,2,37
+152594,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,27.25,25,3,3,23
+152597,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,18.75,24,3,3,46
+152601,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,19
+152605,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,2.55,12,3,4,33
+152610,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,49
+152612,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,28.85,25,3,5,12
+152613,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,9.35,4,3,5,22
+152615,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,44
+152616,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,23.35,19,3,5,45
+152618,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.7,30.15,25,3,5,59
+152619,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,15.65,16,3,6,16
+152626,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,24.15,20,3,7,0
+152630,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,17
+152633,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,12.65,19,3,7,30
+152634,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,6.15,5,3,7,47
+152636,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,9
+152641,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,22
+152645,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,13.25,11,3,8,44
+152655,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,10.75,18,3,9,5
+152657,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,25.05,25,3,9,26
+152659,2010,2009-10,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,24.65,19,3,9,43
+152671,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,11.65,15,3,10,38
+152672,2010,2009-10,1610612759,San Antonio Spurs,2586,Keith Bogans,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,1
+152677,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,13.25,8,3,11,14
+152680,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.05,8,3,11,31
+152688,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,20.85,24,2,0,3
+152690,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,8
+152691,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,31
+152694,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,41
+152695,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,11.55,14,2,0,46
+152697,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,3
+152698,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,15.65,22,2,1,17
+152699,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,46
+152717,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,39
+152718,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.45,25,2,2,55
+152726,2010,2009-10,1610612759,San Antonio Spurs,2586,Keith Bogans,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,14.85,22,2,3,11
+152728,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,7.55,19,2,3,25
+152729,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,18.65,24,2,3,45
+152732,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.05,25,2,4,22
+152735,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,45
+152737,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,22.85,18,2,4,52
+152740,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,4.15,16,2,5,14
+152744,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,34
+152745,2010,2009-10,1610612759,San Antonio Spurs,2586,Keith Bogans,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.75,24,2,5,36
+152748,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,2
+152751,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.15,24,2,6,32
+152758,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,7
+152759,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,21.15,21,2,7,11
+152762,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.95,3,2,7,38
+152763,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,58
+152765,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.3,13.05,22,2,8,7
+152766,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,33
+152780,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,18
+152785,2010,2009-10,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,24.65,25,2,9,41
+152789,2010,2009-10,1610612762,Utah Jazz,201953,Eric Maynor,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,58
+152792,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,25.25,22,2,10,6
+152795,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,4.15,16,2,10,28
+152810,2010,2009-10,1610612762,Utah Jazz,201953,Eric Maynor,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,9.95,6,2,11,18
+152812,2010,2009-10,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,27
+152814,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,21.15,25,2,11,42
+152823,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,44.15,44,1,0,0
+152824,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,8.05,5,1,0,2
+152831,2010,2009-10,1610612762,Utah Jazz,201953,Eric Maynor,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,21.45,16,1,0,29
+152834,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,24.65,24,1,0,41
+152839,2010,2009-10,1610612759,San Antonio Spurs,201588,George Hill,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,7.15,20,1,0,50
+152841,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,27.45,24,1,1,5
+152850,2010,2009-10,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,29.65,24,1,1,24
+152852,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,38
+152853,2010,2009-10,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,12.95,13,1,1,53
+152854,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,11
+152855,2010,2009-10,1610612759,San Antonio Spurs,2427,Roger Mason Jr.,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.65,25,1,2,36
+152861,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,58
+152863,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,59
+152864,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,18
+152867,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,13.75,20,1,3,24
+152869,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,42
+152871,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.2,17.95,13,1,4,2
+152876,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,25.35,20,1,4,27
+152882,2010,2009-10,1610612759,San Antonio Spurs,2427,Roger Mason Jr.,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,11.55,19,1,4,37
+152887,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,8.65,16,1,4,54
+152888,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,15.65,18,1,5,11
+152890,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,23.95,21,1,5,34
+152895,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,10
+152902,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,20.15,16,1,6,25
+152904,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,21.25,16,1,6,37
+152907,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,22.55,20,1,6,44
+152909,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,23.35,20,1,6,56
+152915,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,18
+152916,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,21
+152922,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,47
+152924,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,14.35,18,1,7,58
+152936,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,32
+152938,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.9,20.55,15,1,8,46
+152940,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,18.15,14,1,9,0
+152943,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.5,17.95,12,1,9,17
+152955,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,44
+152958,2010,2009-10,1610612759,San Antonio Spurs,2427,Roger Mason Jr.,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,26.85,21,1,10,1
+152963,2010,2009-10,1610612762,Utah Jazz,200758,Ronnie Brewer,G,SG,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,22.45,20,1,10,17
+152965,2010,2009-10,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,12-07-2009,20900299,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.4,25.25,20,1,10,31
+152980,2010,2009-10,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,12-07-2009,20900299,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,0
+152988,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,12-07-2009,20900299,UTA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,2.45,18,1,11,28
+152990,2010,2009-10,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,12-07-2009,20900299,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.8,21.25,16,1,11,40

@@ -1,0 +1,136 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+27153,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,29.65,26,4,0,0
+27174,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,0,11
+27190,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,19.55,25,4,0,22
+27215,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,4,0,30
+27220,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,12.15,6,4,0,32
+27224,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.45,24,4,2,35
+27255,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,8.55,16,4,1,3
+27263,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,6.35,22,4,1,27
+27282,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.75,20,4,2,8
+27344,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.75,0,4,3,34
+27349,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.05,0,4,3,52
+27355,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.65,23,4,3,58
+27382,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,4,33
+27390,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.75,23,4,4,39
+27405,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,30.75,27,4,4,55
+27408,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,4,5,22
+27414,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,20.95,25,4,5,38
+27424,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,6.15,7,4,5,45
+27428,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.5,16.05,20,4,6,9
+27435,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,26.65,21,4,6,21
+27469,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,24.65,20,4,6,44
+27471,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,4,7,4
+27479,2011,2010-11,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,7,20
+27521,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,4,8,6
+27539,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,6.45,12,4,8,45
+27548,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,9.75,16,4,9,8
+27560,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,9,23
+27565,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,10.05,14,4,9,46
+27572,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,20.85,26,4,10,8
+27579,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.1,31.25,26,4,10,19
+27586,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.65,6,4,10,34
+27615,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,11.65,16,4,11,19
+27618,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.65,3,4,11,43
+27638,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.65,23,3,0,3
+27677,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.45,23,3,1,43
+27686,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,1,50
+27696,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.95,1,3,1,54
+27705,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.85,23,3,2,11
+27730,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,14.65,15,3,2,36
+27744,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,3,3,1
+27752,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,15.15,17,3,3,9
+27758,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,25.35,20,3,3,19
+27765,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,3,3,41
+27766,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,6.75,17,3,4,0
+27794,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.45,23,3,4,42
+27802,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,8.65,11,3,4,58
+27813,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,29.65,27,3,5,17
+27831,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.75,23,3,5,33
+27839,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,7.75,5,3,5,40
+27846,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,6,21
+27872,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,3,6,53
+27877,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,3,7,20
+27906,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,17.05,20,3,7,51
+27915,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,3,8,17
+27993,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,3,9,54
+27997,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,3,9,56
+28009,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,6.65,15,3,10,2
+28016,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,3,10,16
+28040,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,8.55,14,3,10,46
+28042,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,9.45,4,3,11,10
+28051,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,24.45,25,3,11,30
+28057,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,19.05,20,3,11,41
+28072,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.2,31.25,26,2,0,0
+28077,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,0,24
+28097,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,2,1,9
+28104,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,1,31
+28110,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.95,0,2,1,46
+28120,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,7.55,22,2,1,48
+28145,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.65,1,2,4,1
+28174,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.95,23,2,2,35
+28181,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,6.15,7,2,2,57
+28184,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,6.65,9,2,3,15
+28186,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,6.45,20,2,3,41
+28190,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,2,3,58
+28202,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,7.75,19,2,4,20
+28210,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,9.95,18,2,4,37
+28222,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.65,23,2,4,57
+28234,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,2,5,22
+28249,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.8,25.35,20,2,5,34
+28292,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,6,16
+28301,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,13.25,8,2,6,42
+28305,2011,2010-11,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,11.35,17,2,7,4
+28308,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,16.45,17,2,7,13
+28310,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,7,33
+28316,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,17.15,25,2,7,47
+28320,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,8,4
+28324,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,8,25
+28330,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,22.75,19,2,8,29
+28362,2011,2010-11,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,7.75,4,2,9,8
+28365,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,12.45,24,2,9,30
+28370,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,23.65,26,2,9,43
+28420,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,29.65,25,2,10,28
+28424,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,2,10,46
+28432,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.75,3,2,10,51
+28445,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,2,11,3
+28452,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,2,11,6
+28458,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.35,23,2,11,22
+28473,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,6.65,6,2,11,42
+28483,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,33.25,31,1,0,0
+28492,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,11.55,24,1,0,3
+28499,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,9.75,19,1,0,27
+28537,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,13.55,25,1,1,19
+28543,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,1,1,27
+28551,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,1,1,35
+28557,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.9,22.45,18,1,1,41
+28561,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,17.15,21,1,1,54
+28604,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,24.75,27,1,2,23
+28613,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,17.95,25,1,2,38
+28618,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.5,16.85,19,1,3,5
+28645,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,6.35,20,1,3,26
+28688,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,4,12
+28696,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.8,10.75,5,1,4,14
+28701,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,1,4,27
+28707,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,26.65,21,1,4,49
+28721,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,1,5,1
+28733,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,1,5,15
+28738,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,1,5,26
+28743,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,1,5,50
+28749,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,1,6,8
+28755,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,25.35,21,1,6,18
+28769,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,16.55,14,1,6,44
+28808,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,11.25,18,1,7,12
+28820,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,1,7,27
+28833,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,8.35,13,1,7,58
+28876,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.55,23,1,8,48
+28888,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,10.75,7,1,9,2
+28893,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,9,23
+28897,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-23-2011,21001058,DET,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,11.35,15,1,9,48
+28899,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,10,7
+28909,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-23-2011,21001058,DET,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,10,22
+28921,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,14.95,16,1,10,30
+28930,2011,2010-11,1610612765,Detroit Pistons,2404,Chris Wilcox,F,PF,03-23-2011,21001058,DET,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,17.05,13,1,10,38
+28942,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-23-2011,21001058,DET,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,1,11,7
+28954,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,03-23-2011,21001058,DET,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,11,17
+28961,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-23-2011,21001058,DET,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,11,43

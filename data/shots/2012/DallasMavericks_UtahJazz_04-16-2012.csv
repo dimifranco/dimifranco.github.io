@@ -1,0 +1,194 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+12771,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,27.75,24,7,0,0
+12772,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,4.95,22,7,0,5
+12773,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.75,24,7,0,9
+12774,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,12.45,19,7,0,34
+12775,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,28.85,24,7,0,56
+12776,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,10.45,6,7,1,8
+12777,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,25.25,23,7,1,23
+12778,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,26.05,23,7,1,38
+12779,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,18.45,18,7,1,54
+12780,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.25,3,7,2,11
+12781,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.95,2,7,2,18
+12782,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,13.25,19,7,2,35
+12783,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,5.25,16,7,2,55
+12784,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,6.45,18,7,3,17
+12785,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,15.95,16,7,3,39
+12786,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,12.35,10,7,4,2
+12787,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,10.45,10,7,4,20
+12788,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,12.95,11,7,4,38
+12789,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,43.55,42,6,0,0
+12793,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,10.25,9,6,0,10
+12794,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,6.65,16,6,0,29
+12796,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,17.95,24,6,0,43
+12797,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,12.35,7,6,1,3
+12798,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.65,1,6,1,21
+12802,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,18.15,20,6,2,0
+12805,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,21.75,17,6,2,24
+12808,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,16.05,19,6,2,48
+12811,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.75,4,6,3,2
+12812,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,27.25,26,6,3,21
+12817,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,17.65,15,6,3,45
+12819,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,6.15,8,6,4,0
+12821,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,6,4,19
+12831,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,5,0,0
+12834,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,5,0,1
+12837,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.65,24,5,0,3
+12854,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.65,3,5,0,15
+12858,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,4.65,16,5,0,21
+12863,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.15,2,5,0,42
+12895,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.8,13.55,9,5,1,5
+12901,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,18.65,14,5,1,27
+12908,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,13.85,18,5,1,51
+12912,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,25.75,24,5,2,6
+12919,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,24.15,19,5,2,20
+12920,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,27.95,24,5,2,43
+12925,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,16.45,13,5,2,59
+12926,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,21.75,16,5,3,22
+12933,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.25,3,5,3,43
+12946,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,28.55,24,5,4,20
+12951,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.95,3,5,4,24
+12958,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,25.35,24,5,4,43
+12975,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,30.25,32,4,0,0
+12981,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.35,2,4,0,2
+12985,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,5.95,5,4,0,2
+12992,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,15.65,24,4,0,8
+13006,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.7,29.85,24,4,0,15
+13011,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.15,22,4,0,39
+13039,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,5.05,18,4,0,48
+13043,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.95,22,4,1,8
+13059,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,4,1,48
+13066,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,7.75,22,4,1,55
+13094,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,25.85,24,4,2,35
+13110,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.3,29.35,24,4,3,3
+13115,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,5.95,9,4,3,21
+13124,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,24.75,23,4,3,41
+13130,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,15.15,17,4,3,52
+13137,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,5.05,4,4,4,4
+13139,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.5,17.85,12,4,4,27
+13143,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.2,28.25,24,4,4,49
+13145,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.25,3,4,5,3
+13152,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,5.65,9,4,5,22
+13161,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,26.85,24,4,5,41
+13165,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.25,3,4,6,1
+13168,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.7,8.05,20,4,6,19
+13178,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,4,6,39
+13183,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,9.15,4,4,6,40
+13201,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,5.55,5,4,7,17
+13210,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,13.85,21,4,7,38
+13223,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,13.25,11,4,7,43
+13226,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,6.95,16,4,8,2
+13258,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,4,8,52
+13265,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,27.25,24,4,9,9
+13284,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,10.05,22,4,9,33
+13294,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,19.45,14,4,10,4
+13304,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,19.85,16,4,10,12
+13326,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,4,10,43
+13340,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,26.65,24,4,11,11
+13350,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,12.15,17,4,11,18
+13356,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,12.65,17,4,11,34
+13370,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.65,2,3,0,3
+13377,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,0,21
+13378,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,15.45,23,3,0,35
+13382,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.55,2,3,0,52
+13390,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,28.75,24,3,0,54
+13397,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,3,1,16
+13403,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,4.95,2,3,1,43
+13413,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.45,24,3,1,52
+13430,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.65,24,3,2,32
+13439,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,21.65,21,3,3,2
+13476,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,12.35,21,3,3,43
+13484,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,20.05,14,3,4,1
+13485,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.55,2,3,4,16
+13494,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,8.85,17,3,4,29
+13498,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,14.95,9,3,4,36
+13501,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,13.25,8,3,5,0
+13504,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,8.25,18,3,5,26
+13509,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,24.15,24,3,5,47
+13517,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,21.45,24,3,6,20
+13534,2012,2011-12,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.45,2,3,6,35
+13535,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,3,6,57
+13550,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,26.95,23,3,7,8
+13557,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,16.25,14,3,7,50
+13578,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.35,3,3,8,26
+13584,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.85,24,3,8,32
+13588,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,16.75,13,3,8,49
+13597,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.85,17,3,9,9
+13606,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.05,2,3,9,50
+13615,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,10.85,23,3,9,57
+13618,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,8.25,5,3,10,15
+13625,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,3,10,17
+13636,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.05,4,3,10,31
+13641,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,23.65,20,3,10,47
+13652,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.65,22,3,11,7
+13657,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,12.35,16,3,11,24
+13669,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,8.55,6,3,11,48
+13692,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,18.0,56.95,54,2,0,0
+13700,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.65,24,2,0,1
+13703,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,13.45,14,2,0,14
+13743,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,2,0,48
+13746,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,8.55,4,2,0,49
+13752,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,13.55,8,2,1,6
+13753,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.65,3,2,1,23
+13760,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,27.65,24,2,1,32
+13797,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,16.75,21,2,2,21
+13834,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.4,29.65,24,2,2,49
+13844,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,13.55,18,2,3,17
+13902,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,8.85,6,2,3,44
+13903,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,14.95,19,2,4,5
+13910,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,22.75,24,2,4,19
+13912,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,2,4,26
+13922,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.35,2,2,4,39
+13931,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,5.65,14,2,4,50
+13934,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,2,5,15
+13938,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,25.05,24,2,5,35
+13962,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,7.75,4,2,5,42
+13972,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,7.75,19,2,5,50
+13982,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.85,3,2,6,9
+13991,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,2,6,36
+14029,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,11.25,23,2,7,19
+14033,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,20.95,21,2,7,34
+14056,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,15.65,21,2,8,19
+14068,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,14.95,12,2,8,30
+14077,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.95,2,2,9,0
+14087,2012,2011-12,1610612762,Utah Jazz,201336,Blake Ahearn,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.55,23,2,9,16
+14134,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.4,14.65,23,2,10,37
+14154,2012,2011-12,1610612762,Utah Jazz,201336,Blake Ahearn,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,19.85,24,2,11,31
+14162,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.65,3,2,11,43
+14183,2012,2011-12,1610612742,Dallas Mavericks,201146,Yi Jianlian,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,1,1,8
+14196,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,15.35,13,1,0,10
+14198,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,12.45,20,1,0,29
+14207,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.35,22,1,0,43
+14217,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,6.15,22,1,0,55
+14221,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,15.65,24,1,1,2
+14237,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,24.95,23,1,1,9
+14252,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.15,2,1,2,1
+14257,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.75,1,1,2,12
+14265,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,10.05,5,1,2,14
+14283,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.05,24,1,2,47
+14304,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,26.85,24,1,3,4
+14312,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,27.45,24,1,3,12
+14313,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,11.35,16,1,3,24
+14338,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,25.55,24,1,3,57
+14346,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,29.15,24,1,4,20
+14347,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,29.95,26,1,4,39
+14355,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,19.05,20,1,5,6
+14362,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,25.25,24,1,5,20
+14370,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,25.85,24,1,5,35
+14386,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,6.65,14,1,5,47
+14394,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.75,2,1,6,6
+14401,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.65,24,1,6,12
+14410,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,24.95,19,1,6,26
+14412,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,1,6,47
+14425,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.45,22,1,7,1
+14437,2012,2011-12,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.35,4,1,7,15
+14443,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.3,21.15,16,1,7,29
+14451,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,20.95,24,1,8,4
+14482,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,10.45,8,1,8,56
+14520,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,5.85,15,1,10,15
+14569,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,04-16-2012,21100909,UTA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,7.15,15,1,10,33
+14577,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,16.25,13,1,10,42
+14596,2012,2011-12,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,5.85,5,1,10,50
+14598,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,04-16-2012,21100909,UTA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.45,1,1,11,8
+14619,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,11.35,10,1,11,13
+14623,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-16-2012,21100909,UTA,DAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,5.25,15,1,11,36

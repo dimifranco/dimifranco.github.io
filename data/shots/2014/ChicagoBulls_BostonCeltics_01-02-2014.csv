@@ -1,0 +1,166 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+124284,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,3.85,23,4,0,7
+124290,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,30.45,25,4,0,40
+124291,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,4,0,48
+124295,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.45,23,4,1,2
+124298,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,4,1,8
+124300,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.3,21.25,16,4,1,21
+124302,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.35,2,4,1,37
+124310,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.65,1,4,1,53
+124312,2014,2013-14,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,31.35,26,4,2,0
+124313,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,9.65,18,4,2,13
+124315,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,3.85,23,4,2,33
+124319,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,5.95,12,4,2,39
+124323,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,4,2,55
+124325,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,4,3,1
+124327,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,19.25,14,4,3,17
+124339,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,4,3,43
+124356,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.35,1,4,3,58
+124360,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,4.45,16,4,4,9
+124364,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.95,19,4,4,21
+124373,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,14.15,8,4,4,44
+124397,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.25,23,4,5,30
+124403,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,4,5,37
+124409,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Driving Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,7.15,3,4,6,3
+124421,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,10.45,20,4,6,34
+124442,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,4,6,47
+124455,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,4.15,13,4,7,26
+124462,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.6,16.85,12,4,7,53
+124468,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.75,24,4,8,0
+124479,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,4,8,9
+124482,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,4,8,10
+124484,2014,2013-14,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,16.75,17,4,8,48
+124488,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,3.65,11,4,9,0
+124494,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.8,17.35,12,4,9,11
+124499,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.85,10,4,9,18
+124508,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,4,9,55
+124511,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.25,24,4,9,56
+124515,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,21.25,16,4,10,17
+124528,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,27.65,25,4,10,36
+124534,2014,2013-14,1610612738,Boston Celtics,203543,Vitor Faverani,,,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,8.95,4,4,10,43
+124539,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.85,1,4,11,9
+124542,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,22.25,24,4,11,16
+124549,2014,2013-14,1610612738,Boston Celtics,203543,Vitor Faverani,,,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,26.05,25,4,11,23
+124554,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,4,11,39
+124568,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.45,5,3,0,0
+124571,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,3,0,1
+124577,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,8.85,3,3,0,11
+124584,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,4.95,1,3,0,36
+124594,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,27.45,24,3,0,56
+124601,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,5.35,16,3,1,12
+124603,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,3,1,20
+124608,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,15.75,18,3,1,43
+124647,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.35,4,3,2,15
+124650,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.9,19.85,14,3,2,17
+124654,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,20.95,15,3,2,28
+124660,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,24.25,19,3,2,48
+124670,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,21.75,20,3,3,9
+124678,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,8.35,5,3,3,20
+124683,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.35,1,3,3,29
+124691,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,27.45,25,3,3,31
+124693,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,11.55,7,3,3,47
+124707,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.85,3,3,4,2
+124712,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,6.65,5,3,4,21
+124716,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,5.95,6,3,4,27
+124721,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.85,2,3,4,31
+124743,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,3,5,14
+124752,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,24.75,20,3,5,33
+124756,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,17.15,14,3,5,56
+124772,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.45,1,3,6,15
+124777,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,3,6,18
+124788,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.65,3,3,6,37
+124794,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,4.45,9,3,6,49
+124810,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.25,2,3,7,32
+124813,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.85,2,3,7,53
+124817,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.6,22.55,17,3,7,54
+124820,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,3,8,21
+124825,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.65,1,3,8,41
+124832,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,8.35,9,3,8,44
+124841,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,3,9,8
+124842,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,3,9,20
+124850,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,29.85,24,3,9,32
+124860,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.95,24,3,9,49
+124865,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,6.35,17,3,10,1
+124868,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.85,1,3,10,19
+124876,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.55,20,3,10,22
+124884,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,22.55,18,3,10,28
+124894,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.5,18.35,21,3,10,58
+124896,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,3,11,17
+124900,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,3,11,43
+124913,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-5.4,63.05,58,2,0,0
+124945,2014,2013-14,1610612738,Boston Celtics,203543,Vitor Faverani,,,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.55,3,2,0,31
+124950,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,29.05,26,2,0,34
+124956,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.8,26.95,24,2,0,55
+124962,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.35,2,2,1,19
+125034,2014,2013-14,1610612738,Boston Celtics,203543,Vitor Faverani,,,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,23.65,19,2,1,52
+125039,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,20.05,16,2,2,8
+125058,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,21.65,17,2,2,35
+125085,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.65,2,2,3,15
+125108,2014,2013-14,1610612738,Boston Celtics,203543,Vitor Faverani,,,01-02-2014,21300475,CHI,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,2,3,45
+125114,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,16.55,14,2,3,56
+125117,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,8.55,18,2,4,11
+125131,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,2,4,24
+125135,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.95,4,2,4,25
+125137,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,18.45,18,2,4,52
+125149,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,2,5,20
+125160,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,2,5,41
+125167,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,17.65,19,2,5,50
+125172,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,18.65,19,2,5,58
+125182,2014,2013-14,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,23.15,20,2,6,19
+125216,2014,2013-14,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,6.35,15,2,7,4
+125217,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,2,7,22
+125222,2014,2013-14,1610612738,Boston Celtics,203515,Phil Pressey,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.65,23,2,7,35
+125241,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,23.95,25,2,8,10
+125247,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,2,8,34
+125254,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,21.45,17,2,8,39
+125270,2014,2013-14,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,2,9,5
+125274,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,4.15,7,2,9,7
+125284,2014,2013-14,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,2,9,25
+125295,2014,2013-14,1610612741,Chicago Bulls,203503,Tony Snell,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,26.95,24,2,9,48
+125298,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,11.95,7,2,10,13
+125304,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,24.45,19,2,10,26
+125309,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.0,29.65,24,2,10,40
+125314,2014,2013-14,1610612741,Chicago Bulls,203503,Tony Snell,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,3.55,23,2,10,56
+125318,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.95,4,2,11,17
+125322,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,5.85,16,2,11,27
+125325,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,2,11,46
+125340,2014,2013-14,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,3.35,24,1,0,0
+125347,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,8.05,5,1,0,23
+125352,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,23.85,18,1,0,35
+125354,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,1,0,45
+125360,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,23.05,20,1,0,54
+125361,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.15,1,1,1,14
+125410,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,20.55,18,1,1,56
+125414,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,20.85,16,1,2,18
+125424,2014,2013-14,1610612738,Boston Celtics,2743,Kris Humphries,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,22.25,17,1,2,38
+125428,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.35,3,1,2,50
+125445,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.95,2,1,2,56
+125450,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,4.15,14,1,3,21
+125455,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,25.25,20,1,3,36
+125470,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,22.55,21,1,3,43
+125473,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.65,1,1,4,3
+125487,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,5.35,1,1,4,12
+125499,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,24.25,24,1,4,17
+125504,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,23.65,20,1,4,26
+125531,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,10.75,16,1,5,2
+125537,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,1,5,19
+125544,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.15,24,1,5,22
+125548,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,19.05,19,1,5,49
+125556,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,27.65,25,1,5,55
+125567,2014,2013-14,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG-PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,20.85,17,1,6,20
+125578,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,1,6,34
+125591,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,11.65,12,1,7,4
+125613,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,14.85,15,1,7,35
+125619,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,1,7,51
+125623,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,7.45,16,1,8,3
+125637,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,6.15,7,1,8,23
+125639,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,16.85,15,1,8,42
+125644,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.5,19.05,15,1,9,2
+125653,2014,2013-14,1610612738,Boston Celtics,201145,Jeff Green,F,SF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,9.65,15,1,9,14
+125661,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,1,9,25
+125694,2014,2013-14,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,26.05,20,1,10,15
+125698,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,10.05,11,1,10,31
+125705,2014,2013-14,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,19.45,20,1,10,44
+125711,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2014,21300475,CHI,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,18.65,18,1,10,58
+125719,2014,2013-14,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,7.15,17,1,11,15
+125727,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-02-2014,21300475,CHI,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,11.95,7,1,11,41

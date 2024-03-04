@@ -1,0 +1,160 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+37875,2011,2010-11,1610612759,San Antonio Spurs,202341,James Anderson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,16.45,24,4,0,20
+37877,2011,2010-11,1610612759,San Antonio Spurs,201168,Tiago Splitter,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.45,2,4,0,43
+37878,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,23.35,25,4,0,46
+37880,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.75,4,4,0,53
+37887,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,5.55,19,4,1,19
+37888,2011,2010-11,1610612759,San Antonio Spurs,200779,Steve Novak,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,8.25,23,4,1,44
+37890,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,17.35,24,4,1,50
+37893,2011,2010-11,1610612759,San Antonio Spurs,202341,James Anderson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,23.35,20,4,2,2
+37898,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,4,2,18
+37932,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,8.35,11,4,2,48
+37937,2011,2010-11,1610612759,San Antonio Spurs,202341,James Anderson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,19.85,21,4,3,4
+37944,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,11.35,14,4,3,11
+37947,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,19.85,16,4,3,29
+37966,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,14.35,11,4,3,46
+37974,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.65,2,4,4,3
+37993,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.15,2,4,4,21
+38014,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.95,2,4,4,56
+38022,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,6.35,9,4,5,0
+38030,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.2,20.85,15,4,5,19
+38046,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,4,5,59
+38052,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.35,6,4,6,32
+38064,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,23.85,18,4,6,56
+38073,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,15.45,10,4,7,15
+38080,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,19.85,25,4,7,32
+38091,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,16.25,21,4,7,39
+38097,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.95,22,4,8,0
+38112,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.95,1,4,8,38
+38114,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,22.85,24,4,8,52
+38121,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,23.65,20,4,9,13
+38130,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,19.45,24,4,9,38
+38136,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.85,2,4,9,45
+38155,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.25,2,4,9,57
+38161,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.15,2,4,10,14
+38168,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.85,3,4,10,19
+38191,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,8.65,4,4,10,23
+38195,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,18.45,20,4,10,34
+38202,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.45,23,4,10,47
+38206,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,14.55,16,4,11,3
+38212,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,6.75,23,4,11,18
+38216,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.85,4,4,11,25
+38220,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,24.15,25,4,11,48
+38237,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,18.65,18,3,0,4
+38245,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.4,15.65,10,3,0,28
+38262,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.75,2,3,0,47
+38265,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,24.65,19,3,0,58
+38269,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,19.55,23,3,1,27
+38271,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.65,2,3,1,36
+38278,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,16.25,14,3,1,38
+38285,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,14.05,20,3,1,54
+38287,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.85,23,3,2,17
+38290,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,3,2,34
+38302,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,9.15,17,3,3,2
+38314,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,12.15,7,3,3,17
+38323,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.45,25,3,3,27
+38328,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.45,3,3,3,53
+38334,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,8.35,19,3,4,9
+38339,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.75,2,3,4,15
+38372,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.95,3,3,5,33
+38379,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.65,3,3,5,41
+38406,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,9.45,12,3,5,57
+38431,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,19.85,18,3,6,20
+38445,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,3,6,34
+38447,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,5.35,18,3,6,51
+38452,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.1,11.55,8,3,7,8
+38474,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.75,2,3,7,36
+38479,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,18.65,15,3,7,46
+38498,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,17.35,14,3,8,22
+38513,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.9,20.05,14,3,8,47
+38514,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,6.35,3,3,9,14
+38525,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.35,3,3,9,30
+38527,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,9.45,24,3,9,55
+38530,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,20.95,24,3,10,15
+38531,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.45,17,3,10,35
+38537,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,18.45,18,3,10,46
+38544,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,20.65,25,3,10,58
+38566,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,16.05,16,3,11,26
+38570,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,18.35,15,3,11,46
+38582,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.6,30.95,25,2,0,1
+38588,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,17.65,14,2,0,8
+38591,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,5.55,15,2,0,33
+38592,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,11.85,9,2,0,48
+38594,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,8.55,9,2,1,9
+38600,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,18.15,15,2,1,22
+38606,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.55,2,2,1,37
+38641,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,6.75,7,2,1,53
+38672,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,18.75,17,2,2,37
+38682,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,8.35,5,2,2,54
+38715,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.85,2,2,3,55
+38722,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.5,21.45,17,2,4,4
+38724,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.25,2,2,4,23
+38731,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,13.75,8,2,4,25
+38737,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,6.65,23,2,4,45
+38745,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,9.65,5,2,4,59
+38752,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.25,3,2,5,18
+38755,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.75,17,2,5,20
+38795,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.7,11.55,8,2,5,46
+38800,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,18.15,16,2,6,10
+38805,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.6,12.35,7,2,6,29
+38811,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,15.95,15,2,6,39
+38815,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.25,2,2,6,55
+38827,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.4,14.55,10,2,6,57
+38835,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,10.45,6,2,7,3
+38840,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.55,25,2,7,18
+38845,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,7.55,14,2,7,22
+38882,2011,2010-11,1610612759,San Antonio Spurs,201588,George Hill,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.55,24,2,8,23
+38908,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,9.65,5,2,8,59
+38926,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,2,9,18
+38934,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,19.05,19,2,9,31
+38940,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.35,24,2,9,41
+38944,2011,2010-11,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,2,9,49
+38952,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,23.05,18,2,10,4
+38956,2011,2010-11,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,29.65,24,2,10,16
+38960,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,6.65,2,2,10,33
+38965,2011,2010-11,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,2,10,51
+38970,2011,2010-11,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,14.85,11,2,10,53
+38973,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,19.55,17,2,11,12
+38979,2011,2010-11,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,2,11,37
+39004,2011,2010-11,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.25,2,1,0,3
+39015,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,26.15,25,1,0,28
+39016,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.85,23,1,0,45
+39023,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,15.75,19,1,1,2
+39029,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,19.85,19,1,1,20
+39038,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,8.35,4,1,1,47
+39053,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,16.85,17,1,2,0
+39055,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,14.95,11,1,2,22
+39062,2011,2010-11,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,23.85,24,1,2,45
+39068,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,7.45,3,1,3,5
+39086,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,11.35,24,1,3,27
+39090,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.45,4,1,3,47
+39111,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,29.85,24,1,4,22
+39113,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,7.75,19,1,4,39
+39118,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,20.95,20,1,4,53
+39120,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,5,6
+39126,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,14.95,20,1,5,11
+39131,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,8.85,10,1,5,32
+39150,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.65,3,1,5,58
+39158,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,1,6,10
+39166,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.95,2,1,6,17
+39169,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,7.75,5,1,6,33
+39188,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,20.95,18,1,7,5
+39197,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.75,23,1,7,30
+39205,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,7.75,3,1,7,33
+39216,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.25,2,1,7,50
+39223,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,18.45,13,1,7,57
+39228,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,18.45,16,1,8,9
+39231,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,21.45,17,1,8,27
+39233,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,6.95,15,1,8,43
+39239,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.35,2,1,9,0
+39244,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.25,7,1,9,9
+39254,2011,2010-11,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,25.05,20,1,9,37
+39266,2011,2010-11,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,17.95,24,1,9,46
+39276,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,6.75,18,1,10,3
+39280,2011,2010-11,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.85,22,1,10,10
+39289,2011,2010-11,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,8.85,5,1,10,36
+39298,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,6.15,17,1,10,43
+39307,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,5.25,12,1,11,0
+39316,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-14-2011,21000993,MIA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.35,2,1,11,18
+39326,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-14-2011,21000993,MIA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,11.35,10,1,11,21
+39330,2011,2010-11,1610612759,San Antonio Spurs,686,Antonio McDyess,F,PF,03-14-2011,21000993,MIA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,7.75,17,1,11,44

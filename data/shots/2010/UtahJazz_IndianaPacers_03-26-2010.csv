@@ -1,0 +1,172 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+24369,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.5,13.85,17,4,0,17
+24370,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.05,23,4,0,28
+24371,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,27.75,25,4,0,51
+24386,2010,2009-10,1610612762,Utah Jazz,201585,Kosta Koufos,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.45,2,4,1,0
+24409,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,31.75,26,4,1,28
+24411,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,11.95,17,4,1,42
+24413,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,13.85,18,4,2,6
+24429,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,25.85,25,4,2,52
+24432,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.95,2,4,3,7
+24443,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.95,24,4,3,28
+24450,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.15,2,4,3,45
+24460,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,20.65,23,4,4,18
+24463,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,7.75,10,4,4,38
+24469,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.95,2,4,4,41
+24479,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.7,29.95,25,4,4,55
+24484,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,20.95,25,4,5,9
+24489,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.6,16.45,12,4,5,33
+24531,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.15,23,4,5,56
+24533,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,30.45,25,4,6,15
+24544,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,22.25,19,4,6,21
+24552,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.8,30.65,25,4,6,37
+24561,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.35,2,4,6,54
+24566,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,28.25,25,4,7,2
+24584,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.15,3,4,7,30
+24587,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.25,2,4,7,46
+24599,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,20.95,16,4,8,14
+24603,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.65,26,4,8,27
+24611,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.35,3,4,8,33
+24614,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.65,1,4,9,0
+24629,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,6.45,17,4,9,12
+24635,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.95,2,4,9,22
+24649,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,31.75,26,4,9,34
+24657,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.55,25,4,10,14
+24664,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,10.75,6,4,10,22
+24673,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,30.15,25,4,10,45
+24681,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.25,2,4,10,52
+24688,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,30.65,25,4,11,6
+24713,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.95,23,4,11,20
+24717,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,7.85,11,4,11,36
+24737,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.6,25.25,20,3,0,3
+24744,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.35,2,3,0,27
+24749,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,21.65,17,3,0,33
+24756,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.25,1,3,0,38
+24770,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,28.25,27,3,1,1
+24801,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,6.35,10,3,1,25
+24805,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.6,26.35,21,3,1,46
+24808,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,27.95,26,3,2,3
+24810,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.45,25,3,2,18
+24823,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,3,2,41
+24827,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,8.55,17,3,2,46
+24831,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.6,12.35,8,3,2,55
+24837,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,3,3,10
+24840,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,8.05,23,3,3,16
+24845,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,22.85,25,3,3,38
+24851,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,17.35,12,3,3,49
+24890,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.75,2,3,4,17
+24922,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,6.95,3,3,5,2
+24931,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,18.65,16,3,5,10
+24933,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.15,3,3,5,25
+24937,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,31.05,25,3,5,41
+24940,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.8,30.25,25,3,5,55
+24944,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,7.85,10,3,6,14
+24948,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.65,1,3,6,28
+24976,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,30.95,25,3,6,51
+24981,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.65,25,3,7,9
+25003,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,10.85,24,3,7,31
+25008,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,8.95,4,3,7,52
+25028,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,9.95,4,3,8,9
+25042,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.45,25,3,8,43
+25064,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.45,4,3,8,57
+25073,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,10.05,5,3,9,5
+25095,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,14.05,16,3,9,17
+25104,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,30.95,25,3,9,38
+25113,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,3,9,59
+25123,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,8.55,5,3,10,6
+25135,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,7.25,16,3,10,14
+25145,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,6.65,3,3,10,17
+25147,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,10.45,13,3,10,28
+25155,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,18.95,20,3,10,47
+25158,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,13.85,8,3,10,57
+25165,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.95,2,3,11,10
+25167,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,3,11,22
+25193,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.7,14.05,10,3,11,36
+25219,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,23.65,18,2,0,2
+25253,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,14.85,9,2,0,31
+25263,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,7.55,3,2,0,41
+25269,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,7.25,23,2,1,4
+25272,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,17.15,22,2,1,27
+25279,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,30.75,25,2,1,41
+25285,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.6,18.95,21,2,1,48
+25291,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.55,2,2,2,13
+25317,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.85,25,2,2,42
+25331,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.95,25,2,3,7
+25335,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,7.85,4,2,3,17
+25356,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,2,3,42
+25360,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,17.35,16,2,3,53
+25389,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,4,7
+25412,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,4.25,18,2,4,34
+25417,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,12.35,7,2,4,43
+25419,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.9,20.55,15,2,5,3
+25445,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,23.85,18,2,5,38
+25456,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,6,8
+25470,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,23.85,25,2,6,28
+25506,2010,2009-10,1610612754,Indiana Pacers,2399,Mike Dunleavy,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,20.95,25,2,6,46
+25507,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.75,25,2,7,1
+25516,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,31.35,26,2,7,17
+25518,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,23.85,19,2,7,38
+25523,2010,2009-10,1610612754,Indiana Pacers,2399,Mike Dunleavy,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,18.95,26,2,7,58
+25528,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,18.75,16,2,8,6
+25532,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,8.95,10,2,8,20
+25542,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,9.35,19,2,8,32
+25545,2010,2009-10,1610612754,Indiana Pacers,2399,Mike Dunleavy,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.85,23,2,8,50
+25570,2010,2009-10,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,31.05,25,2,9,19
+25574,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,25.25,20,2,9,38
+25594,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,28.55,26,2,10,6
+25604,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.15,2,2,10,20
+25607,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,30.45,25,2,10,21
+25613,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,2,10,29
+25632,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,30.75,26,2,11,1
+25638,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,2,11,12
+25652,2010,2009-10,1610612754,Indiana Pacers,2399,Mike Dunleavy,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.25,2,2,11,22
+25655,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,8.25,3,2,11,29
+25675,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,31.05,25,1,0,0
+25677,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.65,23,1,0,5
+25683,2010,2009-10,1610612754,Indiana Pacers,2399,Mike Dunleavy,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,22.55,17,1,0,26
+25684,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,7.75,10,1,0,34
+25697,2010,2009-10,1610612754,Indiana Pacers,201177,Josh McRoberts,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.95,2,1,1,18
+25699,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,25.25,20,1,1,30
+25723,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.85,25,1,1,51
+25727,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,30.95,25,1,2,8
+25732,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,1,2,21
+25735,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.75,19,1,2,34
+25763,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.0,21.65,22,1,2,57
+25769,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,16.05,19,1,3,4
+25774,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.45,2,1,3,19
+25803,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.65,3,1,3,55
+25810,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,17.55,19,1,4,9
+25818,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,28.75,25,1,4,25
+25826,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.75,5,1,4,34
+25829,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,23.65,25,1,5,0
+25835,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,16.75,19,1,5,20
+25836,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,1,5,39
+25862,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.85,2,1,5,47
+25866,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,25.85,20,1,6,1
+25872,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,5.55,24,1,6,10
+25879,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,21.95,16,1,6,19
+25887,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,8.55,4,1,6,39
+25890,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.75,3,1,6,55
+25901,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.85,2,1,7,1
+25907,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,1,7,20
+25908,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,16.75,18,1,7,33
+25913,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,21.75,21,1,7,51
+25919,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,0.9500000000000002,6,1,8,9
+25935,2010,2009-10,1610612754,Indiana Pacers,2211,Troy Murphy,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,5.95,19,1,8,17
+25940,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,28.25,26,1,8,30
+25950,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,1,8,49
+25955,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,19.75,19,1,9,2
+25967,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,20.85,21,1,9,15
+26010,2010,2009-10,1610612754,Indiana Pacers,2248,Earl Watson,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.0,30.15,25,1,9,38
+26018,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.95,3,1,9,48
+26047,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,11.65,13,1,10,4
+26055,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.15,2,1,10,10
+26059,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.15,4,1,10,11
+26070,2010,2009-10,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,8.85,12,1,10,17
+26074,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.45,2,1,10,36
+26082,2010,2009-10,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.85,22,1,10,55
+26093,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.85,3,1,11,9
+26110,2010,2009-10,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-26-2010,20901072,IND,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,1,11,13
+26116,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-26-2010,20901072,IND,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,27.45,22,1,11,14
+26129,2010,2009-10,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,12.65,7,1,11,26
+26132,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-26-2010,20901072,IND,UTA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,9.75,11,1,11,45

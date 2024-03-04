@@ -1,0 +1,152 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+180277,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,25.35,20,4,0,1
+180282,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.75,2,4,0,14
+180283,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,6.45,2,4,0,20
+180284,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,14.05,11,4,0,25
+180287,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,16.85,21,4,0,34
+180289,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.45,23,4,1,4
+180292,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.75,2,4,1,11
+180293,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.45,1,4,1,18
+180296,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,6.75,10,4,1,37
+180297,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,4,1,54
+180299,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,7.15,20,4,2,6
+180300,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,6.95,19,4,2,31
+180302,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.15,2,4,2,51
+180304,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,23.85,24,4,2,59
+180306,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,16.55,15,4,3,14
+180308,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,23.55,24,4,3,33
+180312,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,18.65,24,4,3,56
+180313,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.75,2,4,4,12
+180317,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,15.15,9,4,4,51
+180318,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.2,20.65,15,4,5,12
+180321,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,18.45,17,4,5,26
+180325,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,9.45,9,4,6,2
+180326,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.6,19.05,21,4,6,21
+180327,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.65,23,4,6,29
+180329,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.75,22,4,7,4
+180330,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,23.05,26,4,7,14
+180331,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,18.95,17,4,7,24
+180335,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,15.45,12,4,7,57
+180336,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,20.15,16,4,8,17
+180343,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.3,8.55,4,4,8,36
+180344,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.75,23,4,8,58
+180347,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,15.15,14,4,9,14
+180358,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.65,2,4,9,44
+180359,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,5.05,16,4,10,6
+180362,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,20.15,19,4,10,26
+180368,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,7.55,24,4,11,4
+180369,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,7.45,2,4,11,28
+180371,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,10.55,7,4,11,35
+180374,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,18.65,20,4,11,44
+180393,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,20.95,21,3,0,46
+180397,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.85,2,3,1,13
+180398,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,6.35,15,3,1,28
+180403,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,25.25,25,3,1,49
+180406,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.55,24,3,2,5
+180407,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,17.85,15,3,2,31
+180410,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.25,3,3,2,49
+180411,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,21.15,18,3,3,5
+180415,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,5.85,14,3,3,19
+180416,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.25,4,3,3,41
+180420,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.85,1,3,3,54
+180421,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,20.35,18,3,4,11
+180424,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,9.15,18,3,4,22
+180430,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,12.15,18,3,5,2
+180431,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.45,4,3,5,19
+180433,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,18.95,16,3,5,39
+180438,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,8.55,6,3,5,55
+180440,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.55,6,3,5,57
+180451,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,5.25,18,3,6,26
+180460,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,6,37
+180466,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,16.45,21,3,6,54
+180473,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,8.65,8,3,7,17
+180475,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.65,2,3,7,47
+180477,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.95,23,3,7,49
+180479,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,8.95,7,3,8,3
+180480,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,7.55,10,3,8,11
+180482,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,6.75,8,3,8,25
+180483,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,25.55,20,3,8,42
+180493,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.75,25,3,9,8
+180497,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,16.25,11,3,9,23
+180499,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.95,22,3,9,54
+180500,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,11.55,11,3,10,38
+180501,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,16.55,21,3,10,53
+180502,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,3,11,23
+180503,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,18.45,19,3,11,35
+180508,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.95,4,2,0,0
+180521,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,6.85,1,2,0,30
+180522,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.15,1,2,0,38
+180524,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,29.05,25,2,0,41
+180529,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,12.75,9,2,0,43
+180532,2011,2010-11,1610612738,Boston Celtics,201623,Semih Erden,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.65,1,2,1,7
+180535,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.25,3,2,1,29
+180538,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,18.45,25,2,1,45
+180542,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,29.55,24,2,3,37
+180550,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.15,23,2,2,45
+180553,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.55,5,2,2,48
+180556,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.65,24,2,3,5
+180559,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,25.85,26,2,3,15
+180560,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.25,2,2,3,34
+180563,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.55,3,2,3,55
+180565,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,8.65,6,2,4,10
+180574,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,22.55,18,2,4,49
+180576,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.95,3,2,4,59
+180577,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.75,25,2,5,21
+180578,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.75,2,2,5,29
+180584,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.45,3,2,6,5
+180585,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,19.85,17,2,6,24
+180595,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,12.35,9,2,6,52
+180597,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,2,7,9
+180598,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,18.95,17,2,7,15
+180600,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,21.25,24,2,7,33
+180601,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.4,21.95,16,2,7,53
+180608,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,18.95,16,2,8,27
+180609,2011,2010-11,1610612748,Miami Heat,711,Jerry Stackhouse,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,15.15,14,2,8,43
+180612,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,7.85,4,2,9,7
+180614,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,23.55,18,2,9,22
+180617,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,27.25,25,2,9,27
+180620,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.45,25,2,9,41
+180622,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,21.15,21,2,9,50
+180626,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,13.85,8,2,10,1
+180627,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,21.95,19,2,10,19
+180630,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,2,10,34
+180631,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,16.25,12,2,10,43
+180637,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.25,25,2,11,22
+180638,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,2,11,44
+180642,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.25,3,2,11,45
+180646,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,23.95,24,1,0,0
+180651,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,17.65,14,1,0,25
+180653,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.3,17.65,20,1,0,37
+180664,2011,2010-11,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,18.95,14,1,1,7
+180666,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,28.75,24,1,1,23
+180672,2011,2010-11,1610612738,Boston Celtics,201623,Semih Erden,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,1,1,56
+180674,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,17.35,12,1,2,6
+180675,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,10.45,8,1,2,25
+180695,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.55,3,1,3,32
+180696,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,11.65,11,1,3,59
+180697,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,29.95,24,1,4,21
+180699,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,24.65,22,1,4,28
+180704,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,20.05,18,1,4,42
+180706,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.55,2,1,4,56
+180711,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,8.25,18,1,5,2
+180712,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.25,24,1,5,20
+180722,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,23.05,21,1,5,57
+180724,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,9.15,3,1,6,10
+180732,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,13.75,9,1,6,33
+180736,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,25.55,24,1,6,38
+180739,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,16.85,13,1,6,54
+180740,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,15.45,18,1,7,10
+180745,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.35,2,1,7,38
+180747,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.35,18,1,7,58
+180754,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,9.45,8,1,8,22
+180756,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,1,8,30
+180761,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,18.15,19,1,9,10
+180767,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,17.95,19,1,9,46
+180768,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,10.05,8,1,9,54
+180774,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.75,3,1,10,13
+180777,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.45,25,1,10,15
+180780,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,11-11-2010,21000118,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,8.35,4,1,10,18
+180781,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,14.55,17,1,10,46
+180784,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.65,24,1,11,12
+180785,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,11-11-2010,21000118,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,1,11,33
+180789,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,11-11-2010,21000118,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,20.85,20,1,11,45

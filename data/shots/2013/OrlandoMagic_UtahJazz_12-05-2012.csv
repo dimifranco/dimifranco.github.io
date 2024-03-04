@@ -1,0 +1,155 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+157818,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,15.35,25,4,0,16
+157834,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,19.85,16,4,0,55
+157839,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,29.05,25,4,1,15
+157858,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,29.15,24,4,1,36
+157860,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,14.05,21,4,1,51
+157875,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,10.45,5,4,2,28
+157883,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,24.95,20,4,2,49
+157898,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,20.05,25,4,3,11
+157902,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,4,3,33
+157911,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.85,23,4,3,49
+157930,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.45,1,4,4,21
+157936,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,6.45,16,4,4,29
+157939,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,22.45,17,4,4,45
+157943,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,4,5,2
+157950,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,22.55,18,4,5,13
+157961,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.5,20.55,15,4,5,29
+157968,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.85,2,4,5,41
+157991,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.1,30.25,25,4,5,54
+157995,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,13.05,7,4,6,18
+157999,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,2.55,15,4,6,40
+158006,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.55,4,4,7,1
+158012,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,9.95,21,4,7,28
+158060,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.85,17,4,8,43
+158072,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,4,9,10
+158078,2013,2012-13,1610612762,Utah Jazz,202379,Jeremy Evans,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.05,4,4,9,20
+158083,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,9.75,5,4,9,42
+158090,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,11.25,20,4,9,56
+158100,2013,2012-13,1610612762,Utah Jazz,202379,Jeremy Evans,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.05,4,4,10,31
+158107,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.95,2,4,10,48
+158112,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,6.15,3,4,10,50
+158115,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,5.85,13,4,11,12
+158128,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.35,1,4,11,36
+158131,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.9,20.55,15,4,11,38
+158147,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,11.05,7,3,0,3
+158150,2013,2012-13,1610612762,Utah Jazz,202379,Jeremy Evans,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.65,3,3,0,5
+158154,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,8.05,20,3,0,23
+158213,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,3,1,37
+158230,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.4,20.15,22,3,2,4
+158236,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,2,24
+158252,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,3,2,59
+158273,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.35,24,3,3,13
+158286,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.95,1,3,3,30
+158290,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.55,2,3,3,32
+158311,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,3,4,20
+158321,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,5.05,17,3,4,30
+158327,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,5.95,4,3,4,41
+158331,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,3,4,57
+158340,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,4.95,19,3,5,17
+158354,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,3,5,44
+158369,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.45,24,3,6,4
+158376,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,22.45,23,3,6,29
+158379,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,17.05,15,3,6,50
+158386,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,5.95,20,3,7,7
+158392,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,18.35,20,3,7,19
+158395,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,10.05,5,3,7,34
+158400,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,6.45,20,3,7,55
+158415,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.05,5,3,8,7
+158421,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,5.95,14,3,8,25
+158434,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,29.15,24,3,8,50
+158441,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,3,9,2
+158445,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,6.35,3,3,9,4
+158454,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.05,2,3,9,22
+158460,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.75,2,3,9,28
+158480,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.05,0,3,9,42
+158487,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.65,24,3,9,45
+158500,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,24.25,24,3,10,12
+158504,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,8.55,4,3,10,34
+158509,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.85,5,3,10,55
+158513,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,21.75,17,3,11,14
+158524,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,19.75,17,3,11,22
+158536,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.65,2,3,11,43
+158553,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,7.25,6,2,0,1
+158560,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,9.15,3,2,0,10
+158568,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.45,19,2,0,33
+158578,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.45,4,2,0,41
+158586,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.7,13.45,16,2,0,45
+158594,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,23.95,24,2,1,13
+158608,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,7.45,16,2,1,40
+158651,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,7.25,4,2,1,59
+158654,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.55,2,2,2,19
+158661,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,18.45,13,2,2,26
+158665,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,11.25,17,2,2,37
+158670,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.7,29.05,24,2,2,44
+158681,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.0,20.05,14,2,3,2
+158758,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,17.95,24,2,4,6
+158763,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,10.05,4,2,4,19
+158770,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,18.3,19.05,22,2,4,31
+158771,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.25,4,2,4,49
+158778,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,8.05,2,2,5,8
+158783,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,7.85,4,2,5,21
+158793,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.45,2,2,5,59
+158806,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,26.05,21,2,6,11
+158807,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.95,2,2,6,31
+158813,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,14.15,19,2,6,39
+158824,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,2,6,55
+158879,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,28.75,24,2,7,21
+158887,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,22.25,18,2,7,28
+158891,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,2,7,41
+158894,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.55,2,2,7,58
+158910,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.35,23,2,8,8
+158916,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,22.25,24,2,8,16
+158941,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.35,2,2,8,48
+158957,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,7.15,8,2,8,57
+158971,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,26.65,22,2,9,44
+158976,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,2,10,2
+158985,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,7.25,9,2,10,26
+158987,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,14.15,22,2,10,48
+158995,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,2,10,59
+159004,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.25,2,2,11,1
+159011,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,24.45,19,2,11,18
+159017,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,6.75,6,2,11,31
+159023,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.55,3,2,11,47
+159044,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,23.55,19,1,0,1
+159058,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,28.25,24,1,0,21
+159081,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.95,3,1,0,50
+159094,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.85,20,1,0,56
+159100,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.95,2,1,1,18
+159117,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,22.45,19,1,1,25
+159122,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.2,23.55,19,1,1,38
+159124,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,1,1,59
+159128,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,1,2,9
+159137,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,13.85,17,1,2,40
+159167,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,20.15,16,1,3,12
+159175,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,24.95,24,1,3,32
+159182,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.35,1,1,3,48
+159211,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.7,5.65,20,1,4,27
+159214,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.25,2,1,4,53
+159226,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,1,5,4
+159241,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,28.55,24,1,5,18
+159245,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.95,24,1,5,38
+159267,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.25,3,1,5,46
+159274,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.25,2,1,6,0
+159308,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.95,23,1,6,25
+159320,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,15.65,20,1,6,32
+159327,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,10.25,23,1,6,41
+159338,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.65,3,1,6,55
+159350,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,24.45,20,1,7,2
+159353,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,7,30
+159358,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,8.25,12,1,7,48
+159364,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.5,21.25,17,1,7,59
+159371,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,4.75,11,1,8,9
+159375,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.65,1,1,8,35
+159384,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.65,2,1,8,44
+159393,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.85,7,1,8,55
+159410,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,27.15,25,1,9,15
+159416,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-05-2012,21200265,UTA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.5,20.05,16,1,9,39
+159426,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.35,3,1,9,48
+159437,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.95,2,1,10,9
+159439,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.25,3,1,10,10
+159454,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,11.35,12,1,10,30
+159463,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,12.35,21,1,10,46
+159470,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,12-05-2012,21200265,UTA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.35,2,1,10,58
+159479,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.6,16.05,11,1,11,13
+159505,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,12-05-2012,21200265,UTA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,13.25,10,1,11,43

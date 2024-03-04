@@ -1,0 +1,162 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+73354,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.35,22,4,0,5
+73388,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,9.95,9,4,0,45
+73393,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,6.75,8,4,1,9
+73418,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.95,1,4,1,35
+73435,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,4,1,56
+73442,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,27.65,24,4,2,17
+73443,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.35,3,4,2,37
+73451,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,4,2,48
+73452,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,4.65,2,4,3,3
+73456,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.7,13.55,10,4,3,19
+73462,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,4.95,10,4,3,24
+73466,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,10.55,16,4,3,45
+73471,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.65,2,4,4,2
+73481,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,9.45,14,4,4,30
+73486,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.75,4,4,4,50
+73495,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,4,4,58
+73499,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.65,2,4,4,59
+73508,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,4,5,11
+73515,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,18.45,18,4,5,20
+73516,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,4,5,40
+73521,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.75,23,4,5,58
+73530,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,4.95,4,4,6,1
+73531,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.8,18.95,21,4,6,25
+73540,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,14.55,10,4,6,38
+73545,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.25,5,4,6,56
+73569,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.75,10,4,7,9
+73571,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,6.75,18,4,7,37
+73582,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.95,1,4,7,58
+73613,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.65,1,4,8,42
+73622,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,23.15,18,4,8,50
+73630,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,4,9,2
+73636,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,5.35,5,4,9,5
+73638,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,4,9,24
+73646,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.75,2,4,9,37
+73671,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.2,24.65,20,4,10,37
+73683,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,18.15,24,4,10,54
+73707,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,5.35,14,4,11,19
+73718,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,6.35,19,4,11,42
+73731,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,6.7,75.55,70,3,0,0
+73737,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,18.35,24,3,0,1
+73748,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,5.55,16,3,0,22
+73752,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,7.45,22,3,0,41
+73763,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.65,24,3,1,3
+73774,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,17.35,12,3,1,38
+73791,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,16.45,11,3,1,59
+73795,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,7.75,7,3,2,17
+73808,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,3,2,34
+73812,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,8.55,4,3,2,36
+73816,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,28.85,24,3,2,55
+73832,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,3,3,17
+73835,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,6.95,8,3,3,25
+73837,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.25,6,3,3,36
+73871,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,5.35,4,3,3,55
+73878,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,7.25,5,3,4,13
+73890,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,5.25,10,3,4,19
+73899,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,5.55,12,3,4,41
+73913,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,23.05,24,3,4,57
+73923,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,12.95,20,3,5,21
+73924,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,22.05,21,3,5,42
+73928,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,21.75,19,3,6,8
+73936,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.15,1,3,6,20
+73937,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,8.65,9,3,6,34
+73958,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,4.45,16,3,7,10
+73970,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,22.05,22,3,7,20
+73977,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.85,17,3,7,38
+73985,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,12.75,22,3,7,45
+73991,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,14.35,10,3,7,58
+74001,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,10.45,11,3,8,8
+74009,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,26.35,23,3,8,17
+74037,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,9.35,7,3,9,1
+74065,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,4.25,17,3,9,25
+74071,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,3,9,44
+74081,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,19.75,18,3,9,52
+74083,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,4.75,2,3,10,19
+74088,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.65,22,3,10,40
+74090,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,3,10,57
+74102,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,29.15,23,3,11,5
+74109,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,5.65,18,3,11,10
+74111,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,18.45,16,3,11,31
+74145,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,40.85,39,2,0,0
+74151,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,7.45,5,2,0,3
+74152,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.15,24,2,0,26
+74156,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.5,13.85,23,2,0,51
+74166,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,7.15,12,2,1,0
+74167,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,4.45,2,2,1,15
+74172,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.35,2,2,1,40
+74174,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,4.95,2,2,1,58
+74181,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,2,2,14
+74183,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,2,2,22
+74191,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.45,4,2,2,31
+74199,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,8.85,3,2,2,38
+74219,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.85,22,2,2,52
+74221,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,2,3,18
+74226,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,18.15,16,2,3,38
+74227,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,5.65,21,2,3,56
+74240,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,10.55,5,2,4,3
+74252,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,2,4,41
+74262,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.0,21.25,23,2,4,49
+74266,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.9,18.95,14,2,4,57
+74271,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,5,17
+74282,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,21.95,17,2,5,35
+74296,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.25,3,2,5,40
+74333,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,8.65,8,2,6,8
+74339,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,6,39
+74346,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,5.35,1,2,6,47
+74353,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.25,2,2,6,48
+74357,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,2,6,49
+74377,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,14.65,19,2,7,29
+74423,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.45,2,2,8,6
+74433,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.95,1,2,8,15
+74440,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,4.45,3,2,8,35
+74463,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.95,2,2,8,56
+74480,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,10.05,8,2,9,33
+74500,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.9,13.05,9,2,9,58
+74518,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,23.65,21,2,10,12
+74528,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,15.15,21,2,10,29
+74535,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,14.55,12,2,10,39
+74543,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,21.65,19,2,10,59
+74548,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,6.15,6,2,11,16
+74559,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.75,19,2,11,29
+74564,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,19.25,19,2,11,44
+74588,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,21.75,16,1,0,2
+74594,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,21.65,17,1,0,14
+74603,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,10.55,6,1,0,37
+74623,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,22.85,19,1,1,5
+74647,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,10.25,6,1,1,22
+74651,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,19.25,19,1,1,38
+74668,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,17.85,14,1,2,20
+74678,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.15,2,1,2,43
+74695,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.25,2,1,2,59
+74709,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,3,34
+74723,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,14.95,24,1,3,49
+74726,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.8,18.45,14,1,4,2
+74734,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,1,4,25
+74735,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,4,37
+74742,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.55,16,1,4,57
+74755,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,4.75,23,1,5,15
+74769,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,1,5,23
+74774,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,11.35,10,1,5,38
+74784,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.0,25.05,20,1,5,55
+74788,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,22.25,17,1,6,10
+74799,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,18.45,13,1,6,32
+74806,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,6.95,10,1,6,44
+74808,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.6,14.15,10,1,6,58
+74815,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,29.65,24,1,7,4
+74824,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,27.65,24,1,7,14
+74826,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.75,5,1,7,37
+74837,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,1,7,53
+74846,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.35,2,1,8,2
+74856,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,23.65,18,1,8,15
+74866,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,1,8,29
+74872,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.55,22,1,8,42
+74875,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,1,9,1
+74886,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,1,9,13
+74897,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,23.95,24,1,9,41
+74899,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,19.85,18,1,10,7
+74907,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,22.85,18,1,10,10
+74919,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.75,2,1,10,29
+74955,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,6.95,19,1,10,56
+74973,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-09-2011,21000780,UTA,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,21.25,16,1,11,27
+74986,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,02-09-2011,21000780,UTA,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.95,22,1,11,38

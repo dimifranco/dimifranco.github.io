@@ -1,0 +1,142 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+20442,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.7,21.15,15,4,0,9
+20444,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,4,0,55
+20445,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.95,0,4,1,4
+20446,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,8.35,22,4,1,24
+20447,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.75,23,4,1,30
+20450,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,4,1,35
+20454,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,8.25,20,4,2,14
+20455,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,3.85,1,4,2,38
+20459,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,24.45,25,4,2,45
+20462,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.45,24,4,3,12
+20466,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,4,3,27
+20471,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.65,23,4,3,59
+20474,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,26.15,24,4,4,7
+20478,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.6,28.05,25,4,4,31
+20484,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,4,4,49
+20486,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.45,23,4,4,55
+20488,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,4,5,22
+20489,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,11.55,9,4,5,27
+20495,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,34.35,29,4,5,50
+20497,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.55,2,4,6,21
+20500,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,7.15,22,4,6,30
+20503,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,10.25,20,4,6,43
+20506,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,20.55,24,4,7,2
+20516,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.65,3,4,7,45
+20529,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.65,24,4,8,39
+20542,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,27.65,25,4,9,14
+20544,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,7.25,20,4,9,34
+20546,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.3,6.35,1,4,9,59
+20550,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.05,0,4,9,57
+20564,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,10.55,5,4,10,18
+20567,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,20.95,16,4,10,39
+20568,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,21.15,24,4,10,50
+20571,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.15,6,4,11,7
+20576,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.55,23,4,11,33
+20582,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,8.85,8,4,11,40
+20585,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-19.1,55.15,53,3,0,0
+20592,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.85,23,3,0,1
+20593,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,21.25,21,3,0,26
+20595,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,32.65,27,3,0,33
+20597,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.75,5,3,0,49
+20604,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.75,0,3,1,6
+20606,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.85,4,3,1,11
+20610,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.45,2,3,1,26
+20614,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,0
+20626,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.75,24,3,2,19
+20629,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,25.25,25,3,2,28
+20630,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.45,22,3,2,45
+20641,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,6.45,24,3,3,9
+20647,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,21.25,25,3,3,23
+20656,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.05,0,3,4,11
+20659,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,16.85,16,3,4,18
+20660,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,25.55,24,3,4,45
+20661,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,14.95,17,3,5,6
+20665,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.75,2,3,5,11
+20682,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,12.15,13,3,6,7
+20690,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,6.35,22,3,6,22
+20693,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,6,28
+20696,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,3,6,34
+20701,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.35,1,3,7,1
+20704,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,17.05,12,3,7,7
+20721,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,10.75,5,3,7,54
+20729,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.45,0,3,8,25
+20731,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,8.65,12,3,8,26
+20734,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,8.25,3,3,8,42
+20735,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,19.85,24,3,9,0
+20744,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,3,9,25
+20750,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,7.15,20,3,9,32
+20752,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.45,0,3,9,58
+20762,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.85,24,3,10,22
+20766,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,29.35,27,3,10,42
+20767,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,22.85,24,3,10,57
+20778,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,10.25,8,3,11,19
+20782,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,11.35,15,3,11,41
+20789,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,29.65,26,2,0,0
+20790,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,0,23
+20791,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,7.55,9,2,0,29
+20794,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.15,25,2,0,47
+20810,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,29.15,25,2,1,21
+20812,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,2,1,43
+20816,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,3.85,1,2,2,13
+20817,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,29.85,24,2,2,32
+20826,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.05,5,2,3,6
+20830,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,3,16
+20833,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.95,1,2,3,25
+20836,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.4,16.55,12,2,3,36
+20853,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,24.65,25,2,4,29
+20855,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,10.05,7,2,4,51
+20856,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,8.25,3,2,5,2
+20869,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,8.65,19,2,5,34
+20870,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,22.85,24,2,5,56
+20874,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,2,6,13
+20877,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,2,6,16
+20880,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.15,2,2,6,31
+20882,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,11.85,6,2,6,47
+20884,2011,2010-11,1610612739,Cleveland Cavaliers,201963,Christian Eyenga,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.05,1,2,7,7
+20886,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,6.75,24,2,7,30
+20899,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.65,1,2,8,7
+20902,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.45,2,2,8,12
+20904,2011,2010-11,1610612748,Miami Heat,980,Zydrunas Ilgauskas,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,23.55,19,2,8,21
+20905,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.3,16.05,11,2,8,48
+20907,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,2,9,0
+20909,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,2,9,12
+20910,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,8.05,4,2,9,17
+20913,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.95,2,2,9,44
+20919,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,2,10,3
+20921,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,10.25,17,2,10,15
+20932,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.75,24,2,10,41
+20935,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,8.05,17,2,11,3
+20942,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,7.55,20,2,11,14
+20945,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,8.65,4,2,11,35
+20954,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,11.85,6,1,0,0
+20957,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.95,6,1,0,17
+20966,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,24.65,25,1,0,40
+20969,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,12.35,7,1,0,47
+20977,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,1,1,31
+20981,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.35,3,1,1,50
+20992,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.85,23,1,2,34
+20999,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,11.65,16,1,2,50
+21003,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,7.45,15,1,3,2
+21004,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,12.35,14,1,3,23
+21006,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,8.65,4,1,3,38
+21010,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.05,5,1,4,2
+21013,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,10.75,13,1,4,17
+21018,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,4,56
+21022,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.4,18.45,14,1,5,27
+21043,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,7.25,19,1,6,27
+21047,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,6.95,16,1,6,50
+21066,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,9.75,15,1,7,54
+21071,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,12.65,7,1,8,18
+21073,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,10.45,8,1,8,27
+21079,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,8,35
+21084,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.85,3,1,8,37
+21088,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,8.85,19,1,9,11
+21090,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,19.55,19,1,9,23
+21099,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,29.45,25,1,9,46
+21102,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,03-29-2011,21001101,CLE,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,1,10,12
+21106,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,13.05,19,1,10,19
+21110,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,28.05,25,1,10,49
+21115,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,13.55,18,1,11,5
+21119,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,03-29-2011,21001101,CLE,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.15,24,1,11,33
+21124,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,03-29-2011,21001101,CLE,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,9.65,12,1,11,43

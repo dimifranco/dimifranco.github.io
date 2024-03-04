@@ -1,0 +1,150 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+82125,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.35,24,4,0,0
+82129,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,19.25,25,4,0,6
+82130,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,4,0,12
+82136,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,4,0,23
+82139,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.35,3,4,0,23
+82168,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.6,29.15,24,4,0,33
+82188,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,20.95,16,4,0,47
+82191,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,3.55,17,4,1,12
+82221,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,7.55,22,4,1,36
+82245,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,14.95,9,4,2,6
+82267,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.05,3,4,2,39
+82274,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,7.75,11,4,2,53
+82280,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.25,2,4,3,4
+82282,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,4,3,20
+82290,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,20.95,24,4,3,23
+82297,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,18.45,24,4,3,37
+82299,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,23.85,24,4,3,57
+82301,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,4,4,14
+82307,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,30.45,25,4,4,41
+82308,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.65,24,4,5,0
+82322,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,10.75,5,4,5,18
+82324,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,4.45,19,4,5,39
+82328,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,5.55,10,4,5,53
+82329,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,29.35,24,4,6,17
+82340,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,4,6,36
+82344,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,4,6,44
+82350,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,4,7,9
+82356,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,4.25,18,4,7,26
+82378,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.25,25,4,7,45
+82384,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,5.05,11,4,8,2
+82401,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,24.65,24,4,8,33
+82407,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,29.45,24,4,8,43
+82413,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,23.15,25,4,9,3
+82429,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,4,9,21
+82450,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.55,2,4,9,42
+82458,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,4,9,45
+82466,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.15,25,4,10,3
+82498,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,21.45,18,4,10,35
+82505,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,15.65,10,4,11,0
+82513,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,23.55,22,4,11,22
+82518,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,29.65,24,4,11,44
+82536,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,12.95,11,3,0,0
+82571,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,3,0,33
+82575,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.65,2,3,0,37
+82583,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.65,1,3,0,58
+82619,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,3,1,38
+82625,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.95,23,3,1,40
+82635,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,5.35,5,3,2,0
+82636,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.55,2,3,2,21
+82644,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,7.55,10,3,2,39
+82647,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,3,4
+82657,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.35,3,3,3,12
+82703,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,3,3,47
+82708,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,4.65,2,3,3,50
+82714,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.65,24,3,4,2
+82722,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.45,24,3,4,20
+82733,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,21.25,21,3,4,44
+82750,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.85,24,3,5,24
+82764,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,5,47
+82854,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,4.15,18,3,6,46
+82859,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.85,6,3,6,56
+82867,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,3,7,18
+82877,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,8.85,12,3,7,37
+82883,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,8.55,6,3,7,53
+82888,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,22.85,17,3,8,11
+82923,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,3,8,40
+82930,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.55,22,3,8,52
+82935,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.25,22,3,9,9
+82936,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.4,17.05,12,3,9,40
+82978,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,3,10,42
+82989,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,25.55,24,3,10,52
+82992,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,27.65,25,3,11,6
+82997,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.2,18.45,21,3,11,26
+83002,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,6.75,12,3,11,44
+83055,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.15,24,2,0,2
+83102,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,10.75,7,2,0,26
+83107,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,2,0,41
+83128,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.4,18.75,22,2,1,16
+83135,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,23.95,21,2,1,29
+83141,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.65,2,2,1,48
+83143,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.4,14.95,11,2,2,7
+83151,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,22.45,19,2,2,25
+83167,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,5.65,19,2,3,5
+83174,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,2,3,13
+83186,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,11.35,6,2,3,38
+83197,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,5.25,20,2,3,44
+83199,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,11.65,8,2,4,0
+83202,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,2,4,26
+83205,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,5.05,20,2,4,42
+83220,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,16.75,19,2,5,8
+83221,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,2,5,23
+83240,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.35,3,2,5,57
+83251,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,18.75,20,2,6,8
+83264,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.25,22,2,6,19
+83274,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,15.15,24,2,6,41
+83301,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,7.75,23,2,6,55
+83308,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.25,25,2,7,17
+83313,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,20.85,18,2,7,28
+83323,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.65,22,2,7,58
+83330,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,6.65,18,2,8,13
+83336,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.45,23,2,8,37
+83362,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.95,24,2,9,5
+83379,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,2,9,42
+83384,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,3.95,15,2,10,4
+83394,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,8.95,7,2,10,18
+83422,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.75,9,2,10,55
+83423,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,5.55,20,2,11,15
+83433,2010,2009-10,1610612748,Miami Heat,201161,Daequan Cook,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,15.15,13,2,11,41
+83459,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,6.35,22,1,0,0
+83489,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,1,0,27
+83494,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.15,0,1,0,35
+83500,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,20.95,16,1,0,36
+83521,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,1,0,53
+83524,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,23.85,18,1,1,9
+83537,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,20.65,21,1,1,37
+83540,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.95,1,1,1,49
+83583,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,8.85,3,1,2,28
+83586,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.55,3,1,2,44
+83591,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.65,2,1,2,58
+83593,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.15,2,1,3,9
+83621,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.6,15.65,11,1,3,31
+83636,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,4,4
+83638,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.55,23,1,4,23
+83648,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,10.55,9,1,4,41
+83661,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,10.25,9,1,5,13
+83668,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,27.45,24,1,5,19
+83673,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.65,24,1,5,43
+83683,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,1,6,16
+83692,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.6,29.05,24,1,6,34
+83714,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,13.25,8,1,7,5
+83721,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,1,7,21
+83725,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,12.95,17,1,7,41
+83732,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.75,7,1,8,3
+83735,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.65,23,1,8,17
+83745,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.65,2,1,8,38
+83782,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.1,5.25,22,1,8,55
+83793,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,1,8,59
+83803,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.25,3,1,9,3
+83810,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,9.75,5,1,9,26
+83822,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,6.15,20,1,9,40
+83837,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,11.95,11,1,9,58
+83842,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.45,1,1,10,17
+83846,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,1,10,25
+83858,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-03-2010,20900722,BOS,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,1,10,42
+83868,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.15,0,1,10,45
+83883,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,5.05,10,1,11,1
+83888,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,02-03-2010,20900722,BOS,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,1,11,20
+83899,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,5.85,14,1,11,22
+83908,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,02-03-2010,20900722,BOS,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,6.95,10,1,11,28

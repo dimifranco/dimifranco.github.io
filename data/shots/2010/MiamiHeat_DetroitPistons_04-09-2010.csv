@@ -1,0 +1,151 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+7338,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,17.15,25,4,0,7
+7352,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,8.95,24,4,0,15
+7380,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,27.65,25,4,0,25
+7445,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,14.65,11,4,0,44
+7468,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,21.45,24,4,1,3
+7483,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,12
+7489,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,6.75,8,4,1,15
+7497,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,18.75,18,4,1,32
+7504,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,25.75,21,4,1,53
+7512,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.5,30.65,25,4,2,11
+7514,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.75,23,4,2,35
+7528,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.8,18.95,15,4,2,52
+7533,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.35,24,4,3,15
+7535,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,16.75,24,4,3,36
+7539,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,16.85,18,4,3,59
+7550,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,9.15,3,4,4,17
+7558,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,19
+7566,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,56
+7613,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,39
+7617,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,41
+7626,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,16.85,17,4,5,50
+7633,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,17.35,12,4,6,10
+7640,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.35,24,4,6,22
+7649,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,19.55,17,4,6,40
+7698,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,16.55,16,4,7,12
+7703,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,13.05,14,4,7,29
+7708,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,22.75,17,4,7,54
+7719,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.05,19,4,8,11
+7725,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,5.4,19.75,15,4,8,23
+7737,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,27.15,21,4,8,40
+7754,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,47
+7763,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,6
+7773,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.8,7.75,24,4,9,9
+7775,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,7.45,20,4,9,29
+7781,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,6.65,20,4,9,48
+7784,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,6.15,20,4,10,9
+7793,2010,2009-10,1610612765,Detroit Pistons,1088,Chucky Atkins,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,27.65,25,4,10,31
+7796,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,57
+7801,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,25
+7809,2010,2009-10,1610612765,Detroit Pistons,1088,Chucky Atkins,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.65,25,4,11,36
+7819,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.45,25,4,11,39
+7840,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,22.85,24,3,0,6
+7919,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,20.95,20,3,0,51
+7929,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,6.95,4,3,0,53
+7936,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,9
+7984,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.0,19.05,15,3,1,19
+7993,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.75,4,3,1,43
+7998,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.85,24,3,1,47
+8009,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,26
+8020,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.0,19.45,19,3,2,50
+8068,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,33
+8103,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,47
+8130,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,5
+8134,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,9.35,4,3,4,16
+8151,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,18.65,16,3,4,41
+8159,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,8
+8172,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.25,24,3,5,29
+8200,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.75,4,3,5,54
+8225,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,26.85,24,3,6,12
+8230,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,13.55,8,3,6,38
+8236,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,10.05,6,3,7,4
+8240,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,33
+8245,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.45,23,3,7,50
+8256,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,5
+8276,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,7.75,19,3,8,55
+8286,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,13.75,24,3,9,6
+8297,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,14
+8313,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,29
+8346,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.35,24,3,10,9
+8351,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,17.05,24,3,10,28
+8356,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,24.15,25,3,10,54
+8361,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,18.45,25,3,11,18
+8389,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,22.85,24,2,0,3
+8442,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,23.55,21,2,0,38
+8460,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,56
+8473,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,7.55,5,2,1,12
+8476,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,32
+8485,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.05,24,2,1,46
+8490,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,13.85,24,2,2,3
+8520,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,13.05,12,2,2,47
+8544,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,12.65,8,2,3,4
+8546,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,27.25,24,2,3,26
+8556,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,6.35,8,2,3,40
+8565,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,0
+8592,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,11.55,18,2,4,16
+8598,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,39
+8610,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,57
+8615,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,19
+8622,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,40
+8627,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,21.25,17,2,5,57
+8630,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,9.65,18,2,6,18
+8647,2010,2009-10,1610612765,Detroit Pistons,201969,DaJuan Summers,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,6.75,23,2,6,40
+8649,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,13.75,12,2,7,0
+8664,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,5.35,10,2,7,15
+8672,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,8.55,9,2,7,32
+8679,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,0
+8686,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,14.05,12,2,8,16
+8693,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,22.85,26,2,8,32
+8726,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,6.35,5,2,9,19
+8730,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,44
+8741,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.4,29.65,25,2,9,54
+8769,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,14
+8773,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,37
+8780,2010,2009-10,1610612765,Detroit Pistons,201969,DaJuan Summers,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.85,23,2,10,39
+8798,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,15.15,15,2,11,13
+8807,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,34
+8818,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.35,23,2,11,39
+8863,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,24.65,25,1,0,3
+8871,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.6,13.85,9,1,0,11
+8879,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,18.45,24,1,0,34
+8887,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,3
+8895,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.65,25,1,1,11
+8939,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,12.75,17,1,1,36
+8946,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.55,15,1,1,55
+8977,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,5.65,20,1,2,12
+8981,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,40
+8996,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,21.45,19,1,2,42
+9006,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,49
+9013,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,5.05,17,1,3,4
+9021,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,14.05,12,1,3,16
+9028,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,13.55,24,1,3,28
+9036,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,38
+9040,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.55,20,1,3,56
+9046,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,24
+9056,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,10.55,11,1,4,32
+9060,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,51
+9067,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,11.95,24,1,5,7
+9088,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,8.25,9,1,5,27
+9116,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.45,20,1,5,49
+9129,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,26.65,25,1,6,10
+9133,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,15.15,24,1,6,30
+9154,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,11.85,15,1,6,56
+9172,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,19.55,19,1,7,15
+9174,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,35
+9188,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,12.65,14,1,7,50
+9193,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,4.95,11,1,8,0
+9195,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,5.05,6,1,8,22
+9210,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,9.35,4,1,8,24
+9222,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.15,23,1,8,26
+9238,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-09-2010,20901179,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,43
+9248,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,5.85,13,1,8,59
+9264,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,5.35,8,1,9,19
+9277,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,26
+9289,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,14.85,18,1,9,30
+9295,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,8.35,16,1,9,56
+9301,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-09-2010,20901179,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.25,23,1,10,23
+9310,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,13.25,16,1,10,38
+9321,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,58
+9325,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,24
+9334,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,04-09-2010,20901179,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,40

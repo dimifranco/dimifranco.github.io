@@ -1,0 +1,150 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+90148,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,4,0,2
+90151,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.15,24,4,0,4
+90198,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,28.75,24,4,0,11
+90207,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,17.15,21,4,0,21
+90228,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.15,2,4,0,42
+90240,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,5.05,20,4,0,48
+90243,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,28.55,25,4,1,11
+90254,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.95,3,4,1,18
+90282,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,12.75,12,4,1,43
+90317,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,2.85,23,4,2,17
+90326,2012,2011-12,1610612737,Atlanta Hawks,2209,Vladimir Radmanovic,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.35,23,4,3,3
+90327,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.65,24,4,3,27
+90333,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,4,3,34
+90334,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.0,13.55,16,4,3,58
+90341,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.8,5.25,7,4,4,14
+90343,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,21.45,19,4,4,36
+90354,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,6.95,15,4,4,55
+90381,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,23.35,19,4,5,37
+90401,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.45,2,4,6,1
+90405,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,5.25,10,4,6,8
+90413,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,20.05,18,4,6,27
+90421,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,6.95,16,4,6,48
+90445,2012,2011-12,1610612737,Atlanta Hawks,2209,Vladimir Radmanovic,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,4,7,2
+90476,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,8.35,4,4,7,38
+90479,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,29.65,25,4,7,48
+90483,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,16.25,17,4,8,16
+90487,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,11.55,19,4,8,32
+90500,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,15.65,24,4,8,52
+90514,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,18.45,19,4,9,16
+90596,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,10.25,8,4,10,24
+90607,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,10.05,10,4,10,44
+90640,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.15,0,4,11,42
+90666,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.45,2,3,0,6
+90674,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,11.65,6,3,0,7
+90702,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.95,24,3,0,36
+90706,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,21.15,18,3,0,50
+90717,2012,2011-12,1610612737,Atlanta Hawks,2209,Vladimir Radmanovic,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.25,23,3,1,13
+90722,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.55,23,3,1,31
+90731,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.65,24,3,1,58
+90738,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,11.55,23,3,2,17
+90740,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,3,2,35
+90748,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,15.15,15,3,2,45
+90763,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.25,22,3,3,19
+90781,2012,2011-12,1610612737,Atlanta Hawks,2209,Vladimir Radmanovic,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,15.65,24,3,3,34
+90789,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,16.05,12,3,3,44
+90813,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.15,3,3,4,9
+90815,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.35,23,3,4,27
+90832,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.35,1,3,4,41
+90864,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,18.75,25,3,4,58
+90881,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,19.25,25,3,5,5
+90889,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,10.85,16,3,5,13
+90903,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,8.35,22,3,5,34
+90905,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.45,22,3,5,53
+90942,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,8.25,3,3,6,24
+90982,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,7.45,16,3,6,56
+90984,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,3,7,20
+90992,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,3,7,26
+91016,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.75,0,3,8,11
+91027,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,3,8,27
+91037,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.05,4,3,8,54
+91050,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.85,3,3,8,59
+91062,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.15,23,3,9,19
+91071,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,7.45,4,3,9,37
+91089,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,26.15,21,3,9,59
+91099,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.15,2,3,10,19
+91101,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,3,10,35
+91105,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.45,3,3,10,44
+91115,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,22.75,19,3,10,51
+91126,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.75,5,3,11,4
+91136,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,11.95,10,3,11,7
+91152,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,19.75,17,3,11,42
+91173,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.25,2,2,0,24
+91183,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.75,21,2,0,29
+91227,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,25.05,20,2,0,46
+91229,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,5.05,17,2,1,7
+91242,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.25,22,2,1,27
+91280,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.75,23,2,1,57
+91283,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,13.45,17,2,2,12
+91295,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,2,30
+91302,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,7.45,4,2,2,32
+91303,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.15,2,2,3,2
+91320,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.55,3,2,3,9
+91328,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.35,1,2,3,27
+91343,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.45,24,2,4,29
+91356,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,10.25,9,2,4,41
+91357,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.15,23,2,5,8
+91362,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.65,15,2,5,23
+91380,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,2,5,49
+91386,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.65,4,2,6,9
+91399,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.4,14.55,17,2,6,26
+91412,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.25,23,2,6,41
+91421,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.55,22,2,6,54
+91454,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,15.45,20,2,7,31
+91494,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,3.15,22,2,8,4
+91497,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,25.55,20,2,8,25
+91506,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,3.65,22,2,8,36
+91509,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,5.95,5,2,8,53
+91534,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.25,2,2,9,13
+91545,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.35,24,2,9,24
+91567,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,2,10,16
+91568,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.75,1,2,10,28
+91578,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.75,1,2,10,42
+91587,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.5,19.25,22,2,10,46
+91596,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.3,14.05,8,2,11,20
+91637,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.7,33.25,32,1,0,0
+91671,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.55,24,1,0,28
+91679,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.75,2,1,0,39
+91715,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,5.05,7,1,1,13
+91724,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.35,10,1,1,25
+91725,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,4.75,18,1,1,48
+91733,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,21.65,21,1,2,0
+91734,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,13.45,11,1,2,22
+91745,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,20.15,17,1,2,43
+91750,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,22.05,18,1,2,52
+91762,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.7,24.25,19,1,3,10
+91796,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.85,2,1,3,29
+91802,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,6.05,1,1,3,31
+91804,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.95,24,1,3,33
+91821,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.65,23,1,3,45
+91823,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,1,4,2
+91842,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,21.95,25,1,4,16
+91850,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.15,4,1,4,24
+91860,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.75,3,1,4,43
+91872,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,18.15,16,1,4,58
+91939,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,8.85,4,1,5,40
+91947,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,7.25,4,1,5,54
+91961,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.25,2,1,6,12
+91977,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,6.35,13,1,6,33
+91979,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,5.95,22,1,6,53
+92002,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,25.05,20,1,7,8
+92003,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,14.05,18,1,7,33
+92023,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,11.05,8,1,7,53
+92025,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,1,8,18
+92037,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,1,8,31
+92039,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,1,8,46
+92051,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,1,8,58
+92054,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.95,1,1,9,9
+92070,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,12.75,18,1,9,19
+92094,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,9.15,6,1,9,39
+92095,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.85,3,1,9,46
+92104,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,22.05,24,1,10,0
+92107,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,4.65,20,1,10,18
+92118,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,24.25,21,1,10,27
+92126,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.75,19,1,10,46
+92128,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-15-2012,21100439,PHX,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,1,11,1
+92145,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,19.05,24,1,11,6
+92152,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,18.35,22,1,11,12
+92161,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-15-2012,21100439,PHX,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.8,17.15,13,1,11,30
+92176,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-15-2012,21100439,PHX,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.2,24.45,20,1,11,45

@@ -1,0 +1,154 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+40295,2011,2010-11,1610612763,Memphis Grizzlies,201632,Hamed Haddadi,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.15,24,4,0,2
+40296,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.05,3,4,0,9
+40299,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,8.05,4,4,0,9
+40300,2011,2010-11,1610612763,Memphis Grizzlies,202349,Greivis Vasquez,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.45,2,4,0,30
+40303,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.95,25,4,0,34
+40306,2011,2010-11,1610612763,Memphis Grizzlies,202349,Greivis Vasquez,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,23.85,19,4,0,53
+40308,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,14.65,18,4,1,5
+40317,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,21.65,16,4,1,33
+40326,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,25.55,20,4,1,56
+40359,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,24.15,26,4,3,0
+40369,2011,2010-11,1610612763,Memphis Grizzlies,201632,Hamed Haddadi,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.15,3,4,3,34
+40398,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.45,25,4,4,20
+40405,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.85,4,4,4,34
+40409,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,5.85,17,4,4,46
+40411,2011,2010-11,1610612763,Memphis Grizzlies,200796,Leon Powe,C,C-PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,9.95,7,4,5,11
+40442,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.25,25,4,5,59
+40446,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,15.35,18,4,6,18
+40456,2011,2010-11,1610612763,Memphis Grizzlies,201632,Hamed Haddadi,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,6.95,9,4,6,42
+40478,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,21.45,16,4,7,16
+40489,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,16.75,20,4,7,32
+40493,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,8.15,23,4,7,40
+40500,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.75,2,4,8,7
+40508,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,13.75,20,4,8,24
+40510,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,18.95,16,4,8,52
+40533,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,4,9,12
+40536,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.95,24,4,9,25
+40543,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,25.25,25,4,10,1
+40566,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.45,2,4,10,35
+40571,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,10.25,10,4,10,48
+40575,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,6.45,6,4,11,15
+40602,2011,2010-11,1610612763,Memphis Grizzlies,202349,Greivis Vasquez,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,20.35,25,3,0,7
+40609,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.95,24,3,0,45
+40643,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.45,4,3,1,28
+40647,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,16.45,17,3,1,33
+40655,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,7.55,18,3,1,46
+40660,2011,2010-11,1610612763,Memphis Grizzlies,202349,Greivis Vasquez,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,7.45,7,3,2,14
+40665,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,9.65,8,3,2,22
+40691,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.15,3,3,2,49
+40697,2011,2010-11,1610612763,Memphis Grizzlies,202349,Greivis Vasquez,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,7.75,2,3,2,56
+40704,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.95,22,3,3,2
+40720,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,10.85,6,3,3,32
+40736,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.65,2,3,3,49
+40742,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,14.65,11,3,4,1
+40745,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.35,3,3,4,18
+40749,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,7.15,3,3,4,20
+40750,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,8.05,18,3,4,29
+40755,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.45,2,3,4,53
+40761,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.95,3,3,4,55
+40770,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,20.05,25,3,5,10
+40777,2011,2010-11,1610612763,Memphis Grizzlies,202397,Ish Smith,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.85,5,3,5,18
+40801,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,9.95,16,3,5,45
+40806,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.35,2,3,6,3
+40813,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,5.65,8,3,6,17
+40837,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.15,2,3,6,46
+40842,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,9.65,10,3,6,52
+40843,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,15.45,17,3,7,22
+40852,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,3,7,55
+40858,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,24.25,19,3,8,0
+40868,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,3,8,23
+40872,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,12.95,7,3,8,49
+40884,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,6.65,8,3,9,12
+40892,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,8.25,3,3,9,18
+40902,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.15,3,3,9,24
+40915,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,9.35,8,3,9,38
+40933,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,17.55,24,3,10,15
+40942,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,18.35,16,3,10,44
+40963,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,8.25,4,3,11,19
+40971,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,6.65,11,3,11,41
+40986,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-8.0,73.55,68,2,0,0
+41018,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.75,7,2,0,7
+41044,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,14.65,19,2,0,56
+41047,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,27.75,25,2,1,18
+41050,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,24.95,26,2,1,34
+41061,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,2,2,6
+41069,2011,2010-11,1610612763,Memphis Grizzlies,2203,Shane Battier,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.05,23,2,2,22
+41087,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.75,1,2,2,45
+41091,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,12.95,7,2,3,3
+41098,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,14.95,18,2,3,12
+41115,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.05,18,2,3,35
+41119,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.35,17,2,3,46
+41136,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,18.45,18,2,4,10
+41141,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.95,25,2,4,50
+41151,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.95,2,2,5,6
+41154,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,19.25,16,2,5,21
+41173,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.65,2,2,5,43
+41178,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,17.55,23,2,6,10
+41185,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,19.45,19,2,6,15
+41191,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.6,11.85,6,2,6,33
+41198,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,16.05,25,2,6,58
+41201,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.25,2,2,7,17
+41206,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.5,29.65,25,2,7,32
+41220,2011,2010-11,1610612763,Memphis Grizzlies,2203,Shane Battier,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.65,2,2,8,0
+41227,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.85,25,2,8,2
+41249,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.25,2,2,8,31
+41255,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.45,2,2,8,33
+41259,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.15,2,2,8,36
+41265,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.45,2,2,8,41
+41272,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,24.75,25,2,8,50
+41276,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,14.05,8,2,9,0
+41294,2011,2010-11,1610612763,Memphis Grizzlies,202397,Ish Smith,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,8.65,4,2,9,8
+41306,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.45,3,2,9,21
+41309,2011,2010-11,1610612763,Memphis Grizzlies,2203,Shane Battier,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.45,23,2,9,35
+41323,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,7.55,3,2,9,54
+41329,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.55,2,2,9,58
+41332,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.55,3,2,10,24
+41349,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,2,10,59
+41354,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.25,25,2,11,4
+41361,2011,2010-11,1610612763,Memphis Grizzlies,2203,Shane Battier,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,5.55,8,2,11,28
+41366,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,18.75,15,2,11,44
+41385,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,23.95,19,1,0,2
+41405,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.45,2,1,0,34
+41410,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,25.35,20,1,0,46
+41412,2011,2010-11,1610612763,Memphis Grizzlies,201564,O.J. Mayo,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,23.55,20,1,1,0
+41416,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.6,28.05,25,1,1,21
+41420,2011,2010-11,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,21.25,17,1,1,36
+41422,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,18.35,19,1,1,55
+41427,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,6.45,9,1,2,15
+41431,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,22.25,19,1,2,38
+41458,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.15,2,1,3,10
+41460,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,1,7,39
+41475,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,6.75,8,1,3,24
+41480,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,21.65,18,1,3,41
+41486,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,6.45,11,1,3,53
+41491,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.75,24,1,4,16
+41497,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,8.55,4,1,4,24
+41503,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,9.75,6,1,4,30
+41509,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.75,2,1,4,52
+41512,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,1,5,14
+41522,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.0,12.35,8,1,5,22
+41533,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.2,15.95,11,1,5,32
+41538,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,15.45,10,1,5,42
+41540,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.75,2,1,5,57
+41543,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,24.95,21,1,6,18
+41568,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,31.25,30,1,6,49
+41572,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,24.15,20,1,7,1
+41582,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,7,14
+41588,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.95,2,1,7,35
+41599,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.35,3,1,7,37
+41609,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.85,3,1,7,44
+41618,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,10.75,7,1,7,56
+41623,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,4.75,18,1,8,13
+41626,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,22.05,16,1,8,24
+41629,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,8,37
+41636,2011,2010-11,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,9.35,10,1,8,43
+41641,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.1,12.45,8,1,9,11
+41644,2011,2010-11,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.75,3,1,9,28
+41649,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,21.15,19,1,9,46
+41652,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,17.35,21,1,10,1
+41676,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.45,3,1,10,42
+41681,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,1,11,6
+41690,2011,2010-11,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.2,13.45,8,1,11,8
+41698,2011,2010-11,1610612763,Memphis Grizzlies,201970,Sam Young,F,SF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.75,3,1,11,11
+41715,2011,2010-11,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,03-12-2011,21000976,MIA,MEM,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.95,2,1,11,47

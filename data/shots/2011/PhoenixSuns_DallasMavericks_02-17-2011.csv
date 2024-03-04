@@ -1,0 +1,166 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+64482,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.7,23.55,24,4,0,12
+64483,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,29.15,25,4,0,17
+64484,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.25,1,4,0,20
+64485,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,4.45,3,4,0,20
+64486,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,45
+64487,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.5,14.55,18,4,1,1
+64488,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,1,19
+64489,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.1,14.55,17,4,1,33
+64490,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.9,15.65,18,4,1,49
+64494,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,16.85,11,4,2,28
+64495,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,4,2,52
+64497,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,29.05,25,4,3,8
+64498,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,4,3,14
+64499,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.55,24,4,3,27
+64503,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,4,3,34
+64504,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.15,23,4,3,36
+64505,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.95,8,4,3,59
+64507,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.45,4,4,4,18
+64508,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,15.45,24,4,4,37
+64513,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,3.85,14,4,5,6
+64516,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,7.45,5,4,5,14
+64518,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,4,5,38
+64520,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.35,2,4,6,2
+64523,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,10.75,19,4,6,21
+64527,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.25,23,4,6,43
+64528,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,7.25,5,4,7,2
+64529,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,4,7,17
+64532,2011,2010-11,1610612742,Dallas Mavericks,2052,DeShawn Stevenson,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,3.85,10,4,7,36
+64534,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,13.75,18,4,7,55
+64535,2011,2010-11,1610612742,Dallas Mavericks,2052,DeShawn Stevenson,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.95,24,4,8,16
+64538,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,15.75,24,4,8,34
+64542,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.75,22,4,9,0
+64548,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.25,23,4,9,43
+64549,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,4,10,10
+64550,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.75,0,4,10,33
+64551,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.85,24,4,10,42
+64555,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,5.35,14,4,11,3
+64558,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,8.25,4,4,11,15
+64560,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,27.65,24,4,11,41
+64563,2011,2010-11,1610612742,Dallas Mavericks,2052,DeShawn Stevenson,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,22.75,26,3,0,0
+64564,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,3,0,35
+64565,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,11.55,6,3,0,43
+64567,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,26.85,24,3,1,5
+64569,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,11.55,13,3,1,16
+64570,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,3,1,33
+64572,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,25.25,22,3,1,40
+64573,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.45,19,3,1,57
+64574,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.95,0,3,2,21
+64581,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,7.15,4,3,2,47
+64582,2011,2010-11,1610612742,Dallas Mavericks,2052,DeShawn Stevenson,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,3.35,18,3,3,5
+64587,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.55,25,3,3,28
+64588,2011,2010-11,1610612742,Dallas Mavericks,2052,DeShawn Stevenson,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,15.65,13,3,3,49
+64589,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,12.45,13,3,4,15
+64590,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.25,23,3,4,31
+64592,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,8.65,8,3,4,34
+64597,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,27.65,25,3,4,58
+64598,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.05,25,3,5,19
+64603,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,19.55,16,3,5,50
+64606,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,4.65,15,3,6,10
+64607,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,3.65,23,3,6,26
+64609,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,3.65,15,3,6,34
+64610,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,5.55,13,3,6,46
+64612,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,23.35,25,3,7,0
+64615,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,17.55,25,3,7,12
+64616,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,33.45,28,3,7,27
+64619,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.7,17.95,14,3,7,47
+64622,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,8.35,5,3,7,55
+64623,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,3,8,13
+64624,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,24.25,24,3,8,29
+64635,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,16.55,25,3,9,22
+64637,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,3,9,51
+64638,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,16.55,12,3,9,53
+64640,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,16.05,18,3,10,7
+64641,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,9.75,5,3,10,27
+64642,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,3,10,43
+64643,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,11.35,13,3,10,59
+64644,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.25,23,3,11,8
+64645,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,24.15,24,3,11,33
+64646,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,3,11,50
+64647,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.95,7,2,0,1
+64648,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,19.85,18,2,0,25
+64650,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,18.35,26,2,0,34
+64651,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,2,0,51
+64653,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,3.85,12,2,0,53
+64654,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,2,1,20
+64659,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,4.45,24,2,1,50
+64660,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.25,24,2,2,9
+64661,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.2,29.15,24,2,2,27
+64663,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.15,3,2,2,38
+64665,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.55,5,2,2,49
+64667,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,2,3,50
+64672,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.95,1,2,4,26
+64674,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.95,23,2,4,27
+64677,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.9,30.45,25,2,4,42
+64678,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,10.55,14,2,4,51
+64679,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.05,24,2,5,9
+64680,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,18.95,13,2,5,28
+64685,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,20.15,21,2,6,8
+64687,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.2,20.95,15,2,6,32
+64688,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,19.45,21,2,6,47
+64689,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.6,19.25,21,2,7,11
+64691,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,6.15,17,2,7,15
+64693,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,4.65,16,2,7,35
+64698,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,59
+64699,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,2,8,9
+64700,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.75,3,2,8,21
+64701,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,19.25,14,2,8,31
+64702,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,11.05,16,2,8,47
+64703,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.25,24,2,9,8
+64705,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,17.85,18,2,9,22
+64706,2011,2010-11,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,9,37
+64707,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,15.65,14,2,10,0
+64709,2011,2010-11,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.05,0,2,10,14
+64710,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.05,0,2,10,37
+64713,2011,2010-11,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,6.45,5,2,10,44
+64714,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,20.55,21,2,10,55
+64717,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,11.95,6,2,11,3
+64718,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,15.65,23,2,11,31
+64719,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,15.45,18,2,11,49
+64720,2011,2010-11,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,24.15,24,1,0,1
+64721,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,10.25,15,1,0,16
+64725,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,10.85,23,1,0,51
+64726,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,1,3
+64727,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,1,29
+64730,2011,2010-11,1610612742,Dallas Mavericks,2217,Brendan Haywood,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.05,1,1,1,44
+64732,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.6,15.65,24,1,2,5
+64737,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,7.55,4,1,2,34
+64738,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.25,9,1,2,41
+64739,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,5.25,8,1,3,17
+64740,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,8.65,11,1,3,32
+64741,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,1,3,44
+64743,2011,2010-11,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,8.85,3,1,3,46
+64744,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,1,4,6
+64747,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,14.15,13,1,4,36
+64750,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,11.25,15,1,4,46
+64751,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,5,21
+64753,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,5,37
+64755,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.95,23,1,5,38
+64756,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,30.45,25,1,5,53
+64757,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,5.05,12,1,6,3
+64758,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,13.85,19,1,6,17
+64759,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.95,25,1,6,33
+64762,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,1,6,40
+64765,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,11.05,15,1,6,54
+64767,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.95,4,1,7,0
+64768,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,1.95,17,1,7,12
+64769,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,15.15,13,1,7,27
+64771,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.7,18.95,15,1,7,41
+64773,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,20.85,21,1,7,52
+64776,2011,2010-11,1610612742,Dallas Mavericks,2199,Tyson Chandler,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.35,1,1,8,7
+64778,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,20.55,16,1,8,9
+64780,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,15.75,11,1,8,23
+64782,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,1,8,41
+64785,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,1,8,59
+64787,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.05,0,1,9,19
+64789,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.2,24.75,20,1,9,42
+64791,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.15,23,1,9,58
+64792,2011,2010-11,1610612742,Dallas Mavericks,978,Peja Stojakovic,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,17.15,24,1,10,7
+64794,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-17-2011,21000837,PHX,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,10,21
+64796,2011,2010-11,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,10.05,15,1,10,31
+64797,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,23.65,26,1,10,41
+64799,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,23.05,20,1,10,52
+64802,2011,2010-11,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,28.05,25,1,11,5
+64803,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-17-2011,21000837,PHX,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.6,19.25,21,1,11,20
+64806,2011,2010-11,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,02-17-2011,21000837,PHX,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,17.35,21,1,11,34

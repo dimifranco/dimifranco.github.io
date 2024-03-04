@@ -1,0 +1,146 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+174323,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,0,2
+174326,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.25,3,4,0,9
+174335,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,0,16
+174352,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,13.75,15,4,0,33
+174355,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,8.55,3,4,0,56
+174361,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,8.25,15,4,1,9
+174373,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,6.95,16,4,1,46
+174375,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.05,0,4,2,8
+174378,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,14.65,20,4,2,9
+174413,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.65,6,4,3,36
+174415,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,23.35,25,4,3,59
+174418,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.65,26,4,4,31
+174424,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,4,5,0
+174439,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,5,28
+174441,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,8.65,7,4,5,45
+174453,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,29.85,24,4,6,19
+174458,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.85,23,4,6,28
+174462,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,4,6,46
+174466,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.25,24,4,6,52
+174469,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,6,57
+174472,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.95,25,4,7,37
+174491,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,4,7,55
+174494,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,12.35,11,4,8,20
+174496,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,8,32
+174512,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,22.85,25,4,8,53
+174516,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,4,9,9
+174526,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,4,9,22
+174534,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,30.15,25,4,9,50
+174544,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.25,25,4,10,41
+174556,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.75,7,4,10,59
+174567,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,4,11,23
+174571,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,26.15,27,4,11,42
+174580,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,21.75,20,3,0,22
+174583,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,23.55,18,3,0,33
+174597,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,21.25,18,3,1,1
+174598,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,10.45,8,3,1,7
+174616,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,15.15,14,3,1,21
+174618,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,3,1,45
+174624,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,7.25,6,3,2,8
+174629,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.65,22,3,2,29
+174653,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.05,0,3,3,35
+174656,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.55,24,3,3,46
+174679,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,21.45,18,3,4,31
+174681,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,3,4,44
+174684,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.65,3,3,4,53
+174686,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,25.55,22,3,5,15
+174704,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.25,22,3,5,48
+174708,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.95,0,3,6,3
+174711,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.55,23,3,6,7
+174715,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,8.85,7,3,6,13
+174717,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,3,6,30
+174724,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,7.75,17,3,7,1
+174732,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.05,0,3,7,15
+174748,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,16.75,11,3,7,50
+174759,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,24.95,19,3,8,25
+174772,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,22.45,18,3,9,1
+174789,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,3,9,31
+174794,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,3,9,33
+174796,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.95,3,3,9,35
+174803,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,3,9,42
+174804,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,25.85,25,3,9,58
+174815,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,3,10,23
+174843,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.45,1,3,10,54
+174844,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,7.85,8,3,11,9
+174849,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,5.85,20,3,11,26
+174853,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.9,21.75,22,3,11,38
+174866,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,18.65,19,2,0,21
+174876,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,2,0,55
+174882,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,10.85,5,2,1,2
+174888,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,7.25,24,2,1,14
+174892,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,7.55,5,2,1,34
+174894,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.35,4,2,1,57
+174901,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,18.45,15,2,2,21
+174904,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.6,20.65,16,2,2,45
+174906,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,2,2,58
+174911,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.35,3,2,3,12
+174935,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,6.65,16,2,3,58
+174948,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.7,14.15,17,2,4,33
+174952,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,2,4,51
+174957,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.4,23.85,18,2,5,3
+174960,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,14.85,9,2,5,16
+174968,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,2,5,29
+174970,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,2,5,30
+174975,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,18.75,23,2,5,40
+174994,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,24.25,19,2,6,20
+174998,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,15.45,12,2,6,28
+175001,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,19.55,21,2,6,40
+175008,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.3,29.05,25,2,6,49
+175011,2011,2010-11,1610612745,Houston Rockets,202397,Ish Smith,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,2,6,58
+175017,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.3,20.55,15,2,7,29
+175020,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,8.85,4,2,7,56
+175025,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,8.35,3,2,7,59
+175027,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,2,8,15
+175032,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,2,8,32
+175039,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,20.05,19,2,8,33
+175051,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,2,8,56
+175059,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.4,7.55,21,2,9,12
+175062,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,2,9,41
+175071,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,10,10
+175074,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,13.75,9,2,10,16
+175106,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.85,3,2,10,51
+175108,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.15,25,2,11,17
+175113,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.35,20,2,11,24
+175115,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.75,0,2,11,46
+175131,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,1,0,0
+175138,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,8.85,4,1,0,19
+175143,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.85,22,1,0,22
+175147,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,1,0,40
+175148,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.95,25,1,0,59
+175151,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,1,1,15
+175160,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,6.45,11,1,1,53
+175164,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,25.75,23,1,2,5
+175191,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,1,2,43
+175194,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,1,3,5
+175197,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,28.05,25,1,3,10
+175201,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,18.65,19,1,3,33
+175219,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.65,0,1,3,49
+175223,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,24.45,21,1,3,53
+175228,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,1,4,13
+175238,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,1,4,31
+175241,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,1,4,51
+175251,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,11.65,13,1,5,24
+175253,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.1,20.15,15,1,5,40
+175258,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.95,23,1,6,0
+175263,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.05,0,1,6,18
+175265,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,8.95,7,1,6,31
+175275,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,3.85,22,1,6,49
+175281,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,18.65,17,1,7,0
+175284,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,7.45,22,1,7,13
+175293,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,7.55,18,1,7,42
+175296,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.2,23.95,21,1,7,59
+175301,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,21.45,19,1,8,24
+175307,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,21.45,18,1,8,30
+175316,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,1,8,45
+175322,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,11.25,9,1,8,47
+175333,2011,2010-11,1610612745,Houston Rockets,2203,Shane Battier,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,9.45,7,1,9,2
+175342,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,22.05,16,1,9,31
+175358,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,6.95,1,1,9,47
+175363,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,6.75,17,1,9,51
+175380,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.65,1,1,10,11
+175384,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,24.75,19,1,10,28
+175392,2011,2010-11,1610612745,Houston Rockets,1802,Brad Miller,C,C,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.85,2,1,10,37
+175396,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-16-2010,21000156,HOU,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,24.45,24,1,10,51
+175418,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,1,11,26
+175427,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-16-2010,21000156,HOU,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,12.65,12,1,11,38

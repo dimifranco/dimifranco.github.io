@@ -1,0 +1,180 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+32993,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.9,29.95,25,5,0,7
+32994,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,31.25,26,5,0,12
+32995,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.65,22,5,0,22
+32998,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,5,0,43
+33000,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,31.85,26,5,0,53
+33005,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.35,3,5,1,22
+33006,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,5,1,57
+33007,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.05,0,5,2,21
+33008,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,24.95,26,5,2,51
+33009,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.25,23,5,3,11
+33011,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.05,0,5,3,29
+33012,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.8,5.25,0,5,3,52
+33014,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,5.25,1,5,3,55
+33016,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,5,3,57
+33017,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,12.35,9,5,4,18
+33019,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,14.05,9,5,4,42
+33020,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,29.45,26,4,0,0
+33038,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,21.15,26,4,0,30
+33042,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.25,5,4,0,41
+33050,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.75,19,4,1,7
+33060,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,8.95,4,4,1,20
+33061,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,26.65,21,4,1,30
+33075,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,7.85,11,4,1,59
+33084,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.9,24.45,20,4,2,46
+33091,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,4,3,2
+33099,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,4.25,17,4,3,13
+33105,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.65,12,4,3,18
+33109,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,3,40
+33112,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,3.95,1,4,3,59
+33129,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,9.75,11,4,4,41
+33141,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,10.05,7,4,5,14
+33152,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,4,5,31
+33182,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,30.25,25,4,6,18
+33193,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,27.65,24,4,6,26
+33197,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,31.05,25,4,6,32
+33200,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,27.45,24,4,6,46
+33207,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.7,11.95,8,4,6,57
+33210,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.8,29.65,25,4,7,19
+33225,2011,2010-11,1610612754,Indiana Pacers,1902,Jeff Foster,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.25,2,4,7,33
+33229,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,19.55,17,4,7,34
+33231,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,4,8,0
+33241,2011,2010-11,1610612754,Indiana Pacers,1902,Jeff Foster,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,4,8,13
+33247,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,4,8,14
+33249,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.65,25,4,8,26
+33251,2011,2010-11,1610612754,Indiana Pacers,1902,Jeff Foster,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,4,8,41
+33261,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.85,2,4,8,43
+33266,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.85,25,4,9,3
+33274,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,5.95,24,4,9,26
+33283,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,16.85,12,4,9,42
+33296,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,29.85,25,4,10,1
+33301,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,17.85,19,4,10,5
+33313,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.75,2,4,10,8
+33319,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.05,0,4,10,35
+33321,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,4.95,18,4,10,55
+33324,2011,2010-11,1610612754,Indiana Pacers,1902,Jeff Foster,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,4,11,16
+33331,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,27.95,22,4,11,18
+33340,2011,2010-11,1610612754,Indiana Pacers,2563,Dahntay Jones,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,11.95,14,4,11,22
+33348,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.05,1,4,11,46
+33352,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,22.55,17,4,11,47
+33370,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,15.7,56.55,53,3,0,0
+33391,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.65,0,3,0,1
+33399,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,14.95,11,3,0,18
+33413,2011,2010-11,1610612754,Indiana Pacers,2563,Dahntay Jones,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,5.35,4,3,0,43
+33440,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,3,1,23
+33447,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,15.35,10,3,1,27
+33454,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,3,1,44
+33457,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,23.35,19,3,1,55
+33464,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,10.25,5,3,2,11
+33470,2011,2010-11,1610612754,Indiana Pacers,2563,Dahntay Jones,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.85,23,3,2,21
+33508,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,12.65,9,3,3,3
+33512,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,18.35,17,3,3,22
+33516,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.65,2,3,3,29
+33526,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,3,3,46
+33531,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,3,3,47
+33536,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,21.15,17,3,3,57
+33566,2011,2010-11,1610612754,Indiana Pacers,2563,Dahntay Jones,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,4.65,23,3,4,19
+33625,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,7.55,7,3,4,42
+33655,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,3,5,13
+33661,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.75,19,3,5,25
+33670,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.95,24,3,5,43
+33677,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,29.95,26,3,5,56
+33682,2011,2010-11,1610612754,Indiana Pacers,2563,Dahntay Jones,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.05,23,3,6,12
+33695,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.15,23,3,6,35
+33700,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.85,2,3,6,53
+33721,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,22.75,17,3,7,37
+33728,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,7,51
+33742,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,3,8,17
+33752,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,21.75,18,3,8,24
+33776,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,3,8,41
+33779,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,4.65,15,3,8,59
+33793,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,24.75,19,3,9,9
+33802,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,3,9,15
+33807,2011,2010-11,1610612754,Indiana Pacers,202331,Paul George,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,3,9,23
+33837,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,30.65,27,3,9,59
+33875,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,3,10,32
+33882,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,6.65,12,3,10,35
+33886,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.75,2,3,10,57
+33919,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,3,11,17
+33925,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,20.05,17,3,11,20
+33949,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,20.35,17,2,0,0
+33966,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,12.95,10,2,0,17
+33972,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,7.25,15,2,0,26
+34053,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.05,1,2,1,26
+34057,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,2,1,41
+34063,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.95,3,2,1,42
+34085,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,25.85,27,2,2,20
+34093,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,10.45,14,2,2,35
+34096,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.35,1,2,2,58
+34099,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,24.45,19,2,2,59
+34122,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,29.85,25,2,3,12
+34141,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.15,3,2,3,37
+34166,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,28.55,25,2,4,17
+34173,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,28.85,25,2,4,34
+34177,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.4,21.75,16,2,4,50
+34182,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,30.95,27,2,5,4
+34185,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,19.55,19,2,5,19
+34189,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,2,5,50
+34191,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.75,6,2,5,51
+34211,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,2,6,5
+34221,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,18.35,19,2,6,11
+34223,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,11.35,7,2,6,23
+34228,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,7.75,7,2,6,49
+34234,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,4.95,11,2,6,56
+34279,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,6.95,4,2,7,21
+34286,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,5.25,14,2,7,31
+34314,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,15.65,18,2,7,58
+34326,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,30.25,25,2,8,27
+34352,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,5.95,5,2,8,46
+34360,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,2,8,55
+34373,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,28.55,26,2,9,10
+34378,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.2,14.65,9,2,9,17
+34384,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,28.05,22,2,9,40
+34391,2011,2010-11,1610612754,Indiana Pacers,201985,AJ Price,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,18.75,15,2,9,51
+34395,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,24.15,20,2,10,5
+34401,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,18.35,18,2,10,20
+34423,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,2,10,58
+34432,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,2,10,59
+34434,2011,2010-11,1610612754,Indiana Pacers,201575,Brandon Rush,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,4.95,24,2,11,0
+34440,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,26.65,26,2,11,18
+34448,2011,2010-11,1610612754,Indiana Pacers,201177,Josh McRoberts,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,5.65,16,2,11,36
+34475,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,10.55,6,1,0,1
+34484,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.7,30.45,25,1,0,11
+34488,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,1,0,33
+34496,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,6.65,14,1,0,52
+34502,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,10.45,8,1,1,13
+34506,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,18.35,19,1,1,33
+34562,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,19.55,18,1,2,20
+34568,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,1,2,36
+34571,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,4.45,16,1,3,1
+34577,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.65,0,1,3,21
+34604,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,4.65,15,1,3,42
+34614,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,1,4,11
+34621,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.75,1,1,4,13
+34646,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,21.25,25,1,4,19
+34649,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.2,23.15,18,1,4,40
+34660,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,18.95,19,1,4,59
+34703,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,4.45,16,1,5,43
+34710,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.55,6,1,5,59
+34721,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,1,6,11
+34730,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.45,1,1,6,23
+34775,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,24.45,19,1,6,45
+34781,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,7,0
+34788,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.35,2,1,7,12
+34798,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.75,2,1,7,14
+34810,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,1,7,28
+34814,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.3,22.05,16,1,7,51
+34821,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,1,8,4
+34837,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.05,23,1,8,25
+34848,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,17.95,16,1,8,48
+34856,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,8.85,4,1,8,59
+34870,2011,2010-11,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,20.95,20,1,9,16
+34876,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,36.25,31,1,9,23
+34877,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,1,9,53
+34884,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,7.45,24,1,10,16
+34891,2011,2010-11,1610612754,Indiana Pacers,201954,Darren Collison,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,1,10,25
+34899,2011,2010-11,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,7.75,6,1,10,47
+34911,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,31.05,25,1,10,59
+34923,2011,2010-11,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-18-2011,21001017,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,23.85,19,1,11,13
+34930,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-18-2011,21001017,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,1,11,34

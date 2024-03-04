@@ -1,0 +1,174 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+85087,2014,2013-14,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,31.75,26,4,0,21
+85099,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,21.25,16,4,0,43
+85105,2014,2013-14,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,22.55,19,4,1,3
+85111,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,25.05,25,4,1,21
+85113,2014,2013-14,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.85,23,4,1,42
+85122,2014,2013-14,1610612754,Indiana Pacers,203142,Chris Copeland,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,4,1,56
+85125,2014,2013-14,1610612754,Indiana Pacers,203142,Chris Copeland,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.35,4,4,1,56
+85146,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.65,1,4,2,20
+85148,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,4.65,16,4,2,36
+85151,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,4,2,45
+85173,2014,2013-14,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,4,3,1
+85180,2014,2013-14,1610612754,Indiana Pacers,203142,Chris Copeland,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,4,3,8
+85184,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,13.45,17,4,3,19
+85190,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,4,3,36
+85191,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,6.75,7,4,3,54
+85207,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.25,19,4,4,15
+85211,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,23.15,18,4,4,37
+85213,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,4,4,55
+85221,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,14.55,19,4,5,38
+85235,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,4,6,0
+85244,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,4,6,4
+85248,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,4,6,10
+85269,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.15,0,4,6,31
+85274,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,13.45,17,4,6,32
+85279,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.55,2,4,6,35
+85283,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,27.45,26,4,6,57
+85297,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,23.85,26,4,7,22
+85303,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,7,45
+85311,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,4,8,12
+85318,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,19.25,19,4,8,15
+85321,2014,2013-14,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,22.25,26,4,8,25
+85326,2014,2013-14,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,7.75,24,4,8,37
+85333,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,4.95,15,4,8,50
+85339,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.05,19,4,9,14
+85349,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,28.05,26,4,9,28
+85379,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,9,52
+85386,2014,2013-14,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,4,9,57
+85393,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,11.65,20,4,10,24
+85399,2014,2013-14,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,4,10,44
+85403,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,5.85,10,4,10,50
+85409,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,24.65,19,4,11,31
+85413,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.45,1,4,11,44
+85418,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,4,11,46
+85426,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.0,34.35,29,3,0,0
+85445,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,13.45,10,3,0,5
+85452,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.1,16.05,11,3,0,28
+85458,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,3.95,23,3,0,49
+85467,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,21.75,18,3,1,4
+85499,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,26.55,27,3,1,58
+85553,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,21.95,18,3,2,45
+85559,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,9.45,4,3,3,12
+85562,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.8,13.45,9,3,3,28
+85591,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,4.95,15,3,3,49
+85602,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.65,1,3,4,8
+85608,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,3.65,14,3,4,10
+85617,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,22.85,19,3,4,24
+85618,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,21.65,21,3,4,37
+85622,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,29.85,25,3,4,53
+85628,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.65,3,3,5,4
+85632,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,29.85,26,3,5,17
+85652,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,10.05,12,3,5,39
+85658,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,4.75,0,3,5,49
+85665,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,32.05,26,3,6,3
+85670,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,3,6,22
+85684,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,3,7,1
+85691,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,3,7,1
+85696,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,29.95,26,3,7,13
+85709,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,21.95,20,3,7,37
+85715,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.55,25,3,7,52
+85720,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,32.85,28,3,8,8
+85726,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,4.15,16,3,8,16
+85729,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,3,8,42
+85737,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,31.55,26,3,8,51
+85746,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,25.25,20,3,9,0
+85757,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,29.05,27,3,9,15
+85763,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,17.35,17,3,9,29
+85771,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,15.65,18,3,9,43
+85793,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.0,30.45,26,3,10,15
+85795,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,6.15,17,3,10,31
+85811,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.25,19,3,10,49
+85814,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.5,26.55,22,3,11,0
+85821,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,11,4
+85833,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.15,18,3,11,24
+85834,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,15.45,20,3,11,47
+85845,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,30.25,29,2,0,0
+85855,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,28.75,26,2,0,9
+85867,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.9,16.85,13,2,0,40
+85875,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,2,1,3
+85883,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,2,1,9
+85888,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.0,17.65,14,2,1,23
+85902,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.5,20.15,14,2,1,54
+85910,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,2,1,57
+85916,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.85,25,2,2,0
+85919,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,2,2,18
+85924,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,21.15,18,2,2,41
+85944,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,2,2,54
+85952,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,11.85,17,2,2,57
+85961,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,19.45,25,2,3,20
+85966,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,2,3,33
+85973,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,3,37
+85978,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.75,23,2,3,56
+85982,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,14.05,18,2,4,16
+85986,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,12.65,18,2,4,35
+85993,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,4.75,24,2,4,56
+85995,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.65,4,2,5,13
+86000,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,27.65,25,2,5,32
+86007,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,17.35,17,2,5,38
+86036,2014,2013-14,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,2,5,54
+86044,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.35,0,2,6,10
+86052,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,24.45,20,2,6,15
+86058,2014,2013-14,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,4.15,15,2,6,25
+86063,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,7.25,8,2,6,42
+86069,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,10.45,14,2,6,56
+86089,2014,2013-14,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,25.85,20,2,7,17
+86092,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,23.35,20,2,7,32
+86097,2014,2013-14,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,20.95,26,2,7,52
+86102,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.65,15,2,8,15
+86131,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,21.25,17,2,8,47
+86138,2014,2013-14,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,6.75,10,2,9,4
+86147,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.35,23,2,9,27
+86151,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,13.25,8,2,9,35
+86165,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.95,19,2,10,9
+86170,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.55,6,2,10,19
+86173,2014,2013-14,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,7.85,4,2,10,36
+86180,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,5.25,8,2,10,39
+86183,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.55,3,2,10,54
+86186,2014,2013-14,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,22.25,18,2,11,19
+86198,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,27.25,25,2,11,34
+86206,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,22.45,18,2,11,48
+86240,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.95,1,1,0,4
+86248,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,21.75,18,1,0,5
+86261,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.85,25,1,0,35
+86267,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,24.15,20,1,0,44
+86270,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.05,2,1,1,1
+86274,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,25.25,20,1,1,22
+86282,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,20.35,17,1,1,31
+86289,2014,2013-14,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,3.95,17,1,1,45
+86313,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.35,22,1,2,4
+86316,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.65,22,1,2,19
+86323,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.4,16.55,12,1,2,27
+86330,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.8,19.05,15,1,2,39
+86340,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,25.25,20,1,3,7
+86343,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,23.65,20,1,3,20
+86347,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,27.25,26,1,3,36
+86366,2014,2013-14,1610612753,Orlando Magic,201175,Glen Davis,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,1,3,44
+86375,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,1,4,3
+86376,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,8.55,23,1,4,23
+86387,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,4.15,1,1,4,42
+86393,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,4,43
+86404,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,21.65,16,1,5,10
+86408,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,1,5,30
+86417,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,11.05,17,1,5,44
+86450,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,8.55,15,1,6,4
+86460,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,1,6,24
+86473,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,21.15,20,1,6,44
+86481,2014,2013-14,1610612753,Orlando Magic,202699,Tobias Harris,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.65,2,1,7,3
+86493,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,24.95,26,1,7,23
+86507,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.35,2,1,7,33
+86516,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.05,25,1,7,41
+86520,2014,2013-14,1610612753,Orlando Magic,203506,Victor Oladipo,G,PG,02-03-2014,21300710,IND,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,10.75,12,1,8,5
+86525,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.35,3,1,8,24
+86531,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,14.05,11,1,8,38
+86538,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.65,23,1,8,55
+86545,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,6.75,8,1,9,4
+86557,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,10.75,15,1,9,18
+86586,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,23.05,26,1,9,51
+86596,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.6,19.55,27,1,10,24
+86605,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,10,42
+86613,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.95,23,1,10,47
+86617,2014,2013-14,1610612753,Orlando Magic,201167,Arron Afflalo,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,22.25,17,1,11,1
+86625,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-03-2014,21300710,IND,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,1,11,18
+86632,2014,2013-14,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,02-03-2014,21300710,IND,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,22.75,19,1,11,26
+86641,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-03-2014,21300710,IND,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,10.55,14,1,11,40

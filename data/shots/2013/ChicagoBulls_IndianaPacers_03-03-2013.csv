@@ -1,0 +1,153 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+55877,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-17.9,62.45,59,4,0,0
+55899,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,28.25,28,4,0,7
+55938,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,20.55,26,4,0,19
+55959,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.45,2,4,0,28
+55971,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.35,3,4,0,32
+55977,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.95,5,4,0,33
+55997,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.95,2,4,1,27
+56005,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,19.85,18,4,1,48
+56010,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,18.15,13,4,1,57
+56017,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,20.05,21,4,2,18
+56026,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,4,2,31
+56031,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,26.95,27,4,2,47
+56036,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,6.35,10,4,3,2
+56051,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.75,2,4,3,35
+56058,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,15.15,10,4,3,36
+56061,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,27.95,26,4,4,2
+56065,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,5.95,9,4,4,22
+56068,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,4,4,45
+56073,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.2,31.35,26,4,4,49
+56080,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,25.35,26,4,5,11
+56086,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,15.95,15,4,5,25
+56111,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,9.95,6,4,6,11
+56124,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,19.75,18,4,6,42
+56159,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,11.95,23,4,7,47
+56161,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,25.35,20,4,8,13
+56180,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,4,8,28
+56184,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.05,0,4,8,46
+56188,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,12.45,7,4,8,50
+56211,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,31.55,26,4,9,32
+56219,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,7.55,11,4,9,51
+56220,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.9,20.05,14,4,10,10
+56223,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.3,12.45,8,4,10,28
+56238,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,4,11,4
+56241,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,31.75,26,4,11,20
+56263,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,6.2,86.25,81,3,0,0
+56269,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.25,23,3,0,4
+56272,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,25.05,19,3,0,25
+56278,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,4.75,23,3,0,31
+56293,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,13.05,17,3,0,58
+56308,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.25,23,3,1,33
+56317,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,3,2,15
+56325,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,13.05,13,3,2,20
+56335,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,3,2,34
+56338,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,3,2,36
+56373,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,19.45,17,3,3,4
+56377,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,9.45,5,3,3,23
+56383,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.8,30.65,26,3,3,35
+56388,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,3,3,51
+56423,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,19.85,18,3,4,34
+56427,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,3,5,0
+56434,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,3,5,7
+56441,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,4.25,16,3,5,14
+56446,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,9.95,9,3,5,19
+56449,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.75,18,3,5,41
+56455,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,20.05,25,3,6,9
+56458,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.45,2,3,6,29
+56463,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,25.05,20,3,6,48
+56473,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,22.85,20,3,7,8
+56478,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,15.15,11,3,7,23
+56482,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.25,2,3,7,38
+56495,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,3,7,58
+56504,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.25,25,3,8,14
+56508,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,3,8,31
+56514,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.65,18,3,8,49
+56517,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,9,5
+56520,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,10.05,13,3,9,32
+56526,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.6,30.15,26,3,9,45
+56531,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,21.75,16,3,9,56
+56536,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.9,13.85,10,3,10,5
+56539,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,16.85,18,3,10,25
+56541,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,24.95,19,3,10,44
+56545,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,12.95,17,3,11,5
+56550,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,7.75,6,3,11,19
+56552,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,4.25,15,3,11,23
+56561,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,8.05,5,3,11,33
+56563,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,5.65,4,3,11,48
+56578,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-20.1,48.15,47,2,0,0
+56617,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,3.55,17,2,0,29
+56623,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,9.75,8,2,0,50
+56629,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,2,1,7
+56641,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,2,1,42
+56645,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.05,23,2,1,51
+56652,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,9.95,5,2,2,3
+56660,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,2,2,10
+56669,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,5.25,15,2,2,28
+56676,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,11.55,6,2,2,46
+56688,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.85,1,2,3,13
+56697,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.05,16,2,3,21
+56703,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.95,0,2,3,37
+56725,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,6.35,16,2,4,8
+56731,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,2,4,27
+56735,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,2,4,47
+56742,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.95,2,2,5,27
+56748,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,2,5,41
+56751,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,2,5,42
+56755,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.85,2,2,5,58
+56764,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,8.85,23,2,6,14
+56778,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,18.15,20,2,6,39
+56783,2013,2012-13,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.7,18.95,15,2,6,55
+56800,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,2,7,10
+56809,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,30.95,28,2,7,27
+56829,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,20.05,17,2,8,9
+56832,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,2,8,30
+56836,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.35,23,2,8,33
+56848,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.55,4,2,8,59
+56853,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.25,3,2,9,27
+56876,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,4.25,2,2,9,49
+56880,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,23.05,20,2,10,10
+56888,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,2,10,22
+56897,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,2,10,45
+56900,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,2,11,2
+56906,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,29.05,25,2,11,15
+56911,2013,2012-13,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,9.75,6,2,11,44
+56930,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,1,0,0
+56934,2013,2012-13,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,4.95,13,1,0,2
+56951,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,31.35,26,1,0,33
+56955,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,1,0,42
+56958,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,11.25,12,1,1,6
+56964,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,24.75,26,1,1,26
+56968,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,18.95,13,1,1,57
+56972,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,20.65,17,1,2,13
+57005,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.05,18,1,3,2
+57009,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,1,3,8
+57015,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.8,30.95,25,1,3,29
+57017,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,4.95,1,1,3,48
+57022,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,1,3,59
+57029,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,1,4,11
+57050,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.85,2,1,4,24
+57057,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,12.95,10,1,4,30
+57063,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,20.05,17,1,4,49
+57078,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.9,15.95,12,1,5,3
+57088,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,25.05,27,1,5,24
+57090,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.95,1,1,5,48
+57093,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,13.05,22,1,6,2
+57105,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,23.65,18,1,6,40
+57113,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,16.25,11,1,6,54
+57128,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,22.25,17,1,7,29
+57133,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,4.95,1,1,7,52
+57140,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,5.55,4,1,7,57
+57145,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.95,22,1,8,15
+57152,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,8,19
+57167,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,20.55,17,1,8,32
+57177,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.7,30.75,25,1,8,56
+57189,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,27.45,27,1,9,5
+57198,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.35,0,1,9,38
+57205,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-03-2013,21200887,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,1,9,46
+57213,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.15,2,1,9,52
+57217,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,5.35,16,1,10,17
+57227,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,1,10,42
+57231,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,1,10,43
+57244,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.85,24,1,11,15
+57251,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-03-2013,21200887,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,19.45,18,1,11,39

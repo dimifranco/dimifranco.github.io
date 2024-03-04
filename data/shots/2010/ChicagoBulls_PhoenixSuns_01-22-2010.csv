@@ -1,0 +1,182 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+97316,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,24.25,19,4,0,14
+97363,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,26.05,25,4,1,7
+97375,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.45,20,4,1,13
+97379,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,18.35,13,4,1,35
+97381,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.9,23.15,18,4,1,49
+97386,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.8,30.45,25,4,2,11
+97393,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,16
+97410,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,55
+97432,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,17.95,12,4,3,19
+97433,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,3.95,23,4,3,37
+97457,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,28.05,24,4,4,17
+97461,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.15,22,4,4,25
+97467,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,5.25,22,4,4,47
+97471,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,7.85,7,4,5,7
+97485,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.7,29.65,24,4,5,26
+97508,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,55
+97512,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,12.75,10,4,5,56
+97545,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,12
+97549,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,15
+97556,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.4,29.85,25,4,6,22
+97562,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,23.35,24,4,6,35
+97565,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,53
+97571,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,11.55,9,4,7,8
+97576,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,19.85,27,4,7,35
+97584,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,2
+97591,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.95,22,4,8,5
+97601,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,7.15,6,4,8,23
+97631,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,24
+97642,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,28.55,24,4,8,42
+97652,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,8.85,7,4,8,46
+97661,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,9.95,9,4,9,3
+97674,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,22
+97680,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,30
+97717,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.65,24,4,10,23
+97726,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,5.25,20,4,10,38
+97730,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,48
+97738,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,50
+97749,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,18.45,17,4,11,4
+97789,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,28
+97806,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,7.55,5,4,11,46
+97826,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,27.45,25,3,0,0
+97842,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,23
+97849,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,16.85,24,3,0,36
+97852,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,51
+97859,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,5.95,5,3,0,51
+97867,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,22.85,24,3,1,7
+97875,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,10.75,8,3,1,20
+97877,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,38
+97886,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,9.15,3,3,1,45
+97894,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,48
+97900,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,6
+97928,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,18.45,15,3,2,17
+97935,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.05,23,3,2,29
+97940,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,5.25,24,3,2,51
+97955,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.45,7,3,3,27
+97958,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,14.05,20,3,3,37
+97966,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,5.65,20,3,3,57
+97975,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,17
+97978,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,38
+97989,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,23.35,21,3,4,47
+97994,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,10.75,6,3,5,0
+98002,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,22.55,17,3,5,13
+98008,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,13.05,24,3,5,25
+98027,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.6,14.35,17,3,5,44
+98040,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,50
+98062,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,9.15,7,3,6,20
+98069,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,18.35,24,3,6,35
+98076,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,22.05,22,3,6,48
+98097,2010,2009-10,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,6
+98107,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,7.55,6,3,7,17
+98115,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,17.05,17,3,7,24
+98127,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,21.15,19,3,7,46
+98129,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.45,23,3,8,0
+98145,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.5,17.55,19,3,8,20
+98146,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.25,22,3,8,35
+98157,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,56
+98164,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.65,22,3,8,59
+98171,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,9.95,10,3,9,11
+98182,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.2,25.55,21,3,9,32
+98216,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,5.35,14,3,9,56
+98219,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,25.25,20,3,10,9
+98226,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,24.65,22,3,10,20
+98230,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,8.55,4,3,10,33
+98253,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,14.65,24,3,10,57
+98262,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,10
+98266,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,21
+98276,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,22.85,19,3,11,25
+98311,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.3,30.25,25,2,0,0
+98313,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,17
+98316,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.9,17.05,12,2,0,31
+98363,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,8
+98395,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,29.85,24,2,1,42
+98403,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.8,11.65,22,2,1,50
+98410,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,12.75,18,2,2,7
+98416,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,8.05,4,2,2,27
+98440,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,54
+98451,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,20.05,17,2,2,47
+98458,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,21.65,18,2,3,1
+98467,2010,2009-10,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,9
+98474,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.25,22,2,3,28
+98475,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,41
+98488,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,53
+98496,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,5.05,18,2,3,57
+98504,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,20.95,18,2,4,9
+98531,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,24.45,19,2,4,51
+98540,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,21.45,16,2,5,3
+98547,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,10.55,10,2,5,7
+98584,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,9.95,5,2,5,31
+98587,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,48
+98598,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,15.75,24,2,6,0
+98607,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,11
+98612,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,19.05,16,2,6,37
+98615,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,9.15,3,2,6,52
+98619,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,15.65,22,2,6,57
+98626,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,13.25,20,2,7,6
+98630,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,10.45,9,2,7,17
+98640,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,5.55,21,2,7,28
+98645,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,22.75,21,2,7,42
+98657,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.25,22,2,8,16
+98670,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,7.55,6,2,8,39
+98694,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,3
+98702,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.8,16.05,25,2,9,9
+98714,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,25
+98718,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,26
+98719,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,39
+98730,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,15.35,12,2,9,54
+98733,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,8.55,5,2,10,7
+98746,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,20.55,24,2,10,22
+98747,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.75,24,2,10,39
+98759,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.8,29.15,24,2,10,45
+98792,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,6.45,13,2,11,24
+98823,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,1
+98833,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,21.45,20,1,0,30
+98839,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,12.45,7,1,0,43
+98846,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,1
+98852,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,7
+98858,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,8
+98869,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,23.15,21,1,1,22
+98894,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.1,28.75,24,1,1,44
+98900,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,20.55,18,1,1,54
+98902,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.0,29.85,24,1,2,13
+98910,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.65,19,1,2,33
+98914,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,16.25,17,1,2,40
+98923,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,8.05,12,1,2,59
+98967,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,9.15,4,1,3,6
+98970,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,9.15,3,1,3,23
+98976,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,24.45,19,1,3,31
+98979,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,25.75,23,1,3,44
+98993,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,20.55,21,1,3,58
+98999,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,6.95,6,1,4,5
+99007,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,22.45,21,1,4,14
+99014,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.4,20.35,16,1,4,38
+99039,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,9
+99041,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,7.55,4,1,5,16
+99049,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.8,6.15,7,1,5,37
+99074,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,8.25,15,1,5,52
+99085,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.05,24,1,6,11
+99098,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,25.35,21,1,6,25
+99102,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.55,23,1,6,40
+99119,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,10.55,6,1,6,50
+99126,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.55,19,1,7,4
+99138,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.3,29.65,24,1,7,14
+99144,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,13.55,8,1,7,26
+99154,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,36
+99162,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,16.25,13,1,7,52
+99178,2010,2009-10,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,3
+99181,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,4
+99216,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,25.35,20,1,8,31
+99227,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,48
+99236,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,53
+99249,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.3,18.15,21,1,9,0
+99256,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,27
+99262,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.2,29.05,24,1,9,28
+99272,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,51
+99276,2010,2009-10,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.4,10.55,8,1,10,2
+99284,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,22.25,21,1,10,15
+99287,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,16.75,24,1,10,28
+99302,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,45
+99365,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,13.05,11,1,11,14
+99375,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-22-2010,20900635,PHX,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,21.45,20,1,11,22
+99389,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-22-2010,20900635,PHX,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,14.35,11,1,11,46

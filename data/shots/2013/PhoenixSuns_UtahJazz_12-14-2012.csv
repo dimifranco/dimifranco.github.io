@@ -1,0 +1,166 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+146621,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.65,3,4,0,23
+146628,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,5.95,5,4,0,37
+146632,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,11.55,23,4,0,48
+146636,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,0,58
+146640,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,6.15,4,4,0,59
+146644,2013,2012-13,1610612756,Phoenix Suns,202545,Luke Zeller,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,8.95,20,4,1,12
+146654,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,6.65,5,4,1,27
+146659,2013,2012-13,1610612756,Phoenix Suns,203197,Diante Garrett,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,8.05,3,4,1,32
+146679,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,5.65,10,4,1,50
+146684,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,2,1
+146687,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,11.85,7,4,2,21
+146691,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,4,2,36
+146702,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,17.65,17,4,2,45
+146740,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.25,8,4,3,23
+146745,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,4,3,39
+146770,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,3.95,23,4,4,8
+146776,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,7.55,6,4,4,27
+146784,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,20.55,18,4,4,34
+146810,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,19.75,25,4,5,11
+146818,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.05,4,4,5,26
+146845,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,10.45,7,4,6,3
+146852,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.8,12.65,8,4,6,15
+146857,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,4,6,37
+146863,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,6.35,14,4,7,0
+146869,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,10.75,7,4,7,15
+146919,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,4,8,21
+146936,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.65,0,4,7,58
+146947,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,13.05,8,4,8,4
+146954,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,4,8,21
+146962,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,4,8,23
+146985,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.8,17.35,25,4,8,35
+146990,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,4,8,59
+146999,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,23.55,18,4,9,2
+147029,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,12.75,7,4,9,37
+147035,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,6.65,6,4,9,51
+147041,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,13.25,8,4,9,59
+147046,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,7.15,15,4,10,4
+147050,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,13.05,7,4,10,23
+147055,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,4,10,38
+147080,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,4,11,16
+147089,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.85,11,4,11,26
+147113,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,17.35,24,3,0,0
+147118,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,6.65,12,3,0,6
+147126,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,0,26
+147130,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.25,1,3,0,26
+147134,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,3,0,41
+147146,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,5.35,3,3,0,52
+147185,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,11.65,15,3,1,6
+147187,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,10.85,5,3,1,28
+147197,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,3,1,47
+147200,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,3.05,13,3,1,50
+147210,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,3,2,8
+147214,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,22.25,19,3,2,21
+147220,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,3,2,39
+147225,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.05,24,3,2,48
+147257,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,4.15,15,3,3,21
+147261,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.55,25,3,3,48
+147268,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,3,4,2
+147279,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,24.65,19,3,4,15
+147285,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,28.55,24,3,4,33
+147324,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,12.65,16,3,5,17
+147343,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,19.25,24,3,5,33
+147352,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,4.45,20,3,5,41
+147356,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.75,0,3,6,4
+147366,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,8.25,16,3,6,13
+147374,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,11.95,14,3,6,26
+147380,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,21.65,16,3,6,45
+147386,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.9,14.35,10,3,6,55
+147399,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,12.75,7,3,7,13
+147417,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,4.15,15,3,7,40
+147430,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,17.55,12,3,7,52
+147440,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,8,14
+147445,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,17.65,15,3,8,16
+147454,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,3,8,45
+147486,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,25.25,25,3,9,40
+147490,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,21.25,17,3,9,57
+147499,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,24.15,20,3,10,11
+147505,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,12.95,8,3,10,22
+147509,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,18.45,17,3,10,46
+147511,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,6.75,15,3,11,11
+147514,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.05,15,3,11,27
+147518,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,12.65,7,3,11,43
+147535,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,30.95,25,2,0,0
+147549,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,29.65,25,2,0,33
+147553,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.85,3,2,0,48
+147561,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,4.75,14,2,1,7
+147566,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,5.35,10,2,1,17
+147573,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,14.95,11,2,1,29
+147592,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,18.35,19,2,1,49
+147616,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,23.85,26,2,2,19
+147623,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,13.25,8,2,2,39
+147644,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.8,17.95,14,2,3,14
+147647,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,2,3,34
+147653,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,23.35,24,2,3,42
+147659,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,4.45,16,2,4,4
+147674,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,12.35,20,2,4,32
+147684,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.45,5,2,4,35
+147687,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.35,2,2,4,57
+147714,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.85,3,2,5,11
+147718,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,11.85,24,2,5,28
+147724,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,2,5,38
+147730,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,2,5,42
+147735,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,17.05,21,2,5,46
+147738,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,17.85,24,2,6,2
+147771,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.35,2,2,6,44
+147781,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,5.25,5,2,7,1
+147793,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.55,23,2,7,27
+147800,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,22.45,20,2,7,43
+147806,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.4,15.45,25,2,7,54
+147851,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,2,8,50
+147855,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,2,8,57
+147860,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,4.95,1,2,8,59
+147862,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,9,7
+147868,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,19.45,17,2,9,12
+147886,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,10.45,10,2,9,47
+147910,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,23.15,24,2,10,30
+147916,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,22.85,18,2,10,38
+147944,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,2,11,16
+147950,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,15.75,11,2,11,37
+147969,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,24.15,21,1,0,0
+147996,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,5.95,8,1,0,52
+148005,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,4.25,20,1,1,8
+148006,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.55,25,1,1,35
+148013,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.05,24,1,1,40
+148017,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,10.25,6,1,2,3
+148027,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.3,20.35,15,1,2,22
+148051,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,1,2,54
+148055,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,7.75,4,1,3,6
+148060,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,4.95,23,1,3,33
+148068,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,13.05,7,1,3,47
+148071,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,1,4,9
+148077,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.65,4,1,4,15
+148083,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,1,4,26
+148088,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,5.25,20,1,4,42
+148090,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.4,15.95,10,1,4,59
+148094,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,15.35,24,1,5,20
+148133,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,22.25,18,1,5,46
+148138,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,1,5,59
+148148,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.75,24,1,6,2
+148171,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,4.75,2,1,6,20
+148176,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,13.05,7,1,6,26
+148178,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,9.65,5,1,6,44
+148182,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,17.35,15,1,6,59
+148198,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.35,3,1,7,11
+148204,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,1,7,13
+148217,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,1,7,28
+148222,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,12.95,8,1,7,30
+148224,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,10.55,16,1,7,53
+148247,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,18.35,13,1,8,18
+148252,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,8,36
+148257,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,12.95,17,1,8,55
+148266,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,8.95,15,1,9,8
+148273,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.75,3,1,9,11
+148279,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,7.75,6,1,9,22
+148285,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,22.55,21,1,9,31
+148289,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,7.25,5,1,9,47
+148300,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,1,9,54
+148313,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.9,19.75,15,1,10,2
+148333,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,17.65,13,1,10,20
+148343,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,16.45,20,1,10,30
+148351,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,10,50
+148359,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,20.85,17,1,11,9
+148365,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,12-14-2012,21200334,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,20.05,19,1,11,28
+148370,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,12-14-2012,21200334,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,1,11,44
+148381,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,12-14-2012,21200334,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,9.65,8,1,11,46

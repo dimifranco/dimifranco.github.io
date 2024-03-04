@@ -1,0 +1,161 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+98908,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,23.05,24,4,0,19
+98917,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,8.35,4,4,0,28
+98934,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.85,22,4,1,0
+98938,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.65,2,4,1,40
+98942,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,20.95,24,4,2,2
+98952,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,5.55,16,4,2,35
+98957,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.25,2,4,2,58
+98959,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.15,1,4,3,12
+98965,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,17.15,14,4,3,44
+98968,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.75,23,4,4,19
+98971,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,6.75,7,4,4,36
+98981,2012,2011-12,1610612745,Houston Rockets,202718,Chandler Parsons,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,5.85,20,4,5,2
+98985,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.95,4,4,5,24
+98996,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.15,23,4,5,47
+98999,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.55,4,4,6,10
+99011,2012,2011-12,1610612756,Phoenix Suns,2735,Josh Childress,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.65,22,4,6,31
+99013,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,16.05,13,4,6,55
+99014,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,8.35,8,4,7,11
+99016,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,20.65,17,4,7,32
+99019,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,21.95,16,4,7,53
+99020,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.85,3,4,8,13
+99023,2012,2011-12,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.7,28.75,24,4,8,20
+99024,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,17.85,15,4,8,33
+99027,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.95,5,4,8,48
+99029,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,16.55,15,4,9,11
+99032,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,22.85,24,4,9,35
+99038,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.3,34.55,29,4,9,46
+99040,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,30.15,24,4,10,11
+99047,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.65,0,4,10,53
+99050,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,30.15,25,4,11,21
+99064,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,21.25,17,3,0,1
+99065,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.05,24,3,0,5
+99067,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.65,23,3,0,28
+99070,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.35,3,3,0,38
+99071,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.2,29.15,24,3,0,53
+99073,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,12.65,10,3,1,15
+99075,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,22.55,19,3,1,44
+99079,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.7,20.85,16,3,2,6
+99080,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,4.75,15,3,2,31
+99092,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,3,2,45
+99093,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,16.45,24,3,2,47
+99097,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.85,3,3,3,15
+99100,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,14.55,15,3,3,37
+99102,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.35,22,3,4,4
+99107,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,30.25,25,3,4,37
+99109,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,10.25,17,3,4,53
+99118,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,23.65,19,3,5,29
+99120,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,29.15,24,3,5,45
+99121,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.15,2,3,5,56
+99127,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,22.05,17,3,5,59
+99131,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.25,23,3,6,11
+99135,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,20.05,18,3,6,29
+99136,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,9.95,20,3,6,53
+99144,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,3,7,7
+99146,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.7,29.35,25,3,7,25
+99148,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.15,2,3,7,37
+99149,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.4,14.15,16,3,7,57
+99150,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,14.35,20,3,8,16
+99153,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,6.45,3,3,8,28
+99155,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,18.35,19,3,8,46
+99161,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,28.85,24,3,8,54
+99162,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,20.55,17,3,9,4
+99164,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.25,25,3,9,21
+99169,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,13.45,10,3,9,49
+99173,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,10.55,10,3,10,16
+99177,2012,2011-12,1610612745,Houston Rockets,202718,Chandler Parsons,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,17.05,24,3,10,29
+99184,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,3,10,49
+99185,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,5.05,22,3,11,7
+99198,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,33.15,27,2,0,0
+99199,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,6.65,8,2,0,5
+99203,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.25,17,2,0,27
+99206,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,2,0,33
+99211,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.7,13.25,8,2,0,42
+99213,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,22.75,21,2,1,3
+99216,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.45,2,2,1,23
+99217,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.75,1,2,1,34
+99221,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,29.35,25,2,2,2
+99226,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,9.65,13,2,2,9
+99228,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,11.85,10,2,2,22
+99234,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,2,2,39
+99237,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,8.25,16,2,2,41
+99240,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,2,3,10
+99242,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,17.55,25,2,3,24
+99246,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,3.65,17,2,3,29
+99248,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.95,1,2,3,48
+99251,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,14.65,20,2,4,4
+99254,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.8,14.65,24,2,4,27
+99256,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.55,24,2,4,38
+99257,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,2,4,58
+99258,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.75,3,2,5,6
+99270,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,7.15,4,2,5,39
+99271,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,6.45,18,2,5,54
+99272,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,23.65,18,2,6,11
+99274,2012,2011-12,1610612756,Phoenix Suns,2735,Josh Childress,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.95,23,2,6,27
+99278,2012,2011-12,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,6.45,20,2,6,40
+99281,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,13.25,10,2,6,50
+99284,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.65,4,2,7,8
+99286,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,5.25,22,2,7,29
+99289,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,12.45,11,2,7,42
+99299,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.1,14.55,11,2,8,6
+99302,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.25,2,2,8,33
+99304,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,2,8,54
+99309,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,29.05,25,2,9,3
+99311,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,14.65,10,2,9,16
+99315,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,13.85,10,2,9,42
+99319,2012,2011-12,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.55,25,2,10,10
+99324,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,2,10,39
+99328,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,18.75,14,2,10,49
+99331,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,6.35,15,2,11,7
+99332,2012,2011-12,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.15,2,2,11,29
+99335,2012,2011-12,1610612756,Phoenix Suns,2735,Josh Childress,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.65,1,2,11,46
+99340,2012,2011-12,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,11.9,46.05,42,1,0,0
+99342,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.6,9.95,4,1,0,3
+99355,2012,2011-12,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,8.95,10,1,0,39
+99360,2012,2011-12,1610612745,Houston Rockets,201941,Jordan Hill,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,6.95,6,1,0,42
+99362,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.35,23,1,0,58
+99364,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.75,3,1,1,6
+99365,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,1,1,20
+99367,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Running Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.45,3,1,1,26
+99370,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.15,3,1,1,34
+99373,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,20.85,24,1,1,53
+99374,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,16.55,13,1,2,1
+99376,2012,2011-12,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.95,3,1,2,11
+99386,2012,2011-12,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,14.35,19,1,2,32
+99388,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,29.65,24,1,2,51
+99390,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.25,3,1,3,0
+99397,2012,2011-12,1610612745,Houston Rockets,202718,Chandler Parsons,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.15,2,1,3,31
+99399,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,23.85,20,1,3,54
+99403,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,1,4,2
+99408,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,8.55,5,1,4,29
+99411,2012,2011-12,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,25.85,24,1,4,32
+99412,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.35,0,1,4,56
+99417,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,9.45,4,1,5,9
+99421,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.65,5,1,5,15
+99422,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,8.65,7,1,5,31
+99425,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,7.75,5,1,5,42
+99429,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,6.45,8,1,5,46
+99430,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.0,12.15,8,1,6,4
+99434,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,9.65,5,1,6,14
+99436,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,14.65,11,1,6,31
+99438,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,17.05,22,1,6,40
+99444,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.15,2,1,7,14
+99445,2012,2011-12,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.65,24,1,7,26
+99450,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,29.05,24,1,7,41
+99455,2012,2011-12,1610612745,Houston Rockets,202718,Chandler Parsons,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,12.95,24,1,7,59
+99457,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.75,23,1,8,19
+99458,2012,2011-12,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.45,19,1,8,35
+99468,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.25,25,1,9,2
+99470,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,22.85,19,1,9,12
+99472,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.35,2,1,9,30
+99473,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,25.35,22,1,9,50
+99482,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,5.55,6,1,10,9
+99486,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,6.45,8,1,10,32
+99489,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,1,10,42
+99493,2012,2011-12,1610612745,Houston Rockets,202718,Chandler Parsons,F,SF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,1,10,46
+99494,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,1,10,56
+99497,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.75,3,1,11,6
+99502,2012,2011-12,1610612745,Houston Rockets,2449,Luis Scola,F,PF,02-09-2012,21100386,PHX,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,5.25,17,1,11,9
+99503,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,02-09-2012,21100386,PHX,HOU,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,1,11,26
+99506,2012,2011-12,1610612745,Houston Rockets,2223,Samuel Dalembert,C,C,02-09-2012,21100386,PHX,HOU,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,1,11,39

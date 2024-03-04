@@ -1,0 +1,153 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+169873,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.0,30.45,25,4,0,26
+169897,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,30.15,25,4,0,41
+169901,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.6,9.85,18,4,0,47
+169906,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,10.45,12,4,1,9
+169909,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.85,2,4,1,25
+169917,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,4,2,0
+169926,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.1,13.75,13,4,2,18
+169930,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.1,5.55,24,4,2,41
+169960,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,6.55,23,4,3,1
+169964,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,27
+169989,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.55,1,4,3,59
+170017,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,10.85,15,4,4,39
+170022,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.9,19.65,14,4,4,54
+170047,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,12.95,8,4,5,32
+170058,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,18.15,17,4,5,52
+170073,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.0,11.95,7,4,6,22
+170087,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.7,15.25,10,4,6,39
+170093,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,30.15,25,4,6,58
+170099,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.4,6.85,10,4,7,2
+170111,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.5,30.45,25,4,7,22
+170127,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,6.55,23,4,8,1
+170128,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.45,2,4,8,17
+170136,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,22.15,20,4,8,43
+170150,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.55,3,4,9,0
+170153,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,29.15,24,4,9,13
+170155,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,9,23
+170163,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,10.85,6,4,9,30
+170212,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.2,9.85,5,4,9,51
+170226,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,4,10,14
+170249,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.55,0,4,10,57
+170254,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.5,6.85,2,4,11,1
+170283,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,25.05,20,4,11,42
+170301,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.2,15.35,16,3,0,10
+170303,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,15.25,15,3,0,33
+170317,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,3,0,40
+170352,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,14.75,9,3,1,24
+170357,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,1,43
+170363,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.7,19.85,14,3,2,2
+170372,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.7,13.75,14,3,2,13
+170386,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,16.75,13,3,2,37
+170406,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.05,19,3,3,19
+170408,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.55,2,3,3,42
+170414,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,8.05,9,3,3,57
+170418,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,17.65,12,3,4,15
+170460,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.85,2,3,5,1
+170471,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,11.45,6,3,5,20
+170485,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,25.05,19,3,5,32
+170493,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.85,1,3,5,49
+170498,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.85,5,3,6,13
+170506,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,6,24
+170515,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,16.85,17,3,6,29
+170520,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,13.75,16,3,6,41
+170544,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,9.35,4,3,7,7
+170546,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,12.25,24,3,7,30
+170557,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,10.35,11,3,7,59
+170563,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.4,16.75,15,3,8,16
+170581,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,3,8,36
+170593,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.65,24,3,8,57
+170603,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.5,23.55,24,3,9,16
+170606,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.95,1,3,9,28
+170615,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,19.85,17,3,9,51
+170620,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.7,19.65,19,3,10,2
+170624,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,20
+170628,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,3,10,34
+170635,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,24.55,24,3,10,42
+170672,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.9,10.35,5,3,11,24
+170677,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.5,8.35,14,3,11,38
+170697,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,16.75,14,2,0,2
+170704,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.45,0,2,0,14
+170709,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.0,6.35,6,2,0,14
+170717,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,0,33
+170742,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.4,4.75,21,2,0,38
+170759,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.35,3,2,0,40
+170798,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.05,1,2,1,11
+170828,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.4,13.25,13,2,1,38
+170833,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,7.35,2,2,1,57
+170839,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.4,18.65,16,2,2,7
+170848,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.85,4,2,2,17
+170855,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.4,18.65,16,2,2,43
+170900,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,3,17
+170906,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.2,23.05,18,2,3,28
+170947,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.35,3,2,4,11
+170961,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,4,38
+170964,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.0,19.65,18,2,4,46
+170970,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.7,29.65,24,2,4,58
+170973,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,27.15,25,2,5,15
+170981,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,16.35,14,2,5,32
+170987,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,9.35,10,2,5,50
+170997,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.4,11.45,13,2,6,4
+171005,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.8,16.75,17,2,6,15
+171014,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.05,2,2,6,30
+171038,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,5.15,22,2,6,47
+171050,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.05,1,2,6,51
+171060,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.85,1,2,6,54
+171063,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.0,16.35,16,2,7,17
+171081,2016,2015-16,1610612746,LA Clippers,202362,Lance Stephenson,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.85,1,2,7,26
+171088,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.1,17.65,15,2,7,33
+171098,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,19.65,25,2,7,45
+171129,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,7.55,3,2,7,58
+171166,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,11.35,7,2,8,9
+171177,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,13.95,12,2,8,23
+171210,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,9.85,23,2,9,15
+171226,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,9.05,3,2,9,27
+171236,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,27.05,25,2,9,34
+171248,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,11.35,14,2,9,51
+171254,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,10,10
+171256,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.35,2,2,10,13
+171263,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,26.55,21,2,10,24
+171266,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,9.35,13,2,10,38
+171273,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,2,10,44
+171284,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,8.85,10,2,11,12
+171288,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,2,11,30
+171294,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,29.45,24,2,11,39
+171318,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.7,14.75,14,1,0,0
+171356,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.1,7.05,19,1,0,33
+171362,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,8.35,11,1,0,39
+171376,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,16.25,11,1,1,3
+171387,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.35,4,1,1,12
+171395,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,7.35,2,1,1,26
+171401,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.05,1,1,1,42
+171403,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.8,16.25,16,1,2,3
+171417,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.0,19.85,18,1,2,20
+171426,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.05,0,1,2,34
+171435,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,18.85,14,1,2,39
+171456,2016,2015-16,1610612746,LA Clippers,2746,Josh Smith,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,7.55,4,1,2,54
+171466,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,22.25,17,1,3,5
+171478,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.8,26.05,21,1,3,26
+171498,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,4,9
+171512,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,7.05,23,1,4,24
+171530,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.95,2,1,5,9
+171546,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,22.15,17,1,5,21
+171601,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,14.25,12,1,6,0
+171604,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,6.35,2,1,6,14
+171615,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.9,24.55,25,1,6,31
+171626,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,7,3
+171640,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.0,29.15,24,1,7,17
+171650,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,27.05,25,1,7,33
+171664,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.45,1,1,7,48
+171674,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.1,18.15,14,1,7,54
+171678,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.7,26.55,25,1,8,4
+171692,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.2,20.85,16,1,8,23
+171699,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.3,6.85,5,1,8,41
+171709,2016,2015-16,1610612746,LA Clippers,201933,Blake Griffin,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.6,4.15,9,1,8,53
+171718,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.45,0,1,9,15
+171724,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,16.25,11,1,9,19
+171732,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,9,36
+171739,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.4,9.85,4,1,9,55
+171751,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,11-25-2015,21500226,LAC,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,10,13
+171755,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-25-2015,21500226,LAC,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,7.05,7,1,10,28
+171766,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,12.75,14,1,10,52
+171771,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-25-2015,21500226,LAC,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,17.25,15,1,11,9
+171781,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-25-2015,21500226,LAC,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.85,23,1,11,18

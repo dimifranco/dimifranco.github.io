@@ -1,0 +1,165 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+28855,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.1,32.95,28,4,0,0
+28858,2013,2012-13,1610612748,Miami Heat,2592,James Jones,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,25.85,25,4,0,10
+28869,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,9.35,8,4,0,54
+28872,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,28.85,26,4,1,6
+28874,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,4,1,17
+28881,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,4,1,42
+28887,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.05,23,4,1,49
+28889,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,9.15,9,4,2,6
+28891,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.95,2,4,2,29
+28894,2013,2012-13,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.25,3,4,2,35
+28896,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,12.45,9,4,2,52
+28905,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,28.75,25,4,3,4
+28906,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,8.05,20,4,3,21
+28909,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.2,14.35,10,4,3,47
+28918,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,18.75,25,4,4,3
+28922,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.95,23,4,4,21
+28927,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,9.75,23,4,4,40
+28932,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,7.85,7,4,4,49
+28943,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.15,2,4,5,22
+28946,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,4,5,47
+28955,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,23.55,22,4,6,6
+28957,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.45,2,4,6,25
+28973,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,25.55,20,4,7,32
+28982,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,29.85,24,4,8,11
+28985,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.85,23,4,8,19
+28994,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.85,5,4,8,41
+28996,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.75,23,4,8,56
+29000,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.9,14.55,10,4,9,21
+29010,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.85,1,4,9,32
+29013,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,25.75,24,4,9,57
+29019,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,4,10,19
+29023,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.45,25,4,10,44
+29027,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,12.75,15,4,11,5
+29034,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.55,23,4,11,21
+29041,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,13.05,7,4,11,37
+29077,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,16.75,25,3,0,41
+29090,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.65,1,3,1,12
+29095,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.55,2,3,1,32
+29098,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.75,2,3,1,36
+29105,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.25,2,3,2,0
+29109,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.45,2,3,2,8
+29120,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,3,2,29
+29123,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.15,2,3,2,42
+29124,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,25.35,25,3,2,59
+29126,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,3,3,9
+29132,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,3,3,29
+29136,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,10.55,6,3,3,37
+29140,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,14.95,15,3,3,51
+29145,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.65,7,3,3,58
+29159,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.55,4,3,4,25
+29161,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,4,45
+29163,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,12.35,7,3,4,51
+29168,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.45,2,3,5,3
+29170,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.7,34.05,29,3,5,22
+29174,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.65,1,3,5,36
+29184,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,11.05,10,3,5,52
+29186,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,22.05,25,3,6,0
+29204,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.1,30.15,25,3,6,25
+29212,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,15.95,17,3,6,40
+29217,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,3,7,9
+29219,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,16.25,20,3,7,25
+29222,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,29.05,26,3,7,44
+29227,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,10.85,9,3,7,52
+29230,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,19.05,25,3,8,2
+29233,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,9.95,11,3,8,18
+29236,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,3,8,37
+29240,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.65,23,3,8,54
+29244,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,11.55,20,3,9,8
+29247,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.4,20.65,15,3,9,21
+29252,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,21.95,21,3,9,27
+29262,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.65,1,3,9,52
+29264,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.2,20.55,15,3,10,14
+29266,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.45,2,3,10,33
+29269,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.3,20.55,15,3,10,50
+29284,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,3,11,6
+29286,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,3,11,32
+29291,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,15.95,10,3,11,38
+29305,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.45,2,2,0,0
+29309,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.35,23,2,0,20
+29311,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,9.75,12,2,0,33
+29320,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,14.85,10,2,0,54
+29322,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,2,1,12
+29325,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,12.15,7,2,1,31
+29327,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.95,1,2,1,40
+29330,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,17.15,21,2,1,54
+29333,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,9.35,22,2,2,0
+29334,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.55,24,2,2,19
+29338,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,2,2,26
+29340,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,10.05,9,2,2,28
+29343,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,26.05,20,2,2,40
+29360,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.75,5,2,3,7
+29371,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.25,23,2,3,28
+29375,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.8,15.65,11,2,3,37
+29404,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.55,2,2,4,23
+29410,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,2,4,34
+29411,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,10.75,7,2,4,36
+29414,2013,2012-13,1610612748,Miami Heat,1740,Rashard Lewis,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.35,23,2,4,54
+29416,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,8.95,9,2,5,3
+29422,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.1,14.05,10,2,5,9
+29426,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,2,5,25
+29430,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,15.75,12,2,5,34
+29441,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,10.45,24,2,5,55
+29443,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.75,2,2,6,7
+29447,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,11.55,24,2,6,10
+29451,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,12.95,23,2,6,20
+29453,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,2,6,25
+29457,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,12.35,7,2,6,35
+29459,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,14.15,11,2,6,52
+29464,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,12.15,11,2,7,1
+29473,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,9.65,23,2,7,26
+29475,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.15,2,2,7,50
+29480,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,11.35,24,2,8,0
+29493,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,9.65,23,2,8,37
+29509,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,33.45,28,2,8,59
+29513,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,29.45,25,2,9,7
+29518,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.95,6,2,9,20
+29523,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,20.85,19,2,9,26
+29528,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,2,9,42
+29530,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.75,2,2,9,53
+29536,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.15,3,2,10,3
+29543,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.1,30.75,25,2,10,26
+29550,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.35,23,2,10,46
+29555,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.95,23,2,11,9
+29559,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,2,11,18
+29568,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,23.55,19,2,11,25
+29575,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,15.45,14,2,11,30
+29580,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.35,25,2,11,41
+29597,2013,2012-13,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,0,21
+29601,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,16.05,14,1,0,31
+29603,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,10.45,23,1,0,54
+29606,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,11.85,23,1,1,21
+29608,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,29.15,25,1,1,50
+29615,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.55,6,1,2,10
+29620,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,7.45,3,1,2,29
+29632,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,3,0
+29638,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.25,3,1,3,4
+29640,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.65,6,1,3,18
+29644,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,18.15,25,1,3,24
+29650,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,29.65,24,1,3,40
+29658,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.45,23,1,4,9
+29659,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,10.55,24,1,4,28
+29661,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,8.35,23,1,4,49
+29662,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.45,7,1,5,1
+29667,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,13.05,8,1,5,22
+29670,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,21.75,25,1,5,40
+29677,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.75,1,1,6,2
+29687,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.15,1,1,6,22
+29690,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,15.65,11,1,6,28
+29693,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,29.05,25,1,6,39
+29698,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,18.95,20,1,7,0
+29700,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.2,24.45,20,1,7,18
+29708,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,10.45,23,1,7,35
+29712,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,19.75,20,1,7,43
+29729,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,1,8,20
+29737,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.55,20,1,8,57
+29739,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.5,27.45,23,1,9,11
+29747,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.15,2,1,9,21
+29748,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.5,20.15,15,1,9,44
+29750,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,1,9,56
+29755,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.35,25,1,10,8
+29776,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.25,2,1,10,39
+29778,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,03-25-2013,21201049,ORL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,22.85,21,1,10,56
+29799,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,18.75,18,1,11,24
+29804,2013,2012-13,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,03-25-2013,21201049,ORL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,30.45,28,1,11,34

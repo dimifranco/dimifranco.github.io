@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+15458,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.55,17,4,0,24
+15465,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.15,3,4,1,9
+15473,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.05,0,4,1,33
+15484,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.65,4,4,1,54
+15493,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,16.05,15,4,2,9
+15496,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.65,7,4,2,36
+15511,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,4.75,19,4,2,51
+15533,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.65,4,4,2,54
+15535,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.0,11.85,8,4,3,3
+15553,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.45,1,4,3,29
+15570,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,20.55,19,4,3,51
+15577,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,26.15,26,4,4,2
+15585,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.15,23,4,4,21
+15591,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.8,5.35,0,4,4,37
+15598,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,23.95,24,4,4,59
+15612,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,20.35,19,4,5,24
+15625,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.55,4,4,5,39
+15639,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,13.25,8,4,6,8
+15648,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,5.25,3,4,6,48
+15658,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,5.65,12,4,6,50
+15673,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,4,7,7
+15682,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,7.25,12,4,7,14
+15690,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,8.25,4,4,7,24
+15701,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,8.95,8,4,7,30
+15702,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,12.35,8,4,7,50
+15711,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,27.45,24,4,8,4
+15717,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,20.35,17,4,8,11
+15723,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,30.15,25,4,8,28
+15729,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.9,17.35,13,4,8,42
+15747,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.2,19.45,14,4,9,0
+15752,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,9,15
+15756,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.1,14.95,10,4,9,24
+15780,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.85,25,4,9,49
+15781,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.4,24.45,19,4,10,9
+15792,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,10.75,7,4,10,28
+15795,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,21.95,17,4,10,56
+15807,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.25,24,4,11,29
+15811,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,5.25,4,4,11,42
+15834,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,25.25,25,3,0,0
+15870,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,9.65,6,3,0,20
+15884,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,3,0,40
+15896,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,5.25,3,3,0,55
+15899,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.35,0,3,1,25
+15913,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,20.85,21,3,1,8
+15923,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.85,2,3,1,27
+15930,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,10.05,5,3,1,43
+15957,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,19.85,16,3,2,2
+15999,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,21.15,25,3,2,29
+16000,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.25,3,3,2,50
+16024,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,16.45,17,3,3,36
+16044,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,28.55,25,3,4,15
+16059,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,22.25,22,3,4,30
+16064,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,13.85,18,3,4,50
+16072,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.9,21.65,16,3,4,59
+16079,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.65,2,3,5,21
+16084,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,4.25,15,3,5,38
+16085,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.1,19.85,15,3,6,1
+16097,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,13.05,8,3,6,26
+16104,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.15,2,3,6,36
+16110,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,19.05,20,3,6,51
+16131,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.15,2,3,7,9
+16150,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.45,23,3,7,35
+16152,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,12.15,19,3,7,55
+16160,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,6.75,10,3,8,2
+16162,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,29.15,24,3,8,25
+16168,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.55,17,3,8,38
+16181,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,24.15,20,3,8,54
+16194,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,10.25,6,3,9,29
+16208,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,6.35,14,3,9,55
+16217,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,23.15,19,3,10,10
+16226,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.45,1,3,10,27
+16235,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,6.15,5,3,10,28
+16238,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,9.75,11,3,10,46
+16249,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,10.05,14,3,10,55
+16255,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,24.45,21,3,11,9
+16264,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,25.55,25,3,11,28
+16273,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.05,24,3,11,30
+16287,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.85,25,2,0,0
+16290,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,3.65,24,2,0,13
+16297,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,21.15,15,2,0,30
+16300,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.25,1,2,0,37
+16308,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,22.75,25,2,1,0
+16319,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,21.95,25,2,1,14
+16324,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,16.75,18,2,1,25
+16336,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,3.95,2,2,1,35
+16341,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.05,5,2,1,38
+16342,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,4.95,12,2,1,56
+16345,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,2,16
+16349,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,6.75,11,2,2,20
+16356,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,2,2,42
+16358,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.2,17.85,14,2,3,0
+16364,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,5.25,13,2,3,24
+16375,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.25,1,2,3,36
+16379,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.65,2,2,3,38
+16389,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,5.35,9,2,3,53
+16406,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,24.75,25,2,4,5
+16411,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,2,4,27
+16412,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,28.75,25,2,4,29
+16426,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.75,23,2,4,57
+16430,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,5.85,10,2,5,6
+16440,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,26.35,21,2,5,17
+16449,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.6,30.15,25,2,5,42
+16459,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.25,2,2,6,10
+16486,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,8.65,12,2,6,59
+16492,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.2,18.35,14,2,7,16
+16522,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,17.05,11,2,7,46
+16529,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,3.35,18,2,7,57
+16534,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,9.65,17,2,8,0
+16539,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,10.25,12,2,8,24
+16553,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,6.65,15,2,8,38
+16556,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,17.85,18,2,8,54
+16590,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,4.75,13,2,9,40
+16598,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,3.95,2,2,9,56
+16604,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,21.75,23,2,9,58
+16609,2013,2012-13,1610612753,Orlando Magic,203117,Doron Lamb,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.35,3,2,10,7
+16617,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,25.25,24,2,10,18
+16625,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,7.15,16,2,10,43
+16658,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.55,5,2,11,0
+16662,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,5.65,10,2,11,19
+16669,2013,2012-13,1610612741,Chicago Bulls,2209,Vladimir Radmanovic,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.75,2,2,11,42
+16689,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,1,0,0
+16693,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,18.15,17,1,0,2
+16700,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,21.15,20,1,0,12
+16727,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.45,24,1,0,32
+16733,2013,2012-13,1610612753,Orlando Magic,203124,Kyle O'Quinn,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,1,0,49
+16759,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.25,2,1,0,52
+16768,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,17.05,23,1,1,7
+16839,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,12.45,10,1,2,3
+16845,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.95,23,1,2,13
+16852,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,13.25,17,1,2,26
+16853,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,23.35,18,1,2,42
+16861,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,1,2,59
+16871,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,22.45,24,1,3,21
+16880,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,9.75,11,1,3,38
+16892,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,6.45,11,1,3,56
+16900,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,13.75,15,1,4,17
+16919,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,16.05,14,1,4,33
+16921,2013,2012-13,1610612753,Orlando Magic,203090,Maurice Harkless,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.95,2,1,4,54
+16947,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,7.15,12,1,5,29
+16962,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.35,3,1,5,34
+16967,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,4.25,11,1,5,53
+16978,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,3.95,1,1,6,4
+16986,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,9.15,13,1,6,15
+17010,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,11.25,6,1,6,29
+17018,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.15,3,1,6,56
+17028,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,6.45,17,1,7,21
+17043,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,8.65,5,1,7,53
+17047,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,18.15,18,1,8,15
+17061,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-6.9,19.45,15,1,8,27
+17073,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,21.25,20,1,8,38
+17077,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,21.15,18,1,8,59
+17085,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.85,1,1,9,13
+17095,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.1,27.15,22,1,9,28
+17109,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,29.65,24,1,9,40
+17119,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,10.75,14,1,9,49
+17130,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,1,10,6
+17145,2013,2012-13,1610612753,Orlando Magic,202699,Tobias Harris,F,SF-PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.05,24,1,10,22
+17166,2013,2012-13,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.05,24,1,10,46
+17177,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.75,4,1,10,52
+17185,2013,2012-13,1610612753,Orlando Magic,2757,Beno Udrih,G,SG-PG,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,16.05,10,1,11,11
+17208,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,04-05-2013,21201131,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,20.05,14,1,11,23
+17212,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,04-05-2013,21201131,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,21.65,17,1,11,46

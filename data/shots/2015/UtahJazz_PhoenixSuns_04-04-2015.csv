@@ -1,0 +1,144 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+14403,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.15,25,4,0,1
+14406,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.25,3,4,0,1
+14430,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,14.85,14,4,0,18
+14433,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,22.75,19,4,0,34
+14442,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,29.65,24,4,0,48
+14446,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,1,5
+14448,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,4,1,21
+14454,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,8.15,2,4,1,35
+14458,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.9,27.65,22,4,1,37
+14466,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.65,2,4,1,55
+14469,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,6.65,6,4,2,12
+14474,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,4,2,39
+14478,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,4,3,1
+14479,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,4,3,22
+14488,2015,2014-15,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.75,24,4,5,15
+14491,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,4,3,37
+14493,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,4,3,58
+14496,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,28.25,24,4,4,9
+14505,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.75,23,4,4,42
+14513,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,15.65,13,4,5,0
+14517,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,8.55,4,4,5,6
+14521,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,20.85,25,4,5,24
+14529,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,7.55,14,4,5,34
+14535,2015,2014-15,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.45,23,4,6,5
+14563,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.75,23,4,6,42
+14569,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,21.95,26,4,6,46
+14575,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.15,22,4,6,55
+14597,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,7,47
+14605,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,11.25,23,4,7,50
+14609,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,12.45,24,4,7,57
+14613,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,18.35,17,4,8,18
+14634,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,8,47
+14665,2015,2014-15,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,5.35,18,4,9,17
+14667,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,6.15,6,4,9,36
+14671,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.95,24,4,9,58
+14682,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,22.25,22,4,10,15
+14711,2015,2014-15,1610612762,Utah Jazz,203955,Bryce Cotton,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,24.25,19,4,10,52
+14719,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.05,17,4,11,0
+14737,2015,2014-15,1610612756,Phoenix Suns,202077,Jerel McNeal,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,19.05,17,3,0,2
+14740,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,24.15,18,3,0,17
+14771,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,17.35,25,3,0,52
+14779,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,28.75,25,3,1,12
+14796,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,9.95,4,3,1,34
+14804,2015,2014-15,1610612762,Utah Jazz,203955,Bryce Cotton,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.7,6.65,7,3,1,43
+14813,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,6.65,6,3,1,50
+14831,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,14.05,9,3,2,34
+14836,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,11.05,9,3,2,53
+14865,2015,2014-15,1610612762,Utah Jazz,203955,Bryce Cotton,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,27.75,24,3,3,35
+14870,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,9.75,9,3,3,52
+14896,2015,2014-15,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,29.35,25,3,4,25
+14901,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.15,22,3,4,42
+14906,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,3,4,50
+14910,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,5,9
+14941,2015,2014-15,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.85,4,3,5,31
+14946,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,3,5,46
+14948,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,3,5,47
+14957,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,17.55,19,3,8,25
+14985,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,8.95,9,3,6,16
+14992,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.85,3,3,6,24
+14998,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,6.65,20,3,6,41
+15017,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.1,13.45,8,3,7,16
+15021,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,12.75,11,3,7,39
+15029,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,3,7,43
+15047,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,8,8
+15053,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,3,8,13
+15093,2015,2014-15,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.65,1,3,8,52
+15097,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,3,8,53
+15104,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,9,17
+15108,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.75,2,3,9,29
+15112,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,22.05,18,3,9,44
+15117,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,28.55,25,3,9,51
+15125,2015,2014-15,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,29.05,25,3,10,7
+15134,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,3,10,23
+15140,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,5.85,7,3,10,43
+15153,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,27.75,24,3,11,16
+15177,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.35,1,3,11,44
+15201,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,16.05,25,2,0,3
+15206,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.25,3,2,0,27
+15211,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,29.85,24,2,0,31
+15222,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,2,0,51
+15226,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,5.25,8,2,1,16
+15227,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,17.65,15,2,1,28
+15233,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.65,3,2,1,46
+15234,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,2,13
+15243,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.5,23.05,18,2,2,37
+15276,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.65,24,2,3,15
+15283,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.05,2,2,3,22
+15289,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.1,19.55,14,2,3,34
+15297,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,25.75,22,2,3,44
+15299,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,24.45,19,2,4,8
+15335,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,18.75,16,2,4,29
+15336,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,26.35,22,2,4,48
+15337,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,20.05,18,2,5,8
+15364,2015,2014-15,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,2,5,44
+15368,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,26.65,25,2,5,58
+15406,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.95,22,2,6,35
+15411,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,4
+15417,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.3,5.25,21,2,7,24
+15442,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,2,8,11
+15446,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,7.25,3,2,8,13
+15481,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,2,9,53
+15488,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,11.35,8,2,8,54
+15526,2015,2014-15,1610612756,Phoenix Suns,202077,Jerel McNeal,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,25.05,21,2,9,32
+15547,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,26.95,24,2,9,53
+15568,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,2,10,36
+15574,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Running Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.25,3,2,10,38
+15618,2015,2014-15,1610612756,Phoenix Suns,203462,Archie Goodwin,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,11,44
+15636,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,30.45,25,1,0,2
+15662,2015,2014-15,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,38
+15672,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,10.75,6,1,1,8
+15680,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.65,3,1,1,28
+15689,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,1,1,58
+15694,2015,2014-15,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.45,3,1,2,6
+15710,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,1,2,37
+15714,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,13.25,16,1,2,56
+15719,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,30.25,25,1,3,4
+15758,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,7.15,5,1,3,20
+15761,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.05,4,1,3,53
+15767,2015,2014-15,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.85,2,1,4,11
+15775,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,4,19
+15780,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.4,13.25,8,1,4,37
+15783,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.4,11.35,8,1,4,52
+15790,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.7,24.95,20,1,5,13
+15817,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,12.65,23,1,5,49
+15826,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.85,2,1,5,54
+15833,2015,2014-15,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.95,23,1,6,10
+15847,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,7.55,5,1,6,28
+15859,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,7.45,4,1,6,41
+15862,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,30.25,25,1,6,59
+15868,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.35,25,1,7,10
+15879,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,18.35,25,1,7,46
+15883,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,1,8,1
+15895,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.25,2,1,8,7
+15907,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.55,3,1,8,37
+15919,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,1,8,58
+15929,2015,2014-15,1610612756,Phoenix Suns,202339,Eric Bledsoe,G,PG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,7.45,7,1,9,18
+15934,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,24.75,20,1,9,41
+15937,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.45,3,1,9,52
+15946,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-04-2015,21401145,PHX,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.85,24,1,10,1
+15956,2015,2014-15,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,12.95,21,1,10,33
+15960,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.55,3,1,10,54
+15966,2015,2014-15,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,6.35,5,1,11,15
+15975,2015,2014-15,1610612756,Phoenix Suns,201148,Brandan Wright,F,PF,04-04-2015,21401145,PHX,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,11,39

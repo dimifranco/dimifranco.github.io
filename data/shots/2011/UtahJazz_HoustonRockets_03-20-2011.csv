@@ -1,0 +1,180 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+30621,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,0,0
+30622,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,26.55,22,4,0,2
+30623,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,29.85,24,4,0,8
+30624,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,7.85,22,4,0,13
+30626,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.25,2,4,0,15
+30627,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,24.95,26,4,0,22
+30631,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,4,0,25
+30632,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,31.75,26,4,0,31
+30635,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.8,30.15,24,4,0,39
+30636,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,17.65,25,4,0,46
+30641,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.95,5,4,0,52
+30643,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.05,3,4,1,15
+30647,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,21.95,20,4,1,24
+30648,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.35,25,4,1,48
+30650,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,4,1,52
+30653,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,4,1,55
+30666,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,6.45,15,4,3,7
+30672,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,11.65,6,4,2,9
+30675,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,23.05,19,4,2,32
+30676,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,12.45,17,4,2,47
+30683,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,10.05,9,4,3,36
+30685,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.45,2,4,3,51
+30692,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.8,12.65,8,4,4,11
+30696,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.05,2,4,4,42
+30707,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.95,2,4,4,59
+30725,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,8.65,24,4,5,42
+30728,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,11.85,6,4,5,51
+30734,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.75,1,4,6,9
+30736,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.95,7,4,6,10
+30738,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.4,24.15,19,4,6,29
+30753,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.35,3,4,6,47
+30767,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,8.35,17,4,7,30
+30771,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,4,7,54
+30775,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,4,7,57
+30779,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.85,25,4,8,1
+30796,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,4,8,13
+30804,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,14.65,14,4,8,34
+30808,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.5,19.45,14,4,8,41
+30831,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,21.65,17,4,9,2
+30858,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,4,9,39
+30863,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,23.15,19,4,10,1
+30875,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,4,10,45
+30880,2011,2010-11,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.55,3,4,10,48
+30891,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.45,3,4,11,1
+30892,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,11.05,6,4,11,3
+30899,2011,2010-11,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.35,3,4,11,19
+30902,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,5.25,18,4,11,36
+30909,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,10.85,24,4,11,44
+30921,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,0.2,68.45,63,3,0,0
+30929,2011,2010-11,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,20.55,25,3,0,3
+30932,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,22.75,19,3,0,8
+30937,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,3,0,30
+30941,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,6.45,9,3,0,35
+30947,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,3,0,51
+30953,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,14.05,15,3,0,53
+30962,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,19.25,24,3,1,11
+30963,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,6.95,6,3,1,34
+30966,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,3,1,56
+30968,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,6.45,18,3,2,0
+30980,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,9.35,7,3,2,23
+30985,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,12.75,12,3,2,30
+31010,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,8.35,23,3,3,10
+31038,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,3,3,40
+31039,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.45,2,3,3,41
+31049,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,8.35,8,3,4,8
+31078,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.3,14.85,9,3,4,51
+31082,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,3,5,9
+31089,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.65,1,3,5,35
+31095,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,6.65,10,3,5,38
+31097,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,11.55,8,3,6,2
+31098,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,23.65,19,3,6,21
+31102,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,3,6,32
+31106,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,14.05,9,3,6,34
+31120,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,10.05,10,3,6,46
+31125,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.1,20.65,15,3,6,57
+31132,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,3,7,7
+31146,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,29.85,27,3,7,36
+31149,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.6,29.15,24,3,7,52
+31153,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.95,23,3,8,0
+31171,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.35,3,3,8,15
+31188,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,14.35,10,3,8,36
+31197,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,3,9,5
+31203,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,15.95,18,3,9,12
+31210,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,8.85,3,3,9,23
+31218,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.5,20.05,14,3,9,37
+31226,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.55,2,3,9,41
+31236,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,3,9,50
+31244,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,8.05,12,3,9,56
+31253,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.45,4,3,10,8
+31255,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,3,10,16
+31262,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.9,17.85,20,3,10,30
+31264,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,17.15,25,3,10,50
+31272,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.4,14.65,9,3,11,9
+31274,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,25.25,20,3,11,33
+31280,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.95,4,3,11,51
+31296,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,6.75,6,2,0,26
+31299,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.35,25,2,0,35
+31303,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,24.25,19,2,0,43
+31307,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,7.25,6,2,1,10
+31314,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.25,2,2,1,21
+31317,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,29.85,25,2,1,40
+31322,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,20.85,24,2,1,57
+31327,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,8.35,6,2,2,9
+31348,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,15.95,10,2,2,40
+31374,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.15,9,2,3,1
+31382,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.85,4,2,3,7
+31387,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,2,3,29
+31390,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,2,3,46
+31399,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.15,2,2,3,52
+31417,2011,2010-11,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,22.75,25,2,4,22
+31441,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,10.25,7,2,4,35
+31446,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,18.15,25,2,4,54
+31449,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.45,1,2,5,0
+31455,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.75,1,2,5,2
+31462,2011,2010-11,1610612745,Houston Rockets,201609,Goran Dragic,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,30.45,25,2,5,22
+31464,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.55,3,2,5,33
+31477,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,2,5,43
+31478,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,10.05,10,2,5,56
+31506,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,9.35,10,2,6,35
+31519,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,21.15,24,2,6,57
+31557,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.6,8.95,4,2,7,57
+31580,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.2,23.65,19,2,8,19
+31593,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,14.35,13,2,8,30
+31601,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,22.85,21,2,8,43
+31603,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,2,9,12
+31606,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,23.15,19,2,9,29
+31610,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,9,54
+31614,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,19.05,18,2,9,55
+31628,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.45,7,2,10,20
+31646,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,2,10,41
+31653,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.35,4,2,10,49
+31663,2011,2010-11,1610612745,Houston Rockets,201941,Jordan Hill,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,13.55,8,2,11,18
+31666,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,6.75,19,2,11,34
+31688,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,1,0,3
+31704,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.85,1,1,0,28
+31707,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,26.65,25,1,0,32
+31710,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,12.65,20,1,0,51
+31714,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,17.35,25,1,1,8
+31720,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.95,2,1,1,17
+31726,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,5.95,10,1,1,34
+31728,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,9.75,10,1,1,50
+31734,2011,2010-11,1610612745,Houston Rockets,202335,Patrick Patterson,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,18.95,17,1,1,58
+31736,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,14.05,13,1,2,18
+31753,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,11.85,23,1,2,42
+31759,2011,2010-11,1610612745,Houston Rockets,201584,Courtney Lee,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.95,25,1,2,49
+31769,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.15,22,1,3,14
+31773,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,19.25,21,1,3,43
+31774,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,1,3,54
+31780,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.65,3,1,3,56
+31805,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,15.65,10,1,4,10
+31810,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,22.85,17,1,4,32
+31813,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.65,2,1,4,39
+31816,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,5.25,10,1,4,46
+31825,2011,2010-11,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,24.25,19,1,5,6
+31841,2011,2010-11,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,4.95,16,1,5,33
+31844,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.05,22,1,5,44
+31856,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.15,1,1,6,0
+31880,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,6.45,18,1,6,31
+31883,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.65,10,1,6,46
+31901,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,14.35,9,1,6,57
+31903,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,1,7,10
+31916,2011,2010-11,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,17.35,12,1,7,16
+31952,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,17.65,24,1,7,41
+31956,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,1,7,57
+31975,2011,2010-11,1610612745,Houston Rockets,2449,Luis Scola,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.75,3,1,8,38
+31984,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,1,8,53
+31988,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.95,1,1,8,54
+32005,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,5.85,15,1,9,15
+32013,2011,2010-11,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,29.35,24,1,9,26
+32020,2011,2010-11,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,14.65,9,1,9,44
+32025,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,8.35,5,1,10,1
+32033,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.65,1,1,10,18
+32034,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.45,2,1,10,33
+32042,2011,2010-11,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,1,10,49
+32051,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,14.95,9,1,10,55
+32059,2011,2010-11,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,03-20-2011,21001040,HOU,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,21.45,25,1,11,15
+32068,2011,2010-11,1610612745,Houston Rockets,2755,Kevin Martin,G,SG,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,20.05,24,1,11,19
+32073,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,14.95,9,1,11,40
+32081,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-20-2011,21001040,HOU,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,21.75,18,1,11,48

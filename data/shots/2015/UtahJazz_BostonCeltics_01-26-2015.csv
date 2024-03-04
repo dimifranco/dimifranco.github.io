@@ -1,0 +1,157 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+93686,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,27.25,24,4,0,0
+93688,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.85,2,4,0,6
+93701,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.0,17.15,12,4,0,12
+93717,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,27.75,24,4,0,23
+93720,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,18.65,24,4,0,29
+93742,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,24.75,24,4,0,45
+93752,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,47
+93755,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.15,3,4,0,48
+93757,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,31.85,26,4,0,55
+93762,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,5.25,18,4,1,9
+93769,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,4,1,38
+93784,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,4,2,10
+93788,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,15.75,12,4,2,23
+93790,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.45,23,4,2,52
+93793,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.75,4,4,3,1
+93796,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.6,15.45,11,4,3,10
+93802,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,31.35,26,4,3,28
+93805,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.25,3,4,3,48
+93810,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.95,25,4,4,19
+93814,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,10.55,5,4,4,39
+93819,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.85,19,4,5,0
+93825,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,5,13
+93826,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,4,5,31
+93830,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,9.45,5,4,5,33
+93834,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,10.45,8,4,5,45
+93845,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,19.75,16,4,6,27
+93848,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.5,17.05,11,4,6,43
+93849,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.45,3,4,7,2
+93853,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.25,6,4,7,22
+93861,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,22.05,22,4,7,30
+93862,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.45,23,4,7,57
+93865,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.95,23,4,8,23
+93868,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.75,23,4,8,40
+93875,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,4.15,18,4,8,59
+93877,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,29.85,24,4,9,14
+93888,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,20.55,17,4,9,42
+93890,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.35,2,4,10,1
+93892,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.15,2,4,10,10
+93900,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,6.65,20,4,10,53
+93906,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,30.95,25,4,10,59
+93908,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.9,11.25,8,4,11,9
+93914,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.85,25,4,11,27
+93923,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-12.1,52.95,49,3,0,0
+93924,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,28.25,26,3,0,3
+93928,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.45,23,3,0,8
+93930,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.55,24,3,0,29
+93933,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.45,3,3,0,36
+93934,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.55,2,3,0,56
+93936,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,4.45,15,3,1,4
+93938,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.95,3,3,1,23
+93947,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,6.35,9,3,1,55
+93949,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,3,2,14
+93952,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,11.25,7,3,2,16
+93961,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,47
+93965,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,10.85,5,3,3,1
+93970,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.3,11.55,6,3,3,7
+93979,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,8.65,23,3,3,48
+93985,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.05,20,3,4,3
+93988,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,8.25,9,3,4,12
+93994,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,8.35,5,3,4,21
+93999,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,23.95,19,3,4,30
+94000,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.85,1,3,4,53
+94004,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.15,18,3,5,15
+94007,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.45,1,3,5,40
+94015,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,16.45,12,3,6,12
+94016,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,11.65,7,3,6,27
+94018,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,3,6,54
+94024,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.85,2,3,7,1
+94028,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,28.25,24,3,7,31
+94031,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,25.75,24,3,7,46
+94035,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,8,0
+94037,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,4.75,3,3,8,17
+94041,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,8.05,10,3,8,24
+94042,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,4.75,1,3,8,42
+94047,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,26.95,21,3,8,56
+94060,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.65,4,3,9,23
+94061,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,24.95,24,3,9,39
+94065,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,24.15,19,3,9,50
+94067,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,16.85,11,3,10,4
+94073,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,3.95,2,3,10,23
+94074,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,11.05,23,3,10,29
+94077,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,11.35,15,3,10,53
+94078,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.05,15,3,11,19
+94086,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,16.6,52.35,49,2,0,0
+94089,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,0,2
+94108,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.5,17.15,13,2,0,47
+94110,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,23.15,18,2,1,1
+94121,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.05,25,2,2,9
+94124,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,21.75,17,2,2,14
+94126,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.1,28.85,24,2,2,26
+94130,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,2,44
+94133,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,23.15,22,2,2,57
+94143,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,23.95,23,2,3,12
+94145,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.35,25,2,3,38
+94151,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.3,5.85,0,2,3,49
+94154,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,19.25,14,2,3,50
+94157,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,18.35,18,2,4,10
+94162,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,17.95,24,2,4,17
+94174,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,10.45,6,2,4,47
+94178,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.75,23,2,5,10
+94195,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.65,23,2,5,50
+94197,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,19.05,17,2,6,1
+94205,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,2,6,29
+94208,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,21.25,18,2,6,52
+94209,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,2,7,11
+94213,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,9.75,22,2,7,25
+94216,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,3.55,14,2,7,32
+94226,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,17.15,24,2,7,56
+94227,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,27.75,24,2,8,12
+94230,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.95,4,2,8,32
+94235,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,24.75,26,2,8,50
+94239,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,5.65,3,2,9,2
+94254,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,2,9,41
+94260,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,28.55,24,2,9,59
+94266,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,6.15,12,2,10,9
+94273,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.7,20.55,15,2,10,48
+94278,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,13.55,13,2,11,8
+94279,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,2,11,28
+94281,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,22.05,24,2,11,31
+94285,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.75,23,2,11,49
+94295,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,41.95,40,1,0,0
+94298,2015,2014-15,1610612738,Boston Celtics,2419,Tayshaun Prince,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,13.55,10,1,0,2
+94299,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,1,0,24
+94303,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,21.95,16,1,0,26
+94306,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.65,3,1,0,54
+94309,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.75,24,1,1,12
+94311,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,1,1,27
+94317,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,20.95,17,1,1,45
+94319,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-5.4,19.55,15,1,1,58
+94324,2015,2014-15,1610612738,Boston Celtics,201977,Marcus Thornton,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.35,3,1,2,12
+94338,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,16.45,15,1,2,47
+94339,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.65,2,1,3,2
+94356,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.9,12.75,9,1,3,41
+94372,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,4,33
+94374,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,10.55,12,1,4,50
+94380,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,5,11
+94384,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,24.65,19,1,5,19
+94392,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,2.85,9,1,5,40
+94395,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.2,23.65,19,1,6,6
+94402,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,22.75,19,1,6,26
+94403,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,56
+94410,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.05,5,1,7,10
+94415,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,8.65,5,1,7,37
+94416,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,1,7,54
+94418,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,24.65,24,1,7,59
+94429,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.55,4,1,8,44
+94434,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,1,8,55
+94441,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,9,16
+94442,2015,2014-15,1610612738,Boston Celtics,203096,Jared Sullinger,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,6.75,12,1,9,19
+94447,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,17.95,15,1,9,31
+94453,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,23.15,24,1,10,0
+94454,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-26-2015,21400673,UTA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,4.25,2,1,10,22
+94460,2015,2014-15,1610612738,Boston Celtics,202340,Avery Bradley,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.15,24,1,10,45
+94462,2015,2014-15,1610612762,Utah Jazz,202683,Enes Freedom,C,C,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,12.45,9,1,11,0
+94470,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.25,2,1,11,18
+94474,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,01-26-2015,21400673,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.65,25,1,11,37

@@ -1,0 +1,177 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+60327,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,29.15,24,5,0,6
+60328,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,7.85,8,5,0,9
+60329,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,17.05,15,5,0,12
+60330,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,25.85,24,5,0,44
+60332,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,5,1,7
+60335,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.6,12.65,8,5,1,8
+60338,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.8,19.75,14,5,1,25
+60339,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,11.35,13,5,1,42
+60341,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,24.65,20,5,2,5
+60353,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,29.35,24,5,2,44
+60355,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.45,4,5,2,49
+60360,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,16.55,14,5,3,7
+60363,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,20.05,24,5,3,20
+60368,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,13.45,14,5,3,34
+60371,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,13.45,17,5,3,53
+60377,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,8.55,13,5,4,8
+60381,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,29.45,24,5,4,32
+60388,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,27.65,22,5,4,36
+60394,2013,2012-13,1610612759,San Antonio Spurs,201168,Tiago Splitter,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.75,5,5,4,46
+60399,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,15.65,24,4,0,0
+60416,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,14.05,8,4,0,4
+60422,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,21.25,16,4,0,11
+60425,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,17.15,24,4,0,35
+60427,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,5.35,11,4,0,49
+60429,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,11.05,5,4,1,10
+60436,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,8.05,8,4,1,24
+60441,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,22.85,26,4,1,36
+60446,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,17.95,17,4,2,5
+60448,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,2,29
+60491,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,12.95,24,4,3,16
+60497,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,4,3,24
+60505,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,10.55,5,4,3,30
+60513,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.35,7,4,3,37
+60518,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,14.15,24,4,3,54
+60528,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,6.15,13,4,4,35
+60532,2013,2012-13,1610612759,San Antonio Spurs,201168,Tiago Splitter,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.15,2,4,4,40
+60538,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,10.75,5,4,4,49
+60543,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,4,5,9
+60548,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.65,2,4,5,23
+60559,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,6.35,6,4,5,42
+60563,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.95,3,4,6,0
+60566,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,9.75,12,4,6,2
+60568,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,21.75,16,4,6,19
+60574,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,14.85,13,4,6,27
+60577,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,4.65,15,4,6,49
+60595,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,10.05,5,4,7,5
+60617,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.15,2,4,7,31
+60619,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,28.05,24,4,7,57
+60629,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.45,22,4,8,7
+60654,2013,2012-13,1610612759,San Antonio Spurs,201986,Nando De Colo,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,5.35,10,4,8,48
+60665,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.05,22,4,9,4
+60669,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,17.15,15,4,9,28
+60673,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,15.65,14,4,9,46
+60677,2013,2012-13,1610612759,San Antonio Spurs,2564,Boris Diaw,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.65,3,4,10,2
+60684,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,4.25,8,4,10,13
+60686,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,4,10,33
+60689,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.85,7,4,10,48
+60695,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,5.85,11,4,10,58
+60699,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,5.25,7,4,11,11
+60743,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.35,22,3,0,2
+60757,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.35,2,3,0,17
+60763,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.75,2,3,0,18
+60794,2013,2012-13,1610612759,San Antonio Spurs,201986,Nando De Colo,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,27.95,23,3,1,1
+60800,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.75,7,3,1,16
+60821,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.8,27.75,24,3,1,42
+60826,2013,2012-13,1610612756,Phoenix Suns,203088,Kendall Marshall,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,4.95,19,3,1,56
+60831,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.75,2,3,2,23
+60836,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.15,2,3,2,42
+60839,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,12.75,9,3,2,44
+60842,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,5.55,10,3,2,59
+60850,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,11.55,6,3,3,43
+60863,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,3,3,48
+60870,2013,2012-13,1610612756,Phoenix Suns,203088,Kendall Marshall,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,3,55
+60895,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.75,17,3,4,16
+60904,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.15,3,3,4,37
+60919,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,3,4,55
+60924,2013,2012-13,1610612759,San Antonio Spurs,2564,Boris Diaw,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,16.75,15,3,5,0
+60971,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,3,5,41
+60977,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,3,5,42
+60981,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.0,15.45,15,3,5,44
+60987,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.95,3,3,5,59
+60996,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,12.15,10,3,6,5
+61006,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.9,18.15,13,3,6,16
+61012,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,10.55,15,3,6,38
+61014,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,6.45,7,3,6,51
+61019,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.45,1,3,7,8
+61025,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,15.75,15,3,7,13
+61034,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,21.25,16,3,7,35
+61037,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,7.75,14,3,7,58
+61060,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,9.95,15,3,8,22
+61063,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,11.55,15,3,8,40
+61072,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,19.15,16,3,9,12
+61078,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,3.05,22,3,8,58
+61083,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,3.95,22,3,9,17
+61086,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,9.15,6,3,9,30
+61093,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.4,21.45,17,3,9,58
+61097,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,3,10,17
+61107,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,19.05,16,3,11,4
+61111,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,7.85,10,3,11,12
+61115,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,15.15,9,3,11,24
+61124,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,22.45,17,3,11,47
+61131,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.75,1,2,0,1
+61142,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,2,0,8
+61182,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,0,25
+61188,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,30.75,25,2,0,26
+61193,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.45,23,2,0,41
+61199,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.75,1,2,0,57
+61204,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.15,23,2,1,4
+61231,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,6.35,8,2,1,55
+61237,2013,2012-13,1610612759,San Antonio Spurs,201168,Tiago Splitter,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,2,2,3
+61243,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,5.85,12,2,2,10
+61261,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,2,2,41
+61266,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,20.55,19,2,2,42
+61276,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,8.05,11,2,3,7
+61280,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,19.05,20,2,3,24
+61287,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,2,3,56
+61316,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.4,28.25,24,2,4,14
+61322,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,12.75,7,2,4,22
+61331,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,23.85,18,2,4,36
+61339,2013,2012-13,1610612759,San Antonio Spurs,201168,Tiago Splitter,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,2,4,52
+61344,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,9.65,15,2,4,53
+61351,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,18.95,19,2,5,21
+61385,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.75,1,2,5,52
+61389,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,19.75,18,2,6,13
+61402,2013,2012-13,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,PF-SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,2,6,48
+61412,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,11.65,9,2,7,5
+61439,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,7.55,14,2,7,33
+61441,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,9.35,13,2,7,51
+61449,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.85,15,2,8,3
+61454,2013,2012-13,1610612759,San Antonio Spurs,201988,Patty Mills,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,13.55,19,2,8,20
+61474,2013,2012-13,1610612759,San Antonio Spurs,1536,Stephen Jackson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.15,24,2,8,38
+61481,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.55,3,2,8,53
+61491,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,8.05,7,2,9,15
+61502,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,8.25,16,2,9,30
+61506,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.95,7,2,9,49
+61526,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.35,7,2,10,10
+61536,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,14.05,18,2,10,45
+61539,2013,2012-13,1610612756,Phoenix Suns,203088,Kendall Marshall,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,19.05,18,2,11,4
+61547,2013,2012-13,1610612759,San Antonio Spurs,201988,Patty Mills,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,11,32
+61549,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,24.75,22,2,11,41
+61558,2013,2012-13,1610612759,San Antonio Spurs,1938,Manu Ginobili,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,21.15,24,1,0,0
+61568,2013,2012-13,1610612759,San Antonio Spurs,1536,Stephen Jackson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.25,2,1,0,28
+61585,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,3.15,22,1,0,52
+61588,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,1,1,0
+61595,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.85,25,1,1,8
+61604,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.05,1,1,1,38
+61611,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,15.95,16,1,1,46
+61619,2013,2012-13,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,6.15,6,1,1,56
+61622,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,4.15,18,1,2,11
+61641,2013,2012-13,1610612759,San Antonio Spurs,1536,Stephen Jackson,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.85,23,1,2,31
+61660,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.8,25.25,20,1,3,21
+61664,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,4.75,12,1,3,35
+61667,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,5.65,11,1,3,51
+61675,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,6.15,6,1,4,6
+61698,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.05,1,1,4,37
+61702,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,1,4,44
+61708,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,21.45,18,1,5,3
+61717,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,14.15,17,1,5,15
+61722,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.2,17.35,20,1,5,31
+61747,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,20.05,18,1,6,9
+61755,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,5.25,11,1,6,34
+61762,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,5.55,10,1,6,39
+61767,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,1,6,58
+61772,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,23.05,20,1,7,9
+61848,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.25,2,1,8,12
+61862,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,14.85,19,1,8,20
+61875,2013,2012-13,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.65,23,1,8,46
+61884,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,20.95,19,1,9,4
+61890,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,25.85,21,1,9,18
+61897,2013,2012-13,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,24.65,19,1,9,33
+61907,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,23.55,18,1,9,52
+61919,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,21.45,16,1,10,22
+61927,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,25.85,23,1,10,34
+61938,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,21.45,21,1,10,49
+61942,2013,2012-13,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-27-2013,21200858,SAS,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.95,1,1,11,18
+61956,2013,2012-13,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-27-2013,21200858,SAS,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,5.35,22,1,11,36

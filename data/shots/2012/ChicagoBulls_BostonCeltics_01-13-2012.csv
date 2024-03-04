@@ -1,0 +1,152 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+134122,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,3,3,44
+134132,2012,2011-12,1610612738,Boston Celtics,202707,JaJuan Johnson,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,4,0,5
+134137,2012,2011-12,1610612738,Boston Celtics,202734,E'Twaun Moore,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,21.95,16,4,0,6
+134143,2012,2011-12,1610612741,Chicago Bulls,2243,Brian Scalabrine,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.7,14.95,17,4,0,14
+134147,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.95,3,4,0,20
+134158,2012,2011-12,1610612738,Boston Celtics,202734,E'Twaun Moore,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.75,1,4,0,39
+134196,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,19.45,25,4,1,24
+134211,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.95,1,4,1,53
+134217,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.25,1,4,2,14
+134226,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.25,5,4,2,30
+134230,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.85,23,4,2,42
+134236,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.25,3,4,3,2
+134245,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,17.85,14,4,3,12
+134252,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.05,24,4,3,31
+134255,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,12.35,21,4,3,58
+134265,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,4,30
+134271,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,30.65,26,4,4,58
+134294,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.2,24.95,22,4,5,25
+134308,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,27.15,26,4,5,51
+134343,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.7,21.75,17,4,6,16
+134345,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.35,4,4,6,39
+134354,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,30.65,25,4,7,0
+134367,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.1,30.15,25,4,7,30
+134372,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,28.05,26,4,7,50
+134386,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,7.45,6,4,8,13
+134418,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,9.95,7,4,8,44
+134422,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,4,9,1
+134430,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,6.2,19.45,15,4,9,22
+134439,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,22.85,18,4,9,38
+134456,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,19.75,24,4,10,0
+134461,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,7.45,8,4,10,22
+134478,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,10.55,9,4,10,41
+134482,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,29.35,26,4,10,59
+134486,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,15.35,12,4,11,24
+134490,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.55,3,4,11,45
+134505,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,28.05,25,3,0,3
+134512,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.95,2,3,0,25
+134518,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.7,20.15,14,3,0,38
+134528,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.15,1,3,0,56
+134537,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,17.65,16,3,1,14
+134548,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.65,1,3,1,54
+134551,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,3.65,2,3,2,10
+134558,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.25,3,3,2,12
+134561,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.65,24,3,2,30
+134568,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.75,23,3,2,48
+134573,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,6.75,5,3,3,14
+134591,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,17.65,14,3,3,27
+134596,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,3,3,42
+134601,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.65,3,3,3,44
+134616,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,4,5
+134624,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.3,18.65,26,3,4,12
+134638,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,21.25,17,3,4,46
+134647,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,3,4,51
+134653,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,20.55,17,3,4,54
+134663,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,11.35,13,3,5,1
+134670,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,4.65,2,3,5,13
+134675,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,24.75,24,3,5,28
+134682,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,6.95,14,3,5,39
+134702,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,3,6,18
+134720,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,14.35,12,3,6,56
+134723,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,20.55,16,3,7,19
+134727,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,22.05,19,3,7,39
+134730,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,3,8,8
+134740,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,20.55,16,3,8,30
+134747,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,18.35,15,3,8,46
+134751,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,19.75,16,3,9,8
+134753,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,3,9,24
+134763,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,16.55,14,3,9,26
+134796,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.65,1,3,9,52
+134804,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,11.85,10,3,10,3
+134824,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,3,10,21
+134831,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.65,4,3,10,23
+134865,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,27.95,23,3,10,50
+134875,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.75,1,3,11,26
+134879,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,8.25,11,3,11,49
+134926,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,6.45,6,2,0,3
+134956,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,15.65,12,2,0,22
+134975,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,0,35
+134982,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,21.45,16,2,0,42
+135011,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,2,0,53
+135039,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,25.35,26,2,1,18
+135044,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,1,33
+135059,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,10.75,11,2,2,2
+135100,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.05,0,2,4,0
+135115,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,10.45,5,2,2,44
+135126,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,2,3,2
+135134,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,11.95,18,2,3,16
+135140,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,17.85,14,2,3,26
+135147,2012,2011-12,1610612738,Boston Celtics,2404,Chris Wilcox,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.75,1,2,3,47
+135150,2012,2011-12,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.45,22,2,3,51
+135158,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,7.25,19,2,4,14
+135171,2012,2011-12,1610612738,Boston Celtics,2404,Chris Wilcox,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.75,0,2,4,34
+135178,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,2,4,35
+135197,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,12.95,18,2,5,13
+135204,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.45,24,2,5,41
+135221,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,5.25,11,2,5,56
+135227,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,2,6,30
+135230,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,17.05,15,2,6,51
+135265,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,13.55,25,2,7,9
+135270,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.65,1,2,7,31
+135281,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,20.15,20,2,8,20
+135302,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,22.85,24,2,8,44
+135311,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.5,17.95,14,2,8,49
+135318,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,11.05,24,2,9,1
+135324,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,9.65,14,2,9,18
+135345,2012,2011-12,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,10.55,5,2,9,46
+135348,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,25.05,22,2,10,3
+135352,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,8.35,5,2,10,16
+135364,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,13.45,24,2,10,56
+135373,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,13.25,10,2,11,11
+135433,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,18.75,21,1,0,23
+135438,2012,2011-12,1610612738,Boston Celtics,979,Jermaine O'Neal,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,17.85,12,1,0,42
+135447,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,1,1,0
+135449,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.4,11.95,16,1,1,14
+135455,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,7.55,11,1,1,26
+135461,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,23.05,20,1,1,43
+135469,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,31.25,26,1,1,54
+135498,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,9.65,23,1,2,24
+135515,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.55,20,1,2,43
+135519,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.95,1,1,3,0
+135526,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,1,3,2
+135532,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,9.95,16,1,3,19
+135537,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.5,18.75,15,1,3,38
+135543,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.15,24,1,3,59
+135550,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,14.65,14,1,4,9
+135557,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,12.15,14,1,4,28
+135562,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,11.05,14,1,4,46
+135571,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.65,1,1,5,0
+135574,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.4,16.45,12,1,5,22
+135582,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,23.55,20,1,5,41
+135588,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,6.7,19.75,15,1,6,5
+135608,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,1,6,26
+135615,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.95,0,1,6,33
+135623,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,1,6,39
+135634,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,7.25,17,1,6,45
+135639,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-13-2012,21100162,BOS,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,1,7,2
+135644,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,1,7,26
+135663,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,16.05,14,1,7,52
+135666,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,5.55,11,1,8,11
+135672,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,8.35,3,1,8,16
+135678,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,1,8,41
+135683,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,25.35,25,1,8,49
+135692,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,8.05,14,1,8,55
+135696,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,26.15,25,1,9,14
+135709,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,22.45,19,1,9,35
+135714,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,10.05,4,1,9,48
+135724,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,23.05,17,1,10,11
+135733,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,22.05,18,1,10,24
+135741,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,21.65,19,1,10,46
+135773,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-13-2012,21100162,BOS,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.55,3,1,11,17
+135781,2012,2011-12,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-13-2012,21100162,BOS,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,1,11,33

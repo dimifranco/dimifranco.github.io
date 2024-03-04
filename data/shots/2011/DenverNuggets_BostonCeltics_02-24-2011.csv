@@ -1,0 +1,153 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+60708,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,7.45,24,4,0,10
+60710,2011,2010-11,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.7,6.35,24,4,0,31
+60712,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,24.45,19,4,0,54
+60716,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.5,19.25,21,4,1,23
+60717,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.95,2,4,1,46
+60718,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,4,2,1
+60721,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,6.75,11,4,2,23
+60723,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,15.75,18,4,2,47
+60725,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,4,3,3
+60726,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,8.25,14,4,3,21
+60728,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.9,15.95,26,4,4,12
+60729,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,26.05,26,4,4,27
+60730,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,5.65,24,4,4,51
+60731,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.15,25,4,5,6
+60733,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,8.05,4,4,5,15
+60735,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.75,1,4,5,25
+60736,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.65,4,4,5,30
+60738,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,21.15,24,4,6,5
+60740,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.95,23,4,6,26
+60741,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,16.85,22,4,6,49
+60742,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.75,25,4,7,6
+60744,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,9.95,15,4,7,28
+60746,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,28.55,25,4,7,33
+60748,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.55,18,4,8,6
+60750,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,21.15,21,4,8,22
+60755,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.95,0,4,8,47
+60757,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,9.95,16,4,8,54
+60758,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,29.45,26,4,9,5
+60762,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,17.15,19,4,9,36
+60764,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,5.85,22,4,9,52
+60765,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,5.55,18,4,10,9
+60766,2011,2010-11,1610612738,Boston Celtics,202419,Chris Johnson,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.85,2,4,10,49
+60768,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,8.35,17,4,11,10
+60769,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,12.35,7,4,11,39
+60772,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,6.95,7,3,0,2
+60773,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.15,3,3,0,20
+60776,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,14.95,21,3,0,22
+60777,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,8.95,7,3,0,30
+60779,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.15,2,3,0,49
+60780,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,17.65,22,3,1,6
+60781,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,15.35,18,3,1,16
+60783,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,3,1,51
+60784,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.55,24,3,2,0
+60785,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,4.25,12,3,2,16
+60788,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,7.45,4,3,2,40
+60789,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,3,2,57
+60791,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,10.45,7,3,3,15
+60793,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.55,2,3,3,24
+60795,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.95,0,3,3,43
+60796,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,10.55,14,3,3,46
+60799,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,10.05,7,3,4,19
+60801,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.35,2,3,4,31
+60804,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,11.65,14,3,4,47
+60805,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,3,5,0
+60807,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,27.15,26,3,5,19
+60808,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.85,0,3,5,30
+60815,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,18.15,19,3,6,9
+60816,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,4.95,2,3,6,28
+60817,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,11.95,24,3,6,45
+60819,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,3,7,4
+60821,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,9.45,10,3,7,10
+60823,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,13.45,25,3,7,22
+60826,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,14.55,14,3,8,5
+60828,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,3,8,23
+60830,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.95,1,3,8,49
+60831,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,3,9,13
+60834,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.55,2,3,9,39
+60835,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,6.95,17,3,9,56
+60838,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,23.15,18,3,10,14
+60841,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,3,10,29
+60842,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,9.65,13,3,10,44
+60844,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,5.05,16,3,11,18
+60846,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,22.55,18,2,0,4
+60847,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,22.05,25,2,0,12
+60849,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,2,0,41
+60851,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,2,1,0
+60854,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.15,17,2,1,35
+60856,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,11.65,24,2,1,59
+60858,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,11.05,6,2,2,6
+60863,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,11.65,11,2,2,35
+60865,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.95,25,2,2,59
+60866,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,21.25,16,2,3,27
+60867,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,3,47
+60868,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,7.85,15,2,4,1
+60870,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,2,4,30
+60872,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,2,4,43
+60877,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.55,2,2,5,13
+60879,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,21.25,20,2,5,20
+60880,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,25.75,20,2,5,44
+60883,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,2,6,12
+60887,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,2,6,55
+60888,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,6.75,23,2,7,11
+60889,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,18.75,18,2,7,26
+60890,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,17.95,16,2,7,36
+60893,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.55,3,2,8,8
+60900,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,19.75,21,2,8,32
+60901,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.85,19,2,8,53
+60904,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,9.75,12,2,9,13
+60905,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,14.95,14,2,9,23
+60907,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,19.25,17,2,9,35
+60908,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,20.05,19,2,9,51
+60913,2011,2010-11,1610612743,Denver Nuggets,2365,Chris Andersen,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.75,2,2,10,44
+60916,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,30.75,25,2,10,58
+60918,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.05,23,2,11,12
+60919,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.85,1,2,11,28
+60920,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.1,27.75,25,1,0,1
+60921,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,24.45,19,1,0,20
+60926,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.65,1,1,0,41
+60928,2011,2010-11,1610612738,Boston Celtics,2753,Delonte West,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,17.95,25,1,0,49
+60929,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,1,0,56
+60930,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,1,1,8
+60931,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.3,17.05,25,1,1,19
+60934,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,25.55,20,1,1,30
+60935,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.75,23,1,1,53
+60937,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.9,25.05,20,1,2,13
+60938,2011,2010-11,1610612738,Boston Celtics,202419,Chris Johnson,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,1,2,43
+60939,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,17.65,19,1,2,49
+60940,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,9.15,5,1,2,59
+60942,2011,2010-11,1610612738,Boston Celtics,202419,Chris Johnson,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,1,3,13
+60948,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,1,3,32
+60951,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,15.45,21,1,3,45
+60953,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,1,4,4
+60954,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.75,2,1,4,10
+60956,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.0,18.65,21,1,4,32
+60959,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.65,1,1,5,1
+60960,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.15,2,1,5,14
+60964,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,6.65,20,1,5,28
+60967,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,5,38
+60970,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.6,9.75,4,1,5,53
+60971,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.75,2,1,6,11
+60972,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,11.55,18,1,6,39
+60977,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,7,10
+60979,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,1,7,12
+60980,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,1,7,18
+60981,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.3,18.35,20,1,7,47
+60982,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,1,8,0
+60984,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,18.95,24,1,8,4
+60986,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,7.15,5,1,8,13
+60988,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,8.05,24,1,8,26
+60989,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,24.45,19,1,8,49
+60991,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,18.65,19,1,9,8
+60992,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.3,13.75,8,1,9,19
+60993,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,1,9,39
+60994,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,10.75,24,1,9,52
+60995,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,1,10,5
+60996,2011,2010-11,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,PF-SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.95,1,1,10,14
+60999,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,11.65,7,1,10,24
+61000,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-24-2011,21000860,DEN,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,9.75,15,1,10,44
+61002,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,8.05,23,1,10,52
+61003,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,6.75,16,1,11,18
+61006,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.65,25,1,11,36
+61007,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-24-2011,21000860,DEN,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,17.35,24,1,11,46

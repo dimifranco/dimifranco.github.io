@@ -1,0 +1,184 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+195000,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.65,25,4,0,5
+195003,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,20.55,20,4,0,14
+195004,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,5.25,20,4,0,35
+195005,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,6.45,16,4,0,46
+195006,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,19.75,25,4,1,0
+195015,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,29.85,24,4,1,29
+195016,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,4,1,37
+195017,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,27.15,24,4,1,50
+195018,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,4,2,4
+195019,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,20.55,17,4,2,23
+195021,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.95,25,4,2,34
+195030,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.65,10,4,3,0
+195032,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.95,1,4,3,24
+195033,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,4.65,15,4,3,27
+195034,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,18.45,13,4,3,40
+195035,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,13.75,15,4,3,58
+195037,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,7.25,9,4,4,11
+195041,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,5.85,10,4,4,32
+195043,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,12.65,24,4,4,51
+195044,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,4,5,7
+195045,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,10.45,10,4,5,24
+195061,2013,2012-13,1610612753,Orlando Magic,202397,Ish Smith,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,28.25,25,4,5,54
+195064,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.45,3,4,6,11
+195066,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,12.95,14,4,6,16
+195073,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,9.45,5,4,6,39
+195078,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,13.45,17,4,6,55
+195081,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,29.15,24,4,7,18
+195083,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,26.95,26,4,7,27
+195093,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,23.15,20,4,8,3
+195095,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.15,3,4,8,20
+195101,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,4,8,45
+195103,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,20.55,17,4,8,51
+195110,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.8,21.25,16,4,9,17
+195116,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,15.95,12,4,9,32
+195120,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,26.55,24,4,9,46
+195124,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,5.05,19,4,9,52
+195125,2013,2012-13,1610612753,Orlando Magic,203094,Andrew Nicholson,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,13.25,18,4,10,11
+195127,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,14.95,15,4,10,27
+195128,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,12.95,11,4,10,48
+195134,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,22.55,26,4,11,10
+195135,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.1,12.75,8,4,11,25
+195138,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,30.45,25,4,11,42
+195143,2013,2012-13,1610612756,Phoenix Suns,200782,P.J. Tucker,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.2,17.55,12,3,0,4
+195151,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-5.9,81.85,76,3,0,0
+195158,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,0,26
+195161,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,6.15,16,3,0,32
+195164,2013,2012-13,1610612753,Orlando Magic,201177,Josh McRoberts,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,5.25,6,3,0,42
+195166,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,8.65,14,3,1,3
+195171,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,20.65,17,3,1,10
+195177,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,17.85,18,3,1,21
+195195,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,12.35,17,3,2,16
+195197,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,23.95,24,3,2,33
+195203,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,3,3,2
+195204,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.45,2,3,3,4
+195207,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,22.75,17,3,3,20
+195220,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,6.45,17,3,3,40
+195222,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.55,25,3,3,58
+195224,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.75,1,3,4,20
+195229,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,3,4,39
+195231,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,14.35,20,3,4,41
+195233,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,26.05,24,3,4,51
+195236,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,13.05,12,3,5,8
+195245,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,26.15,27,3,5,25
+195251,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,3,5,47
+195253,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,13.45,10,3,5,50
+195257,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,8.35,4,3,6,9
+195260,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.05,3,3,6,23
+195266,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.0,17.55,13,3,6,38
+195269,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,28.35,24,3,6,55
+195273,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.35,15,3,7,12
+195279,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.0,22.25,18,3,7,44
+195280,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,21.75,16,3,7,54
+195289,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.35,1,3,8,9
+195293,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,5.55,22,3,8,18
+195296,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.35,1,3,8,29
+195298,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,3,8,32
+195303,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,6.35,9,3,8,52
+195305,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.45,5,3,9,11
+195308,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,6.35,9,3,9,38
+195310,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.85,2,3,9,55
+195313,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,5.65,15,3,10,9
+195318,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.35,3,3,10,18
+195320,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.45,25,3,10,38
+195325,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,17.55,17,3,10,57
+195331,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,3,11,12
+195333,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,9.15,9,3,11,28
+195334,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,24.15,18,3,11,47
+195344,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,7.45,13,2,0,0
+195346,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,6.45,19,2,0,1
+195352,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,2,0,12
+195355,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,2,0,14
+195359,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,2,0,20
+195362,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,7.85,9,2,0,27
+195363,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.05,25,2,0,46
+195374,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.0,21.45,17,2,1,8
+195375,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,7.75,15,2,1,29
+195378,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,5.05,8,2,1,58
+195395,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,6.45,15,2,2,39
+195399,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,7.15,15,2,2,42
+195404,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.75,2,2,3,6
+195409,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,7.75,6,2,3,8
+195415,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.65,2,2,3,37
+195431,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.85,2,2,4,2
+195436,2013,2012-13,1610612753,Orlando Magic,201177,Josh McRoberts,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.25,17,2,4,15
+195441,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,15.65,20,2,4,31
+195446,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,21.25,16,2,4,38
+195447,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.85,1,2,4,57
+195455,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,7.45,2,2,5,19
+195458,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,2,5,14
+195463,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,2,5,22
+195464,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,2,5,38
+195466,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,25.55,24,2,5,54
+195470,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.85,2,2,6,31
+195474,2013,2012-13,1610612753,Orlando Magic,201177,Josh McRoberts,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.65,1,2,6,38
+195477,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,5.85,11,2,6,40
+195479,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.05,1,2,6,59
+195484,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.5,17.65,14,2,7,9
+195487,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,10.75,15,2,7,27
+195493,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,27.15,27,2,7,52
+195504,2013,2012-13,1610612753,Orlando Magic,202397,Ish Smith,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.0,24.45,20,2,8,26
+195508,2013,2012-13,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,8.25,11,2,8,34
+195514,2013,2012-13,1610612756,Phoenix Suns,979,Jermaine O'Neal,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,5.95,13,2,8,38
+195520,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,23.85,18,2,8,54
+195522,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,13.75,19,2,9,5
+195524,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,23.95,19,2,9,11
+195529,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.75,1,2,9,44
+195539,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,11.65,7,2,10,16
+195540,2013,2012-13,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,17.05,22,2,10,43
+195543,2013,2012-13,1610612756,Phoenix Suns,2742,Sebastian Telfair,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,22.45,17,2,10,51
+195550,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,17.65,22,2,11,8
+195557,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,2,11,34
+195560,2013,2012-13,1610612753,Orlando Magic,201177,Josh McRoberts,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,2,11,34
+195566,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,20.95,17,2,11,46
+195573,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,1,0,0
+195574,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,28.85,26,1,0,2
+195576,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,1,0,24
+195577,2013,2012-13,1610612756,Phoenix Suns,202325,Wesley Johnson,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.45,2,1,0,32
+195580,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.05,1,1,0,55
+195584,2013,2012-13,1610612753,Orlando Magic,202970,Gustavo Ayon,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,18.65,17,1,1,3
+195588,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,16.45,17,1,1,20
+195589,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,22.75,22,1,1,41
+195602,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,1,2,1
+195604,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.35,25,1,2,12
+195606,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,23.95,19,1,2,30
+195610,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,11.05,14,1,2,42
+195613,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,17.85,25,1,2,55
+195616,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.45,2,1,3,5
+195621,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,9.75,20,1,3,28
+195624,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.65,2,1,3,52
+195626,2013,2012-13,1610612753,Orlando Magic,200755,JJ Redick,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,4.25,19,1,4,2
+195629,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.55,1,1,4,14
+195635,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,23.85,24,1,4,24
+195640,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,1,4,44
+195643,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.35,1,1,4,49
+195645,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,1,5,7
+195646,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.0,29.35,25,1,5,23
+195651,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,5.55,10,1,5,33
+195661,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,1,5,55
+195666,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.15,2,1,6,3
+195672,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,20.95,19,1,6,19
+195674,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,6.95,14,1,6,32
+195676,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.05,1,1,6,51
+195695,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,16.25,12,1,7,9
+195700,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,25.25,21,1,7,21
+195705,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,19.55,16,1,7,33
+195707,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.25,2,1,7,42
+195708,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,20.05,24,1,7,45
+195710,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,5.95,4,1,7,54
+195713,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,1,7,59
+195720,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,7.75,15,1,8,25
+195727,2013,2012-13,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,8,33
+195729,2013,2012-13,1610612753,Orlando Magic,201175,Glen Davis,F,PF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.6,20.85,15,1,8,51
+195735,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.95,2,1,8,57
+195736,2013,2012-13,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,11-04-2012,21200039,ORL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,1,9,8
+195742,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,5.05,20,1,9,14
+195747,2013,2012-13,1610612753,Orlando Magic,202734,E'Twaun Moore,G,SG,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,6.75,19,1,9,20
+195751,2013,2012-13,1610612753,Orlando Magic,202696,Nikola Vucevic,C,C,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,11.35,8,1,9,42
+195756,2013,2012-13,1610612756,Phoenix Suns,2449,Luis Scola,F,PF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,10.55,5,1,9,59
+195759,2013,2012-13,1610612753,Orlando Magic,201167,Arron Afflalo,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,15.75,12,1,10,16
+195766,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.25,1,1,10,27
+195771,2013,2012-13,1610612753,Orlando Magic,203199,DeQuan Jones,F,SF,11-04-2012,21200039,ORL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,17.55,12,1,10,42
+195773,2013,2012-13,1610612756,Phoenix Suns,201563,Michael Beasley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,4.95,19,1,10,54
+195786,2013,2012-13,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,11-04-2012,21200039,ORL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.35,25,1,11,25

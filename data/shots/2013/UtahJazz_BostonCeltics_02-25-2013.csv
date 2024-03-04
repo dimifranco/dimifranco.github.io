@@ -1,0 +1,175 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+63308,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,27.65,25,5,0,0
+63331,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.05,1,5,0,37
+63332,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,23.55,22,5,0,48
+63333,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,23.05,17,5,1,5
+63334,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.0,20.55,15,5,1,12
+63335,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,29.85,24,5,1,34
+63337,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,9.15,11,5,1,54
+63341,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.1,4.45,20,5,2,3
+63342,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,29.45,24,5,2,27
+63344,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,6.95,20,5,2,48
+63347,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,19.25,16,5,3,16
+63351,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.15,23,5,3,40
+63353,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,6.75,8,5,3,59
+63357,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,18.75,19,5,4,21
+63361,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,24.75,22,5,4,43
+63364,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,18.75,18,4,0,1
+63370,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.75,2,4,0,19
+63374,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,21.65,18,4,0,36
+63377,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.25,3,4,1,2
+63380,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.75,5,4,1,5
+63382,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,29.45,24,4,1,26
+63385,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,27.25,22,4,1,41
+63386,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,11.95,18,4,2,2
+63392,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,15.15,10,4,2,46
+63394,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.25,24,4,3,1
+63396,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.35,22,4,3,19
+63400,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.35,3,4,3,37
+63404,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,4.75,12,4,4,21
+63408,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,25.35,24,4,4,27
+63411,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.6,28.05,24,4,4,32
+63414,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,4,4,46
+63415,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,16.75,18,4,4,48
+63423,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,11.95,24,4,5,4
+63453,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,21.25,20,4,6,25
+63459,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.5,19.75,14,4,6,55
+63467,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,11.85,18,4,7,29
+63469,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,4.25,4,4,7,38
+63470,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,8.25,4,4,7,40
+63473,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.95,24,4,8,3
+63478,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.25,3,4,8,19
+63483,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,4,8,41
+63488,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,11.35,6,4,8,47
+63490,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,4,9,8
+63492,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,6.65,5,4,9,12
+63498,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,25.85,24,4,9,52
+63501,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,3.05,18,4,10,0
+63503,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,4,10,21
+63508,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.75,2,4,10,27
+63522,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,4,11,33
+63525,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,5.25,18,4,11,45
+63532,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,-21.1,46.35,46,3,0,0
+63534,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,11.95,17,3,0,2
+63537,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,16.25,24,3,0,26
+63543,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.1,29.85,24,3,1,5
+63544,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,24.25,19,3,1,20
+63547,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.55,0,3,1,35
+63550,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,3,1,38
+63552,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,26.95,24,3,1,59
+63557,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,13.75,9,3,2,36
+63569,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,28.25,24,3,3,11
+63575,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.65,2,3,3,23
+63580,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.55,23,3,3,38
+63588,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.1,29.65,25,3,4,11
+63597,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,22.85,19,3,4,39
+63599,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,10.55,10,3,4,58
+63602,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.05,23,3,5,22
+63604,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,22.75,20,3,5,35
+63607,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,13.45,13,3,6,6
+63608,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,3,6,26
+63614,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.65,0,3,6,41
+63615,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,6.95,9,3,6,47
+63622,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,27.45,24,3,6,57
+63623,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.75,1,3,7,4
+63625,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,21.95,18,3,7,29
+63630,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.35,23,3,8,5
+63632,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,3,8,10
+63635,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,9.45,4,3,8,15
+63641,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.65,23,3,8,48
+63643,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.15,2,3,8,55
+63645,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,8.85,3,3,9,1
+63647,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,3,9,25
+63652,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.55,22,3,9,40
+63654,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.9,21.45,17,3,9,51
+63656,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.8,21.15,17,3,10,12
+63659,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,24.45,24,3,10,29
+63660,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,30.95,25,3,10,42
+63665,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.95,23,3,11,4
+63672,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,15.45,11,3,11,42
+63678,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,3.95,20,2,0,1
+63680,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,9.35,16,2,0,25
+63685,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,2,0,37
+63688,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,24.95,22,2,0,45
+63689,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,28.85,24,2,0,59
+63690,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,21.15,16,2,1,14
+63691,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,2,1,29
+63693,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,6.0,24.15,19,2,1,42
+63700,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,2,2,5
+63703,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.95,23,2,2,11
+63704,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,21.25,16,2,2,33
+63708,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.95,2,2,2,42
+63710,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.55,3,2,3,1
+63712,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,16.85,17,2,3,25
+63714,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,10.25,5,2,3,31
+63715,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,21.65,24,2,3,40
+63719,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,23.95,24,2,3,49
+63721,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.15,1,2,4,5
+63723,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.6,6.45,13,2,4,15
+63724,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.75,0,2,4,40
+63726,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,17.05,14,2,4,48
+63737,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,25.05,24,2,5,40
+63740,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,5,52
+63744,2013,2012-13,1610612738,Boston Celtics,201584,Courtney Lee,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.05,0,2,5,58
+63746,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.95,2,2,6,8
+63749,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.15,2,2,6,28
+63751,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,26.95,24,2,6,34
+63755,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,14.85,24,2,6,43
+63757,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,13.45,8,2,7,6
+63766,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,3.65,23,2,7,37
+63768,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.85,23,2,7,57
+63771,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,21.15,15,2,8,15
+63772,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,6.35,10,2,8,30
+63776,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,9.95,18,2,8,47
+63781,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,4.95,17,2,9,7
+63785,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,26.95,25,2,9,17
+63786,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,9,33
+63788,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,15.15,9,2,9,38
+63791,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,22.55,18,2,10,6
+63793,2013,2012-13,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,5.85,9,2,10,12
+63794,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.5,28.85,24,2,10,36
+63797,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.65,24,2,10,49
+63802,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,3.55,13,2,11,3
+63805,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.1,13.55,8,2,11,35
+63817,2013,2012-13,1610612738,Boston Celtics,2404,Chris Wilcox,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,5.35,10,1,0,1
+63818,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,1,0,17
+63821,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.35,2,1,0,17
+63824,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,14.15,20,1,0,28
+63826,2013,2012-13,1610612738,Boston Celtics,2404,Chris Wilcox,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,1,0,36
+63829,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,12.45,13,1,0,43
+63831,2013,2012-13,1610612738,Boston Celtics,202348,Jordan Crawford,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,1,1,0
+63834,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.35,4,1,1,6
+63842,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.55,2,1,1,36
+63847,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,9.75,19,1,2,3
+63851,2013,2012-13,1610612738,Boston Celtics,201145,Jeff Green,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,24.95,23,1,2,11
+63852,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,8.55,3,1,2,30
+63856,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,4.65,17,1,2,43
+63857,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,6.35,4,1,2,54
+63860,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.1,20.95,15,1,3,6
+63865,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,15.35,16,1,3,32
+63868,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.25,22,1,3,47
+63870,2013,2012-13,1610612738,Boston Celtics,1891,Jason Terry,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.05,24,1,4,3
+63876,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,22.85,17,1,4,34
+63878,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,10.45,6,1,5,1
+63880,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,1,5,17
+63883,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,5.85,19,1,5,19
+63888,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.45,3,1,5,38
+63893,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,25.25,25,1,5,59
+63894,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,22.55,18,1,6,20
+63896,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,13.05,8,1,6,29
+63909,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,12.95,19,1,7,1
+63911,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,6.95,13,1,7,10
+63914,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,28.35,25,1,7,29
+63915,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,1,7,41
+63924,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,1,8,29
+63927,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,20.95,21,1,8,44
+63930,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,7.25,3,1,8,52
+63933,2013,2012-13,1610612738,Boston Celtics,708,Kevin Garnett,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,20.15,21,1,8,58
+63934,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,20.95,18,1,9,22
+63938,2013,2012-13,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,23.85,18,1,9,32
+63939,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.35,3,1,9,49
+63943,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.05,5,1,9,59
+63946,2013,2012-13,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,02-25-2013,21200842,UTA,BOS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,9.15,8,1,10,18
+63953,2013,2012-13,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,13.85,18,1,10,46
+63955,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-25-2013,21200842,UTA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.75,4,1,11,9
+63961,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,02-25-2013,21200842,UTA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,8.85,21,1,11,40

@@ -1,0 +1,159 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+38358,2012,2011-12,1610612742,Dallas Mavericks,201146,Yi Jianlian,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,4,0,18
+38359,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,18.75,24,4,0,29
+38360,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,20.15,17,4,0,33
+38364,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.35,24,4,0,57
+38372,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,20.55,24,4,1,20
+38376,2012,2011-12,1610612742,Dallas Mavericks,201146,Yi Jianlian,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,16.55,18,4,1,44
+38377,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,17.95,15,4,1,57
+38379,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,17.95,14,4,2,22
+38388,2012,2011-12,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,19.85,24,4,2,46
+38392,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.65,1,4,3,6
+38395,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.75,1,4,3,19
+38397,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,24.45,24,4,3,34
+38401,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.45,1,4,3,48
+38402,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,24.75,19,4,4,11
+38408,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,21.65,18,4,4,49
+38420,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,19.25,17,4,5,46
+38428,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,7.25,13,4,6,39
+38430,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.95,1,4,7,7
+38432,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,13.45,8,4,7,17
+38434,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,4,7,36
+38438,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.65,25,4,7,56
+38443,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,9.75,15,4,8,1
+38450,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.5,14.95,25,4,8,25
+38452,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.75,3,4,8,42
+38454,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.2,13.55,10,4,9,5
+38455,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,4,9,26
+38457,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.25,2,4,9,28
+38459,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.05,1,4,9,37
+38463,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,8.25,13,4,9,39
+38466,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,4,9,54
+38471,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,10.25,13,4,10,5
+38474,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.05,3,4,10,10
+38476,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,4,10,21
+38480,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,8.05,3,4,10,31
+38485,2012,2011-12,1610612742,Dallas Mavericks,201958,Rodrigue Beaubois,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,16.05,13,4,10,54
+38496,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.65,2,4,11,30
+38497,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,8.25,12,4,11,37
+38499,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,44.45,43,3,0,1
+38502,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.95,23,3,0,3
+38506,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.95,1,3,0,17
+38509,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,3,0,54
+38518,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,16.05,13,3,1,12
+38522,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,21.15,24,3,1,38
+38525,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,18.75,16,3,1,44
+38531,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,6.45,16,3,2,4
+38534,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.85,24,3,2,18
+38536,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.4,15.65,11,3,2,28
+38540,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,3,4,41
+38546,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,3,2,47
+38548,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,3,2,54
+38549,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,18.65,24,3,3,13
+38552,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,5.25,12,3,3,38
+38554,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,6.75,17,3,3,56
+38556,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.4,16.45,12,3,4,16
+38568,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,3,4,43
+38570,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,13.45,8,3,4,47
+38573,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,23.65,18,3,5,0
+38579,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,23.15,19,3,5,9
+38580,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,3,5,28
+38584,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.7,14.85,17,3,5,51
+38588,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,13.25,11,3,6,5
+38591,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,15.75,11,3,6,17
+38604,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,17.55,12,3,6,44
+38607,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.75,1,3,7,2
+38609,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,3,7,17
+38612,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,19.25,17,3,7,28
+38613,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,26.65,24,3,7,39
+38617,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,10.75,15,3,7,46
+38629,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.45,24,3,8,40
+38631,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,27.65,25,3,8,58
+38634,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,16.45,16,3,9,23
+38637,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,9.75,14,3,9,37
+38649,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,6.35,17,3,10,6
+38654,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,3,10,20
+38666,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,3,10,45
+38667,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,18.65,15,3,11,11
+38668,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,11.55,24,3,11,41
+38675,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,34.55,35,2,0,1
+38679,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,20.85,24,2,0,20
+38682,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,2,0,28
+38686,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,11.95,7,2,0,31
+38690,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,18.75,24,2,0,43
+38692,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,2,0,59
+38694,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,8.25,9,2,1,16
+38702,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,5.65,15,2,1,40
+38704,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.25,2,2,2,0
+38710,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,10.45,13,2,2,29
+38713,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,14.55,9,2,2,45
+38720,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.95,1,2,3,17
+38722,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.05,23,2,3,33
+38724,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,21.95,18,2,3,57
+38727,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,4,13
+38732,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,19.25,25,2,4,21
+38736,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,2,4,41
+38738,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,12.95,7,2,4,53
+38740,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,2,5,10
+38742,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.15,1,2,5,20
+38754,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,9.75,15,2,5,40
+38758,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,18.35,14,2,5,50
+38759,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,6,11
+38762,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,18.45,15,2,6,28
+38767,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,8.35,11,2,6,56
+38768,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,23.35,20,2,7,19
+38773,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,5.85,19,2,7,29
+38780,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,2,7,48
+38783,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,2,8,15
+38787,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,2,8,17
+38789,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.45,10,2,8,32
+38792,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.95,1,2,8,49
+38799,2012,2011-12,1610612742,Dallas Mavericks,2753,Delonte West,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,27.15,24,2,9,10
+38806,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.75,24,2,9,37
+38808,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Running Bank shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,9.95,11,2,9,53
+38812,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,17.55,17,2,10,2
+38814,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.95,23,2,10,26
+38816,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,2,10,50
+38819,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.3,29.65,24,2,11,10
+38821,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.6,21.15,16,2,11,36
+38826,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,23.05,24,1,0,26
+38829,2012,2011-12,1610612742,Dallas Mavericks,1885,Lamar Odom,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,11.55,9,1,0,40
+38831,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,7.15,18,1,0,51
+38837,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,7.75,24,1,1,28
+38839,2012,2011-12,1610612742,Dallas Mavericks,201148,Brandan Wright,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.65,1,1,1,52
+38841,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,17.55,12,1,2,6
+38843,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,22.55,25,1,2,16
+38846,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,25.05,24,1,2,38
+38851,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,23.55,24,1,2,58
+38858,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.0,30.15,25,1,3,12
+38860,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,6.05,1,1,7,53
+38863,2012,2011-12,1610612742,Dallas Mavericks,1891,Jason Terry,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.15,23,1,3,18
+38875,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.3,30.45,25,1,3,42
+38878,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,19.05,17,1,4,10
+38888,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.95,4,1,4,29
+38892,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,21.75,24,1,4,41
+38897,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,23.55,24,1,4,47
+38898,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,5,9
+38901,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,5,26
+38904,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.2,12.35,9,1,5,34
+38910,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,29.45,24,1,6,5
+38913,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.95,15,1,6,28
+38921,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,21.95,16,1,6,58
+38925,2012,2011-12,1610612742,Dallas Mavericks,1890,Shawn Marion,F,SF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,15.75,11,1,7,3
+38926,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,7,26
+38930,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,1,7,44
+38934,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,18.15,16,1,7,55
+38940,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.65,1,1,8,20
+38944,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.15,23,1,8,40
+38948,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,11.25,15,1,8,47
+38951,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,19.45,17,1,9,0
+38954,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,11.85,7,1,9,12
+38958,2012,2011-12,1610612742,Dallas Mavericks,467,Jason Kidd,G,PG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.45,24,1,9,28
+38960,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.15,1,1,9,44
+38964,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,19.25,25,1,9,49
+38965,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.1,17.85,21,1,10,5
+38969,2012,2011-12,1610612742,Dallas Mavericks,1717,Dirk Nowitzki,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,6.35,12,1,10,30
+38972,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,17.65,16,1,10,48
+38975,2012,2011-12,1610612742,Dallas Mavericks,1713,Vince Carter,G,SG,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,13.85,25,1,11,10
+38977,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,6.95,14,1,11,22
+38981,2012,2011-12,1610612742,Dallas Mavericks,101133,Ian Mahinmi,C,C,03-29-2012,21100754,MIA,DAL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,18.45,16,1,11,43

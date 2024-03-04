@@ -1,0 +1,155 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+93327,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.05,2,4,0,0
+93362,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.6,28.45,24,4,0,20
+93365,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,11.35,18,4,0,35
+93367,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.6,24.25,24,4,0,54
+93369,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.4,24.05,20,4,1,4
+93387,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,4,1,31
+93392,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.35,6,4,1,54
+93394,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,3.65,17,4,2,12
+93411,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Step Back Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,9.55,16,4,2,47
+93420,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,6.05,4,4,3,19
+93432,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.3,22.75,24,4,3,36
+93439,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.3,20.65,19,4,4,9
+93446,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.7,24.25,19,4,4,26
+93452,2016,2015-16,1610612751,Brooklyn Nets,203499,Shane Larkin,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,4.25,2,4,4,42
+93454,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.8,14.45,10,4,4,53
+93457,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.2,9.35,4,4,5,17
+93460,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.25,2,4,5,40
+93465,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.9,24.25,19,4,6,11
+93469,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,22.25,24,4,6,28
+93484,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.5,9.55,22,4,6,44
+93490,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.3,5.95,15,4,7,21
+93510,2016,2015-16,1610612751,Brooklyn Nets,203080,Thomas Robinson,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.65,1,4,7,51
+93514,2016,2015-16,1610612751,Brooklyn Nets,203499,Shane Larkin,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.1,8.35,6,4,7,53
+93517,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.45,24,4,8,8
+93528,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,32.95,27,4,8,47
+93531,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.35,3,4,9,13
+93548,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.7,13.45,14,4,9,49
+93550,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.15,19,4,10,2
+93554,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.7,16.25,17,4,10,16
+93567,2016,2015-16,1610612751,Brooklyn Nets,203499,Shane Larkin,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,14.25,9,4,10,32
+93568,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,19.65,20,4,10,55
+93586,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,22.65,17,4,11,31
+93590,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-7.3,19.15,15,4,11,45
+93607,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,4.15,17,3,0,0
+93613,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.85,2,3,0,3
+93619,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,15.85,19,3,0,26
+93634,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,0,39
+93652,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.6,10.35,5,3,1,10
+93658,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,16.85,11,3,1,34
+93664,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.0,26.05,25,3,2,8
+93681,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,37
+93683,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.0,4.65,3,3,2,54
+93690,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.45,1,3,3,2
+93693,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.9,24.55,19,3,3,28
+93696,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,5.15,23,3,3,45
+93700,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,21.75,24,3,4,8
+93702,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,5.25,2,3,4,15
+93706,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,19.85,18,3,4,17
+93712,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.5,5.95,11,3,4,34
+93719,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.1,12.95,16,3,4,56
+93732,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,5.25,17,3,5,7
+93733,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.8,5.15,17,3,5,30
+93738,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.2,4.15,23,3,5,45
+93744,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,23.05,19,3,6,20
+93749,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,8.35,5,3,6,48
+93770,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,3.75,21,3,7,15
+93773,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.95,5,3,7,28
+93776,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.85,24,3,8,14
+93781,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.05,2,3,8,35
+93800,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,30.95,28,3,8,46
+93806,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.3,16.75,20,3,9,11
+93819,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,3,9,36
+93824,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,2.35,23,3,9,57
+93837,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.8,23.25,18,3,10,28
+93845,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.9,21.15,15,3,10,39
+93847,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,13.75,11,3,10,53
+93850,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,6.55,3,3,11,30
+93854,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.15,1,3,11,40
+93859,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.2,20.65,15,2,0,0
+93872,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,9.85,10,2,0,12
+93878,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,0,26
+93880,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.4,4.65,18,2,0,39
+93893,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.15,25,2,1,0
+93895,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.45,16,2,1,25
+93900,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,7.85,5,2,1,33
+93906,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.3,18.65,18,2,1,38
+93910,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,2.85,22,2,2,2
+93914,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.15,2,2,2,12
+93919,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,15.25,25,2,2,25
+93923,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,2,2,54
+93928,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.6,21.65,18,2,3,3
+93934,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.9,11.45,11,2,3,13
+93939,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,14.75,9,2,3,29
+93941,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.05,2,2,3,50
+93942,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,2.15,23,2,4,5
+93947,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.85,22,2,4,13
+93948,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.25,2,2,4,22
+93969,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,22.65,19,2,4,48
+93971,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,4.75,16,2,5,13
+93974,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,15.75,16,2,5,26
+93994,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.65,19,2,5,55
+93996,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,23.05,18,2,6,10
+94000,2016,2015-16,1610612751,Brooklyn Nets,203499,Shane Larkin,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.6,30.15,24,2,6,22
+94002,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,5.15,13,2,6,36
+94006,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,25.25,20,2,6,54
+94019,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.5,5.45,2,2,7,12
+94025,2016,2015-16,1610612751,Brooklyn Nets,203508,Sergey Karasev,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-6.4,19.85,15,2,7,25
+94028,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.0,5.15,15,2,7,42
+94034,2016,2015-16,1610612751,Brooklyn Nets,203499,Shane Larkin,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,4.75,2,2,8,3
+94037,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.05,1,2,8,27
+94053,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.6,21.65,19,2,8,43
+94054,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.35,3,2,8,55
+94060,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,16.75,17,2,9,11
+94062,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.5,5.45,2,2,9,29
+94064,2016,2015-16,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.6,22.65,17,2,9,38
+94065,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,11.75,10,2,9,50
+94069,2016,2015-16,1610612751,Brooklyn Nets,203186,Willie Reed,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,11.35,7,2,10,9
+94081,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,18.65,18,2,10,42
+94086,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.55,25,2,11,5
+94090,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.7,7.35,22,2,11,12
+94093,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.45,3,2,11,31
+94097,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,23.05,18,2,11,43
+94126,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.8,19.15,14,1,0,1
+94129,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,34
+94133,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,7.35,2,1,0,53
+94137,2016,2015-16,1610612748,Miami Heat,101123,Gerald Green,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,4.75,1,1,1,5
+94140,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.15,25,1,1,31
+94145,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,5.15,1,1,1,44
+94150,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,24.25,19,1,2,7
+94152,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.15,3,1,2,23
+94157,2016,2015-16,1610612751,Brooklyn Nets,200745,Andrea Bargnani,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.2,24.05,18,1,2,39
+94163,2016,2015-16,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.85,4,1,2,47
+94192,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.6,17.25,13,1,3,16
+94200,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.85,4,1,3,28
+94203,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.4,11.35,9,1,3,51
+94209,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,2.35,23,1,4,5
+94215,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.85,1,1,4,15
+94222,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,23.05,18,1,4,20
+94229,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.25,7,1,4,53
+94232,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,13.25,8,1,5,18
+94238,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,23.05,17,1,5,28
+94241,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.1,16.75,14,1,5,42
+94246,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,13.45,8,1,6,4
+94249,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,14.75,9,1,6,14
+94273,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.5,5.45,2,1,6,52
+94278,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,5.45,2,1,7,1
+94282,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.6,13.25,8,1,7,19
+94288,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,7.35,22,1,7,31
+94304,2016,2015-16,1610612751,Brooklyn Nets,2207,Joe Johnson,F,SF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,17.25,18,1,7,45
+94321,2016,2015-16,1610612751,Brooklyn Nets,202388,Donald Sloan,G,PG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.6,23.05,20,1,8,12
+94325,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,16.75,11,1,8,21
+94333,2016,2015-16,1610612751,Brooklyn Nets,201961,Wayne Ellington,G,SG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,2.35,24,1,8,42
+94340,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.55,2,1,8,54
+94348,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.05,0,1,9,7
+94355,2016,2015-16,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,10.35,5,1,9,14
+94359,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.8,13.75,17,1,9,28
+94364,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,3.15,23,1,9,43
+94369,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.6,11.45,9,1,9,59
+94372,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,01-26-2016,21500678,BKN,MIA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,5.95,2,1,10,22
+94382,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,5.45,8,1,10,31
+94393,2016,2015-16,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,01-26-2016,21500678,BKN,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.8,14.25,15,1,10,43
+94397,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,01-26-2016,21500678,BKN,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,22.15,18,1,11,6
+94403,2016,2015-16,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.2,10.85,5,1,11,26
+94409,2016,2015-16,1610612748,Miami Heat,2405,Amar'e Stoudemire,C,C,01-26-2016,21500678,BKN,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,11,46

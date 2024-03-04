@@ -1,0 +1,173 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+18203,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,5
+18204,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.4,23.55,18,4,0,14
+18205,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,8.35,23,4,0,37
+18206,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,21.65,18,4,0,48
+18207,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,23.55,19,4,1,25
+18208,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,6.85,3,4,1,44
+18214,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.8,5.95,3,4,2,18
+18224,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.8,9.85,9,4,2,32
+18227,2017,2016-17,1610612756,Phoenix Suns,1627884,Derrick Jones Jr.,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,3
+18230,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,11
+18239,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.55,1,4,3,43
+18241,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.35,9,4,4,12
+18249,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,4,34
+18265,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.7,15.75,25,4,5,5
+18266,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.2,14.25,13,4,5,14
+18271,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.6,23.25,18,4,5,34
+18273,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.3,22.25,17,4,5,58
+18275,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,13.75,13,4,6,8
+18277,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,14.25,10,4,6,22
+18286,2017,2016-17,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.65,22,4,6,47
+18288,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.6,7.85,9,4,7,1
+18302,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.6,7.55,7,4,7,35
+18304,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,4,7,51
+18309,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.05,19,4,8,0
+18323,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.9,31.45,28,4,8,24
+18340,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.4,10.95,5,4,9,5
+18344,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.85,1,4,9,20
+18347,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.25,17,4,9,23
+18352,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.8,29.45,25,4,9,43
+18355,2017,2016-17,1610612756,Phoenix Suns,1627884,Derrick Jones Jr.,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.15,1,4,10,11
+18357,2017,2016-17,1610612756,Phoenix Suns,1627884,Derrick Jones Jr.,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.55,2,4,10,12
+18360,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.0,29.45,24,4,10,32
+18364,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.4,29.95,25,4,10,38
+18367,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.9,21.15,18,4,10,49
+18373,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.4,16.85,12,4,11,23
+18386,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.55,1,3,0,0
+18388,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-5.5,19.85,15,3,0,0
+18391,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,22.15,18,3,0,8
+18394,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.0,32.15,27,3,0,28
+18399,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,30.95,26,3,0,51
+18403,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.9,18.65,18,3,1,14
+18404,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.3,17.35,19,3,1,39
+18407,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.0,29.95,25,3,1,45
+18410,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.1,11.75,6,3,2,12
+18426,2017,2016-17,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.05,1,3,2,36
+18428,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,4.75,15,3,2,49
+18430,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.7,23.05,21,3,3,15
+18433,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.6,30.45,25,3,3,27
+18438,2017,2016-17,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,5.45,1,3,3,39
+18443,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,3,43
+18444,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,13.25,8,3,3,47
+18446,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.2,6.85,10,3,3,57
+18447,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,20.85,19,3,4,10
+18453,2017,2016-17,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.5,9.35,23,3,4,20
+18458,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.1,21.75,17,3,4,33
+18460,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.8,13.95,17,3,4,44
+18466,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.95,0,3,5,20
+18480,2017,2016-17,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,22.05,17,3,6,5
+18486,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,11.95,24,3,6,13
+18492,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,5.55,1,3,6,20
+18498,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.7,6.85,8,3,6,33
+18501,2017,2016-17,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,24.55,21,3,6,44
+18502,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.1,15.75,12,3,7,0
+18510,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,29.65,24,3,7,8
+18514,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,3,7,18
+18515,2017,2016-17,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,7.35,2,3,7,20
+18517,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,28.45,24,3,7,47
+18522,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.6,16.75,13,3,7,55
+18524,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,19.35,18,3,8,22
+18528,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.1,17.65,14,3,8,32
+18530,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,16.35,13,3,8,44
+18534,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.2,26.05,20,3,8,59
+18553,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.8,12.75,17,3,9,41
+18557,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,30.15,25,3,10,0
+18561,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,5.55,16,3,10,18
+18566,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.4,30.45,25,3,10,29
+18573,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,56
+18575,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,25.55,20,3,11,21
+18578,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.4,16.75,13,3,11,49
+18583,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.2,29.15,25,2,0,0
+18595,2017,2016-17,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.35,23,2,0,8
+18596,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,30.15,25,2,0,31
+18620,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.95,22,2,1,21
+18629,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,28.45,24,2,1,45
+18632,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.6,12.75,12,2,1,50
+18644,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,29.95,24,2,2,14
+18649,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.4,30.65,27,2,2,22
+18656,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.5,6.15,2,2,5,13
+18659,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,23.05,17,2,2,46
+18663,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.55,4,2,2,58
+18669,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,29.95,24,2,3,19
+18677,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.35,5,2,3,33
+18679,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.5,21.15,25,2,3,39
+18685,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,21.25,20,2,3,57
+18687,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,4,16
+18689,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.15,0,2,4,34
+18693,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.95,1,2,4,48
+18695,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.15,1,2,5,3
+18697,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,5,11
+18699,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.4,28.15,22,2,5,14
+18722,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,8.85,18,2,5,39
+18724,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.85,24,2,6,4
+18726,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,20.65,19,2,6,18
+18728,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,2,6,40
+18734,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,10.85,23,2,6,46
+18737,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.4,17.25,21,2,7,2
+18745,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,19.65,19,2,7,26
+18749,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.9,19.15,17,2,7,57
+18752,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,28.95,24,2,8,4
+18757,2017,2016-17,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.65,23,2,8,22
+18760,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.6,21.65,19,2,8,35
+18767,2017,2016-17,1610612756,Phoenix Suns,1627884,Derrick Jones Jr.,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,2,8,55
+18768,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,10.95,5,2,8,56
+18780,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.6,25.05,22,2,9,8
+18782,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,18.85,19,2,9,29
+18784,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.8,29.95,25,2,9,46
+18787,2017,2016-17,1610612756,Phoenix Suns,201162,Jared Dudley,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.4,28.65,25,2,10,1
+18794,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,2,10,8
+18795,2017,2016-17,1610612756,Phoenix Suns,1627884,Derrick Jones Jr.,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,10,19
+18801,2017,2016-17,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.55,25,2,10,25
+18824,2017,2016-17,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,36.35,31,2,11,1
+18827,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,20.15,17,2,11,27
+18829,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.9,17.25,12,2,11,47
+18838,2017,2016-17,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.6,41.25,36,1,0,0
+18843,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.15,0,1,0,10
+18846,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,1,0,10
+18849,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,29.45,24,1,0,13
+18856,2017,2016-17,1610612746,LA Clippers,101187,Alan Anderson,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,27.55,27,1,0,35
+18862,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.8,4.25,23,1,0,59
+18864,2017,2016-17,1610612746,LA Clippers,1718,Paul Pierce,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.3,29.65,24,1,1,17
+18865,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,1,32
+18869,2017,2016-17,1610612746,LA Clippers,101109,Raymond Felton,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,1,1,48
+18871,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.4,5.95,9,1,2,10
+18873,2017,2016-17,1610612746,LA Clippers,201578,Marreese Speights,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.7,5.45,22,1,2,24
+18875,2017,2016-17,1610612756,Phoenix Suns,1626210,Alan Williams,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.45,5,1,2,48
+18878,2017,2016-17,1610612746,LA Clippers,201578,Marreese Speights,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,17.65,21,1,3,1
+18883,2017,2016-17,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,7.55,16,1,3,5
+18888,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,1,3,18
+18891,2017,2016-17,1610612746,LA Clippers,1718,Paul Pierce,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,19.35,19,1,3,26
+18893,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.7,20.85,18,1,3,37
+18901,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,3,52
+18908,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,1,4,9
+18911,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.0,25.55,20,1,4,18
+18914,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,1,4,35
+18918,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.1,7.85,6,1,4,42
+18925,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.9,17.35,14,1,4,59
+18929,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.95,25,1,5,8
+18948,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,24.55,19,1,5,54
+18949,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.8,16.35,19,1,6,11
+18951,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.8,16.75,19,1,6,23
+18954,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.7,5.15,22,1,6,34
+18972,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,7,0
+18977,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.8,20.65,17,1,7,5
+18986,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.95,2,1,7,14
+18988,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-25.0,5.55,25,1,7,22
+18993,2017,2016-17,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,SF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.05,0,1,7,27
+18996,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.8,29.15,25,1,7,40
+18998,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.6,10.35,19,1,7,54
+19004,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,18.15,25,1,8,17
+19012,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,1,8,29
+19015,2017,2016-17,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,37
+19016,2017,2016-17,1610612746,LA Clippers,200755,JJ Redick,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.7,3.15,19,1,8,38
+19019,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,52
+19025,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,12.25,7,1,8,56
+19027,2017,2016-17,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.15,1,1,9,11
+19034,2017,2016-17,1610612756,Phoenix Suns,1627755,Tyler Ulis,G,PG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,14.95,15,1,9,35
+19037,2017,2016-17,1610612746,LA Clippers,101108,Chris Paul,G,PG,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,9.35,8,1,9,45
+19040,2017,2016-17,1610612756,Phoenix Suns,203933,T.J. Warren,F,SF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.05,3,1,9,53
+19054,2017,2016-17,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,23.25,18,1,10,18
+19065,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,24.25,20,1,10,41
+19071,2017,2016-17,1610612746,LA Clippers,201933,Blake Griffin,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,23.55,20,1,11,9
+19074,2017,2016-17,1610612756,Phoenix Suns,1627737,Marquese Chriss,F,PF,03-30-2017,21601124,PHX,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,11,30

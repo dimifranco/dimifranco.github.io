@@ -1,0 +1,138 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+11629,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,4,0,2
+11633,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,21.95,25,4,0,10
+11636,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,4,0,34
+11643,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,4,0,41
+11651,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,4,0,55
+11660,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,14.95,9,4,1,1
+11662,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.3,28.25,24,4,1,25
+11666,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.15,23,4,1,41
+11668,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.95,1,4,1,57
+11683,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,4,2,35
+11686,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.2,7.45,21,4,2,52
+11687,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,4,3,15
+11689,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,4,3,28
+11694,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,4,3,48
+11700,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,4,4,14
+11702,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,10.75,6,4,4,16
+11704,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.2,11.85,9,4,4,45
+11715,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.65,1,4,5,6
+11719,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,7.25,15,4,5,31
+11724,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,18.75,25,4,5,58
+11735,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.95,0,4,6,36
+11740,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,20.65,24,4,6,56
+11743,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,7.25,19,4,7,7
+11744,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,12.45,24,4,7,29
+11753,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,4,7,41
+11755,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,4,7,55
+11763,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.65,23,4,8,13
+11767,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.95,23,4,8,27
+11769,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.75,22,4,8,44
+11770,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,4,9,1
+11775,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,4,9,23
+11776,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.75,1,4,9,43
+11778,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,4,10,9
+11784,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,4,11,3
+11793,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,6.45,23,4,11,22
+11797,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,13.25,14,4,11,46
+11808,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,7.55,9,3,0,14
+11820,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,0,36
+11824,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,27.95,26,3,0,59
+11829,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,7.25,17,3,1,11
+11833,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,10.55,23,3,1,30
+11834,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,9.65,9,3,1,42
+11841,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.15,2,3,2,4
+11844,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,10.45,23,3,2,29
+11850,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,3,2,44
+11865,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,6.35,3,3,3,9
+11868,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,9.75,8,3,3,21
+11872,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,3,3,37
+11875,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.35,25,3,3,56
+11876,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.5,29.45,25,3,4,18
+11882,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,3,4,40
+11885,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,5.55,24,3,4,54
+11891,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.8,13.45,8,3,5,21
+11896,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.25,23,3,5,27
+11903,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,9.45,12,3,5,36
+11914,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,23.95,24,3,5,57
+11924,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,7.55,10,3,6,12
+11925,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,14.85,18,3,6,29
+11931,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.75,22,3,7,2
+11946,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,24.75,24,3,7,24
+11957,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,10.55,5,3,8,2
+11961,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.45,2,3,8,7
+11966,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,3,8,12
+11968,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,11.95,9,3,8,33
+11971,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,3,8,51
+11974,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,19.05,16,3,9,6
+11978,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.65,1,3,9,30
+11984,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,9.35,20,3,10,5
+11988,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.35,23,3,10,20
+11992,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.65,2,3,10,28
+11996,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.95,3,3,10,47
+12000,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,12.35,11,3,11,3
+12005,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.35,6,3,11,39
+12012,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.4,21.75,24,2,0,0
+12014,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.15,2,2,0,4
+12016,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.25,23,2,0,9
+12017,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,2,0,30
+12022,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,6.75,23,2,0,56
+12028,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.85,25,2,1,3
+12042,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,2,1,51
+12048,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.35,25,2,2,26
+12053,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,10.25,20,2,2,52
+12069,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,2,3,26
+12076,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.25,24,2,3,36
+12078,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,2,3,57
+12082,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,2,4,16
+12087,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,23.35,19,2,4,27
+12105,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,8.65,22,2,4,56
+12127,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.85,24,2,5,26
+12130,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,2,5,40
+12134,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,10.55,8,2,6,0
+12135,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,5.65,24,2,6,28
+12147,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,8.95,12,2,6,49
+12153,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,20.15,17,2,7,23
+12155,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,2,7,50
+12187,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,22.85,24,2,8,46
+12196,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,16.05,11,2,9,3
+12206,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,8.55,8,2,9,36
+12208,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,16.55,24,2,9,50
+12215,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,2,9,57
+12217,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.65,1,2,10,8
+12225,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.45,23,2,10,36
+12230,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,2,11,9
+12242,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,22.45,25,2,11,45
+12252,2014,2013-14,1610612751,Brooklyn Nets,101187,Alan Anderson,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,6.95,10,1,0,2
+12253,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,10.75,24,1,0,18
+12257,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,1,0,42
+12261,2014,2013-14,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.55,24,1,1,6
+12273,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.55,23,1,1,37
+12275,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,20.95,21,1,2,2
+12280,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.65,25,1,2,14
+12284,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,11.55,7,1,2,42
+12296,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,1,3,4
+12307,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,30.65,25,1,3,18
+12312,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,23.55,26,1,3,29
+12320,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,22.45,19,1,3,58
+12321,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,1,4,15
+12323,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,1,4,35
+12325,2014,2013-14,1610612751,Brooklyn Nets,201977,Marcus Thornton,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.35,25,1,4,57
+12329,2014,2013-14,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,6.35,10,1,5,2
+12343,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,1,5,10
+12348,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.65,25,1,5,28
+12350,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,9.75,8,1,5,42
+12352,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,20.05,17,1,5,54
+12354,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.3,16.55,11,1,6,9
+12389,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,1,6,45
+12395,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,16.05,15,1,6,48
+12399,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,30.75,27,1,7,8
+12402,2014,2013-14,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,26.35,25,1,7,38
+12412,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,1,8,15
+12416,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.85,23,1,8,40
+12420,2014,2013-14,1610612751,Brooklyn Nets,2733,Shaun Livingston,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.1,18.45,14,1,9,1
+12437,2014,2013-14,1610612751,Brooklyn Nets,1718,Paul Pierce,F,SF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,23.95,18,1,9,47
+12441,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,26.05,25,1,10,8
+12445,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,10.85,12,1,10,29
+12452,2014,2013-14,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,04-08-2014,21301158,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.85,25,1,10,35
+12454,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2014,21301158,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,1,11,3

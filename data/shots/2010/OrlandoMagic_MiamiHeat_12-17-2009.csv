@@ -1,0 +1,160 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+140453,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,9.45,24,4,0,7
+140455,2010,2009-10,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,14.05,16,4,0,13
+140457,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,27.75,24,4,0,20
+140460,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.35,6,4,0,27
+140463,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.5,21.15,15,4,0,46
+140465,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.65,17,4,1,7
+140466,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,11.05,17,4,1,14
+140467,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.85,17,4,1,29
+140469,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.2,20.85,15,4,1,41
+140473,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,11.25,7,4,1,56
+140475,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,10.85,23,4,2,9
+140477,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,14.35,15,4,2,16
+140482,2010,2009-10,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,35
+140485,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,10.55,23,4,3,0
+140487,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,9.75,24,4,3,8
+140490,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,24.25,24,4,3,30
+140493,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,9.65,7,4,3,39
+140495,2010,2009-10,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,6.65,16,4,3,56
+140497,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,14
+140498,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.45,24,4,4,26
+140499,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.55,15,4,4,46
+140502,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,19.45,16,4,4,57
+140512,2010,2009-10,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,22.45,17,4,5,47
+140514,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,2
+140518,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,22
+140520,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,44
+140525,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,8.85,18,4,6,48
+140527,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,12.45,24,4,7,2
+140529,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,10
+140531,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,23
+140533,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,24.75,24,4,7,38
+140536,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,6.75,17,4,7,48
+140537,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,22.75,18,4,8,14
+140550,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,21.95,18,4,8,55
+140552,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,16
+140554,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,21
+140557,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,16.05,18,4,9,28
+140558,2010,2009-10,1610612753,Orlando Magic,101138,Brandon Bass,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,10.45,17,4,9,57
+140561,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,13
+140562,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,12.45,9,4,10,16
+140564,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,25.25,20,4,10,28
+140567,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,25.85,24,4,10,58
+140572,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,6
+140574,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,19.05,14,4,11,21
+140575,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,40
+140579,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,35.85,34,3,0,0
+140586,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,19
+140589,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,26.35,25,3,0,43
+140591,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,22.45,25,3,1,0
+140593,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.25,25,3,1,8
+140595,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,8.35,7,3,1,21
+140596,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.65,23,3,1,58
+140598,2010,2009-10,1610612753,Orlando Magic,1533,Anthony Johnson,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,14.55,16,3,2,12
+140599,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,17.35,19,3,2,29
+140602,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,7.25,15,3,3,3
+140610,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,8.85,5,3,3,42
+140612,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,16.85,18,3,4,3
+140616,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,30
+140618,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,8.85,16,3,4,43
+140620,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,7.45,7,3,4,59
+140624,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,22.75,18,3,5,37
+140631,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,5.55,17,3,5,59
+140634,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,25.05,24,3,6,16
+140636,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,19.05,16,3,6,26
+140637,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.9,11.05,8,3,6,41
+140638,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,23.55,20,3,6,55
+140644,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,28
+140647,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,48
+140656,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,12
+140657,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.4,15.95,10,3,8,34
+140658,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,20.55,25,3,8,44
+140660,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,22.25,17,3,9,6
+140662,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,2.55,16,3,9,25
+140663,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,7.85,23,3,9,48
+140665,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,10.25,6,3,9,58
+140667,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.25,25,3,10,15
+140670,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,21.15,25,3,10,22
+140671,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,23.05,19,3,10,44
+140673,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,11.85,7,3,10,58
+140676,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,27.15,24,3,11,22
+140677,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,12.15,16,3,11,42
+140682,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,27.25,26,2,0,0
+140684,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,6
+140686,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,8.25,8,2,0,11
+140687,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,26.05,20,2,0,30
+140689,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,14.35,9,2,0,35
+140691,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,24.25,25,2,0,53
+140693,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,10.45,12,2,1,1
+140694,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,20.85,16,2,1,13
+140696,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,24.25,20,2,1,28
+140698,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,44
+140700,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,20.15,16,2,2,2
+140703,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,3.55,15,2,2,36
+140705,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,10.75,10,2,2,43
+140706,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,11.95,17,2,3,4
+140708,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,19.85,17,2,3,23
+140710,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,10.75,5,2,3,37
+140711,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,26.05,26,2,3,51
+140713,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.45,25,2,4,4
+140719,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.35,12,2,4,39
+140724,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,14
+140729,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,27.15,25,2,5,27
+140730,2010,2009-10,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,10.25,7,2,5,36
+140732,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,6.75,7,2,5,54
+140736,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,21.45,18,2,6,8
+140747,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,17
+140749,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,19
+140750,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.7,29.65,24,2,7,39
+140752,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,27.15,25,2,7,58
+140755,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,7.55,8,2,8,16
+140760,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,9.95,5,2,8,33
+140762,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,9.75,7,2,8,43
+140763,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,28.55,24,2,9,9
+140768,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,20.95,18,2,9,17
+140774,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,22.55,19,2,9,45
+140780,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,18
+140784,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,24.95,24,2,10,36
+140785,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.65,26,2,10,50
+140786,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,4
+140787,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,21.75,18,2,11,34
+140792,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,23.35,20,1,0,0
+140795,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.35,23,1,0,2
+140796,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,20.95,19,1,0,28
+140798,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,57
+140801,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,19.55,19,1,1,9
+140804,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,22
+140805,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.85,3,1,1,41
+140808,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,13.05,10,1,1,55
+140810,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,24.95,19,1,2,15
+140814,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,19.05,16,1,2,53
+140816,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.75,23,1,3,11
+140820,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.3,12.95,16,1,3,26
+140827,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,12.95,7,1,3,50
+140830,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,12.35,16,1,4,7
+140832,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,22
+140836,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,12.15,15,1,4,34
+140838,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,18.95,14,1,4,47
+140840,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,18.75,25,1,5,3
+140843,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,21.65,18,1,5,29
+140846,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,5.95,5,1,5,53
+140847,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,7.45,19,1,6,13
+140851,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,16.05,17,1,6,33
+140857,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,3
+140859,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,11.35,24,1,7,6
+140860,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,9.75,17,1,7,26
+140867,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.2,16.25,25,1,8,27
+140871,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,11.05,8,1,8,37
+140874,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,25.35,25,1,8,52
+140877,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,23.85,25,1,9,2
+140881,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,5.85,8,1,9,21
+140883,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,8.55,24,1,9,53
+140886,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,9.15,6,1,10,8
+140890,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,24.65,25,1,10,25
+140894,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,12-17-2009,20900371,MIA,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,38
+140897,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,16.25,15,1,10,43
+140899,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.75,25,1,11,1
+140901,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,12-17-2009,20900371,MIA,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.9,14.95,10,1,11,16
+140903,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,24
+140905,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,12-17-2009,20900371,MIA,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.95,25,1,11,39

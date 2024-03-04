@@ -1,0 +1,157 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+47974,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,11.05,24,4,0,42
+47981,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,45
+47983,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.25,23,4,0,56
+47985,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.75,22,4,1,7
+47998,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,28.05,24,4,1,57
+47999,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,21.75,24,4,2,36
+48007,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,29.65,24,4,3,0
+48020,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.35,24,4,3,23
+48029,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,4,3,44
+48048,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.0,16.25,12,4,4,6
+48052,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,14.55,12,4,4,29
+48054,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.85,23,4,4,33
+48059,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.05,1,4,4,54
+48080,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.35,1,4,5,38
+48084,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.65,3,4,5,45
+48107,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.05,23,4,6,6
+48110,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,11.55,24,4,6,15
+48113,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,17.15,13,4,6,35
+48121,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,4,6,59
+48123,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,26.35,25,4,7,16
+48127,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,4,7,40
+48137,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,8,4
+48148,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.95,2,4,8,26
+48155,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,5.95,14,4,8,48
+48168,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,4.65,19,4,9,13
+48177,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,16.75,11,4,9,24
+48198,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,5.25,14,4,10,0
+48199,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,2.45,11,4,10,9
+48201,2015,2014-15,1610612738,Boston Celtics,2222,Gerald Wallace,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,4,10,35
+48205,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,4.65,19,4,10,50
+48223,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,5.25,19,4,11,24
+48230,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,19.85,24,4,11,42
+48245,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,20.95,25,3,0,2
+48247,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,0,12
+48253,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,3,0,30
+48258,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.05,0,3,0,33
+48277,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,3,0,53
+48281,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,5.55,24,3,1,12
+48285,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,3,1,30
+48286,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,21.25,24,3,1,31
+48289,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,1,47
+48291,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,18.15,18,3,2,12
+48296,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,18.15,17,3,2,30
+48315,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,59
+48321,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,20.15,24,3,3,1
+48324,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,3,3,7
+48328,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,3,3,23
+48332,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.15,24,3,3,33
+48337,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,19.05,25,3,3,46
+48340,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,8.65,5,3,4,2
+48344,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.15,25,3,4,24
+48369,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,24.75,19,3,4,40
+48389,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,24.65,24,3,4,59
+48393,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,14.65,12,3,5,6
+48415,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.65,25,3,5,45
+48425,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,3,5,54
+48427,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.85,1,3,5,56
+48429,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,11.85,20,3,6,12
+48431,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,10.05,11,3,6,29
+48441,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,3,6,50
+48447,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,22.05,16,3,6,58
+48460,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,9.75,14,3,7,13
+48464,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,7,33
+48466,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,7,53
+48469,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,6.15,12,3,8,0
+48501,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,3,8,23
+48507,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,17.15,11,3,8,39
+48527,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,20.35,19,3,8,56
+48550,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,24.25,19,3,9,22
+48556,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,16.45,17,3,9,30
+48560,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.25,24,3,9,51
+48564,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,8.65,5,3,9,59
+48566,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,9
+48574,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,23
+48581,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,3,10,25
+48606,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,9.15,7,3,10,46
+48609,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,17.85,12,3,11,0
+48611,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,4.65,23,3,11,15
+48618,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,5.25,11,3,11,37
+48640,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,18.45,19,2,0,3
+48646,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,20.85,19,2,0,25
+48656,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,2,0,47
+48710,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,10.55,11,2,1,32
+48713,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,19.75,14,2,1,54
+48719,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.4,18.95,14,2,2,10
+48723,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,12.45,21,2,2,35
+48729,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.35,23,2,2,54
+48756,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,2,3,39
+48761,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.55,25,2,4,4
+48770,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,21.45,18,2,4,41
+48774,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,14.15,11,2,4,58
+48783,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,9.35,20,2,5,5
+48788,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,8.05,9,2,5,26
+48800,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,2,5,40
+48802,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,7.15,17,2,6,0
+48806,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,6,14
+48814,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.25,2,2,6,28
+48820,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,19.55,19,2,6,46
+48823,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,5.25,8,2,7,1
+48829,2015,2014-15,1610612738,Boston Celtics,2222,Gerald Wallace,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.35,1,2,7,14
+48839,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,2,7,24
+48841,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,6.65,24,2,7,28
+48854,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,10.55,13,2,7,53
+48860,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,14.35,9,2,8,8
+48886,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,6.65,8,2,9,2
+48891,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.15,3,2,9,22
+48898,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,15.65,19,2,9,35
+48905,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,2,9,48
+48912,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,9.75,23,2,9,53
+48913,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,22.25,24,2,10,19
+48919,2015,2014-15,1610612738,Boston Celtics,203540,Gigi Datome,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,26.35,25,2,10,29
+48920,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,2,10,44
+48933,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.4,28.75,24,2,11,9
+48937,2015,2014-15,1610612738,Boston Celtics,201973,Jonas Jerebko,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,6.15,18,2,11,38
+48951,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,27.25,24,1,0,1
+48952,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,27.15,21,1,0,11
+48959,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,9.45,6,1,0,30
+48962,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,9.65,21,1,0,35
+48965,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-6.7,19.45,15,1,0,54
+48969,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,18.15,18,1,1,9
+48975,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,23.55,24,1,1,26
+48978,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,24.65,24,1,1,40
+48982,2015,2014-15,1610612738,Boston Celtics,203482,Kelly Olynyk,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,5.35,4,1,2,11
+48986,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.65,1,1,2,35
+48999,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.35,1,1,3,4
+49002,2015,2014-15,1610612738,Boston Celtics,202738,Isaiah Thomas,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,22.05,24,1,3,26
+49011,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.95,16,1,3,43
+49023,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,10.75,23,1,3,58
+49027,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,5.35,19,1,4,19
+49032,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,19.45,16,1,4,31
+49044,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.15,24,1,4,55
+49045,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.05,24,1,5,12
+49050,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,27.25,23,1,5,18
+49061,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,13.75,18,1,5,52
+49065,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,14.85,20,1,6,15
+49075,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.95,1,1,6,29
+49078,2015,2014-15,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-09-2015,21400940,MIA,BOS,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,4.65,10,1,6,41
+49080,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,58
+49087,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,13.75,10,1,7,7
+49105,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,14.05,8,1,7,27
+49114,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,19.75,23,1,7,31
+49121,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,11.55,9,1,7,38
+49143,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,4.75,20,1,8,3
+49150,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,14.35,19,1,8,17
+49152,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,4.25,15,1,8,30
+49162,2015,2014-15,1610612738,Boston Celtics,202323,Evan Turner,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,5.55,8,1,8,42
+49164,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,22.75,17,1,9,1
+49179,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,16.45,17,1,9,33
+49188,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,8.65,23,1,9,49
+49199,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,24.15,25,1,10,8
+49206,2015,2014-15,1610612738,Boston Celtics,203109,Jae Crowder,F,SF,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,20.85,21,1,10,12
+49213,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,15.15,9,1,10,29
+49220,2015,2014-15,1610612738,Boston Celtics,203092,Tyler Zeller,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,10,50
+49229,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,6.45,14,1,10,56
+49236,2015,2014-15,1610612738,Boston Celtics,203935,Marcus Smart,G,PG,03-09-2015,21400940,MIA,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,6.65,23,1,11,22
+49241,2015,2014-15,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,03-09-2015,21400940,MIA,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,1,11,40

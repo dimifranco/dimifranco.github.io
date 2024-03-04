@@ -1,0 +1,152 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+164439,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,10.25,7,4,0,7
+164451,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,14.65,19,4,0,20
+164459,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.7,14.35,23,4,0,45
+164479,2011,2010-11,1610612740,New Orleans Hornets,101127,Jarrett Jack,G,SG-PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.8,11.85,6,4,1,11
+164481,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,4,1,23
+164487,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,15.45,19,4,1,42
+164498,2011,2010-11,1610612740,New Orleans Hornets,101127,Jarrett Jack,G,SG-PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,20.85,17,4,1,55
+164531,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,7.85,17,4,2,11
+164536,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,13.55,20,4,2,34
+164541,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.7,29.45,24,4,2,46
+164550,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,4,3,8
+164557,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.55,22,4,3,13
+164562,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,4.95,15,4,3,23
+164565,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,4,3,48
+164568,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.15,24,4,4,8
+164582,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,4,4,35
+164606,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,4,5,10
+164623,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,4,6,2
+164632,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,4,6,7
+164663,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,13.55,8,4,6,22
+164669,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,26.35,25,4,6,39
+164676,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,16.05,17,4,7,9
+164679,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.2,11.55,8,4,7,24
+164712,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.15,1,4,8,7
+164723,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,28.55,25,4,8,40
+164738,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.55,2,4,9,15
+164743,2011,2010-11,1610612740,New Orleans Hornets,201977,Marcus Thornton,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.35,24,4,9,34
+164744,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,14.95,18,4,9,52
+164777,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.5,18.15,20,4,10,33
+164783,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.05,8,4,10,38
+164787,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.85,23,4,10,59
+164789,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.25,2,4,11,17
+164797,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,27.15,28,4,11,36
+164811,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.5,17.05,11,3,0,1
+164814,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.25,3,3,0,4
+164841,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.7,29.85,25,3,0,30
+164850,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,18.75,20,3,0,44
+164858,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,21.65,19,3,0,57
+164884,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,23.95,18,3,1,18
+164888,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.55,24,3,1,26
+164894,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,22.75,24,3,1,49
+164901,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,6.75,3,3,2,8
+164911,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.95,3,3,2,22
+164916,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,11.95,17,3,2,33
+164921,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,3,2,43
+164926,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,11.35,18,3,2,57
+164931,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.2,20.15,14,3,3,13
+164944,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,3,3,29
+164952,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,5.95,3,3,3,48
+164955,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,3,4,6
+164999,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,15.95,17,3,4,48
+165040,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,10.05,6,3,5,45
+165045,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,28.25,23,3,5,57
+165092,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,24.65,24,3,6,41
+165101,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.75,2,3,6,48
+165107,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.75,7,3,6,56
+165118,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.65,1,3,7,12
+165127,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,12.65,10,3,7,21
+165135,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.85,3,3,7,34
+165140,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.7,15.75,18,3,7,45
+165152,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.8,14.05,16,3,8,15
+165159,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.25,2,3,8,39
+165184,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,10.55,15,3,8,54
+165208,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,11.85,15,3,9,21
+165211,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,23.15,23,3,9,37
+165221,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,5.25,22,3,10,7
+165223,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,3,10,22
+165229,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,29.65,24,3,10,34
+165234,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,3,11,0
+165239,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,3,11,15
+165245,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Running Bank shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,6.45,13,3,11,38
+165251,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,3,11,42
+165254,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,3,11,44
+165273,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,27.45,24,2,0,1
+165280,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,13.25,9,2,0,8
+165282,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,2,0,30
+165287,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.6,28.85,24,2,0,35
+165296,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,2,0,52
+165303,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,19.75,19,2,1,7
+165311,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.75,3,2,1,30
+165315,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,8.35,9,2,1,49
+165339,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,21.95,24,2,2,10
+165343,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,13.25,8,2,2,22
+165345,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,29.35,24,2,2,46
+165369,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,22.75,19,2,3,12
+165370,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.35,2,2,3,33
+165375,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,5.25,18,2,3,43
+165379,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,15.75,24,2,4,6
+165388,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.8,19.05,14,2,4,32
+165394,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,21.15,21,2,4,41
+165414,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.65,3,2,5,4
+165447,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.95,2,2,5,20
+165476,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,5,41
+165529,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,17.95,24,2,6,34
+165564,2011,2010-11,1610612740,New Orleans Hornets,201160,Jason Smith,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,11.85,19,2,7,17
+165583,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.35,16,2,7,37
+165590,2011,2010-11,1610612740,New Orleans Hornets,101127,Jarrett Jack,G,SG-PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,16.45,17,2,7,56
+165591,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,2,8,8
+165597,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,2,8,33
+165607,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,19.05,13,2,8,55
+165637,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,13.25,18,2,9,15
+165649,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.45,22,2,9,24
+165661,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.35,1,2,9,47
+165668,2011,2010-11,1610612740,New Orleans Hornets,201977,Marcus Thornton,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.8,29.05,24,2,9,55
+165676,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,2,10,9
+165679,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,2,10,10
+165685,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,2,10,11
+165689,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.35,22,2,10,13
+165695,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,10,42
+165710,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,13.25,18,2,11,11
+165725,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,24.65,24,2,11,45
+165745,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-3.1,65.65,60,1,0,2
+165763,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,1,0,3
+165768,2011,2010-11,1610612740,New Orleans Hornets,101127,Jarrett Jack,G,SG-PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,17.65,18,1,0,19
+165770,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,1,0,34
+165777,2011,2010-11,1610612740,New Orleans Hornets,202347,Quincy Pondexter,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,24.75,23,1,0,56
+165794,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,29.15,23,1,1,28
+165799,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,29.85,24,1,1,44
+165803,2011,2010-11,1610612740,New Orleans Hornets,2584,Willie Green,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,25.25,20,1,2,3
+165818,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.85,3,1,2,30
+165866,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.45,22,1,2,59
+165868,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,17.65,18,1,3,22
+165886,2011,2010-11,1610612740,New Orleans Hornets,2788,DJ Mbenga,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,1,3,48
+165896,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,15.65,17,1,3,57
+165902,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,29.95,24,1,4,12
+165906,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.65,23,1,4,26
+165913,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,14.05,13,1,4,35
+165924,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,9.15,3,1,5,17
+165935,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.15,1,1,5,38
+165940,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,1,5,40
+165963,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,1,6,9
+165973,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.85,2,1,6,27
+165997,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.65,2,1,6,43
+166004,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,12.75,21,1,6,59
+166007,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,18.45,19,1,7,15
+166015,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,10.45,19,1,7,28
+166018,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,19.25,19,1,7,41
+166024,2011,2010-11,1610612740,New Orleans Hornets,101108,Chris Paul,G,PG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.95,2,1,7,59
+166037,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,1,8,16
+166040,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,8.25,14,1,8,28
+166051,2011,2010-11,1610612740,New Orleans Hornets,201158,Marco Belinelli,G,SG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.55,22,1,8,42
+166053,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,1,9,4
+166059,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,11.25,11,1,9,17
+166062,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,6.35,14,1,9,46
+166067,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,22.25,17,1,10,3
+166077,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,7.15,3,1,10,19
+166087,2011,2010-11,1610612740,New Orleans Hornets,2731,Emeka Okafor,C,C,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,5.55,5,1,10,39
+166095,2011,2010-11,1610612740,New Orleans Hornets,2772,Trevor Ariza,F,SF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,1,11,7
+166101,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.8,6.45,21,1,11,17
+166115,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,1,11,37
+166119,2011,2010-11,1610612740,New Orleans Hornets,2561,David West,F,PF,11-24-2010,21000219,UTA,NOH,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.15,1,1,11,38

@@ -1,0 +1,155 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+45258,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.6,24.25,23,4,0,11
+45267,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,9.95,24,4,0,36
+45269,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.95,23,4,0,41
+45270,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.35,1,4,1,0
+45272,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,11.05,12,4,1,6
+45275,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,15.45,12,4,1,26
+45278,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.25,19,4,2,5
+45280,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,4,2,23
+45282,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,4,2,25
+45294,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,17.35,12,4,2,58
+45297,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,7.55,9,4,3,16
+45300,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,17.15,16,4,3,38
+45301,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.45,3,4,4,1
+45313,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,22.05,19,4,4,48
+45315,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,4,5,11
+45316,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,9.65,14,4,5,39
+45325,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,11.25,6,4,6,6
+45328,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.15,24,4,6,29
+45335,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,7.55,8,4,6,42
+45359,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.7,23.05,23,4,7,6
+45363,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,7,16
+45368,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,7.25,9,4,7,29
+45370,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,9.45,11,4,7,47
+45373,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.95,24,4,8,5
+45378,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,17.95,24,4,8,11
+45384,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,4.75,19,4,8,37
+45398,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,7.85,23,4,9,5
+45414,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.75,0,4,9,20
+45430,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,7.55,24,4,9,53
+45436,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,22.85,19,4,10,4
+45459,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,26.65,24,4,10,44
+45496,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,11,24
+45543,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,1.6,73.65,68,3,0,7
+45575,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.95,23,3,0,50
+45610,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,3,1,27
+45621,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,27.45,25,3,1,41
+45626,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,24.15,25,3,1,55
+45629,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,14.85,12,3,2,20
+45636,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,8.05,7,3,2,38
+45657,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,3,3,0
+45669,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,11.25,12,3,3,17
+45678,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,12.75,10,3,3,31
+45680,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,27.65,24,3,3,46
+45683,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,11.95,11,3,4,14
+45686,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,4,44
+45691,2015,2014-15,1610612751,Brooklyn Nets,203900,Markel Brown,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.45,24,3,4,58
+45693,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,9.35,7,3,5,21
+45697,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,3,5,46
+45715,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,23.95,24,3,6,23
+45722,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,15.35,12,3,6,33
+45729,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,4.95,18,3,6,56
+45750,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.25,24,3,7,33
+45755,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,3,7,40
+45763,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,30.25,25,3,7,56
+45771,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,12.45,18,3,8,13
+45794,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,5.25,5,3,8,53
+45805,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,8.65,23,3,9,13
+45814,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.95,25,3,9,27
+45830,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.2,16.55,12,3,10,6
+45841,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,24.75,24,3,10,28
+45848,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,19.45,16,3,10,35
+45883,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,9.15,19,3,11,11
+45894,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.6,28.85,24,3,11,39
+45925,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,2,0,9
+45929,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,0,11
+45932,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,0,31
+45941,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,8.25,6,2,0,55
+45984,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,6.75,10,2,1,33
+46008,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.95,2,2,1,59
+46016,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.25,19,2,2,2
+46043,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.95,1,2,2,16
+46072,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,13.55,8,2,2,30
+46079,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,5.65,15,2,2,34
+46087,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,5.35,18,2,2,45
+46094,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,6.75,5,2,3,3
+46096,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,3,15
+46098,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,3,28
+46115,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.05,4,2,3,45
+46120,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,4.75,20,2,3,48
+46126,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,2,4,12
+46152,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,2,4,41
+46158,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.95,3,2,4,59
+46183,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,18.45,19,2,5,23
+46190,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,16.05,24,2,5,34
+46232,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,2,5,56
+46242,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,6.15,16,2,6,18
+46254,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,2,6,50
+46285,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,7,18
+46290,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,8.05,5,2,7,23
+46296,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,5.35,9,2,7,32
+46300,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,28.05,24,2,8,0
+46312,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,15.15,11,2,8,23
+46318,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,2,8,33
+46320,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,8,53
+46331,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,9,15
+46335,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,2,9,19
+46340,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,7.45,18,2,9,29
+46350,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.9,5.55,3,2,9,31
+46359,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.55,5,2,9,52
+46366,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,22.05,17,2,10,0
+46376,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,10,14
+46387,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,15.15,11,2,10,25
+46400,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.35,24,2,10,42
+46422,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.25,3,2,11,1
+46429,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.05,25,2,11,4
+46435,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,5.55,24,2,11,11
+46439,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,18.75,25,2,11,26
+46446,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,2,11,39
+46460,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-7.3,59.45,54,1,0,0
+46485,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,20.55,19,1,0,9
+46492,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.35,4,1,0,36
+46497,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,51
+46503,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,55
+46510,2015,2014-15,1610612751,Brooklyn Nets,203928,Cory Jefferson,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,7.75,13,1,1,0
+46518,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.25,3,1,1,16
+46527,2015,2014-15,1610612751,Brooklyn Nets,203486,Mason Plumlee,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,8.95,4,1,1,18
+46557,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,1,1,34
+46561,2015,2014-15,1610612751,Brooklyn Nets,202711,Bojan Bogdanovic,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,29.45,24,1,1,40
+46567,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.25,25,1,2,4
+46583,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,17.05,13,1,2,32
+46616,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,2,56
+46623,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,1,3,5
+46647,2015,2014-15,1610612751,Brooklyn Nets,203900,Markel Brown,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.35,24,1,3,24
+46649,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,3,41
+46658,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,1,3,47
+46666,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,1,3,50
+46674,2015,2014-15,1610612751,Brooklyn Nets,101127,Jarrett Jack,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,13.45,8,1,3,54
+46705,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,25.55,25,1,4,21
+46710,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,21.65,25,1,4,30
+46731,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,6.15,19,1,4,56
+46732,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,5,14
+46742,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,12.15,6,1,5,24
+46750,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,7.25,24,1,5,32
+46761,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.0,12.65,8,1,5,55
+46764,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.85,2,1,6,11
+46774,2015,2014-15,1610612751,Brooklyn Nets,203900,Markel Brown,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,24
+46781,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,17.15,20,1,6,34
+46787,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,17.35,24,1,6,54
+46800,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,23.65,18,1,7,8
+46803,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,9.35,6,1,7,35
+46819,2015,2014-15,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,11.95,6,1,7,52
+46841,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,12
+46862,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.55,4,1,8,33
+46868,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,7.45,5,1,8,57
+46877,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.85,4,1,8,59
+46879,2015,2014-15,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,9,23
+46882,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.45,23,1,9,45
+46885,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.75,1,1,10,6
+46895,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,1,10,22
+46898,2015,2014-15,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-11-2015,21400955,MIA,BKN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,10,36
+46923,2015,2014-15,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-11-2015,21400955,MIA,BKN,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,14.15,8,1,11,10
+46926,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.55,25,1,11,32
+46941,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,4.95,5,1,11,45
+46954,2015,2014-15,1610612751,Brooklyn Nets,201152,Thaddeus Young,F,PF,03-11-2015,21400955,MIA,BKN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.65,1,1,11,47

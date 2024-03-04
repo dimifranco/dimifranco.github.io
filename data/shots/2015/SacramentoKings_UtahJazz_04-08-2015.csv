@@ -1,0 +1,150 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+9879,2015,2014-15,1610612758,Sacramento Kings,204021,Sim Bhullar,C,C,04-08-2015,21401170,UTA,SAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,10.25,5,4,0,17
+9895,2015,2014-15,1610612758,Sacramento Kings,204021,Sim Bhullar,C,C,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,14.35,15,4,0,38
+9901,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,20.65,23,4,0,59
+9937,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.45,25,4,1,32
+9942,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,22.45,24,4,1,50
+9945,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,29.65,24,4,2,11
+9950,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.75,3,4,2,19
+9956,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,2,37
+9962,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,13.75,8,4,2,48
+9972,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.05,4,4,3,27
+9982,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,20.85,24,4,3,43
+9987,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,29.35,24,4,4,6
+9992,2015,2014-15,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,8.95,22,4,4,21
+9995,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,10.75,24,4,4,41
+10002,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,25.75,24,4,5,7
+10006,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,5,26
+10032,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,5,45
+10068,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,21.65,25,4,6,14
+10078,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.65,24,4,6,39
+10111,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.35,24,4,6,54
+10134,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.4,20.65,15,4,7,13
+10142,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,5.05,14,4,7,30
+10155,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.4,12.35,16,4,7,53
+10204,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.75,1,4,8,29
+10229,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.35,1,4,8,52
+10238,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,6.75,3,4,9,12
+10248,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.45,1,4,9,15
+10253,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,7.75,23,4,9,37
+10258,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,9,55
+10291,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.2,29.05,25,4,10,33
+10303,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,10.55,13,4,11,0
+10315,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.15,2,4,11,22
+10324,2015,2014-15,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.25,22,4,11,29
+10349,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-14.1,52.85,49,3,0,0
+10354,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,0,2
+10396,2015,2014-15,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.75,23,3,0,44
+10430,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,24.75,25,3,1,45
+10439,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.95,23,3,1,53
+10444,2015,2014-15,1610612758,Sacramento Kings,2501,Reggie Evans,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,3,2,4
+10476,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,34
+10481,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,4.45,19,3,2,43
+10485,2015,2014-15,1610612758,Sacramento Kings,2501,Reggie Evans,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,3,5
+10500,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.05,25,3,3,15
+10506,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,22.25,21,3,3,28
+10516,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,16.75,17,3,3,47
+10548,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.0,28.35,24,3,4,26
+10579,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,3,4,53
+10587,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,17.65,18,3,5,2
+10590,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.95,2,3,5,20
+10621,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.85,1,3,6,7
+10624,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,3.95,1,3,6,13
+10633,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.65,6,3,6,19
+10636,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.85,23,3,6,31
+10642,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,6,50
+10654,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.05,2,3,6,56
+10657,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,4.65,19,3,7,6
+10693,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,3,7,33
+10699,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,9.15,3,3,7,34
+10717,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.3,28.85,23,3,8,6
+10726,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.8,24.95,20,3,8,22
+10729,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,8,35
+10730,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,13.55,24,3,8,46
+10734,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.45,24,3,9,2
+10739,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,11.05,12,3,9,20
+10751,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,9.95,8,3,9,49
+10789,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.15,24,3,10,21
+10803,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,23.05,18,3,10,50
+10813,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,7.55,22,3,11,28
+10825,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,6.45,19,3,11,40
+10844,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,5.95,4,2,0,1
+10852,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.25,25,2,0,21
+10856,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.95,3,2,0,35
+10908,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,11.65,24,2,1,23
+10930,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,4.45,16,2,1,42
+10938,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,12.15,10,2,1,51
+10943,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,5.85,17,2,2,4
+10957,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,2,22
+10969,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,31.25,26,2,2,42
+10994,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.3,14.85,16,2,3,6
+11055,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.95,2,2,3,41
+11066,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.95,3,2,3,49
+11080,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,5.35,14,2,3,55
+11089,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,6.15,17,2,4,13
+11107,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,4.15,15,2,4,35
+11117,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.15,3,2,4,42
+11150,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.6,29.65,25,2,5,16
+11158,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,26.95,25,2,5,34
+11161,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,13.55,10,2,5,46
+11201,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,30.25,25,2,6,19
+11205,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,9.35,6,2,6,29
+11209,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,29.95,24,2,6,45
+11217,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.25,3,2,6,53
+11227,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.05,24,2,7,9
+11232,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.0,29.35,24,2,7,24
+11256,2015,2014-15,1610612758,Sacramento Kings,2501,Reggie Evans,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,44
+11263,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.85,23,2,7,50
+11277,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,8,19
+11282,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,8,43
+11291,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,2,8,59
+11297,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,23.65,21,2,9,20
+11350,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,10,17
+11355,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.65,2,2,10,24
+11362,2015,2014-15,1610612758,Sacramento Kings,1889,Andre Miller,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,2.25,16,2,10,39
+11369,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,14.15,13,2,10,49
+11399,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,22.75,17,2,11,14
+11426,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,11.35,17,2,11,39
+11448,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-7.2,59.95,55,1,0,0
+11480,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.2,18.95,15,1,0,33
+11492,2015,2014-15,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.95,22,1,0,42
+11496,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,1,2
+11502,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,29.15,25,1,1,18
+11534,2015,2014-15,1610612758,Sacramento Kings,2501,Reggie Evans,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.85,3,1,1,33
+11538,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.75,24,1,2,1
+11549,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.25,17,1,2,27
+11574,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,9.75,23,1,2,52
+11582,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,10.05,8,1,2,58
+11594,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,12.15,7,1,3,11
+11605,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,27.75,24,1,3,23
+11615,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,3,45
+11622,2015,2014-15,1610612758,Sacramento Kings,203492,Ray McCallum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.3,30.25,25,1,3,47
+11630,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,10.25,7,1,4,1
+11642,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,24.25,24,1,4,24
+11647,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,3.35,17,1,4,50
+11653,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,1,5,7
+11658,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.15,3,1,5,8
+11669,2015,2014-15,1610612758,Sacramento Kings,202682,Derrick Williams,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.4,12.95,16,1,5,19
+11687,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,5,41
+11711,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,2
+11720,2015,2014-15,1610612762,Utah Jazz,204022,Jack Cooley,C,C,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.55,3,1,6,14
+11728,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,6.45,11,1,6,32
+11736,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,46
+11744,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,18.45,17,1,6,50
+11775,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,20.95,24,1,7,32
+11786,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.8,24.25,19,1,7,48
+11795,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,7.25,2,1,7,58
+11811,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.45,3,1,8,5
+11823,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,8.55,23,1,8,17
+11831,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,31
+11839,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.35,3,1,8,33
+11847,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,6.65,19,1,8,39
+11852,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,15.65,22,1,8,58
+11886,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-08-2015,21401170,UTA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.55,3,1,9,43
+11898,2015,2014-15,1610612758,Sacramento Kings,203463,Ben McLemore,G,SG,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,9.35,8,1,10,1
+11909,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,5.05,18,1,10,34
+11924,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.45,2,1,10,45
+11938,2015,2014-15,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.25,2,1,11,6
+11946,2015,2014-15,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.35,2,1,11,8
+11952,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-08-2015,21401170,UTA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.25,20,1,11,24
+11967,2015,2014-15,1610612758,Sacramento Kings,201171,Carl Landry,F,PF,04-08-2015,21401170,UTA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.95,17,1,11,41

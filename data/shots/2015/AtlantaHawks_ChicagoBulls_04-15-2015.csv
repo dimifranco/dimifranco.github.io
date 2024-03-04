@@ -1,0 +1,170 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+140,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,9.95,7,4,0,14
+152,2015,2014-15,1610612737,Atlanta Hawks,201948,Austin Daye,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,30.25,25,4,0,22
+157,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,29.85,25,4,0,36
+168,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,20.55,19,4,0,57
+178,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.45,2,4,1,16
+213,2015,2014-15,1610612737,Atlanta Hawks,201948,Austin Daye,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,8.35,9,4,1,44
+230,2015,2014-15,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,26.35,26,4,2,19
+238,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.0,29.35,25,4,2,50
+247,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.95,1,4,3,15
+255,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,5.95,10,4,3,18
+259,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,29.85,25,4,3,41
+263,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,32.45,29,4,3,58
+272,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,12.95,7,4,4,24
+277,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,30.95,25,4,4,47
+283,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,19.75,19,4,5,2
+291,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,20.55,21,4,5,19
+346,2015,2014-15,1610612737,Atlanta Hawks,201948,Austin Daye,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,25.75,26,4,5,55
+353,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.4,29.95,25,4,5,59
+359,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,15.95,18,4,6,32
+367,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.25,16,4,6,53
+381,2015,2014-15,1610612737,Atlanta Hawks,1882,Elton Brand,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,22.75,18,4,7,21
+415,2015,2014-15,1610612737,Atlanta Hawks,1882,Elton Brand,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,6.45,16,4,7,42
+425,2015,2014-15,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,6.35,2,4,8,6
+431,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,7.15,1,4,8,7
+443,2015,2014-15,1610612737,Atlanta Hawks,201948,Austin Daye,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,4,8,22
+448,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.85,2,4,8,24
+466,2015,2014-15,1610612741,Chicago Bulls,202734,E'Twaun Moore,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,4,8,50
+478,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.25,2,4,9,1
+488,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,27.75,24,4,9,12
+491,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,5.95,10,4,9,26
+529,2015,2014-15,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,17.65,13,4,9,53
+531,2015,2014-15,1610612741,Chicago Bulls,202734,E'Twaun Moore,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,4,10,16
+546,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,30.15,25,4,10,25
+556,2015,2014-15,1610612737,Atlanta Hawks,203544,Pero Antic,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,4.25,23,4,10,35
+561,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.45,2,4,10,50
+568,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.3,30.25,25,4,11,21
+579,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,3.35,23,4,11,33
+597,2015,2014-15,1610612737,Atlanta Hawks,203145,Kent Bazemore,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.8,30.25,26,3,0,0
+601,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,3,0,4
+609,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.95,2,3,0,25
+640,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,14.65,16,3,0,58
+649,2015,2014-15,1610612737,Atlanta Hawks,203145,Kent Bazemore,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.15,23,3,1,18
+654,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,3,1,27
+670,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,3,1,45
+683,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.65,2,3,1,47
+699,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,20.65,16,3,2,6
+703,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,10.45,7,3,2,22
+714,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,27.25,25,3,2,34
+718,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,6.65,5,3,3,1
+728,2015,2014-15,1610612737,Atlanta Hawks,203145,Kent Bazemore,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,8.25,12,3,3,6
+762,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,9.65,4,3,3,26
+765,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.95,1,3,3,46
+774,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,5.55,13,3,3,57
+810,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.55,2,3,4,31
+821,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,17.05,11,3,4,54
+825,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,10.25,5,3,5,9
+829,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,5,28
+846,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.65,1,3,5,39
+858,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.25,3,3,5,46
+882,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.75,2,3,5,56
+888,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,10.75,7,3,6,0
+893,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,19.75,23,3,6,18
+898,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,3,6,40
+907,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.15,1,3,7,0
+914,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,8.05,4,3,7,15
+932,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,7,55
+951,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,3,7,50
+970,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.85,23,3,8,8
+984,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,6.35,7,3,8,28
+990,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.45,2,3,8,38
+999,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,3,9,7
+1002,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,3,9,17
+1010,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,3,9,24
+1014,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,3.35,22,3,9,37
+1022,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,3,9,47
+1053,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,7.75,17,3,10,8
+1064,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.95,2,3,10,15
+1108,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,23.35,22,3,10,54
+1114,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,11,24
+1126,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.65,2,3,11,36
+1130,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.95,3,3,11,51
+1156,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,19.9,46.55,45,2,0,0
+1159,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,2,0,1
+1181,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,7.15,16,2,0,29
+1189,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,0,34
+1195,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,2,0,34
+1211,2015,2014-15,1610612737,Atlanta Hawks,203145,Kent Bazemore,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,2,0,46
+1222,2015,2014-15,1610612737,Atlanta Hawks,203544,Pero Antic,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,27.15,25,2,1,7
+1235,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,20.95,15,2,1,23
+1274,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,15.15,15,2,2,10
+1312,2015,2014-15,1610612737,Atlanta Hawks,203544,Pero Antic,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,26.35,24,2,2,46
+1320,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,19.85,24,2,2,58
+1326,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,5.55,7,2,3,16
+1331,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.75,2,2,3,30
+1346,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.6,20.15,15,2,3,39
+1350,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.65,25,2,3,57
+1367,2015,2014-15,1610612737,Atlanta Hawks,203544,Pero Antic,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,4,19
+1370,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.55,2,2,4,20
+1412,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.45,2,2,4,57
+1423,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,5.65,8,2,5,3
+1436,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.25,25,2,5,16
+1448,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.25,22,2,5,27
+1460,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.85,2,2,5,36
+1467,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,10.55,23,2,5,41
+1474,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,28.55,25,2,5,57
+1521,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,29.35,24,2,6,28
+1528,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.15,22,2,6,32
+1547,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,9.15,7,2,6,55
+1552,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,4.25,23,2,7,17
+1561,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,6.75,3,2,7,21
+1579,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,40
+1584,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,16.75,20,2,7,57
+1590,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,8.95,5,2,8,9
+1598,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,31.75,26,2,8,23
+1605,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.95,1,2,8,36
+1616,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,27.45,25,2,8,46
+1625,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,16.25,11,2,9,2
+1637,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,29.95,24,2,9,31
+1642,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.65,0,2,9,49
+1652,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,15.15,22,2,9,52
+1663,2015,2014-15,1610612737,Atlanta Hawks,2594,Kyle Korver,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,29.85,25,2,10,9
+1669,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.75,25,2,10,23
+1675,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.55,25,2,10,38
+1683,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.65,1,2,10,43
+1701,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,23.95,18,2,10,50
+1714,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,4.25,22,2,11,12
+1782,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,23.15,18,1,0,3
+1809,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.25,23,1,0,31
+1820,2015,2014-15,1610612737,Atlanta Hawks,203488,Mike Muscala,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.75,23,1,0,49
+1844,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,1,1,8
+1860,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,1,1,17
+1870,2015,2014-15,1610612737,Atlanta Hawks,203544,Pero Antic,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,28.75,25,1,1,25
+1882,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,18.95,13,1,1,40
+1892,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.45,1,1,2,2
+1904,2015,2014-15,1610612741,Chicago Bulls,202703,Nikola Mirotic,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.65,25,1,2,16
+1908,2015,2014-15,1610612737,Atlanta Hawks,203471,Dennis Schroder,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,30.65,25,1,2,30
+1915,2015,2014-15,1610612741,Chicago Bulls,201166,Aaron Brooks,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,1,2,40
+1924,2015,2014-15,1610612737,Atlanta Hawks,202714,Shelvin Mack,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,24.95,23,1,2,56
+1956,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.15,24,1,3,19
+1969,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,25.05,24,1,3,35
+1977,2015,2014-15,1610612741,Chicago Bulls,203503,Tony Snell,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.25,23,1,3,49
+1991,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.7,20.35,15,1,4,15
+2014,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,18.65,25,1,4,34
+2025,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,22.75,20,1,4,45
+2074,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,1,6,5
+2089,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.55,1,1,6,31
+2095,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,1,6,33
+2105,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.4,16.55,12,1,6,59
+2117,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.75,25,1,7,10
+2124,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,21.25,19,1,7,30
+2133,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,16.55,11,1,7,39
+2148,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,1,7,55
+2162,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,27.65,25,1,7,58
+2164,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.8,20.55,16,1,8,16
+2177,2015,2014-15,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.25,2,1,8,26
+2184,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,1,8,40
+2193,2015,2014-15,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,1,8,45
+2201,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.8,13.05,8,1,8,57
+2216,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,5.35,16,1,9,18
+2232,2015,2014-15,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,14.55,14,1,9,37
+2245,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,28.05,25,1,9,53
+2256,2015,2014-15,1610612737,Atlanta Hawks,201143,Al Horford,C,C,04-15-2015,21401217,CHI,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,1,10,9
+2264,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,3.95,23,1,10,10
+2282,2015,2014-15,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,26.15,25,1,10,28
+2294,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.3,6.85,1,1,10,36
+2311,2015,2014-15,1610612737,Atlanta Hawks,200794,Paul Millsap,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,1,11,4
+2332,2015,2014-15,1610612737,Atlanta Hawks,201960,DeMarre Carroll,F,SF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,9.15,20,1,11,22
+2346,2015,2014-15,1610612741,Chicago Bulls,2200,Pau Gasol,F,PF,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.9,14.35,16,1,11,39
+2365,2015,2014-15,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,04-15-2015,21401217,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,4.75,17,1,11,43

@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+83707,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,31.25,26,4,0,1
+83738,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.65,1,4,0,4
+83746,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.55,23,4,0,6
+83750,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,21.65,18,4,0,29
+83756,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,20.65,21,4,0,41
+83762,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.65,2,4,1,6
+83763,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,5.65,5,4,1,7
+83769,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,9.45,4,4,1,49
+83773,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.7,20.55,15,4,2,11
+83796,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,18.15,18,4,2,36
+83800,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,23.35,24,4,2,51
+83807,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.35,2,4,3,2
+83814,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,3.85,20,4,3,17
+83821,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,23.95,20,4,3,30
+83824,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,24.75,23,4,3,48
+83848,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,10.45,7,4,4,22
+83857,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,29.85,24,4,4,51
+83860,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.75,3,4,5,6
+83863,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,7.85,12,4,5,24
+83867,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,11.05,15,4,5,41
+83900,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,5.55,19,4,6,14
+83905,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,14.15,18,4,6,34
+83908,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.95,3,4,6,56
+83914,2012,2011-12,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,27.15,25,4,7,7
+83921,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,15.95,18,4,7,17
+83945,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,15.15,12,4,7,50
+83952,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,8.85,19,4,8,14
+83989,2012,2011-12,1610612759,San Antonio Spurs,202341,James Anderson,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.25,2,4,8,52
+84021,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.35,6,4,9,27
+84046,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,12.95,7,4,10,2
+84052,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,10.05,4,4,10,22
+84062,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,10.75,8,4,10,38
+84104,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.75,2,4,11,21
+84137,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,25.35,28,3,0,1
+84146,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.95,3,3,0,3
+84150,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,7.45,23,3,0,25
+84179,2012,2011-12,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.05,6,3,0,44
+84184,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.65,2,3,1,4
+84192,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,25.05,21,3,1,29
+84199,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,29.05,25,3,1,49
+84220,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,6.45,5,3,2,30
+84233,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,11.25,6,3,2,46
+84238,2012,2011-12,1610612759,San Antonio Spurs,202341,James Anderson,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.35,22,3,3,11
+84242,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.05,5,3,3,28
+84250,2012,2011-12,1610612759,San Antonio Spurs,202341,James Anderson,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,15.35,17,3,3,52
+84305,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,6.45,4,3,4,33
+84316,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,6.75,10,3,4,48
+84320,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,21.75,16,3,5,8
+84324,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,28.25,24,3,5,22
+84329,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.95,2,3,5,42
+84336,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,13.75,8,3,5,50
+84340,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.85,3,3,6,10
+84345,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,13.25,20,3,6,26
+84386,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,3.95,19,3,7,3
+84395,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,9.65,4,3,7,13
+84401,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,3,7,29
+84411,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,19.85,16,3,7,55
+84418,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.75,3,3,8,6
+84443,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.2,17.15,13,3,8,28
+84469,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,21.45,17,3,8,56
+84497,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.35,24,3,9,20
+84501,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.45,2,3,9,29
+84516,2012,2011-12,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.6,27.45,25,3,9,44
+84520,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,25.55,23,3,10,2
+84528,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,7.85,4,3,10,15
+84532,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,3,10,32
+84538,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,5.35,17,3,10,38
+84564,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,11.85,15,3,11,21
+84570,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,3.95,13,3,11,27
+84615,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.3,11.85,22,2,0,43
+84638,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,21.45,18,2,1,5
+84642,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.85,0,2,1,21
+84647,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,1,39
+84679,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,14.95,9,2,1,59
+84683,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,15.95,17,2,2,4
+84686,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.6,12.15,8,2,2,26
+84689,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.15,2,2,2,45
+84697,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,28.05,25,2,3,19
+84699,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.45,5,2,3,38
+84704,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,2,3,59
+84712,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.3,14.85,16,2,4,8
+84720,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.05,23,2,4,18
+84724,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,5.65,6,2,4,32
+84731,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.55,2,2,4,46
+84733,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,21.45,20,2,5,4
+84743,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,20.55,18,2,5,25
+84763,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,5,39
+84768,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,8.05,7,2,5,43
+84773,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.45,2,2,5,51
+84786,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,17.95,18,2,6,23
+84793,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.55,20,2,6,35
+84811,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,8.95,4,2,6,59
+84821,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,4.25,11,2,7,9
+84832,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,15.35,15,2,7,33
+84862,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.45,23,2,7,56
+84868,2012,2011-12,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.25,2,2,8,7
+84874,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.65,2,2,8,13
+84879,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,23.05,19,2,8,33
+84893,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.05,24,2,8,45
+84897,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.95,2,2,8,55
+84906,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,22.85,19,2,9,8
+84908,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,23.95,21,2,9,23
+84915,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,25.75,24,2,9,30
+84938,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,2,9,45
+84942,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.85,6,2,10,0
+84950,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,2,10,15
+84959,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,2,10,27
+84967,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.15,2,2,10,30
+84975,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,21.95,16,2,10,34
+84981,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.3,20.35,15,2,10,51
+84995,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,2,11,15
+84999,2012,2011-12,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,2,11,18
+85005,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,2,11,22
+85013,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,30.45,25,2,11,26
+85046,2012,2011-12,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-0.0,49.35,44,1,0,0
+85054,2012,2011-12,1610612759,San Antonio Spurs,202695,Kawhi Leonard,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,1,0,1
+85060,2012,2011-12,1610612759,San Antonio Spurs,202709,Cory Joseph,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.15,2,1,0,1
+85063,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.05,3,1,0,8
+85078,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,25.85,22,1,0,31
+85081,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,5.35,4,1,0,44
+85084,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.4,27.15,25,1,0,57
+85089,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.15,1,1,1,11
+85093,2012,2011-12,1610612762,Utah Jazz,2248,Earl Watson,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,1,1,13
+85100,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,23.15,20,1,1,23
+85106,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,23.15,21,1,1,39
+85110,2012,2011-12,1610612759,San Antonio Spurs,202390,Gary Neal,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,29.85,24,1,1,53
+85114,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.9,19.75,14,1,2,9
+85135,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,2,38
+85140,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,30.25,25,1,3,3
+85145,2012,2011-12,1610612762,Utah Jazz,2572,Josh Howard,F,SF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,6.95,5,1,3,15
+85149,2012,2011-12,1610612759,San Antonio Spurs,2588,Matt Bonner,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,28.25,25,1,3,36
+85171,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,1,4,4
+85174,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.75,4,1,4,20
+85183,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,26.35,21,1,4,51
+85189,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,18.95,13,1,5,2
+85194,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,8.05,4,1,5,14
+85203,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.75,3,1,5,22
+85215,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.35,2,1,5,44
+85219,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,12.95,13,1,6,4
+85247,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.75,23,1,6,22
+85256,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,4.65,22,1,6,32
+85263,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,22.85,19,1,6,49
+85273,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.35,2,1,7,3
+85288,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,24.25,24,1,7,15
+85293,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.65,6,1,7,41
+85303,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,8.05,3,1,7,54
+85310,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.95,1,1,7,58
+85318,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,14.15,12,1,8,4
+85338,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.85,3,1,8,13
+85346,2012,2011-12,1610612759,San Antonio Spurs,2225,Tony Parker,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,13.05,10,1,8,33
+85356,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.45,2,1,8,39
+85366,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,21.25,17,1,8,56
+85372,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.9,13.55,8,1,9,13
+85382,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,24.25,24,1,9,30
+85397,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,23.95,20,1,9,48
+85400,2012,2011-12,1610612759,San Antonio Spurs,201971,DeJuan Blair,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.35,2,1,10,2
+85410,2012,2011-12,1610612759,San Antonio Spurs,201980,Danny Green,G,SG,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.45,4,1,10,17
+85421,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-20-2012,21100477,UTA,SAS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,8.25,4,1,10,35
+85427,2012,2011-12,1610612759,San Antonio Spurs,1495,Tim Duncan,C,C,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,22.55,19,1,10,52
+85434,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.15,25,1,11,9
+85467,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,02-20-2012,21100477,UTA,SAS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,1,11,30
+85480,2012,2011-12,1610612759,San Antonio Spurs,2210,Richard Jefferson,F,SF,02-20-2012,21100477,UTA,SAS,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.0,14.15,9,1,11,36

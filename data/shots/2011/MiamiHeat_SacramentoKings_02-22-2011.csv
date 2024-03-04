@@ -1,0 +1,175 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+63173,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.9,17.95,21,4,0,18
+63175,2011,2010-11,1610612758,Sacramento Kings,201616,Darnell Jackson,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.35,23,4,0,27
+63179,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,15.35,22,4,0,40
+63181,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,7.25,2,4,0,59
+63188,2011,2010-11,1610612758,Sacramento Kings,200817,Pooh Jeter,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,19.85,16,4,1,14
+63196,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,8.35,3,4,1,24
+63199,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,17.05,16,4,1,48
+63212,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,30.15,24,4,1,57
+63215,2011,2010-11,1610612748,Miami Heat,2306,Carlos Arroyo,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,19.05,19,4,2,10
+63239,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.75,5,4,2,43
+63242,2011,2010-11,1610612758,Sacramento Kings,201616,Darnell Jackson,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.45,2,4,2,57
+63248,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,16.75,19,4,3,13
+63251,2011,2010-11,1610612758,Sacramento Kings,201616,Darnell Jackson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,17.85,17,4,3,41
+63260,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.8,18.95,21,4,3,57
+63261,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,14.35,15,4,4,13
+63275,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.6,20.65,20,4,4,31
+63276,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.65,1,4,4,55
+63280,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,6.75,4,4,5,2
+63290,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,21.65,25,4,5,29
+63297,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,7.15,3,4,5,44
+63298,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,7.55,3,4,5,57
+63303,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.45,24,4,6,16
+63311,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,16.85,17,4,6,22
+63315,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.55,2,4,6,33
+63322,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,19.25,17,4,6,52
+63325,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,24.95,20,4,7,8
+63327,2011,2010-11,1610612758,Sacramento Kings,200817,Pooh Jeter,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,7.25,23,4,7,32
+63332,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,4,7,53
+63333,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,21.65,20,4,7,55
+63337,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.85,25,4,8,6
+63343,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,24.15,19,4,8,20
+63360,2011,2010-11,1610612758,Sacramento Kings,200817,Pooh Jeter,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.45,2,4,8,41
+63365,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.4,20.05,14,4,8,47
+63368,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,22.25,26,4,9,0
+63375,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,21.75,20,4,9,14
+63379,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,21.15,17,4,9,32
+63382,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.25,2,4,9,44
+63399,2011,2010-11,1610612758,Sacramento Kings,200817,Pooh Jeter,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,19.85,20,4,10,14
+63403,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,18.75,15,4,10,32
+63406,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,16.45,11,4,10,51
+63414,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,21.75,25,4,10,55
+63419,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,17.35,17,4,11,4
+63435,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.65,24,3,0,0
+63441,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,3,0,27
+63445,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.55,24,3,0,36
+63448,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.5,17.15,12,3,0,49
+63451,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,22.25,22,3,1,5
+63471,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,20.05,25,3,1,20
+63476,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,7.25,3,3,1,43
+63480,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.75,2,3,2,9
+63485,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,10.55,10,3,2,12
+63489,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,7.75,23,3,2,29
+63501,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,15.35,16,3,2,55
+63514,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,17.35,19,3,3,16
+63522,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,16.75,16,3,3,25
+63526,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.15,2,3,3,45
+63535,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,29.45,24,3,4,3
+63545,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.85,25,3,4,11
+63573,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.45,2,3,4,47
+63583,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,23.65,20,3,5,22
+63607,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,7.25,16,3,5,55
+63612,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,3,6,7
+63613,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.25,3,3,6,27
+63620,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,25.35,24,3,6,34
+63632,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,20.55,19,3,6,48
+63668,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.6,28.35,24,3,7,5
+63674,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,18.15,19,3,7,11
+63685,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,15.15,11,3,7,37
+63691,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.65,25,3,7,42
+63695,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,17.55,25,3,7,55
+63698,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.45,25,3,8,3
+63716,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,6.75,3,3,8,33
+63728,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,7.65,2,3,8,56
+63733,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,21.95,20,3,9,15
+63735,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,5.95,10,3,9,34
+63740,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,20.55,16,3,9,48
+63741,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,9.35,4,3,10,2
+63745,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.45,24,3,10,26
+63750,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.75,2,3,10,33
+63752,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.6,20.85,15,3,10,48
+63761,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,14.35,19,3,11,4
+63766,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,20.85,19,3,11,23
+63772,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.45,2,3,11,42
+63774,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.85,3,3,11,44
+63788,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,1.9,50.45,45,2,0,0
+63790,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,12.75,12,2,0,2
+63794,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,28.55,25,2,0,17
+63795,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,18.35,15,2,0,33
+63806,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.95,2,2,0,59
+63815,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,2,1,25
+63821,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,10.85,10,2,1,27
+63828,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,19.25,19,2,1,31
+63832,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,16.25,14,2,1,41
+63838,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,22.75,18,2,2,7
+63844,2011,2010-11,1610612758,Sacramento Kings,101129,Luther Head,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.45,2,2,2,19
+63845,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.35,3,2,2,25
+63863,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.45,24,2,2,48
+63867,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,9.15,6,2,2,54
+63873,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.75,3,2,3,6
+63877,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,7.55,8,2,3,28
+63885,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,7.65,2,2,3,35
+63897,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,19.55,17,2,4,5
+63911,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,20.55,20,2,4,24
+63914,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,17.35,16,2,4,41
+63922,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,10.45,19,2,5,14
+63943,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,7.45,14,2,5,40
+63951,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,23.05,18,2,5,53
+63953,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,24.25,19,2,6,11
+63974,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.95,2,2,6,26
+63977,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.75,24,2,6,33
+63982,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,20.15,18,2,6,50
+63983,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,6.95,4,2,7,7
+63987,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,7.45,5,2,7,21
+63990,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.35,23,2,7,54
+63994,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,6.95,11,2,8,9
+63999,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,21.75,17,2,8,27
+64003,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,21.45,17,2,8,49
+64012,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,20.15,21,2,9,13
+64026,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,11.95,7,2,9,31
+64031,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,17.05,25,2,9,57
+64039,2011,2010-11,1610612758,Sacramento Kings,200817,Pooh Jeter,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,20.05,21,2,10,4
+64042,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.45,3,2,10,11
+64045,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.85,2,2,10,25
+64074,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,8.95,3,2,10,40
+64083,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,5.55,1,2,10,56
+64086,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,10.25,19,2,11,4
+64089,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,22.45,18,2,11,18
+64093,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,13.05,12,2,11,39
+64111,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,11.35,11,1,0,0
+64118,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,8.55,23,1,0,23
+64123,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.65,23,1,0,39
+64128,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,7.45,14,1,1,1
+64155,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.55,2,1,1,22
+64159,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.55,3,1,1,28
+64161,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,9.95,6,1,1,35
+64163,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.45,2,1,1,56
+64168,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,6.65,10,1,2,5
+64169,2011,2010-11,1610612758,Sacramento Kings,201590,Donte Greene,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,20.85,22,1,2,32
+64172,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,18.45,19,1,2,49
+64176,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,20.65,24,1,2,59
+64205,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,18.65,15,1,3,32
+64208,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.3,20.55,24,1,3,42
+64210,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,18.75,18,1,3,55
+64214,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.95,2,1,4,3
+64221,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.95,2,1,4,30
+64237,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.75,3,1,4,50
+64245,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,1,4,52
+64252,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,16.05,10,1,4,59
+64261,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,18.45,16,1,5,7
+64266,2011,2010-11,1610612758,Sacramento Kings,2223,Samuel Dalembert,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,16.85,15,1,5,19
+64275,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.85,2,1,5,43
+64278,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.85,3,1,5,45
+64285,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,11.35,23,1,5,50
+64322,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,16.05,16,1,6,27
+64326,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,7.25,2,1,9,33
+64329,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.25,2,1,6,46
+64336,2011,2010-11,1610612758,Sacramento Kings,2757,Beno Udrih,G,PG,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.55,17,1,6,53
+64348,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.25,3,1,7,16
+64352,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.35,2,1,7,38
+64358,2011,2010-11,1610612758,Sacramento Kings,201966,Jermaine Taylor,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,30.15,24,1,7,54
+64359,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.55,2,1,8,12
+64363,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,19.05,16,1,8,24
+64372,2011,2010-11,1610612758,Sacramento Kings,201574,Jason Thompson,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,9.45,4,1,9,1
+64378,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,1,9,18
+64389,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.45,2,1,9,35
+64395,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.65,2,1,9,43
+64401,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.45,3,1,9,47
+64411,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.45,3,1,9,50
+64417,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,15.65,16,1,10,6
+64420,2011,2010-11,1610612758,Sacramento Kings,201956,Omri Casspi,F,SF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,8.85,3,1,10,23
+64448,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,7.85,16,1,10,45
+64454,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,02-22-2011,21000841,MIA,SAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,7.55,18,1,11,2
+64463,2011,2010-11,1610612758,Sacramento Kings,202326,DeMarcus Cousins,C,C,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,16.25,19,1,11,17
+64474,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,02-22-2011,21000841,MIA,SAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,17.85,17,1,11,35

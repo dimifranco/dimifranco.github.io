@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+41797,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,8.25,3,4,0,13
+41801,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.65,3,4,0,15
+41803,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.35,25,4,0,20
+41804,2012,2011-12,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,4,0,30
+41805,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.45,2,4,0,47
+41811,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.75,2,4,1,2
+41813,2012,2011-12,1610612751,New Jersey Nets,202178,Sundiata Gaines,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,4,1,4
+41817,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,22.55,18,4,1,31
+41818,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.85,2,4,1,43
+41832,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,11.25,11,4,2,34
+41846,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.5,22.85,20,4,2,53
+41847,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.05,24,4,3,7
+41852,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,4,3,32
+41853,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.95,1,4,3,43
+41863,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,29.95,25,4,4,0
+41874,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,4,4,32
+41876,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,23.55,18,4,4,41
+41885,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,20.05,18,4,5,12
+41908,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,30.25,25,4,5,46
+41913,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.55,22,4,6,2
+41924,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,10.05,12,4,6,12
+41926,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,7.45,4,4,6,23
+41937,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,4,6,35
+41942,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.85,2,4,6,37
+41944,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.65,2,4,6,59
+41949,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.85,2,4,7,16
+41955,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,10.75,5,4,7,18
+41967,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.95,2,4,7,45
+41980,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.25,17,4,8,2
+41982,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,4,8,15
+42002,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,13.85,20,4,8,39
+42016,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,14.65,22,4,9,18
+42020,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,9.15,8,4,9,41
+42029,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.45,2,4,10,2
+42046,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,10.05,6,4,10,39
+42060,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,8.25,5,4,10,47
+42066,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,7.55,11,4,11,2
+42071,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,7.45,2,4,11,17
+42075,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.15,2,4,11,42
+42086,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,41.15,40,3,0,0
+42087,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,3,0,2
+42095,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,24.45,20,3,0,20
+42118,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,3,1,17
+42122,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.3,12.95,8,3,1,25
+42127,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,17.85,24,3,1,41
+42161,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,21.45,26,3,2,27
+42165,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.45,3,3,2,36
+42171,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.55,23,3,2,50
+42182,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,3,3,2
+42193,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,7.85,7,3,3,22
+42201,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,29.45,25,3,4,0
+42203,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,3,4,15
+42206,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.95,23,3,4,29
+42213,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.45,3,3,4,42
+42219,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.75,2,3,4,54
+42223,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.5,20.55,15,3,5,2
+42226,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.45,4,3,5,12
+42230,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.55,2,3,5,30
+42234,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.75,2,3,5,32
+42256,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.5,30.25,25,3,6,3
+42260,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,4.75,23,3,6,21
+42267,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.75,3,3,6,42
+42273,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.15,1,3,6,45
+42296,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.45,2,3,7,9
+42306,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.35,1,3,7,27
+42314,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,3,7,44
+42330,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,3,8,1
+42336,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,18.95,24,3,8,17
+42347,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,6.75,5,3,8,42
+42368,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,3,9,9
+42375,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,3,9,17
+42376,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.35,2,3,9,32
+42387,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.75,1,3,9,42
+42392,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,18.35,25,3,9,50
+42395,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,16.55,11,3,10,17
+42398,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,30.65,25,3,10,27
+42402,2012,2011-12,1610612751,New Jersey Nets,200749,Shelden Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.65,1,3,10,49
+42407,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,17.85,13,3,10,51
+42410,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,3,11,5
+42417,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,22.55,17,3,11,15
+42418,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,26.55,25,3,11,40
+42427,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,5.6,51.55,46,2,0,1
+42428,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.55,24,2,0,2
+42432,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.55,2,2,0,24
+42435,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.65,0,2,0,28
+42460,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,7.75,9,2,0,49
+42464,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.6,22.25,17,2,1,8
+42475,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.6,16.25,11,2,1,15
+42480,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.25,25,2,1,22
+42493,2012,2011-12,1610612751,New Jersey Nets,200749,Shelden Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.75,3,2,1,55
+42499,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,2,2,27
+42501,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,15.45,10,2,2,34
+42506,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,9.15,14,2,2,50
+42507,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.75,2,2,3,5
+42533,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,9.05,4,2,3,35
+42536,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.85,3,2,3,38
+42537,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,8.25,17,2,3,54
+42542,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,2,4,11
+42568,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,2,4,45
+42572,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.65,2,2,5,3
+42573,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,5.35,12,2,5,15
+42598,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,25.05,25,2,5,38
+42614,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.45,3,2,6,0
+42620,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,9.15,23,2,6,7
+42640,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.55,20,2,6,51
+42647,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.6,16.25,11,2,6,59
+42648,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,22.55,25,2,7,20
+42655,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,15.95,17,2,7,37
+42662,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.55,2,2,7,46
+42667,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.65,3,2,7,48
+42681,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,7.15,23,2,7,53
+42682,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.55,2,2,8,13
+42687,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.75,25,2,8,19
+42691,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,2,8,33
+42695,2012,2011-12,1610612751,New Jersey Nets,202178,Sundiata Gaines,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,30.65,25,2,8,40
+42697,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,23.85,19,2,9,0
+42703,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,21.65,17,2,9,36
+42707,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,2,9,50
+42737,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,5.55,15,2,10,34
+42745,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,16.85,25,2,10,47
+42748,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.65,2,2,10,55
+42758,2012,2011-12,1610612751,New Jersey Nets,202178,Sundiata Gaines,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,22.75,22,2,11,8
+42763,2012,2011-12,1610612751,New Jersey Nets,101130,Johan Petro,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.65,3,2,11,13
+42765,2012,2011-12,1610612762,Utah Jazz,2248,Earl Watson,G,PG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.2,16.45,12,2,11,35
+42770,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,12.45,11,2,11,42
+42787,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,40.55,38,1,0,1
+42795,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,10.45,23,1,0,25
+42799,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,21.15,21,1,0,38
+42813,2012,2011-12,1610612751,New Jersey Nets,2052,DeShawn Stevenson,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.45,25,1,0,54
+42817,2012,2011-12,1610612762,Utah Jazz,2248,Earl Watson,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,21.15,20,1,1,9
+42824,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,16.05,14,1,1,28
+42828,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,9.95,14,1,1,41
+42855,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,8.55,12,1,2,10
+42891,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,25.25,25,1,3,2
+42894,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.65,2,1,3,10
+42918,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,12.95,8,1,4,1
+42936,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.85,2,1,4,16
+42944,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.75,25,1,4,38
+42953,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.65,2,1,5,0
+42957,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,18.95,21,1,5,14
+42965,2012,2011-12,1610612751,New Jersey Nets,202716,Jordan Williams,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.65,2,1,5,32
+42966,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.45,3,1,5,49
+42975,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.9,22.25,17,1,5,57
+42976,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,4.45,6,1,6,21
+42981,2012,2011-12,1610612751,New Jersey Nets,101123,Gerald Green,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.9,18.75,13,1,6,44
+42993,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.45,2,1,7,1
+43002,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,7.85,9,1,7,4
+43016,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,8.85,5,1,7,24
+43052,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.05,24,1,8,1
+43062,2012,2011-12,1610612751,New Jersey Nets,2222,Gerald Wallace,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,12.95,12,1,8,12
+43063,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.75,4,1,8,28
+43068,2012,2011-12,1610612751,New Jersey Nets,2743,Kris Humphries,F,PF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,20.95,16,1,8,41
+43074,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,9.75,7,1,8,52
+43079,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,22.85,17,1,9,2
+43090,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,19.85,25,1,9,13
+43091,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,1,9,33
+43104,2012,2011-12,1610612751,New Jersey Nets,202705,MarShon Brooks,G,SG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.85,3,1,9,42
+43109,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,24.95,24,1,9,55
+43123,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,22.55,17,1,10,13
+43133,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,5.35,14,1,10,54
+43144,2012,2011-12,1610612751,New Jersey Nets,101114,Deron Williams,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,16.75,15,1,11,11
+43152,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-26-2012,21100731,NJN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,23.05,19,1,11,30

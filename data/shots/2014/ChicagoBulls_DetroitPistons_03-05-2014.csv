@@ -1,0 +1,168 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+52957,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,28.85,26,4,0,30
+52963,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,12.75,12,4,0,51
+52975,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,6.15,17,4,0,58
+52994,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,5.65,11,4,1,23
+53004,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,1,37
+53008,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,4,1,51
+53012,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.75,1,4,2,7
+53016,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,14.35,18,4,2,20
+53024,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,22.85,26,4,2,25
+53030,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,13.25,8,4,2,41
+53038,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,9.35,23,4,2,56
+53047,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,3,23
+53063,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.95,0,4,3,37
+53095,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,23.05,19,4,3,48
+53099,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,25.35,20,4,4,10
+53106,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,4,30
+53108,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,6.35,6,4,4,51
+53123,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,19.05,13,4,5,4
+53125,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,4,5,29
+53131,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.05,0,4,5,33
+53155,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,5,47
+53158,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,6,4
+53160,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,32.65,27,4,6,19
+53171,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,5.95,6,4,6,38
+53175,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,4,6,55
+53181,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,15.15,18,4,7,10
+53199,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.85,3,4,7,23
+53203,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.35,7,4,7,44
+53207,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,13.45,13,4,8,10
+53213,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,4,8,24
+53219,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,8,47
+53225,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,4,8,49
+53232,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,30.45,25,4,9,8
+53238,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,24.95,27,4,9,15
+53242,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.35,1,4,9,36
+53274,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,19.85,25,4,10,1
+53280,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,8.95,14,4,10,20
+53287,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,20.55,20,4,10,47
+53289,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,4,11,14
+53296,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,25.25,25,4,11,23
+53306,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,19.85,16,4,11,42
+53327,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,11.85,18,3,0,1
+53333,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,10.05,10,3,0,4
+53338,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,24.45,20,3,0,27
+53359,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,26.05,27,3,0,48
+53376,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,3,1,24
+53381,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,11.25,6,3,1,26
+53386,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.1,17.55,12,3,1,39
+53413,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,23.85,20,3,2,13
+53418,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,10.45,18,3,2,24
+53430,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,3,2,44
+53438,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,5.55,5,3,3,6
+53454,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,21.95,17,3,3,15
+53465,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.35,22,3,3,39
+53472,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,3,3,49
+53483,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,17.85,25,3,3,57
+53488,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,3,4,24
+53498,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.25,23,3,4,39
+53503,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.95,0,3,4,58
+53510,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,32.15,27,3,5,2
+53514,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,11.55,14,3,5,13
+53522,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,8.55,4,3,5,33
+53528,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,12.35,20,3,5,55
+53533,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,4.5,12.35,8,3,6,18
+53542,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,6,40
+53547,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,14.15,17,3,6,45
+53554,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,16.25,16,3,7,10
+53564,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.25,23,3,7,28
+53568,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.25,5,3,7,48
+53570,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,19.55,16,3,8,7
+53575,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.15,4,3,8,20
+53578,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.55,6,3,8,31
+53583,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,23.15,25,3,8,47
+53588,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,5.85,15,3,9,8
+53592,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,14.65,17,3,9,27
+53614,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,6.45,18,3,10,3
+53628,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.7,18.65,15,3,10,27
+53631,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,3,10,45
+53634,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,9.35,9,3,11,6
+53645,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,7.25,5,3,11,21
+53677,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,11.7,55.55,51,2,0,1
+53707,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,13.25,8,2,0,15
+53712,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,17.85,17,2,0,33
+53717,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,2,0,53
+53722,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,1,12
+53724,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,2,1,31
+53752,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,6.75,9,2,1,51
+53756,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,23.05,19,2,2,8
+53760,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,14.95,10,2,2,21
+53766,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.15,18,2,2,50
+53771,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,2,3,10
+53775,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,6.75,7,2,3,12
+53799,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,6.35,4,2,4,9
+53820,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,2,4,51
+53830,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,7.55,3,2,4,53
+53862,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,2,5,8
+53868,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.9,5.35,3,2,5,15
+53875,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.65,2,2,5,21
+53904,2014,2013-14,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,12.45,14,2,5,50
+53907,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,23.95,20,2,6,7
+53912,2014,2013-14,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,23.15,18,2,6,34
+53918,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,15.15,12,2,6,46
+53920,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,7.25,13,2,7,5
+53923,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.05,0,2,7,30
+53928,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,7,46
+53934,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.75,4,2,7,48
+53940,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,8,8
+53947,2014,2013-14,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.05,4,2,8,10
+53951,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,2,8,28
+53958,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,2,8,42
+53960,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.85,25,2,9,7
+53966,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,2,9,12
+53971,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,6.15,5,2,9,41
+53973,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.75,5,2,9,55
+53983,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,8.25,17,2,10,10
+53987,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,2,10,29
+53991,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,10,40
+54006,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.7,30.65,25,2,11,2
+54010,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,11,19
+54016,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,32.15,30,2,11,34
+54020,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,11,41
+54034,2014,2013-14,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,7.85,11,1,0,0
+54041,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,0,1
+54050,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,23.35,26,1,0,17
+54054,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.65,0,1,0,35
+54063,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,0,40
+54068,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,16.85,16,1,0,58
+54084,2014,2013-14,1610612741,Chicago Bulls,201571,D.J. Augustin,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,14.35,11,1,1,17
+54086,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,9.95,5,1,1,37
+54091,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,1,56
+54094,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,2,15
+54100,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,1,2,25
+54108,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,6.45,10,1,2,27
+54116,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,7.45,4,1,2,40
+54123,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.1,22.75,17,1,2,56
+54126,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,3,18
+54137,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,6.15,15,1,3,32
+54140,2014,2013-14,1610612765,Detroit Pistons,203083,Andre Drummond,C,C,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.65,0,1,3,58
+54148,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,5.35,16,1,4,5
+54155,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,24.15,19,1,4,23
+54161,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,32.65,27,1,4,34
+54166,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,22.75,26,1,4,48
+54175,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,1,4,55
+54179,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,6.45,5,1,5,8
+54200,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,1,5,32
+54206,2014,2013-14,1610612765,Detroit Pistons,201943,Brandon Jennings,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,12.45,11,1,5,42
+54212,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,9.65,11,1,6,1
+54217,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.65,5,1,6,15
+54225,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,32.15,26,1,6,27
+54238,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,1,6,36
+54248,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.2,31.75,26,1,6,51
+54250,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,7,8
+54257,2014,2013-14,1610612765,Detroit Pistons,202328,Greg Monroe,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,1,7,20
+54267,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,19.85,18,1,7,21
+54276,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,24.65,20,1,7,29
+54288,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,27.65,26,1,7,46
+54302,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,1,8,35
+54315,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.75,6,1,8,49
+54320,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,30.75,26,1,9,5
+54324,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,7.45,17,1,9,27
+54341,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,8.95,18,1,9,48
+54353,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.25,24,1,9,57
+54361,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,6.35,4,1,10,6
+54376,2014,2013-14,1610612765,Detroit Pistons,2746,Josh Smith,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.85,23,1,10,33
+54380,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-05-2014,21300909,DET,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,5.85,12,1,11,2
+54388,2014,2013-14,1610612765,Detroit Pistons,202713,Kyle Singler,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.25,23,1,11,20
+54398,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,03-05-2014,21300909,DET,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,29.65,25,1,11,42

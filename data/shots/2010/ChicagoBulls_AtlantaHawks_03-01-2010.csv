@@ -1,0 +1,186 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+55094,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,12
+55099,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.55,24,4,0,16
+55100,2010,2009-10,1610612737,Atlanta Hawks,201238,Mario West,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,30
+55104,2010,2009-10,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,51
+55116,2010,2009-10,1610612737,Atlanta Hawks,693,Joe Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,26
+55120,2010,2009-10,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,10.85,7,4,1,26
+55124,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,50
+55127,2010,2009-10,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,3.95,22,4,2,0
+55128,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.55,23,4,2,17
+55131,2010,2009-10,1610612741,Chicago Bulls,201151,Acie Law,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,26.95,21,4,2,30
+55133,2010,2009-10,1610612737,Atlanta Hawks,693,Joe Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,17.05,20,4,2,43
+55149,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,30.25,25,4,3,12
+55151,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,24
+55153,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,46
+55157,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.45,23,4,3,50
+55160,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,10
+55163,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,43
+55165,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,19.85,19,4,4,50
+55166,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,6.45,18,4,5,1
+55169,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,28
+55179,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,38
+55185,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,51
+55194,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,22.55,21,4,6,6
+55199,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,28.35,25,4,6,24
+55211,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,43
+55217,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,50
+55220,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,3
+55224,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,10.85,5,4,7,21
+55229,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,36
+55230,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.8,20.35,16,4,7,38
+55234,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,22.45,18,4,7,49
+55241,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,0
+55254,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,3
+55259,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,23.05,25,4,8,6
+55265,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,11
+55269,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,26.35,21,4,8,32
+55302,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.95,6,4,9,10
+55306,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.4,20.85,15,4,9,23
+55309,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.95,22,4,9,42
+55315,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,57
+55324,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,7.25,17,4,10,8
+55330,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,24.95,25,4,10,24
+55334,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,16.05,15,4,10,38
+55338,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,6.35,11,4,11,2
+55340,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.2,13.45,9,4,11,25
+55345,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,12.65,18,4,11,47
+55362,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,0
+55365,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,4
+55369,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,16.45,11,3,0,31
+55375,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,52
+55381,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,20.15,21,3,0,52
+55384,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.2,13.45,10,3,1,14
+55391,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,10.25,6,3,1,19
+55397,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,41
+55407,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,3.65,23,3,2,2
+55411,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,26
+55437,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,41
+55441,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,10.85,6,3,2,46
+55443,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,9
+55446,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,14.15,10,3,3,14
+55450,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,21
+55456,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,29
+55458,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,30
+55465,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,12.15,24,3,3,48
+55471,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,56
+55499,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,4.65,16,3,4,21
+55502,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,33
+55508,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.45,22,3,4,39
+55511,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,13.45,8,3,5,5
+55532,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,25
+55543,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,22.75,18,3,5,47
+55552,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,21.95,19,3,5,56
+55581,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,29
+55582,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,9.35,7,3,6,52
+55585,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,5.25,13,3,7,3
+55588,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,10
+55605,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,35
+55613,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.9,30.25,25,3,7,59
+55618,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.6,19.55,21,3,8,9
+55623,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,20.35,20,3,8,18
+55628,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,27
+55636,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.3,18.75,21,3,8,34
+55640,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,51
+55649,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,0
+55652,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,15
+55687,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.4,18.15,20,3,10,36
+55695,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,22.85,20,3,10,45
+55698,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,3
+55700,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,4
+55707,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,7.15,20,3,11,13
+55714,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,25.85,20,3,11,30
+55722,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.9,20.85,21,3,11,41
+55770,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,29
+55776,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,33
+55783,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,39
+55789,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,20.85,21,2,0,55
+55802,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,14
+55809,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,8.05,14,2,1,28
+55814,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.7,19.05,14,2,1,36
+55817,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,22.75,20,2,1,55
+55819,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,11.55,6,2,2,10
+55820,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,27.15,25,2,2,29
+55861,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,5.25,16,2,3,4
+55870,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,4.45,23,2,3,29
+55878,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,37
+55881,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,40
+55901,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.95,25,2,3,55
+55910,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,14
+55913,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.65,22,2,4,20
+55925,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,42
+55928,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,0
+55939,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,19.55,18,2,5,14
+55944,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,26.85,25,2,5,25
+55950,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,14.65,11,2,5,32
+55962,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,57
+55972,2010,2009-10,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,10
+55979,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,19.25,20,2,6,17
+55993,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,28
+55999,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,31
+56023,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,15.15,12,2,7,8
+56046,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,27
+56058,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,3.95,14,2,7,32
+56060,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,18.95,17,2,8,5
+56069,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.85,5,2,8,11
+56088,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,45
+56092,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,51
+56097,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.25,23,2,9,7
+56102,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.05,23,2,9,15
+56107,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,42
+56108,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.15,24,2,9,52
+56133,2010,2009-10,1610612737,Atlanta Hawks,693,Joe Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,5.05,18,2,10,13
+56136,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,10.45,14,2,10,34
+56141,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.65,24,2,10,41
+56145,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,55
+56148,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.05,23,2,10,56
+56157,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.0,28.35,24,2,11,44
+56171,2010,2009-10,1610612741,Chicago Bulls,2457,Jannero Pargo,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,24.75,26,1,0,1
+56173,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.65,6,1,0,5
+56181,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.95,4,1,0,26
+56191,2010,2009-10,1610612737,Atlanta Hawks,693,Joe Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,29
+56197,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,27.95,24,1,0,40
+56202,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,23.65,19,1,0,58
+56231,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.35,22,1,1,45
+56234,2010,2009-10,1610612741,Chicago Bulls,101124,Hakim Warrick,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,11.65,16,1,2,8
+56239,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,31.85,26,1,2,27
+56243,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.1,14.15,9,1,2,50
+56264,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,29.85,24,1,3,18
+56269,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,16.25,11,1,3,28
+56272,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,4.95,23,1,3,50
+56276,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,10.45,12,1,4,12
+56284,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,5.85,11,1,4,16
+56288,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,18.75,15,1,4,27
+56295,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,44
+56302,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,55
+56306,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.7,15.15,10,1,4,56
+56311,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,18.65,16,1,5,19
+56313,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,13.05,14,1,5,33
+56318,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,50
+56319,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,27.45,25,1,5,51
+56326,2010,2009-10,1610612741,Chicago Bulls,2436,Flip Murray,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,3
+56331,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,18
+56339,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,11.95,24,1,6,30
+56344,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,44
+56369,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,8.25,9,1,6,56
+56372,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,20.05,21,1,7,18
+56395,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,30
+56407,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,12.65,7,1,7,37
+56431,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.65,23,1,8,3
+56437,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,19.85,16,1,8,21
+56444,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,6.45,20,1,8,35
+56451,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,0
+56463,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,7
+56469,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,8
+56474,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,21.75,25,1,9,9
+56483,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.6,12.15,7,1,9,18
+56495,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,23.05,19,1,9,38
+56500,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,56
+56506,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.25,20,1,9,58
+56509,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.95,25,1,10,17
+56518,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,25
+56524,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-01-2010,20900889,CHI,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,7.15,18,1,10,38
+56530,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,46
+56545,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,5.25,11,1,11,8
+56555,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.9,11.95,16,1,11,26
+56563,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,03-01-2010,20900889,CHI,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,13.75,9,1,11,43

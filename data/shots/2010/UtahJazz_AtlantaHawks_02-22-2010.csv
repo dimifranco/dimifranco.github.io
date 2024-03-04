@@ -1,0 +1,158 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+64672,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,27.25,27,4,0,0
+64678,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,2
+64682,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,17.95,15,4,0,4
+64683,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,28.05,25,4,0,11
+64708,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,29
+64714,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,15.75,14,4,0,37
+64719,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,17.35,12,4,0,58
+64720,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,16
+64724,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.45,22,4,1,16
+64728,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,22
+64733,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,18.75,18,4,1,27
+64734,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,16.25,11,4,1,52
+64750,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.15,23,4,2,28
+64751,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.4,18.95,14,4,2,48
+64759,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,25.85,24,4,3,25
+64764,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,48
+64766,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.95,4,4,4,1
+64771,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,12.15,23,4,4,16
+64774,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,18.35,24,4,4,40
+64785,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,59
+64787,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,28.85,25,4,5,17
+64789,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,25.35,24,4,5,36
+64798,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,27.95,24,4,6,17
+64803,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,3.95,20,4,6,29
+64807,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,51
+64808,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,23.05,20,4,6,57
+64816,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,12.95,7,4,7,30
+64821,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.7,30.15,24,4,7,47
+64825,2010,2009-10,1610612737,Atlanta Hawks,693,Joe Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,9.65,18,4,8,18
+64830,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,13.05,7,4,8,43
+64838,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.25,25,4,8,55
+64844,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,3.95,17,4,9,28
+64846,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,22.05,18,4,9,40
+64853,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,19
+64868,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,22.25,17,4,10,47
+64871,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,21.65,22,4,11,18
+64876,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,24.95,24,4,11,46
+64883,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,18.65,13,3,0,3
+64887,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.95,3,3,0,26
+64905,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,25.85,24,3,0,40
+64906,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,54
+64909,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,20.85,24,3,1,18
+64911,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.35,3,3,1,41
+64912,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,1
+64917,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,8.65,4,3,2,6
+64920,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.75,25,3,2,19
+64940,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,54
+64944,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,31.55,26,3,3,5
+64947,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.95,24,3,3,27
+64952,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,4.25,17,3,4,6
+64956,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,10.85,23,3,4,18
+64957,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,9.95,7,3,4,39
+64962,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,44
+64969,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,10.05,6,3,4,50
+64972,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,58
+64990,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,38
+64995,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,43
+64998,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,11.55,21,3,6,3
+65000,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.1,20.35,22,3,6,16
+65006,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,3.15,19,3,6,31
+65008,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,53
+65013,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.95,23,3,7,7
+65014,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,25.75,24,3,7,15
+65020,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,24.15,20,3,8,11
+65022,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.0,16.45,12,3,8,16
+65024,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,3.55,18,3,8,26
+65027,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,2.75,21,3,8,51
+65030,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.35,24,3,9,2
+65035,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,48
+65041,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,2.55,12,3,10,2
+65047,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,5.55,19,3,10,37
+65048,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,4.95,19,3,10,57
+65057,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.85,5,3,11,12
+65061,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.0,18.95,21,3,11,15
+65062,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,18
+65063,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,7.45,24,3,11,39
+65068,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-16.3,55.35,52,2,0,0
+65074,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,14.35,11,2,0,2
+65081,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,28
+65086,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,20.95,16,2,0,33
+65088,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,25.85,20,2,1,1
+65091,2010,2009-10,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,14
+65094,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,10.85,9,2,1,15
+65104,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,9.15,8,2,1,36
+65113,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.75,5,2,2,21
+65124,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,14.55,9,2,2,52
+65130,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,12.65,16,2,3,41
+65131,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,5
+65134,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,8.35,23,2,4,14
+65140,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.55,23,2,4,41
+65142,2010,2009-10,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,57
+65144,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,5
+65145,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,8.05,14,2,5,18
+65150,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,18.75,24,2,5,41
+65152,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,0
+65153,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.55,5,2,6,3
+65159,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.4,29.05,24,2,6,53
+65166,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,9.35,10,2,7,15
+65168,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,24.25,21,2,7,37
+65169,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,10.25,5,2,7,58
+65171,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.4,16.85,12,2,8,8
+65173,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,23.65,19,2,8,34
+65185,2010,2009-10,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,47
+65191,2010,2009-10,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,47
+65195,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.55,24,2,8,48
+65199,2010,2009-10,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,58
+65200,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,14
+65204,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.6,6.95,13,2,9,21
+65205,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.7,11.65,16,2,9,33
+65210,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,23.85,19,2,10,6
+65211,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,21.95,18,2,10,25
+65215,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,44
+65217,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,56
+65218,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,57
+65222,2010,2009-10,1610612762,Utah Jazz,202178,Sundiata Gaines,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.25,6,2,11,16
+65230,2010,2009-10,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,5.65,3,2,11,25
+65237,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,3.65,22,2,11,39
+65253,2010,2009-10,1610612737,Atlanta Hawks,2230,Maurice Evans,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,6.35,4,1,0,6
+65256,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,22.55,17,1,0,31
+65259,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,50
+65266,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,8
+65268,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,25.35,24,1,1,16
+65269,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,35
+65272,2010,2009-10,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,26.85,24,1,1,56
+65273,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,23.15,18,1,2,21
+65282,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,43
+65286,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,9.65,7,1,2,45
+65299,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,5
+65302,2010,2009-10,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,9.15,6,1,3,10
+65303,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,27
+65307,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.3,12.15,8,1,3,43
+65308,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,0
+65322,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.4,25.05,20,1,4,30
+65328,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,45
+65331,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,12.65,24,1,4,55
+65339,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,26
+65345,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,27
+65347,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,10.85,5,1,5,29
+65350,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,14.55,9,1,5,47
+65354,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,59
+65356,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,4.45,15,1,6,0
+65368,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,4.25,12,1,6,30
+65371,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,52
+65389,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.55,3,1,7,31
+65390,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,18.35,22,1,7,42
+65396,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,7
+65398,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.0,10.85,12,1,8,28
+65401,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,55
+65404,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,3.85,14,1,8,57
+65407,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.4,22.75,18,1,9,22
+65411,2010,2009-10,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,23.95,22,1,9,43
+65415,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,11
+65419,2010,2009-10,1610612737,Atlanta Hawks,1710,Mike Bibby,G,PG,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,23.95,19,1,10,22
+65423,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,02-22-2010,20900835,UTA,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.8,24.25,19,1,10,42
+65428,2010,2009-10,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,9.95,5,1,11,4
+65429,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,02-22-2010,20900835,UTA,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,30
+65433,2010,2009-10,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-22-2010,20900835,UTA,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,54

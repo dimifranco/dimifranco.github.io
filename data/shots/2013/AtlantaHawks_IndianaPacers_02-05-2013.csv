@@ -1,0 +1,157 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+83486,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,31.75,27,4,0,7
+83487,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.65,19,4,0,23
+83490,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.65,22,4,0,51
+83492,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,25.25,27,4,1,23
+83498,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,20.05,19,4,1,43
+83500,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,30.95,26,4,1,57
+83501,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,4.95,16,4,2,5
+83505,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,4,2,38
+83521,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,4,3,58
+83522,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,11.65,7,4,4,8
+83524,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,9.45,18,4,4,24
+83526,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,4,26
+83527,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,11.85,6,4,4,29
+83533,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,29.45,27,4,4,43
+83535,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,29.15,26,4,5,1
+83542,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,24.15,19,4,5,25
+83545,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.35,23,4,5,51
+83550,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.95,23,4,6,16
+83559,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,28.55,26,4,6,30
+83560,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,4,6,42
+83561,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.95,1,4,6,50
+83590,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.35,4,4,7,53
+83604,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,4.65,17,4,8,20
+83620,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,8.35,7,4,9,0
+83624,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,19.05,19,4,9,5
+83625,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,26.65,27,4,9,20
+83627,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,19.85,18,4,9,42
+83637,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.25,2,4,9,59
+83641,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,21.75,26,4,10,12
+83644,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,4,10,23
+83654,2013,2012-13,1610612737,Atlanta Hawks,203118,Mike Scott,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,4,10,48
+83657,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.05,2,4,10,49
+83660,2013,2012-13,1610612754,Indiana Pacers,201946,Tyler Hansbrough,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,23.95,18,4,10,57
+83663,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,4,11,5
+83665,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,29.35,26,4,11,17
+83666,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,4,11,35
+83679,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-1.7,59.95,54,3,0,0
+83691,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,11.05,16,3,0,41
+83692,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.05,4,3,0,51
+83696,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,21.15,26,3,1,14
+83700,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,20.95,19,3,1,20
+83701,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.85,19,3,1,43
+83702,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,20.05,18,3,1,57
+83717,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.65,1,3,2,18
+83718,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,31.05,25,3,2,39
+83737,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,3,3,6
+83739,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,26.55,21,3,3,26
+83745,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,8.65,13,3,3,32
+83748,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,16.25,18,3,3,45
+83752,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,26.35,26,3,3,59
+83753,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,23.95,20,3,4,14
+83756,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.85,26,3,4,35
+83771,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,24.65,20,3,5,1
+83774,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,17.65,17,3,5,15
+83775,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.95,23,3,5,29
+83778,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,24.25,19,3,5,47
+83792,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,31.55,27,3,6,13
+83793,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,5.35,16,3,6,30
+83799,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,9.45,19,3,6,48
+83804,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,4.75,16,3,6,50
+83813,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.75,23,3,7,15
+83816,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,6.65,5,3,7,33
+83821,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,32.35,27,3,7,53
+83826,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.15,23,3,8,14
+83829,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,14.95,15,3,8,24
+83832,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,17.95,12,3,8,40
+83838,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,3,8,49
+83841,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.95,2,3,8,57
+83844,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,11.95,12,3,9,9
+83849,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,11.05,5,3,9,24
+83858,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,3,10,16
+83873,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.4,14.15,17,3,10,46
+83877,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,3,10,53
+83882,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,21.95,26,3,11,11
+83887,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,4.95,14,3,11,18
+83888,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,4.65,17,3,11,38
+83891,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,0.2,50.05,44,2,0,0
+83893,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,22.85,17,2,0,3
+83895,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,4.75,1,2,0,22
+83900,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,4.75,22,2,0,28
+83904,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,16.55,11,2,0,34
+83913,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,2,0,56
+83914,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,24.95,26,2,1,11
+83920,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,4.75,2,2,1,18
+83926,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.85,3,2,1,30
+83939,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,4.15,15,2,1,48
+83940,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,2,2,10
+83944,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,16.75,13,2,2,30
+83959,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.85,11,2,2,53
+83963,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,2,3,6
+83969,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,9.15,3,2,3,12
+83979,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,20.05,19,2,3,50
+83985,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.75,25,2,4,16
+83987,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.25,1,2,4,30
+84008,2013,2012-13,1610612737,Atlanta Hawks,203118,Mike Scott,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,2,4,48
+84009,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,2,4,57
+84012,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,25.35,24,2,5,15
+84014,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,24.25,25,2,5,21
+84018,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,9.65,24,2,5,27
+84021,2013,2012-13,1610612737,Atlanta Hawks,203118,Mike Scott,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,3.65,18,2,5,50
+84024,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,30.25,27,2,6,0
+84027,2013,2012-13,1610612754,Indiana Pacers,201571,D.J. Augustin,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,26.85,25,2,6,10
+84041,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,30.45,27,2,7,1
+84049,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,2,7,17
+84053,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,22.75,17,2,7,28
+84060,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.05,19,2,7,38
+84063,2013,2012-13,1610612754,Indiana Pacers,201970,Sam Young,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.6,30.65,25,2,7,56
+84065,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,21.75,18,2,8,11
+84069,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,7.25,3,2,8,23
+84079,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.25,1,2,8,45
+84088,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,20.85,26,2,9,7
+84097,2013,2012-13,1610612754,Indiana Pacers,201970,Sam Young,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,15.35,19,2,9,38
+84108,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.15,25,2,9,50
+84109,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,12.95,7,2,10,11
+84114,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,11.35,18,2,10,31
+84115,2013,2012-13,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.35,1,2,10,49
+84118,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,22.85,19,2,11,9
+84119,2013,2012-13,1610612737,Atlanta Hawks,2457,Jannero Pargo,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,29.85,27,2,11,20
+84136,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.25,23,1,0,0
+84140,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.3,20.55,15,1,0,7
+84143,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,20.55,17,1,0,28
+84148,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,10.55,8,1,0,44
+84151,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,5.25,17,1,1,12
+84155,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,29.65,26,1,1,30
+84159,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,1,1,52
+84161,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,20.55,17,1,2,4
+84172,2013,2012-13,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,5.95,24,1,2,33
+84175,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,23.05,25,1,2,52
+84180,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,4.15,16,1,2,56
+84184,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,3.85,16,1,3,19
+84191,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,4.75,19,1,3,42
+84208,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,21.15,17,1,4,38
+84210,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.65,1,1,4,55
+84213,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,30.95,28,1,5,10
+84216,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,17.35,17,1,5,23
+84220,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,8.65,9,1,5,43
+84224,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,26.15,25,1,6,9
+84228,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.65,0,1,6,27
+84236,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,6,56
+84240,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,4.45,15,1,7,1
+84246,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,23.55,20,1,7,16
+84247,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,16.25,16,1,7,33
+84258,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.65,1,1,8,12
+84261,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,23.65,26,1,8,25
+84263,2013,2012-13,1610612754,Indiana Pacers,202331,Paul George,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.2,21.15,15,1,8,32
+84268,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,7.55,19,1,8,46
+84270,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,24.95,20,1,9,9
+84277,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,22.85,18,1,9,16
+84280,2013,2012-13,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,6.75,6,1,9,36
+84284,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,15.75,15,1,9,53
+84288,2013,2012-13,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,31.05,27,1,10,7
+84296,2013,2012-13,1610612754,Indiana Pacers,2561,David West,F,PF,02-05-2013,21200715,IND,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.4,12.95,8,1,10,22
+84300,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.2,16.85,12,1,10,41
+84305,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,24.25,26,1,11,1
+84313,2013,2012-13,1610612754,Indiana Pacers,201588,George Hill,G,PG,02-05-2013,21200715,IND,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,1,11,21
+84318,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-05-2013,21200715,IND,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,8.85,16,1,11,39

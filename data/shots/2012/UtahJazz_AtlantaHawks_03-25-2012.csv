@@ -1,0 +1,234 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+43182,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,27.25,27,8,0,0
+43183,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,8,0,7
+43184,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.35,1,8,0,13
+43185,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.8,25.05,19,8,0,16
+43186,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,8,0,37
+43187,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,9.65,4,8,0,41
+43188,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,8.95,14,8,1,1
+43189,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.25,5,8,1,32
+43190,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.65,7,8,1,52
+43191,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,23.35,26,8,2,19
+43192,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.7,17.95,12,8,2,30
+43193,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,9.45,7,8,3,3
+43194,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,8,3,45
+43195,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.3,28.55,25,8,4,2
+43196,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,20.35,19,8,4,13
+43197,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,22.85,20,8,4,44
+43198,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,15.65,18,7,0,0
+43199,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,9.45,10,7,0,7
+43200,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,9.35,17,7,0,29
+43201,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,6.95,15,7,0,39
+43202,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.35,23,7,1,0
+43203,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,6.15,19,7,1,16
+43204,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,5.55,16,7,1,56
+43205,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,7,2,9
+43206,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,7,2,13
+43207,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,8.05,16,7,2,20
+43208,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,7,2,40
+43209,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.35,2,7,2,42
+43210,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,14.85,19,7,3,11
+43211,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,16.85,16,7,3,46
+43212,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,7,4,12
+43213,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.65,1,7,4,26
+43214,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,20.85,19,6,0,0
+43215,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,26.55,25,6,0,7
+43216,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,22.45,18,6,0,14
+43217,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,7.15,15,6,0,51
+43218,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.6,30.75,25,6,1,5
+43219,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,6,1,22
+43220,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,6,1,30
+43221,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,6,1,46
+43222,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,14.15,11,6,1,54
+43223,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.55,23,6,2,6
+43224,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.7,16.55,11,6,2,10
+43225,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,28.05,24,6,2,18
+43226,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,9.15,10,6,2,24
+43227,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,6,2,41
+43228,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.45,2,6,2,44
+43229,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,6,2,52
+43230,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,6,2,55
+43231,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,20.35,19,6,3,12
+43232,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,18.65,18,6,3,32
+43233,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,29.15,25,6,3,56
+43234,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,10.45,9,6,4,7
+43235,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,6,4,27
+43236,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.45,2,6,4,42
+43237,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,29.85,26,5,0,0
+43238,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,12.35,12,5,0,1
+43239,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,5,0,27
+43240,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,19.75,19,5,0,37
+43241,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,6.15,2,5,1,6
+43242,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.05,2,5,1,26
+43243,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,5,1,41
+43244,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.65,6,5,1,45
+43245,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,30.15,25,5,2,12
+43246,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,6.95,9,5,2,49
+43247,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.15,25,5,3,0
+43248,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,13.25,11,5,3,25
+43249,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.2,16.05,12,5,3,47
+43250,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,24.65,21,5,4,16
+43251,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.5,29.35,24,5,4,32
+43252,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,16.55,18,5,4,37
+43253,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,14.35,10,4,0,0
+43254,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,13.55,9,4,0,3
+43255,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,16.75,20,4,0,26
+43256,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,24.95,20,4,0,49
+43257,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.85,1,4,1,14
+43258,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,4,1,31
+43260,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,30.45,25,4,1,55
+43261,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,18.95,18,4,2,14
+43262,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.75,25,4,2,34
+43265,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,11.05,5,4,3,5
+43267,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,3,25
+43268,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,30.65,25,4,3,49
+43272,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.9,6.45,7,4,4,3
+43273,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.9,16.05,12,4,4,20
+43283,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.55,5,4,4,53
+43286,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,10.55,13,4,5,3
+43293,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,24.45,25,4,5,20
+43324,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.45,3,4,5,59
+43344,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,4,6,21
+43349,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,4,6,44
+43354,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,4,7,3
+43359,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,11.35,6,4,7,19
+43360,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.95,25,4,7,40
+43379,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,4,8,16
+43385,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,12.15,20,4,8,20
+43386,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,4,8,35
+43389,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,30.45,25,4,8,42
+43395,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,4,9,1
+43408,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,4,9,18
+43415,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,4,9,20
+43420,2012,2011-12,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,22.75,17,4,9,23
+43445,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,23.15,18,4,9,42
+43457,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,23.55,20,4,10,5
+43465,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,28.25,26,4,10,18
+43472,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,24.25,19,4,10,39
+43477,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,4,10,59
+43493,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,19.85,19,4,11,19
+43497,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,4,11,40
+43506,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,6.95,17,4,11,44
+43518,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.9,10.75,8,3,0,1
+43519,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,21.25,18,3,0,16
+43541,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,6.35,23,3,0,38
+43561,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.95,1,3,1,11
+43565,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,3,1,28
+43566,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,3,1,49
+43578,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,18.65,14,3,2,5
+43589,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,12.75,7,3,2,29
+43609,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,18.35,25,3,2,57
+43620,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,8.55,16,3,3,6
+43630,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,18.75,17,3,3,23
+43637,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,26.95,25,3,3,37
+43639,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,3,4,2
+43642,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,9.95,23,3,4,16
+43668,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,5.55,15,3,4,35
+43688,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.85,25,3,5,10
+43694,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.6,14.05,9,3,5,25
+43695,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,3,5,49
+43702,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,6,19
+43706,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.7,29.95,25,3,6,22
+43713,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,16.75,24,3,6,56
+43718,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,17.15,19,3,7,13
+43726,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,25.55,20,3,7,31
+43728,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,26.35,21,3,7,46
+43738,2012,2011-12,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.95,1,3,8,15
+43753,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,8.05,17,3,8,54
+43758,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.75,1,3,9,27
+43767,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.7,17.65,14,3,9,39
+43780,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.85,1,3,9,55
+43787,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.55,25,3,10,7
+43801,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.15,23,3,10,22
+43802,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,3,10,41
+43808,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.35,1,3,10,45
+43816,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,3,10,54
+43821,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.65,0,3,11,19
+43830,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,9.45,4,3,11,26
+43832,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.65,2,3,11,47
+43848,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,2,0,1
+43859,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.8,29.95,25,2,0,7
+43879,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,6.75,16,2,0,44
+43883,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,16.25,20,2,0,54
+43890,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.85,0,2,1,17
+43895,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,2,1,24
+43913,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,29.45,25,2,1,36
+43915,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,22.45,20,2,1,44
+43938,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.35,1,2,1,58
+43942,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,10.85,5,2,2,3
+43948,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,7.85,17,2,2,11
+43958,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,8.05,18,2,2,31
+43973,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,2,2,58
+43979,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.35,4,2,3,5
+43980,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,22.85,26,2,3,13
+43984,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.65,2,2,3,41
+43986,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.85,2,2,3,54
+43992,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,24.25,19,2,4,8
+44004,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.65,23,2,4,54
+44007,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,21.25,20,2,5,9
+44011,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,7.75,20,2,5,33
+44025,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,15.95,10,2,5,50
+44051,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,2,6,25
+44055,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,20.85,20,2,6,38
+44081,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,16.75,11,2,7,1
+44086,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,2,7,23
+44087,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,27.25,25,2,7,42
+44092,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,7.85,18,2,7,49
+44100,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,8.35,13,2,8,25
+44106,2012,2011-12,1610612737,Atlanta Hawks,2584,Willie Green,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,23.85,19,2,8,45
+44127,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,3.95,13,2,8,58
+44132,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,2,9,23
+44148,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.95,1,2,9,52
+44149,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,2,10,5
+44154,2012,2011-12,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,23.05,20,2,10,8
+44162,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,16.85,19,2,10,26
+44165,2012,2011-12,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,26.35,24,2,10,46
+44187,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,2,11,16
+44197,2012,2011-12,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,23.55,18,2,11,22
+44201,2012,2011-12,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,12.15,17,2,11,40
+44216,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,16.75,18,1,0,0
+44221,2012,2011-12,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF-PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,4.75,21,1,0,20
+44227,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,29.05,25,1,0,33
+44246,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,7.55,12,1,0,57
+44260,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.95,19,1,1,15
+44265,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,6.2,19.85,15,1,1,34
+44266,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,15.95,20,1,1,54
+44277,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.25,2,1,2,15
+44289,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,1,2,24
+44296,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.15,0,1,2,26
+44297,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.55,6,1,2,38
+44301,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,3,3
+44306,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.75,1,1,3,8
+44315,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,1,3,15
+44320,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,1,3,18
+44325,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.6,13.45,8,1,3,21
+44328,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,1,3,46
+44331,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,3,48
+44344,2012,2011-12,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,2.45,19,1,4,4
+44350,2012,2011-12,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,23.85,18,1,4,33
+44356,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,24.15,18,1,4,58
+44364,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,1,5,6
+44365,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,10.55,5,1,5,19
+44370,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,8.05,10,1,5,35
+44386,2012,2011-12,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,1,6,0
+44392,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,21.75,24,1,6,6
+44399,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,18.65,18,1,6,11
+44410,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.75,0,1,6,27
+44417,2012,2011-12,1610612762,Utah Jazz,101139,CJ Miles,G,SG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.95,19,1,6,51
+44425,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.15,2,1,7,20
+44431,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,21.65,16,1,7,40
+44432,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.1,15.15,17,1,7,58
+44436,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,27.45,26,1,8,17
+44437,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,1,8,32
+44450,2012,2011-12,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,16.05,20,1,8,48
+44467,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,7.85,4,1,9,1
+44468,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,7.55,7,1,9,16
+44474,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.75,24,1,9,34
+44481,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,27.45,25,1,9,39
+44485,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,6.75,19,1,9,47
+44496,2012,2011-12,1610612762,Utah Jazz,2734,Devin Harris,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.45,3,1,10,4
+44505,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,7.55,12,1,10,53
+44515,2012,2011-12,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,1,11,2
+44520,2012,2011-12,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-25-2012,21100722,ATL,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,1,11,20
+44523,2012,2011-12,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-25-2012,21100722,ATL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,23.95,20,1,11,21
+44531,2012,2011-12,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-25-2012,21100722,ATL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.95,2,1,11,44

@@ -1,0 +1,158 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+21194,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.5,25.85,21,4,0,4
+21201,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.4,20.35,23,4,0,8
+21207,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,20.95,17,4,0,52
+21208,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,12
+21210,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,21.25,24,4,1,19
+21217,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,27.25,23,4,1,53
+21220,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,25.25,20,4,2,3
+21221,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.35,3,4,2,23
+21224,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,45
+21226,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,12
+21230,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.65,2,4,3,29
+21243,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.65,23,4,3,54
+21248,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,29.65,24,4,4,12
+21253,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,13.85,24,4,4,33
+21258,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,21.45,17,4,5,8
+21261,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,17.35,23,4,5,25
+21264,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,41
+21268,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,42
+21270,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.9,23.85,20,4,5,56
+21273,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.25,22,4,6,12
+21287,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,29
+21289,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,14.55,22,4,6,32
+21293,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,21.45,24,4,6,47
+21297,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,22.85,24,4,7,1
+21300,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.8,20.65,15,4,7,12
+21301,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,23.85,18,4,7,35
+21302,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,24.25,19,4,7,45
+21305,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,59
+21307,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,12
+21311,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,32
+21313,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,10.25,10,4,8,48
+21322,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,18
+21325,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,3.65,17,4,9,28
+21327,2010,2009-10,1610612762,Utah Jazz,101179,Ronnie Price,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,28.05,25,4,9,42
+21330,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,17.85,17,4,9,49
+21338,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,7.85,19,4,10,39
+21341,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.65,24,4,11,0
+21344,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,2.85,16,4,11,12
+21348,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,22.55,19,4,11,23
+21361,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.7,21.95,24,3,0,1
+21380,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.25,24,3,0,43
+21383,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,24.15,20,3,0,58
+21387,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,22.85,17,3,1,12
+21396,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,20.15,17,3,1,43
+21399,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,25.05,24,3,2,6
+21401,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,20
+21407,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,30.15,25,3,2,32
+21411,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,59
+21414,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,22.85,20,3,3,19
+21419,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,34
+21421,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,11.85,6,3,3,48
+21434,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,17.65,12,3,4,15
+21439,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,3.65,17,3,4,40
+21440,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,59
+21445,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,5
+21446,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,16.75,11,3,5,16
+21449,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.05,24,3,5,35
+21451,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.15,18,3,5,42
+21463,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.85,3,3,6,11
+21465,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,3.55,16,3,6,13
+21469,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,10.45,5,3,6,30
+21472,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,45
+21481,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,7
+21488,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,10.75,23,3,7,16
+21495,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,52
+21499,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,11
+21501,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,21
+21504,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,21.15,17,3,8,40
+21511,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,5
+21515,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,30.45,25,3,9,27
+21516,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,22.85,17,3,9,43
+21518,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,6.65,9,3,10,0
+21519,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,1.4500000000000002,16,3,10,11
+21521,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,32
+21522,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,39
+21527,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,8
+21537,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,20
+21539,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,14.65,13,3,11,27
+21545,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,2
+21555,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.65,23,2,0,27
+21562,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,9.75,21,2,0,35
+21565,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.6,20.65,16,2,0,53
+21568,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.7,15.95,11,2,1,15
+21573,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,36
+21586,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,4.65,18,2,1,58
+21588,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,13
+21591,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,25.35,25,2,2,23
+21593,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,14.55,15,2,2,40
+21595,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.3,29.65,24,2,2,53
+21604,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.65,25,2,3,20
+21612,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,52
+21617,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,4.65,19,2,4,5
+21621,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,28.75,25,2,4,21
+21623,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,14.35,9,2,4,34
+21628,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,9
+21630,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.1,29.95,25,2,5,14
+21633,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.9,20.95,15,2,5,29
+21641,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,3
+21644,2010,2009-10,1610612752,New York Knicks,201611,Henry Walker,G,SG-SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.4,29.05,24,2,6,14
+21646,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,28
+21650,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,30.15,24,2,6,33
+21655,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,41
+21656,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,59
+21664,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,11.25,23,2,7,18
+21666,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,18.45,24,2,7,29
+21672,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,21.25,17,2,7,35
+21677,2010,2009-10,1610612752,New York Knicks,200771,Sergio Rodriguez,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,53
+21680,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,9.15,12,2,8,11
+21691,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,40
+21694,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.8,21.15,23,2,8,58
+21699,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.75,2,2,9,11
+21702,2010,2009-10,1610612752,New York Knicks,201611,Henry Walker,G,SG-SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.5,30.15,24,2,9,30
+21711,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,23.95,18,2,10,7
+21718,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.6,19.85,14,2,10,42
+21720,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,1
+21722,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.35,23,2,11,11
+21738,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.2,29.85,24,1,0,1
+21742,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,4.95,15,1,0,23
+21746,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,22.85,18,1,0,39
+21754,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,10
+21757,2010,2009-10,1610612762,Utah Jazz,2594,Kyle Korver,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,22.85,18,1,1,35
+21760,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Running Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,51
+21763,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,59
+21774,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.25,24,1,2,16
+21776,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,24.25,24,1,2,29
+21780,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.45,23,1,2,44
+21784,2010,2009-10,1610612752,New York Knicks,2067,Eddie House,G,PG-SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,23.65,22,1,2,55
+21786,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,29.95,24,1,3,12
+21789,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,26
+21794,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,49
+21810,2010,2009-10,1610612752,New York Knicks,1733,Al Harrington,F,PF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,27.25,24,1,4,13
+21813,2010,2009-10,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,31
+21827,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.85,6,1,5,9
+21830,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,16
+21834,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,12.95,14,1,5,22
+21838,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,11.35,6,1,5,37
+21843,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.9,11.65,21,1,5,48
+21846,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.25,23,1,6,7
+21851,2010,2009-10,1610612752,New York Knicks,201962,Toney Douglas,G,PG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,26.95,24,1,6,18
+21857,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.2,19.85,15,1,6,52
+21860,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,13.25,24,1,7,14
+21870,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,26
+21872,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,44
+21878,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.15,24,1,7,57
+21880,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,12
+21886,2010,2009-10,1610612762,Utah Jazz,101114,Deron Williams,G,PG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.2,28.05,24,1,8,57
+21891,2010,2009-10,1610612752,New York Knicks,201611,Henry Walker,G,SG-SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.65,23,1,9,5
+21898,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,24
+21902,2010,2009-10,1610612752,New York Knicks,201568,Danilo Gallinari,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.75,24,1,9,31
+21909,2010,2009-10,1610612752,New York Knicks,201611,Henry Walker,G,SG-SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,26.85,24,1,10,3
+21912,2010,2009-10,1610612762,Utah Jazz,2430,Carlos Boozer,F,PF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,13.85,11,1,10,15
+21914,2010,2009-10,1610612752,New York Knicks,201611,Henry Walker,G,SG-SF,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,23.55,24,1,10,32
+21919,2010,2009-10,1610612762,Utah Jazz,101139,CJ Miles,F,SF,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,23.55,21,1,10,44
+21923,2010,2009-10,1610612752,New York Knicks,101135,David Lee,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,3
+21925,2010,2009-10,1610612762,Utah Jazz,202083,Wesley Matthews,G,SG,03-29-2010,20901101,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,23.35,22,1,11,13
+21929,2010,2009-10,1610612752,New York Knicks,1503,Tracy McGrady,G,SG,03-29-2010,20901101,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,21.65,19,1,11,31
+21931,2010,2009-10,1610612762,Utah Jazz,2246,Mehmet Okur,C,C,03-29-2010,20901101,UTA,NYK,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,48

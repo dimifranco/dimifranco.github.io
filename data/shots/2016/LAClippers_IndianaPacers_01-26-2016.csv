@@ -1,0 +1,160 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+93156,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.5,27.15,25,4,0,5
+93172,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.5,17.65,24,4,0,28
+93183,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.7,20.65,18,4,0,33
+93194,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,26.05,20,4,0,54
+93216,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.0,29.95,25,4,1,43
+93232,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,8.35,10,4,1,57
+93236,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.45,1,4,2,17
+93240,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.0,31.95,27,4,2,28
+93245,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,29.95,25,4,3,8
+93250,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.55,3,4,3,35
+93254,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,7.55,10,4,3,52
+93266,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.55,2,4,4,13
+93269,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.5,5.95,14,4,4,15
+93273,2016,2015-16,1610612754,Indiana Pacers,202730,Lavoy Allen,F,PF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,8.35,4,4,4,39
+93279,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.05,25,4,4,53
+93283,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,24.55,24,4,5,11
+93292,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,8.05,17,4,5,40
+93297,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,4,5,54
+93300,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,21.15,16,4,5,56
+93310,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.45,1,4,6,27
+93315,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,7.05,22,4,6,35
+93323,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,20.65,15,4,6,49
+93325,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.5,17.65,19,4,7,16
+93332,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,23.05,26,4,7,42
+93336,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.45,1,4,7,50
+93349,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.1,23.55,18,4,8,13
+93353,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.1,30.45,25,4,8,23
+93361,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.85,3,4,8,48
+93363,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.6,10.35,9,4,8,52
+93370,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,10.35,5,4,9,26
+93382,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,21.65,24,4,9,49
+93388,2016,2015-16,1610612746,LA Clippers,203143,Pablo Prigioni,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.3,26.55,26,4,9,58
+93391,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,17.35,16,4,10,11
+93395,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.9,9.95,4,4,10,17
+93407,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,8.05,3,4,10,36
+93413,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.35,3,4,10,41
+93418,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.0,22.75,17,4,10,48
+93421,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.05,1,4,11,7
+93429,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,3.75,23,4,11,26
+93436,2016,2015-16,1610612746,LA Clippers,203143,Pablo Prigioni,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.95,1,4,11,41
+93463,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,44.25,44,3,0,0
+93466,2016,2015-16,1610612754,Indiana Pacers,203922,Glenn Robinson III,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,23.75,20,3,0,6
+93504,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,12.45,16,3,1,13
+93506,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.5,30.15,25,3,1,34
+93509,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.4,25.05,19,3,1,52
+93525,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.8,4.25,24,3,2,21
+93532,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,30.65,25,3,2,41
+93549,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,3,3,1
+93561,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,6.55,15,3,3,14
+93566,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.35,4,3,3,25
+93572,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.25,19,3,3,29
+93573,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,8.35,3,3,3,45
+93576,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,8.35,22,3,4,4
+93591,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.85,23,3,4,34
+93593,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.85,1,3,4,43
+93601,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.45,1,3,5,12
+93610,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.85,2,3,5,33
+93616,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.9,8.85,19,3,5,35
+93626,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.2,27.15,25,3,5,55
+93631,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.1,28.05,24,3,6,15
+93637,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.3,21.65,21,3,6,25
+93639,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,3.65,24,3,6,46
+93647,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.4,22.65,20,3,7,15
+93651,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,21.15,19,3,7,32
+93657,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.55,1,3,7,52
+93660,2016,2015-16,1610612754,Indiana Pacers,202730,Lavoy Allen,F,PF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.85,2,3,7,53
+93678,2016,2015-16,1610612754,Indiana Pacers,202730,Lavoy Allen,F,PF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.5,19.65,14,3,8,9
+93686,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.0,14.45,10,3,8,22
+93691,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,17.35,13,3,8,35
+93697,2016,2015-16,1610612754,Indiana Pacers,202730,Lavoy Allen,F,PF,01-26-2016,21500676,IND,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,3,9,7
+93699,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.6,17.35,15,3,9,24
+93703,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,16.35,11,3,9,40
+93704,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,23.05,26,3,10,2
+93714,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.7,28.65,23,3,10,38
+93715,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,21.15,26,3,11,1
+93720,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.25,3,3,11,17
+93728,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.5,22.75,17,3,11,46
+93755,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,9.55,14,2,0,0
+93757,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.55,1,2,0,9
+93759,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.35,9,2,0,9
+93763,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,8.35,18,2,0,29
+93775,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.1,5.45,24,2,0,46
+93782,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,8.35,17,2,1,6
+93788,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.5,27.65,25,2,1,14
+93793,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.3,27.05,25,2,1,19
+93798,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.9,15.25,10,2,1,35
+93804,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.85,24,2,1,43
+93808,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.5,29.95,24,2,2,2
+93814,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,4.15,24,2,2,13
+93818,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.8,4.65,24,2,2,13
+93821,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.9,20.35,15,2,2,30
+93829,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.8,13.75,9,2,2,43
+93844,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.35,2,2,3,5
+93862,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,6.55,1,2,3,33
+93868,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,8.85,7,2,3,42
+93873,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.8,15.35,17,2,4,0
+93882,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.5,17.35,12,2,4,11
+93897,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.6,21.75,25,2,4,34
+93899,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.4,19.15,18,2,4,59
+93904,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.1,17.65,19,2,5,17
+93908,2016,2015-16,1610612754,Indiana Pacers,201941,Jordan Hill,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,13.95,15,2,5,37
+93915,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,15.25,21,2,5,46
+93932,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,23.25,21,2,6,19
+93946,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,7.85,15,2,6,48
+93950,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.45,1,2,7,4
+93980,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,23.55,18,2,7,20
+93985,2016,2015-16,1610612754,Indiana Pacers,1626202,Joe Young,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.9,15.75,10,2,7,38
+93990,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,30.45,25,2,7,58
+94015,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.6,6.35,15,2,8,31
+94020,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.9,24.05,18,2,8,55
+94038,2016,2015-16,1610612754,Indiana Pacers,1626202,Joe Young,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.5,25.05,24,2,9,16
+94041,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.5,28.95,23,2,9,26
+94044,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,2,9,50
+94048,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,2,10,8
+94049,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.85,2,2,10,20
+94068,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.7,29.95,24,2,10,35
+94071,2016,2015-16,1610612754,Indiana Pacers,101139,CJ Miles,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,12.25,15,2,11,2
+94077,2016,2015-16,1610612746,LA Clippers,202332,Cole Aldrich,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,5.95,5,2,11,17
+94107,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-8.7,64.25,59,1,0,0
+94113,2016,2015-16,1610612746,LA Clippers,203085,Austin Rivers,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.0,5.25,3,1,0,11
+94118,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,8.35,7,1,0,29
+94120,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.1,20.65,16,1,0,32
+94135,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,5.95,20,1,1,0
+94138,2016,2015-16,1610612746,LA Clippers,2037,Jamal Crawford,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.8,28.05,23,1,1,21
+94142,2016,2015-16,1610612754,Indiana Pacers,1626202,Joe Young,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,24.25,25,1,1,34
+94144,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,12.25,24,1,1,44
+94147,2016,2015-16,1610612754,Indiana Pacers,201941,Jordan Hill,C,C,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.5,9.35,4,1,1,53
+94166,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,4.25,24,1,2,19
+94171,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,16.25,11,1,2,26
+94188,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.5,24.75,19,1,3,26
+94195,2016,2015-16,1610612746,LA Clippers,202325,Wesley Johnson,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,19.15,17,1,3,34
+94199,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.25,18,1,3,50
+94219,2016,2015-16,1610612754,Indiana Pacers,1626167,Myles Turner,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,18.85,16,1,4,35
+94226,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.15,1,1,4,41
+94233,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.4,14.75,9,1,4,46
+94265,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.1,21.15,15,1,5,14
+94276,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,20.35,21,1,5,39
+94279,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,19.65,17,1,5,55
+94286,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.35,5,1,6,22
+94296,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,12.45,23,1,6,38
+94300,2016,2015-16,1610612754,Indiana Pacers,101145,Monta Ellis,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.5,6.35,2,1,6,45
+94309,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,10.45,19,1,7,4
+94312,2016,2015-16,1610612746,LA Clippers,201601,Luc Mbah a Moute,F,PF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.5,6.55,23,1,7,16
+94315,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,20.65,18,1,7,38
+94320,2016,2015-16,1610612746,LA Clippers,101108,Chris Paul,G,PG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.3,30.45,25,1,7,46
+94331,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,27.05,23,1,8,2
+94341,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,27.65,24,1,8,11
+94347,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.8,10.35,8,1,8,34
+94350,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,23.55,26,1,8,50
+94358,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,22.15,18,1,9,19
+94365,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.6,15.35,10,1,9,32
+94367,2016,2015-16,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-26-2016,21500676,IND,LAC,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.85,1,1,9,48
+94374,2016,2015-16,1610612746,LA Clippers,1718,Paul Pierce,F,SF,01-26-2016,21500676,IND,LAC,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,26.45,24,1,9,53
+94377,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.15,1,1,10,17
+94383,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,7.35,17,1,10,31
+94387,2016,2015-16,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.55,1,1,10,45
+94391,2016,2015-16,1610612746,LA Clippers,201599,DeAndre Jordan,C,C,01-26-2016,21500676,IND,LAC,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.45,1,1,11,4
+94398,2016,2015-16,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.35,23,1,11,23
+94402,2016,2015-16,1610612746,LA Clippers,200755,JJ Redick,G,SG,01-26-2016,21500676,IND,LAC,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,26.55,24,1,11,40

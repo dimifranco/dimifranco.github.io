@@ -1,0 +1,154 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+118568,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.45,4,4,0,0
+118569,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,24.45,25,4,0,2
+118583,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.2,30.15,25,4,0,6
+118595,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,4,0,27
+118601,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,12.95,24,4,0,37
+118605,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,23.65,24,4,0,50
+118608,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,8.65,9,4,1,12
+118612,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.3,15.35,10,4,1,29
+118618,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,9.45,10,4,1,40
+118621,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,27.25,25,4,1,55
+118623,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,4,2,4
+118627,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,2,6
+118652,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,15.15,12,4,2,38
+118662,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,11.95,12,4,3,11
+118664,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.55,2,4,3,14
+118674,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.3,12.65,22,4,3,48
+118678,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,6.45,8,4,4,13
+118682,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.25,22,4,4,31
+118685,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,10.55,6,4,4,47
+118688,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,25.35,22,4,5,12
+118699,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,26.95,24,4,5,26
+118704,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.4,14.35,23,4,5,40
+118710,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.35,1,4,6,7
+118712,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,22.05,22,4,6,11
+118734,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,6.15,7,4,6,36
+118741,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,27.65,22,4,7,9
+118742,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.85,15,4,7,25
+118746,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,4,7,37
+118748,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,28.55,25,4,7,55
+118751,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,25.05,24,4,8,13
+118778,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,4,8,40
+118784,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,15.15,24,4,9,6
+118786,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,10.05,5,4,9,12
+118789,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,23.85,24,4,9,31
+118797,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,12.45,24,4,10,7
+118801,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,6.65,8,4,10,28
+118803,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.0,25.05,20,4,10,57
+118809,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,9.15,11,4,11,20
+118811,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,4,11,37
+118823,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,3,0,0
+118828,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,3,0,1
+118832,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,23.35,18,3,0,36
+118836,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.45,2,3,0,48
+118849,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.8,29.15,23,3,1,16
+118854,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.75,23,3,1,48
+118866,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.85,0,3,2,27
+118872,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,24.75,19,3,2,39
+118878,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,23.05,21,3,3,1
+118879,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,11.35,7,3,3,16
+118891,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,3,3,38
+118892,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,14.05,19,3,3,50
+118896,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.35,0,3,4,7
+118897,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,3,4,27
+118901,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,24.25,24,3,4,53
+118904,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,18.65,26,3,5,11
+118908,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,3,5,34
+118910,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.95,2,3,5,35
+118914,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,11.05,10,3,5,55
+118917,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,7.55,8,3,6,15
+118921,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,10.45,13,3,6,25
+118922,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,6.75,22,3,6,51
+118925,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.85,1,3,7,15
+118927,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,23.55,24,3,7,35
+118931,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.9,23.35,19,3,7,42
+118935,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.35,24,3,7,55
+118949,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,3,8,12
+118952,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,6.45,13,3,8,24
+118962,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.85,1,3,8,57
+118963,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,3,9,10
+118968,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,7.25,6,3,9,20
+118975,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,8.05,20,3,9,39
+118978,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,14.85,12,3,10,4
+118982,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,17.85,18,3,10,16
+118983,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-16.0,5.25,16,3,10,40
+118988,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,24.95,24,3,10,51
+118989,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,11,13
+118993,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,7.15,22,3,11,33
+119006,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.75,3,2,0,0
+119023,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.5,18.15,14,2,0,42
+119033,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,9.65,22,2,1,11
+119036,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,2,1,38
+119040,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,5.65,8,2,1,43
+119050,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,2,2,9
+119051,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,7.25,22,2,2,15
+119064,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,25.85,24,2,2,50
+119069,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,24.75,19,2,2,57
+119070,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.35,2,2,3,18
+119076,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,5.25,15,2,3,26
+119080,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,11.95,11,2,3,48
+119084,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.7,13.05,23,2,4,3
+119094,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.25,3,2,4,14
+119117,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,6.15,8,2,4,49
+119121,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.3,29.85,25,2,5,28
+119155,2011,2010-11,1610612762,Utah Jazz,201178,Kyrylo Fesenko,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.25,1,2,6,21
+119173,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,23.65,19,2,6,37
+119176,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,11.35,11,2,6,59
+119177,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,2,7,15
+119178,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,2,7,32
+119180,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,25.85,24,2,7,55
+119188,2011,2010-11,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,2,8,4
+119189,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.35,1,2,8,20
+119190,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,6.45,22,2,8,33
+119192,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,4.75,1,2,8,52
+119200,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.65,25,2,9,1
+119210,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.25,1,2,9,17
+119214,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,6.35,21,2,9,28
+119218,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,15.45,14,2,9,35
+119228,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,2,9,59
+119231,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,6.65,8,2,10,1
+119235,2011,2010-11,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.15,6,2,10,19
+119237,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,2,10,40
+119242,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,14.85,10,2,10,45
+119245,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,12.95,20,2,11,5
+119252,2011,2010-11,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,14.95,18,2,11,23
+119254,2011,2010-11,1610612762,Utah Jazz,101179,Ronnie Price,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.15,3,2,11,30
+119260,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.35,2,2,11,53
+119267,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.1,17.05,25,1,0,1
+119276,2011,2010-11,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.5,18.15,20,1,0,31
+119280,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,21.75,24,1,0,57
+119292,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.05,2,1,1,23
+119295,2011,2010-11,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.55,8,1,1,43
+119304,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,1,2,8
+119312,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.7,8.55,21,1,2,13
+119314,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,10.55,9,1,2,30
+119318,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,20.65,21,1,2,42
+119319,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,24.25,22,1,3,2
+119329,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,9.45,23,1,3,21
+119333,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.95,3,1,3,25
+119334,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.3,18.45,15,1,3,42
+119351,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,21.15,16,1,4,18
+119353,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,5.85,6,1,4,24
+119357,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,6.45,22,1,4,49
+119372,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,5.65,23,1,5,23
+119373,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,20.65,16,1,5,45
+119378,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,14.55,19,1,5,54
+119380,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,18.15,18,1,6,13
+119387,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,8.05,9,1,6,29
+119398,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,24.15,24,1,7,0
+119399,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,1,7,18
+119413,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,23.95,18,1,7,43
+119418,2011,2010-11,1610612765,Detroit Pistons,1503,Tracy McGrady,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,18.75,18,1,7,57
+119422,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.45,1,1,8,3
+119429,2011,2010-11,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.45,23,1,8,17
+119432,2011,2010-11,1610612762,Utah Jazz,1905,Andrei Kirilenko,F,SF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,9.15,3,1,8,36
+119438,2011,2010-11,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,01-03-2011,21000504,UTA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,6.45,12,1,8,53
+119439,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,9.45,16,1,9,9
+119449,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,1,9,31
+119451,2011,2010-11,1610612762,Utah Jazz,1952,Raja Bell,G,SG,01-03-2011,21000504,UTA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,13.75,20,1,9,58
+119459,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.0,29.65,24,1,10,8
+119460,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,01-03-2011,21000504,UTA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.95,1,1,10,34
+119466,2011,2010-11,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,01-03-2011,21000504,UTA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,1,10,43
+119470,2011,2010-11,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,01-03-2011,21000504,UTA,DET,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,14.65,9,1,11,16
+119476,2011,2010-11,1610612762,Utah Jazz,101114,Deron Williams,G,PG,01-03-2011,21000504,UTA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.9,16.45,12,1,11,33

@@ -1,0 +1,159 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+24460,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,25.75,21,4,0,10
+24463,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.95,7,4,0,31
+24465,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,5.55,24,4,0,40
+24467,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,4,0,55
+24469,2012,2011-12,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,4,0,57
+24471,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,4,1,7
+24475,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.4,21.45,17,4,1,19
+24477,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,4,1,37
+24479,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,20.65,24,4,1,45
+24482,2012,2011-12,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,4,2,8
+24484,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,20.35,24,4,2,13
+24497,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,18.45,24,4,3,23
+24498,2012,2011-12,1610612765,Detroit Pistons,2863,Damien Wilkins,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,19.05,20,4,3,31
+24513,2012,2011-12,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.65,1,4,4,11
+24533,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.75,1,4,4,34
+24536,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,21.25,25,4,4,58
+24539,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.65,1,4,5,14
+24542,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.15,2,4,5,16
+24552,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,26.35,21,4,5,35
+24561,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,4,6,5
+24566,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,4,6,7
+24568,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,4,6,25
+24571,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.25,24,4,6,36
+24601,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,4,7,22
+24606,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,23.65,24,4,7,41
+24625,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.45,25,4,8,17
+24630,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,17.15,17,4,8,30
+24632,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,7.55,12,4,9,3
+24641,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,4,9,23
+24654,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,5.55,23,4,9,58
+24658,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.65,23,4,10,8
+24665,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.55,4,4,10,18
+24670,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.25,2,4,10,26
+24674,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,14.85,14,4,10,37
+24675,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.45,1,4,10,55
+24677,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.25,3,4,10,57
+24682,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.85,25,4,11,10
+24684,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.95,1,4,11,28
+24698,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,3.95,23,3,0,0
+24716,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,18.45,15,3,0,26
+24719,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,24.75,25,3,0,37
+24733,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,3,0,52
+24738,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,3,0,54
+24745,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,22.85,24,3,1,8
+24750,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,22.45,19,3,1,13
+24753,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.0,18.75,13,3,1,22
+24757,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,10.75,12,3,1,37
+24761,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,17.85,19,3,2,0
+24781,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.45,6,3,2,26
+24786,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,3,2,28
+24789,2012,2011-12,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,7.25,19,3,2,40
+24792,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,6.75,20,3,2,51
+24802,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.45,24,3,3,15
+24808,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,21.45,18,3,3,28
+24820,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.75,1,3,3,56
+24823,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,8.05,5,3,4,8
+24840,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,20.85,19,3,4,45
+24846,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.75,5,3,5,0
+24849,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,3,5,24
+24859,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,21.75,24,3,5,51
+24862,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,10.45,17,3,5,55
+24874,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,8.65,14,3,6,12
+24876,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,15.15,18,3,6,29
+24879,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,12.35,7,3,6,47
+24882,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.95,1,3,7,6
+24886,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,5.55,19,3,7,10
+24889,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,21.95,16,3,7,25
+24908,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,4.75,22,3,8,5
+24912,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,3,8,21
+24927,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,3,8,37
+24934,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,13.75,18,3,8,42
+24941,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,7.75,9,3,9,55
+24950,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,18.65,18,3,9,29
+24953,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.6,9.25,13,3,9,51
+24955,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,3,10,20
+24964,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,21.65,19,3,10,28
+24971,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,9.45,15,3,10,58
+24986,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.45,1,3,11,38
+24991,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.15,1,3,11,40
+25011,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,5.9,77.25,72,2,0,0
+25016,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.05,1,2,0,6
+25018,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.15,23,2,0,2
+25038,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,30.15,25,2,0,7
+25039,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Running Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,10.85,11,2,0,27
+25048,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,10.55,23,2,0,38
+25051,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,19.05,18,2,1,19
+25053,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,2,1,42
+25073,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,2,2,6
+25076,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,24.15,26,2,2,8
+25078,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,7.75,24,2,2,35
+25085,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.75,1,2,2,52
+25089,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.25,2,2,2,59
+25093,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,9.45,12,2,3,14
+25102,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.15,1,2,3,40
+25105,2012,2011-12,1610612748,Miami Heat,202227,Terrel Harris,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.45,1,2,3,42
+25109,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,7.15,18,2,3,47
+25139,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,2,4,42
+25141,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,8.65,9,2,4,50
+25166,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,10.25,21,2,5,29
+25167,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,2,5,46
+25169,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,26.95,24,2,5,59
+25173,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,16.55,24,2,6,6
+25177,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,28.75,24,2,6,34
+25179,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.65,1,2,6,56
+25183,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.65,25,2,7,16
+25189,2012,2011-12,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,6.45,12,2,7,37
+25199,2012,2011-12,1610612765,Detroit Pistons,2863,Damien Wilkins,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,17.35,18,2,8,4
+25216,2012,2011-12,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,18.35,17,2,9,11
+25220,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.45,22,2,9,18
+25227,2012,2011-12,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,10.45,11,2,9,40
+25235,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.45,23,2,9,54
+25239,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,13.25,12,2,10,3
+25242,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,16.25,13,2,10,23
+25248,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.85,5,2,10,29
+25251,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,6.45,14,2,10,50
+25254,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,7.45,22,2,11,12
+25260,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.3,9.45,4,2,11,36
+25285,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,34.85,29,1,0,0
+25296,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.25,16,1,0,36
+25301,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,7.55,12,1,0,45
+25308,2012,2011-12,1610612748,Miami Heat,2034,Mike Miller,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,25.25,25,1,1,23
+25315,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,5.25,15,1,1,53
+25320,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,8.35,4,1,2,13
+25339,2012,2011-12,1610612748,Miami Heat,202227,Terrel Harris,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,9.35,24,1,2,31
+25344,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,21.75,24,1,2,47
+25352,2012,2011-12,1610612748,Miami Heat,202227,Terrel Harris,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,8.55,23,1,3,1
+25359,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.25,1,1,3,37
+25363,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,1,3,39
+25366,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,12.95,18,1,3,49
+25380,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.65,2,1,4,9
+25384,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.95,1,1,4,14
+25391,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.75,2,1,4,20
+25398,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,10.45,7,1,4,44
+25403,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,1,4,59
+25406,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,5.25,12,1,5,13
+25412,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.7,21.95,17,1,5,33
+25449,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.15,2,1,6,4
+25453,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,5.55,0,1,6,6
+25459,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,10.85,23,1,6,8
+25464,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,1,6,42
+25476,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,1,6,57
+25481,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,25.05,19,1,7,22
+25487,2012,2011-12,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,6.75,23,1,7,36
+25494,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.45,25,1,7,47
+25501,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.95,1,1,8,0
+25511,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.9,24.25,19,1,8,13
+25517,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.85,25,1,8,22
+25521,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,20.65,18,1,8,45
+25528,2012,2011-12,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,SG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,10.45,24,1,9,0
+25534,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,22.85,25,1,9,14
+25540,2012,2011-12,1610612765,Detroit Pistons,202328,Greg Monroe,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,5.85,5,1,9,29
+25544,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,18.35,17,1,9,50
+25549,2012,2011-12,1610612765,Detroit Pistons,202688,Brandon Knight,G,PG,04-08-2012,21100838,MIA,DET,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,1,10,15
+25551,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,04-08-2012,21100838,MIA,DET,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.4,14.95,11,1,10,33
+25562,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,16.25,24,1,10,50
+25571,2012,2011-12,1610612765,Detroit Pistons,101131,Jason Maxiell,F,PF,04-08-2012,21100838,MIA,DET,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.35,18,1,11,1
+25581,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.15,1,1,11,31
+25589,2012,2011-12,1610612748,Miami Heat,101142,Ronny Turiaf,C,C,04-08-2012,21100838,MIA,DET,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,6.95,4,1,11,35

@@ -1,0 +1,168 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+55248,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,29.65,24,4,0,15
+55249,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,4,0,25
+55254,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,27.25,26,4,0,29
+55256,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.55,20,4,0,39
+55258,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,21.75,16,4,1,2
+55259,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,8.55,18,4,1,8
+55260,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,7.45,7,4,1,29
+55267,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.95,1,4,1,34
+55272,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,10.45,5,4,1,38
+55274,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,21.95,21,4,1,51
+55276,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,4,2,6
+55278,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,11.65,16,4,2,17
+55297,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.9,33.25,28,4,3,2
+55300,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,18.35,25,4,3,26
+55302,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,11.65,18,4,3,42
+55306,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,19.85,25,4,3,56
+55313,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,23.65,25,4,4,34
+55321,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,4,5,7
+55327,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,22.75,18,4,5,16
+55338,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,12.35,15,4,5,54
+55340,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,10.85,6,4,6,20
+55343,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.55,23,4,6,27
+55346,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,21.25,24,4,6,43
+55354,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.15,4,4,6,53
+55368,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,7.55,16,4,7,27
+55370,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,26.95,25,4,7,50
+55375,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.25,24,4,8,0
+55377,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.55,23,4,8,7
+55381,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,16.45,11,4,8,25
+55384,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.65,1,4,8,41
+55395,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,15.95,19,4,9,11
+55405,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.15,3,4,9,34
+55407,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,7.85,19,4,9,41
+55408,2011,2010-11,1610612743,Denver Nuggets,2365,Chris Andersen,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,6.75,18,4,10,5
+55412,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.8,22.75,17,4,10,16
+55417,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,21.75,24,4,10,30
+55420,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,10.85,5,4,10,49
+55421,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,12.15,7,4,11,10
+55433,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,16.25,19,4,11,41
+55443,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Hook Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,22.6,49.35,49,3,0,0
+55449,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.95,4,3,0,5
+55454,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.55,2,3,0,9
+55458,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,10.25,18,3,0,10
+55463,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,24.75,20,3,0,29
+55465,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,23.65,18,3,0,41
+55469,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,12.65,18,3,1,3
+55471,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,24.15,20,3,1,25
+55475,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.65,0,3,1,44
+55478,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,3,1,45
+55480,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,13.55,18,3,2,6
+55483,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.35,18,3,2,26
+55486,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.35,23,3,2,41
+55497,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,22.45,18,3,3,6
+55501,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,7.45,14,3,3,16
+55507,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,7.75,7,3,3,30
+55508,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,3,3,56
+55512,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,6.65,7,3,4,24
+55515,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,24.65,25,3,4,37
+55518,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.85,6,3,4,56
+55520,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,20.95,22,3,5,13
+55528,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,6.65,7,3,5,39
+55531,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,24.45,19,3,5,49
+55533,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,9.65,7,3,6,16
+55539,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,15.75,19,3,6,28
+55541,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.75,0,3,6,56
+55546,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.25,2,3,7,13
+55551,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,21.25,16,3,7,20
+55555,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,21.15,25,3,7,43
+55560,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.2,17.65,20,3,8,0
+55563,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,3,8,19
+55565,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.6,17.85,12,3,8,26
+55576,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.35,25,3,8,58
+55580,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,23.65,19,3,9,10
+55585,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,26.95,22,3,9,31
+55588,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.25,22,3,9,41
+55591,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.4,29.85,25,3,9,50
+55593,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,7.55,15,3,10,6
+55597,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,23.95,20,3,10,19
+55599,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.25,17,3,10,46
+55607,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,21.25,25,3,11,6
+55616,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.6,25.25,20,3,11,34
+55620,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,10.05,15,2,0,1
+55624,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,2,0,6
+55625,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,12.75,20,2,0,30
+55630,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,9.75,6,2,0,37
+55631,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,4.45,2,2,1,5
+55635,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,2,1,29
+55636,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.3,14.35,9,2,1,45
+55640,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,2,2,11
+55643,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,6.15,8,2,2,12
+55652,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.35,2,2,2,54
+55655,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,8.95,6,2,3,22
+55660,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.85,23,2,3,44
+55662,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,4.75,11,2,3,54
+55665,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.95,22,2,4,1
+55669,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,17.05,24,2,4,20
+55673,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,16.85,20,2,4,33
+55680,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,4,39
+55681,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,4.95,1,2,4,41
+55693,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.25,2,2,4,58
+55697,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.4,13.45,8,2,5,5
+55700,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.05,1,2,5,35
+55702,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.65,2,2,5,41
+55706,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,21.45,20,2,5,52
+55716,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.05,1,2,6,24
+55719,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.65,23,2,6,31
+55722,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,25.35,24,2,6,51
+55724,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,24.15,26,2,7,6
+55740,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.95,1,2,7,27
+55754,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,25.35,20,2,8,1
+55770,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,2,8,26
+55774,2011,2010-11,1610612737,Atlanta Hawks,2694,Josh Powell,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,6.15,17,2,8,32
+55775,2011,2010-11,1610612743,Denver Nuggets,2365,Chris Andersen,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,2,8,47
+55783,2011,2010-11,1610612743,Denver Nuggets,2365,Chris Andersen,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,2,9,21
+55786,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,23.35,18,2,9,26
+55790,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,2,9,44
+55792,2011,2010-11,1610612737,Atlanta Hawks,2694,Josh Powell,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.8,23.35,19,2,9,51
+55793,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,2,10,9
+55797,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,17.85,19,2,10,14
+55817,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.35,2,2,10,42
+55819,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.85,23,2,11,1
+55831,2011,2010-11,1610612743,Denver Nuggets,1733,Al Harrington,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,6.75,14,2,11,25
+55834,2011,2010-11,1610612737,Atlanta Hawks,2694,Josh Powell,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,6.75,12,2,11,39
+55843,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,39.95,37,1,0,0
+55845,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,11.25,16,1,0,4
+55846,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,15.45,18,1,0,27
+55847,2011,2010-11,1610612743,Denver Nuggets,2747,JR Smith,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,21.45,20,1,0,45
+55849,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,27.45,24,1,1,5
+55851,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,9.75,18,1,1,26
+55862,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,23.35,22,1,1,52
+55863,2011,2010-11,1610612743,Denver Nuggets,101109,Raymond Felton,G,PG-SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.4,15.45,11,1,2,11
+55866,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,14.55,18,1,2,18
+55879,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.85,2,1,2,46
+55880,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,1,2,56
+55882,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,3,22
+55894,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,20.35,25,1,3,45
+55898,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,22.85,19,1,4,10
+55901,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,10.45,23,1,4,33
+55920,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,9.95,7,1,4,51
+55924,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,6.35,3,1,5,8
+55926,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,1,5,33
+55929,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.65,1,1,5,36
+55933,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,19.85,18,1,6,1
+55935,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.95,1,1,6,14
+55942,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,6.35,4,1,6,31
+55944,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,1,6,49
+55947,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,4.95,2,1,7,4
+55949,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,1,7,11
+55952,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,17.65,15,1,7,19
+55954,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,30.15,25,1,7,39
+55959,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,1,7,51
+55963,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,1,7,59
+55967,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.0,27.45,24,1,8,14
+55973,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,10.05,6,1,8,26
+55978,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,13.25,19,1,8,38
+55980,2011,2010-11,1610612743,Denver Nuggets,2030,Kenyon Martin,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,26.15,20,1,8,45
+55987,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,5.35,15,1,9,0
+55990,2011,2010-11,1610612743,Denver Nuggets,201163,Wilson Chandler,F,SF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.15,2,1,9,22
+55995,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.3,14.35,18,1,9,28
+56002,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,17.95,21,1,9,52
+56005,2011,2010-11,1610612743,Denver Nuggets,201951,Ty Lawson,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,10.85,6,1,10,11
+56009,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,1,10,21
+56014,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,16.05,16,1,10,31
+56017,2011,2010-11,1610612743,Denver Nuggets,201167,Arron Afflalo,G,SG,02-28-2011,21000891,DEN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,13.05,10,1,10,38
+56018,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,6.15,17,1,10,52
+56019,2011,2010-11,1610612743,Denver Nuggets,2403,Nene,C,C,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.3,13.85,15,1,11,11
+56023,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,02-28-2011,21000891,DEN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,5.55,14,1,11,29

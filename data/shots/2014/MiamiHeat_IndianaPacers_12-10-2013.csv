@@ -1,0 +1,145 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+151925,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.25,23,4,0,8
+151926,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,4,0,26
+151928,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,27.95,25,4,0,32
+151934,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.55,3,4,0,38
+151939,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,29.95,24,4,0,51
+151943,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.15,2,4,1,0
+151962,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.4,20.05,16,4,1,19
+151965,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.25,2,4,1,44
+151975,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,4,2,5
+151980,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,5.85,7,4,2,19
+151984,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.65,3,4,2,46
+151986,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.65,1,4,3,5
+152003,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,26.05,22,4,3,33
+152008,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.35,23,4,3,54
+152011,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,6.65,11,4,4,18
+152014,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.65,24,4,4,38
+152030,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,10.05,4,4,5,0
+152045,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,5.25,22,4,5,19
+152049,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.3,28.25,25,4,5,23
+152052,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,8.95,9,4,5,30
+152057,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.9,22.45,17,4,5,43
+152079,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,4,6,19
+152084,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,4,6,28
+152086,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,4,6,43
+152091,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,4.75,3,4,7,5
+152115,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,9.15,4,4,8,14
+152116,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,4,8,39
+152119,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.95,24,4,8,45
+152132,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.25,2,4,9,19
+152134,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.95,1,4,9,20
+152143,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,6.45,17,4,9,39
+152148,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,6.95,18,4,10,5
+152152,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,7.85,17,4,10,25
+152159,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,16.45,15,4,10,37
+152172,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.65,23,4,11,3
+152176,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.85,12,4,11,40
+152192,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,3,0,0
+152195,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,3,0,1
+152208,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,8.65,4,3,0,42
+152211,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,5.95,24,3,0,55
+152224,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.95,1,3,1,14
+152232,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,7.15,23,3,1,35
+152237,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,9.65,24,3,1,55
+152253,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,24.95,25,3,2,13
+152257,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,6.35,24,3,2,37
+152262,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.4,17.55,20,3,2,45
+152267,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,11.85,7,3,3,7
+152270,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.45,2,3,3,31
+152277,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,19.55,19,3,3,51
+152289,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.45,2,3,3,58
+152299,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.95,25,3,4,36
+152316,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,20.85,20,3,5,15
+152323,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,30.65,25,3,5,48
+152334,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.05,2,3,6,12
+152339,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,3,6,29
+152345,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,17.65,18,3,6,47
+152366,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,3.65,3,3,7,30
+152375,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,9.65,24,3,7,58
+152381,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.75,3,3,8,2
+152383,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.95,24,3,8,15
+152384,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.05,1,3,8,26
+152393,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.55,3,3,8,39
+152397,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,20.85,16,3,8,49
+152398,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,19.85,20,3,9,5
+152407,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,18.75,19,3,9,30
+152425,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,3,10,5
+152433,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,11.85,6,3,10,20
+152439,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.0,23.35,19,3,10,43
+152444,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,5.35,8,3,11,3
+152451,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.45,23,3,11,15
+152453,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,22.25,24,3,11,37
+152473,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,30.75,25,2,0,0
+152488,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.35,1,2,0,4
+152513,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,15.15,10,2,0,33
+152516,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.7,16.85,11,2,0,55
+152552,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,24.45,19,2,1,42
+152568,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,2,2,21
+152572,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.55,2,2,2,30
+152574,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.75,4,2,2,47
+152579,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.25,2,2,2,50
+152600,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,5.85,11,2,3,33
+152613,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,2,4,17
+152622,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,3.85,2,2,4,45
+152636,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,21.65,25,2,5,13
+152639,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,20.85,24,2,5,32
+152698,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,8.35,23,2,6,35
+152703,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,8.05,6,2,6,40
+152705,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.45,1,2,6,57
+152708,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.25,2,2,6,58
+152720,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,21.25,18,2,7,20
+152728,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.8,17.15,12,2,7,38
+152736,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,2,7,52
+152742,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,22.85,20,2,7,56
+152749,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.95,24,2,8,6
+152792,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.65,25,2,8,45
+152795,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,8.25,4,2,8,57
+152812,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.45,1,2,9,41
+152818,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.2,29.45,25,2,10,3
+152820,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,2,10,20
+152826,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,4.65,2,2,10,25
+152829,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,6.75,9,2,10,39
+152832,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,7.15,4,2,10,41
+152834,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,2,11,3
+152842,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.4,13.85,10,2,11,12
+152844,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,15.35,16,2,11,29
+152847,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.7,15.35,17,2,11,48
+152857,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.75,2,1,0,0
+152863,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.0,8.05,11,1,0,27
+152873,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,10.75,12,1,0,46
+152875,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,21.75,16,1,0,59
+152882,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,24.65,19,1,1,9
+152884,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,1,25
+152890,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,6.35,9,1,1,39
+152899,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,1,2,9
+152913,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,21.45,24,1,2,45
+152917,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,26.55,25,1,2,54
+152929,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,11.55,6,1,3,13
+152938,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,1,3,46
+152951,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,20.55,16,1,4,12
+152954,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,22.75,19,1,4,25
+152961,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,9.45,13,1,4,35
+152964,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,1,4,47
+152970,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,5.95,4,1,4,54
+152978,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,29.95,25,1,5,10
+152986,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,4.65,16,1,5,23
+152992,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,1,5,45
+153001,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,22.05,25,1,5,59
+153005,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,5.25,5,1,6,16
+153010,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.55,25,1,6,34
+153013,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,8.85,4,1,6,54
+153030,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.25,2,1,7,10
+153059,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,12.65,7,1,7,57
+153064,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,23.05,26,1,8,12
+153066,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,8.85,6,1,8,44
+153070,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,12-10-2013,21300311,IND,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,6.35,4,1,9,7
+153081,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,1,9,24
+153084,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,12-10-2013,21300311,IND,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,1,9,31
+153092,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,10.25,23,1,9,34
+153095,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.35,2,1,9,50
+153100,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,4.95,15,1,10,7
+153112,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,19.85,19,1,10,32
+153134,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,28.25,24,1,11,13
+153145,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,12-10-2013,21300311,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,17.65,24,1,11,24
+153149,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,12-10-2013,21300311,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,7.25,17,1,11,39

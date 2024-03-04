@@ -1,0 +1,171 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+38930,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.1,29.95,24,4,0,18
+38933,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.65,2,4,0,36
+38938,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.55,2,4,0,38
+38945,2013,2012-13,1610612751,Brooklyn Nets,202705,MarShon Brooks,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,4.95,1,4,0,55
+38951,2013,2012-13,1610612737,Atlanta Hawks,201229,Anthony Tolliver,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,23.65,24,4,1,5
+38953,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,6.65,15,4,1,24
+38986,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.95,1,4,1,46
+38989,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,29.15,24,4,2,0
+38994,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.85,3,4,2,6
+38997,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,8.55,3,4,2,9
+39004,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,11.95,7,4,2,12
+39009,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,12.65,11,4,2,26
+39016,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,25.85,25,4,2,53
+39029,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,4.75,3,4,3,1
+39048,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,4,3,32
+39054,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,23.05,17,4,3,38
+39055,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,6.45,18,4,4,1
+39067,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,25.55,20,4,4,23
+39073,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,10.55,6,4,4,40
+39085,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,4.75,1,4,4,57
+39087,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.65,2,4,5,0
+39090,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,29.45,24,4,5,32
+39117,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.75,5,4,6,12
+39120,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,30.45,25,4,6,30
+39142,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.25,3,4,7,5
+39145,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,28.05,26,4,7,32
+39166,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.65,2,4,7,58
+39171,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.45,3,4,8,1
+39179,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.25,2,4,8,4
+39181,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,25.05,20,4,8,24
+39186,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,10.25,24,4,8,40
+39189,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,10.85,8,4,8,57
+39193,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,7.15,10,4,9,10
+39200,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,11.35,7,4,9,23
+39217,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.55,3,4,9,59
+39226,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,14.15,9,4,10,31
+39234,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.9,6.45,7,4,10,51
+39237,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.75,1,4,11,12
+39244,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,3.85,3,4,11,31
+39251,2013,2012-13,1610612751,Brooklyn Nets,2586,Keith Bogans,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.65,23,4,11,36
+39282,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,24.25,19,3,0,8
+39292,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,20.85,19,3,0,33
+39297,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,17.05,21,3,0,47
+39303,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,3,1,4
+39308,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.95,2,3,1,24
+39326,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,5.35,13,3,1,40
+39333,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,16.45,11,3,1,44
+39337,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,4.75,2,3,2,4
+39341,2013,2012-13,1610612751,Brooklyn Nets,2586,Keith Bogans,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.95,22,3,2,10
+39345,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,3,2,21
+39347,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,23.65,24,3,2,33
+39352,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,29.45,24,3,2,43
+39355,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.15,1,3,3,10
+39361,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.55,25,3,3,21
+39364,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,9.35,10,3,3,30
+39371,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.95,2,3,3,57
+39380,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.05,23,3,4,20
+39395,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,7.75,14,3,4,36
+39412,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,7.55,7,3,4,58
+39414,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.3,11.25,8,3,5,14
+39421,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,10.75,10,3,5,25
+39425,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.05,2,3,5,45
+39432,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.75,3,3,5,52
+39438,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,5.35,23,3,6,2
+39442,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,3.95,2,3,6,24
+39450,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,21.95,19,3,6,38
+39455,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,5.65,3,3,6,49
+39463,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.1,19.05,20,3,6,54
+39469,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,7.15,23,3,7,8
+39476,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.65,2,3,7,28
+39484,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,17.65,13,3,7,49
+39495,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,15.65,14,3,8,6
+39501,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,18.95,24,3,8,44
+39504,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.85,3,3,8,58
+39510,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.05,4,3,9,0
+39518,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,5.65,8,3,9,12
+39521,2013,2012-13,1610612737,Atlanta Hawks,2734,Devin Harris,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,23.05,18,3,9,21
+39537,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.7,17.05,24,3,9,43
+39548,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,28.25,23,3,10,8
+39551,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,23.95,25,3,10,28
+39558,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,27.15,25,3,10,37
+39566,2013,2012-13,1610612737,Atlanta Hawks,2734,Devin Harris,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,19.25,24,3,10,47
+39571,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,14.65,21,3,11,9
+39575,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,3,11,28
+39578,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.1,11.55,6,3,11,43
+39592,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.3,25.25,29,2,0,9
+39596,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,5.85,17,2,0,36
+39603,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.65,1,2,1,2
+39605,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,8.35,9,2,1,18
+39610,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,12.75,14,2,1,22
+39615,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,23.65,20,2,1,37
+39620,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,5.35,6,2,1,51
+39626,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,19.75,18,2,2,4
+39628,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,24.45,25,2,2,23
+39642,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,5.85,3,2,2,37
+39644,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.55,2,2,2,44
+39647,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,2,2,49
+39649,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,5.05,9,2,3,10
+39654,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,6.75,14,2,3,32
+39658,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,29.85,24,2,3,44
+39665,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,30.25,25,2,3,59
+39672,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,5.95,20,2,4,19
+39691,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,27.25,25,2,5,0
+39695,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,17.95,24,2,5,12
+39699,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,2,5,20
+39703,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,8.85,4,2,5,41
+39716,2013,2012-13,1610612737,Atlanta Hawks,201274,Ivan Johnson,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.25,3,2,6,7
+39721,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.15,2,2,6,11
+39726,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,2,6,35
+39737,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,5.95,18,2,6,44
+39742,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,10.75,8,2,7,8
+39757,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,2,7,32
+39760,2013,2012-13,1610612751,Brooklyn Nets,101154,Andray Blatche,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.75,2,2,7,44
+39764,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.8,20.35,24,2,7,47
+39767,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,31.05,28,2,8,4
+39770,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,23.55,19,2,8,32
+39793,2013,2012-13,1610612751,Brooklyn Nets,2586,Keith Bogans,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,12.75,24,2,8,57
+39797,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,23.55,18,2,9,12
+39801,2013,2012-13,1610612751,Brooklyn Nets,203141,Mirza Teletovic,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,21.75,24,2,9,36
+39804,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,22.05,17,2,9,56
+39809,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,28.05,24,2,10,20
+39815,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,22.85,17,2,10,28
+39819,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,6.75,3,2,10,44
+39828,2013,2012-13,1610612737,Atlanta Hawks,203098,John Jenkins,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.65,4,2,10,47
+39836,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,6.15,2,2,11,10
+39842,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.15,1,2,11,12
+39848,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,6.15,3,2,11,15
+39854,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.75,4,2,11,40
+39867,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.15,2,1,0,0
+39881,2013,2012-13,1610612737,Atlanta Hawks,2563,Dahntay Jones,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.35,2,1,0,21
+39885,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,1,0,26
+39899,2013,2012-13,1610612751,Brooklyn Nets,2586,Keith Bogans,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.95,22,1,1,0
+39902,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,26.95,21,1,1,17
+39904,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.4,12.35,14,1,1,34
+39908,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.65,10,1,1,50
+39915,2013,2012-13,1610612751,Brooklyn Nets,201228,C.J. Watson,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.55,25,1,2,15
+39922,2013,2012-13,1610612737,Atlanta Hawks,101130,Johan Petro,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.55,3,1,2,37
+39929,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,26.65,24,1,2,53
+39950,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,7.25,7,1,3,2
+39959,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,7.25,10,1,3,21
+39961,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,15.65,12,1,3,44
+39968,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.45,23,1,4,5
+39974,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,11.55,7,1,4,13
+39980,2013,2012-13,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.35,24,1,4,30
+39990,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.95,23,1,4,39
+39998,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.05,2,1,4,49
+40002,2013,2012-13,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,20.05,17,1,5,0
+40007,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.65,2,1,5,17
+40013,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,5.95,12,1,5,38
+40021,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,7.85,12,1,5,52
+40029,2013,2012-13,1610612751,Brooklyn Nets,101114,Deron Williams,G,PG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,8.95,4,1,6,38
+40042,2013,2012-13,1610612737,Atlanta Hawks,2734,Devin Harris,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.4,28.55,24,1,6,54
+40052,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,5.95,18,1,7,7
+40059,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.05,4,1,7,14
+40062,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,5.85,24,1,7,35
+40073,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,7.55,6,1,7,53
+40076,2013,2012-13,1610612737,Atlanta Hawks,2734,Devin Harris,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.9,29.45,24,1,8,14
+40082,2013,2012-13,1610612751,Brooklyn Nets,2222,Gerald Wallace,F,SF,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,1,8,24
+40090,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,26.95,24,1,8,35
+40094,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.1,16.85,13,1,8,51
+40100,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,8.65,5,1,9,6
+40105,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.15,2,1,9,15
+40139,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.75,4,1,10,2
+40145,2013,2012-13,1610612737,Atlanta Hawks,2594,Kyle Korver,F,SF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,18.45,14,1,10,15
+40147,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.55,2,1,10,29
+40154,2013,2012-13,1610612751,Brooklyn Nets,201572,Brook Lopez,C,C,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,8.35,6,1,10,32
+40160,2013,2012-13,1610612737,Atlanta Hawks,2052,DeShawn Stevenson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.25,23,1,10,40
+40164,2013,2012-13,1610612751,Brooklyn Nets,2501,Reggie Evans,F,PF,03-17-2013,21200991,BKN,ATL,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,1,11,1
+40170,2013,2012-13,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-17-2013,21200991,BKN,ATL,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,5.25,3,1,11,19
+40181,2013,2012-13,1610612751,Brooklyn Nets,2207,Joe Johnson,G,SG,03-17-2013,21200991,BKN,ATL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,10.25,5,1,11,32

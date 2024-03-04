@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+49535,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,14.55,14,4,0,1
+49540,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.85,23,4,0,5
+49542,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,10.75,7,4,0,13
+49544,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,20.85,19,4,0,20
+49550,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,4,0,41
+49551,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,5.25,11,4,0,43
+49554,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,19.75,18,4,0,51
+49558,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,8.25,4,4,1,14
+49561,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.65,11,4,1,32
+49572,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,25.85,24,4,2,8
+49573,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.35,4,4,2,24
+49583,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,25.25,25,4,3,8
+49593,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,13.45,17,4,3,47
+49602,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.8,23.05,24,4,4,8
+49618,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,25.25,20,4,4,27
+49628,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,8.95,3,4,4,34
+49653,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,30.15,24,4,5,3
+49665,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,4,5,7
+49670,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,15.15,15,4,5,8
+49679,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.6,21.45,17,4,5,26
+49685,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,12.95,16,4,5,46
+49690,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,17.05,17,4,6,3
+49691,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,4,6,17
+49700,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,4,6,46
+49714,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.35,4,4,7,22
+49728,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,4,7,40
+49761,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.6,20.95,15,4,7,51
+49786,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,13.55,17,4,8,21
+49796,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-5.6,20.05,15,4,8,30
+49798,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.9,5.65,11,4,8,55
+49813,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,27.45,25,4,9,20
+49836,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,15.95,17,4,9,30
+49838,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,3.55,17,4,9,58
+49849,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,13.45,14,4,10,9
+49860,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,8.65,5,4,10,35
+49900,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,27.15,28,4,10,49
+49930,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,21.65,18,4,11,29
+49939,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,29.05,24,4,11,34
+49949,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.65,1,4,11,40
+49959,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,4,11,43
+49980,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.95,1,3,0,1
+49984,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.7,26.05,20,3,0,3
+49989,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.0,21.45,24,3,0,21
+49999,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,12.95,7,3,0,36
+50006,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,3,0,47
+50015,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.05,1,3,0,49
+50024,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,3,0,56
+50030,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,19.75,19,3,1,10
+50039,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,4.75,2,3,1,37
+50045,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,3,1,54
+50053,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,20.65,22,3,2,10
+50071,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.7,21.95,25,3,2,40
+50081,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,3,2,48
+50089,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,3,3,12
+50118,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,23.05,24,3,3,29
+50125,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.15,2,3,3,38
+50130,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,3,3,54
+50141,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,4.65,11,3,3,56
+50142,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.75,1,3,4,20
+50155,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,23.65,22,3,4,30
+50163,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,3.85,22,3,4,56
+50183,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,21.95,16,3,5,25
+50216,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.45,1,3,6,1
+50248,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,3,6,20
+50260,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.65,3,3,6,49
+50271,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,5.05,4,3,6,51
+50277,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.25,2,3,6,52
+50281,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,17.15,16,3,7,11
+50290,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,5.65,2,3,7,43
+50315,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,8.65,7,3,8,1
+50319,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.25,2,3,8,35
+50326,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,24.65,19,3,9,21
+50337,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,20.55,19,3,9,35
+50340,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,17.15,18,3,9,53
+50351,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.4,12.95,8,3,10,11
+50359,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.45,2,3,10,20
+50371,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.75,0,3,10,30
+50378,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,8.35,3,3,10,31
+50392,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.6,19.85,15,3,10,57
+50426,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,4.25,2,3,11,40
+50453,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.75,24,2,0,0
+50458,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.0,22.05,26,2,0,7
+50506,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.75,2,2,0,43
+50509,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,3.95,4,2,0,44
+50520,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.25,17,2,1,17
+50523,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,4.95,2,2,1,37
+50528,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,10.85,5,2,1,56
+50557,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.95,1,2,2,25
+50566,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,2,2,42
+50575,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.95,1,2,3,5
+50581,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,24.75,24,2,3,15
+50588,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.35,2,2,3,23
+50593,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,2,3,25
+50615,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,20.35,20,2,3,46
+50650,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,2,4,17
+50658,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,3.15,17,2,4,31
+50669,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,2,4,48
+50676,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,16.55,25,2,4,50
+50684,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,4.65,19,2,5,13
+50692,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,2,5,21
+50719,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.2,28.75,24,2,5,38
+50721,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,5,50
+50749,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,12.35,7,2,6,29
+50757,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.8,11.55,6,2,6,53
+50762,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.5,18.75,14,2,7,17
+50803,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.1,29.45,24,2,7,55
+50805,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,20.95,25,2,8,22
+50815,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,2,8,29
+50832,2013,2012-13,1610612741,Chicago Bulls,202710,Jimmy Butler,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,23.4,14.95,25,2,8,38
+50834,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.65,2,2,8,58
+50846,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,23.05,20,2,9,0
+50884,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.45,1,2,9,36
+50892,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,9,41
+50899,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,24.75,24,2,10,1
+50906,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.45,0,2,10,20
+50913,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,18.15,12,2,10,25
+50915,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,2,10,40
+50923,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.2,22.75,18,2,11,0
+50936,2013,2012-13,1610612741,Chicago Bulls,203104,Marquis Teague,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,2,11,15
+50956,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,2.9,53.15,47,1,0,0
+50979,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,4.95,15,1,0,26
+50991,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,23.95,25,1,0,40
+51026,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.8,24.25,19,1,0,53
+51038,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,21.75,25,1,1,4
+51049,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,23.35,18,1,1,14
+51054,2013,2012-13,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,18.95,17,1,1,27
+51055,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,10.05,7,1,1,46
+51099,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,11.25,12,1,2,6
+51106,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,1,2,15
+51108,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.0,19.45,14,1,2,33
+51117,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,1,2,35
+51123,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,19.25,20,1,2,53
+51126,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,1,3,9
+51135,2013,2012-13,1610612741,Chicago Bulls,201158,Marco Belinelli,G,SG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.85,1,1,3,25
+51176,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,3,46
+51196,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.15,0,1,4,13
+51205,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.55,2,1,4,15
+51216,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,25.85,26,1,4,22
+51223,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,1,4,33
+51238,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,21.75,20,1,5,6
+51248,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.2,17.95,16,1,5,45
+51261,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,9.15,4,1,6,9
+51268,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,8.65,9,1,6,14
+51284,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,5.55,16,1,6,29
+51317,2013,2012-13,1610612741,Chicago Bulls,101126,Nate Robinson,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.55,25,1,6,55
+51327,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.25,2,1,7,12
+51337,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.5,12.35,8,1,7,26
+51344,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.6,5.25,1,1,7,48
+51393,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.35,24,1,8,11
+51409,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,1,8,32
+51419,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.45,10,1,8,49
+51421,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,23.85,18,1,9,7
+51437,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.45,1,1,9,15
+51439,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,23.65,18,1,9,28
+51448,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.35,1,1,9,49
+51451,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,20.15,21,1,10,7
+51460,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,14.95,14,1,10,26
+51461,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,3.95,20,1,10,45
+51474,2013,2012-13,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,5.25,19,1,10,53
+51484,2013,2012-13,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,03-08-2013,21200922,CHI,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,18.75,19,1,10,59
+51487,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-08-2013,21200922,CHI,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,3.95,2,1,11,18
+51499,2013,2012-13,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,03-08-2013,21200922,CHI,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,18.45,17,1,11,41

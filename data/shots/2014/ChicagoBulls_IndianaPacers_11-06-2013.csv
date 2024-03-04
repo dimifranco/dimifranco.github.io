@@ -1,0 +1,160 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+192788,2014,2013-14,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,11-06-2013,21300061,IND,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.3,22.55,17,4,0,4
+192789,2014,2013-14,1610612754,Indiana Pacers,203142,Chris Copeland,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,31.05,27,4,0,21
+192791,2014,2013-14,1610612741,Chicago Bulls,203104,Marquis Teague,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.95,4,4,0,45
+192823,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,25.35,20,4,1,7
+192828,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.7,19.05,18,4,1,27
+192835,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.25,23,4,1,43
+192846,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,4,1,51
+192869,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,28.05,26,4,2,24
+192886,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,24.15,19,4,2,47
+192914,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,4,3,16
+192919,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,3,17
+192942,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.15,23,4,3,30
+192946,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,4,3,37
+192957,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,8.85,5,4,3,45
+192983,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,25.55,26,4,4,18
+193005,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,18.35,15,4,4,30
+193010,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,25.75,20,4,4,39
+193018,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.65,23,4,5,0
+193028,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,29.35,28,4,5,16
+193032,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.9,24.75,20,4,5,21
+193042,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,6.95,5,4,5,24
+193046,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,5.85,4,4,5,39
+193051,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,4,5,55
+193069,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,6.35,16,4,6,17
+193071,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.85,25,4,6,58
+193075,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,6.65,14,4,7,15
+193082,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,14.55,16,4,7,34
+193097,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.65,1,4,7,57
+193103,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,29.35,27,4,8,18
+193114,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,14.05,17,4,8,38
+193122,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,4,8,48
+193128,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,21.95,18,4,9,9
+193133,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,27.95,26,4,9,45
+193138,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,6.15,4,4,10,1
+193146,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,15.45,10,4,10,18
+193157,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,4,10,35
+193166,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,6.75,8,4,10,46
+193171,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,20.55,18,4,11,6
+193175,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,8.05,24,4,11,18
+193185,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,4,11,45
+193203,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,8.4,33.15,29,3,0,0
+193227,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,12.65,10,3,0,5
+193230,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,29.45,26,3,0,24
+193232,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,19.75,26,3,0,42
+193236,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,15.65,19,3,0,46
+193241,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.25,22,3,1,12
+193247,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,4.75,17,3,1,27
+193254,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.5,24.95,20,3,1,44
+193259,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.95,1,3,1,54
+193268,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,6.45,13,3,1,58
+193274,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.0,8.55,7,3,2,12
+193301,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.1,29.65,26,3,2,52
+193329,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,20.85,16,3,3,38
+193333,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,3,3,55
+193340,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.65,0,3,4,14
+193349,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,4.65,18,3,4,25
+193357,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,3,4,41
+193376,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.35,23,3,4,56
+193381,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,25.35,26,3,5,6
+193386,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,23.65,18,3,5,17
+193388,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,5,41
+193394,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,3,5,43
+193400,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.5,9.65,13,3,6,8
+193404,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.85,20,3,6,25
+193407,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.35,2,3,6,46
+193420,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.95,1,3,7,3
+193430,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.85,25,3,7,13
+193439,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.15,2,3,7,31
+193444,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.2,3.05,18,3,7,44
+193466,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,7.25,5,3,8,14
+193485,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,8,42
+193492,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,10.45,23,3,9,3
+193509,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.15,1,3,9,42
+193530,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,8.25,8,3,10,3
+193560,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,4.15,16,3,10,23
+193567,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,10.85,17,3,10,40
+193575,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,30.45,26,3,10,55
+193580,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,4.65,16,3,11,0
+193585,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,8.55,16,3,11,16
+193594,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,20.55,20,3,11,40
+193607,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.1,29.45,25,2,0,0
+193615,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,11.35,7,2,0,5
+193644,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.05,0,2,0,43
+193649,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,10.85,5,2,0,44
+193652,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,1,1
+193668,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,2,1,17
+193670,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,7.75,9,2,1,19
+193676,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,21.95,19,2,1,34
+193702,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.25,23,2,1,57
+193709,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,22.25,20,2,2,13
+193713,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,8.55,15,2,2,24
+193719,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,14.15,17,2,2,50
+193721,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,19.45,16,2,3,13
+193728,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,4.95,0,2,3,18
+193730,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,20.05,14,2,3,37
+193754,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.95,11,2,4,12
+193775,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,2,4,39
+193779,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,2,4,46
+193784,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,2,5,5
+193806,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,19.85,17,2,5,29
+193817,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.65,2,2,5,55
+193828,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.5,18.15,20,2,6,7
+193832,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,10.75,6,2,6,14
+193842,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,2,6,19
+193847,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.65,1,2,6,23
+193852,2014,2013-14,1610612741,Chicago Bulls,1737,Nazr Mohammed,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,2,6,30
+193874,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,22.45,18,2,7,17
+193893,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,7,48
+193914,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,5.25,15,2,8,10
+193918,2014,2013-14,1610612754,Indiana Pacers,203111,Orlando Johnson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.45,23,2,8,27
+193923,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,9.75,15,2,8,34
+193938,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,11.65,12,2,9,1
+193961,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,30.25,28,2,9,30
+193967,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,23.85,20,2,9,40
+193969,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,23.65,20,2,9,56
+193973,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.35,1,2,10,11
+193984,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,9.45,4,2,10,22
+193988,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,5.55,17,2,10,48
+194013,2014,2013-14,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,21.65,26,2,11,36
+194032,2014,2013-14,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.2,19.85,19,1,0,0
+194036,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,9.35,7,1,0,10
+194043,2014,2013-14,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.05,23,1,0,15
+194050,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,1,0,21
+194054,2014,2013-14,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.65,4,1,0,45
+194059,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,5.55,24,1,0,58
+194067,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,4.65,16,1,1,2
+194079,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,22.85,21,1,1,21
+194092,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.05,1,1,1,36
+194098,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,22.85,19,1,1,43
+194100,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.9,11.25,6,1,2,3
+194107,2014,2013-14,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,22.45,17,1,2,12
+194112,2014,2013-14,1610612754,Indiana Pacers,202388,Donald Sloan,G,SG,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,22.45,19,1,2,36
+194118,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,5.65,10,1,2,53
+194139,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.7,22.05,17,1,3,14
+194143,2014,2013-14,1610612741,Chicago Bulls,2399,Mike Dunleavy,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,24.25,19,1,3,34
+194146,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,25.35,26,1,3,49
+194164,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,8.25,6,1,4,25
+194193,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,28.35,26,1,4,41
+194231,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,21.95,17,1,5,18
+194238,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,1,5,43
+194241,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,18.75,16,1,5,44
+194269,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.4,23.95,25,1,6,21
+194276,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,10.85,6,1,6,36
+194289,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,6,55
+194295,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,26.05,20,1,7,21
+194303,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,20.85,18,1,7,35
+194313,2014,2013-14,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,1,7,38
+194321,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,5.25,7,1,7,54
+194331,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,4.65,16,1,8,8
+194343,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.6,12.95,8,1,8,46
+194346,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,21.95,16,1,9,8
+194353,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,27.75,27,1,9,23
+194364,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,13.05,18,1,9,36
+194369,2014,2013-14,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-6.9,19.55,15,1,9,51
+194376,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.65,15,1,10,10
+194383,2014,2013-14,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,11-06-2013,21300061,IND,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,11.65,18,1,10,33
+194392,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,8.25,24,1,10,58
+194405,2014,2013-14,1610612741,Chicago Bulls,202710,Jimmy Butler,G,SG,11-06-2013,21300061,IND,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,4.75,16,1,11,22
+194417,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,11-06-2013,21300061,IND,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,4.75,2,1,11,41

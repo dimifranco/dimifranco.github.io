@@ -1,0 +1,146 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+37121,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,25.55,22,4,0,1
+37136,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,4,0,7
+37138,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,21.65,19,4,0,8
+37144,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,27.95,24,4,0,15
+37157,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,7.55,9,4,0,23
+37192,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,7.45,23,4,0,47
+37203,2013,2012-13,1610612752,New York Knicks,200779,Steve Novak,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,28.35,24,4,1,1
+37208,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,13.25,8,4,1,26
+37218,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.75,2,4,2,11
+37222,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.7,21.65,17,4,2,13
+37227,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.3,13.25,19,4,2,36
+37233,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.5,28.35,23,4,3,0
+37259,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,11.65,6,4,3,38
+37270,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,26.95,25,4,3,50
+37279,2013,2012-13,1610612752,New York Knicks,467,Jason Kidd,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.35,22,4,3,55
+37282,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.55,23,4,4,15
+37287,2013,2012-13,1610612752,New York Knicks,703,Kurt Thomas,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.35,1,4,4,32
+37296,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,4,4,53
+37301,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.0,19.25,14,4,4,55
+37316,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,23.95,22,4,5,20
+37359,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,7.15,7,4,6,13
+37364,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,25.55,24,4,6,35
+37371,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,9.35,19,4,6,55
+37380,2013,2012-13,1610612752,New York Knicks,467,Jason Kidd,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,27.15,24,4,7,3
+37384,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,24.45,24,4,7,30
+37392,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,26.85,24,4,7,45
+37394,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,29.95,24,4,8,10
+37409,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,10.55,5,4,8,28
+37415,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.05,6,4,8,42
+37417,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,6.95,16,4,9,0
+37423,2013,2012-13,1610612752,New York Knicks,703,Kurt Thomas,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,20.55,18,4,9,14
+37428,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.5,29.45,24,4,9,36
+37436,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,8.05,8,4,9,43
+37461,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,25.75,22,4,10,25
+37467,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.35,2,4,10,47
+37487,2013,2012-13,1610612752,New York Knicks,703,Kurt Thomas,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,23.05,17,4,11,24
+37492,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,7.75,17,4,11,47
+37511,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,27.45,27,3,0,1
+37517,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.9,18.15,12,3,0,6
+37520,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,11.95,7,3,0,29
+37540,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,7.85,4,3,1,2
+37564,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.7,20.55,15,3,1,24
+37569,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,3,1,51
+37575,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,7.55,5,3,1,57
+37587,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,3,2,10
+37598,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,17.95,14,3,2,28
+37609,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,12.65,15,3,2,37
+37618,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.35,3,3,2,47
+37629,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.05,24,3,3,3
+37631,2013,2012-13,1610612752,New York Knicks,467,Jason Kidd,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.3,18.35,20,3,3,30
+37638,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.4,25.95,24,3,3,43
+37664,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,24.45,19,3,4,4
+37682,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,7.25,17,3,4,37
+37688,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,3.95,18,3,4,56
+37708,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.9,29.45,24,3,5,36
+37719,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,9.15,4,3,5,42
+37770,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,3,6,24
+37773,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.55,2,3,6,26
+37781,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,21.95,21,3,6,33
+37783,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.4,28.85,24,3,6,57
+37793,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,4.95,12,3,7,2
+37799,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,23.95,19,3,7,11
+37809,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,20.85,21,3,7,21
+37814,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,20.35,24,3,7,41
+37828,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.85,25,3,8,12
+37849,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,4.75,2,3,8,41
+37856,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.6,15.15,17,3,8,56
+37862,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,3,9,14
+37870,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,16.25,18,3,9,33
+37881,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,13.05,14,3,9,42
+37885,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,18.75,17,3,10,8
+37915,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.9,21.65,17,3,10,48
+37961,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,11,45
+37982,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,22.05,18,2,0,0
+37988,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.6,27.75,24,2,0,16
+37991,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,2,0,36
+37995,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,21.45,18,2,0,56
+38007,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,4.75,17,2,1,9
+38010,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,8.65,6,2,1,14
+38044,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.05,2,2,1,56
+38047,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,6.35,9,2,2,10
+38048,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,5.55,23,2,2,30
+38051,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,24.65,19,2,2,51
+38056,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,5.25,22,2,3,7
+38064,2013,2012-13,1610612752,New York Knicks,703,Kurt Thomas,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,4.65,17,2,3,28
+38068,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,11.25,23,2,3,43
+38073,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.35,3,2,4,5
+38093,2013,2012-13,1610612752,New York Knicks,703,Kurt Thomas,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,21.95,17,2,4,36
+38098,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.65,2,2,4,52
+38105,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,25.05,20,2,5,8
+38120,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,26.05,20,2,5,31
+38129,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.25,2,2,5,45
+38132,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.35,1,2,5,57
+38155,2013,2012-13,1610612752,New York Knicks,467,Jason Kidd,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.25,25,2,6,48
+38170,2013,2012-13,1610612762,Utah Jazz,202683,Enes Freedom,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,18.45,13,2,7,37
+38177,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,9.75,4,2,7,42
+38192,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,24.25,23,2,7,50
+38202,2013,2012-13,1610612752,New York Knicks,200779,Steve Novak,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.75,25,2,8,0
+38211,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,30.75,25,2,8,13
+38250,2013,2012-13,1610612752,New York Knicks,200779,Steve Novak,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,24.65,24,2,8,52
+38274,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,6.65,5,2,9,11
+38286,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,10.85,13,2,9,37
+38293,2013,2012-13,1610612752,New York Knicks,467,Jason Kidd,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,21.25,24,2,9,52
+38319,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.75,22,2,10,11
+38326,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,9.45,6,2,10,39
+38383,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.9,5.95,3,2,11,17
+38397,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.7,5.55,20,2,11,41
+38412,2013,2012-13,1610612752,New York Knicks,2747,JR Smith,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,24.65,26,1,0,0
+38437,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,0,17
+38440,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,7.15,8,1,0,34
+38446,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.15,2,1,0,54
+38452,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,17.05,19,1,1,8
+38494,2013,2012-13,1610612762,Utah Jazz,2248,Earl Watson,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,4.75,17,1,1,38
+38517,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,1,2,13
+38523,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.55,12,1,2,14
+38528,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,29.65,24,1,2,43
+38531,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,22.55,25,1,3,10
+38540,2013,2012-13,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.45,23,1,3,51
+38546,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,10.55,11,1,4,9
+38584,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.55,25,1,4,39
+38598,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.7,30.65,25,1,4,49
+38609,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,9.45,4,1,5,4
+38618,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.45,2,1,5,6
+38636,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,1,5,30
+38642,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,5.95,20,1,5,43
+38648,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.6,19.75,22,1,6,8
+38655,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,27.65,24,1,6,23
+38663,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,11.25,18,1,6,44
+38677,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,29.45,26,1,6,55
+38686,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.85,1,1,7,17
+38689,2013,2012-13,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,1,7,19
+38709,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,1,7,36
+38717,2013,2012-13,1610612752,New York Knicks,202697,Iman Shumpert,G,SG,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,25.35,24,1,7,42
+38725,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,4.95,2,1,8,8
+38755,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,18.45,19,1,8,45
+38765,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,17.55,17,1,9,12
+38778,2013,2012-13,1610612752,New York Knicks,2030,Kenyon Martin,C,C,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,17.85,16,1,9,21
+38793,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,6.45,22,1,9,45
+38800,2013,2012-13,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,14.35,24,1,10,4
+38804,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.75,2,1,10,17
+38815,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,03-18-2013,21201003,UTA,NYK,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,10.55,16,1,10,20
+38823,2013,2012-13,1610612752,New York Knicks,203142,Chris Copeland,F,PF,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,20.95,24,1,10,44
+38826,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.55,23,1,11,5
+38840,2013,2012-13,1610612752,New York Knicks,101109,Raymond Felton,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.3,18.45,20,1,11,27
+38846,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,03-18-2013,21201003,UTA,NYK,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,3.85,12,1,11,45

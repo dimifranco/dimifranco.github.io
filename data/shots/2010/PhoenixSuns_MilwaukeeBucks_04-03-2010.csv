@@ -1,0 +1,155 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+14769,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,18
+14792,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,33
+14841,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,30.75,25,4,0,56
+14871,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,18.35,19,4,1,17
+14873,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,28.35,25,4,1,35
+14882,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,40
+14886,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,4.45,9,4,1,56
+14892,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,14
+14896,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,34
+14905,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,27.75,28,4,2,39
+14921,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,12
+14941,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,51
+14947,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,29.35,26,4,4,2
+14954,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,21
+15004,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,11
+15008,2010,2009-10,1610612756,Phoenix Suns,201947,Earl Clark,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,16.75,11,4,5,24
+15028,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,58
+15031,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,6,8
+15048,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,11.65,17,4,6,24
+15053,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,24.95,25,4,6,43
+15062,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,3.85,24,4,6,52
+15078,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,10.45,12,4,7,15
+15081,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,29
+15092,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,32
+15102,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.8,22.45,18,4,7,46
+15105,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,23.05,25,4,8,9
+15110,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,21.65,18,4,8,17
+15115,2010,2009-10,1610612756,Phoenix Suns,201947,Earl Clark,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,41
+15125,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,21
+15135,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,13.45,23,4,9,26
+15136,2010,2009-10,1610612756,Phoenix Suns,200811,Lou Amundson,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.7,18.75,13,4,9,41
+15140,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,9.75,4,4,9,57
+15150,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,5.55,13,4,10,29
+15173,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.5,7.45,12,4,11,24
+15178,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,3.95,15,4,11,42
+15182,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,45
+15199,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,43.85,43,3,0,0
+15206,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,22.05,16,3,0,1
+15210,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,5.95,22,3,0,27
+15215,2010,2009-10,1610612749,Milwaukee Bucks,2557,Luke Ridnour,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.45,24,3,0,37
+15236,2010,2009-10,1610612749,Milwaukee Bucks,2557,Luke Ridnour,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,17.15,15,3,1,8
+15240,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,31
+15247,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,4.45,15,3,1,58
+15256,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,22.55,17,3,2,4
+15261,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,9.75,5,3,2,28
+15268,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.9,16.25,11,3,2,45
+15299,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,4.45,15,3,3,4
+15303,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.8,19.25,16,3,3,30
+15311,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,19.55,25,3,3,43
+15315,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,2
+15318,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,8.25,7,3,4,19
+15324,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,25
+15329,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,5.85,9,3,4,34
+15338,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,28.25,27,3,4,44
+15356,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.65,4,3,4,59
+15360,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,16.75,11,3,5,24
+15364,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,15.65,25,3,5,33
+15372,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.05,23,3,5,49
+15396,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,5.25,23,3,6,15
+15407,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,28
+15410,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,6.15,6,3,6,39
+15412,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.25,23,3,6,53
+15413,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.1,14.35,16,3,7,17
+15416,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,39
+15420,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,21.15,25,3,7,50
+15433,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,18.35,16,3,8,31
+15440,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,25.85,25,3,8,51
+15459,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,19.45,25,3,9,19
+15462,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,40
+15472,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,44
+15476,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.3,17.65,12,3,9,48
+15484,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,8.95,15,3,10,15
+15495,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,29.05,26,3,10,59
+15497,2010,2009-10,1610612756,Phoenix Suns,2260,Jarron Collins,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,11.35,7,3,11,23
+15502,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,11,47
+15526,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.85,23,2,0,27
+15530,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,6
+15533,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,28.35,26,2,0,48
+15541,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,15.95,13,2,1,4
+15547,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.05,7,2,1,17
+15553,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,43
+15560,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,3
+15566,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,4.45,14,2,2,11
+15580,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,46
+15588,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,6
+15594,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,29
+15601,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,53
+15603,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,19.75,25,2,3,56
+15622,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,28
+15627,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,14.95,15,2,4,33
+15634,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,8.95,4,2,4,45
+15640,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,10
+15644,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,11
+15649,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,5.65,10,2,5,24
+15657,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,8.35,13,2,5,38
+15666,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,7.55,6,2,6,2
+15683,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,8
+15687,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,11.95,15,2,6,10
+15690,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,26
+15695,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,5.05,14,2,6,48
+15723,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,18
+15728,2010,2009-10,1610612749,Milwaukee Bucks,2557,Luke Ridnour,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,23.65,25,2,7,23
+15732,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.7,29.35,25,2,7,38
+15734,2010,2009-10,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,6.95,12,2,7,50
+15739,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,14
+15743,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,4.45,7,2,8,34
+15768,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,17.15,20,2,9,12
+15776,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,11.55,23,2,9,39
+15778,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,0
+15785,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,7.15,14,2,10,11
+15791,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,11.05,5,2,10,22
+15792,2010,2009-10,1610612749,Milwaukee Bucks,703,Kurt Thomas,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.95,16,2,10,39
+15798,2010,2009-10,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,9.15,15,2,10,52
+15805,2010,2009-10,1610612749,Milwaukee Bucks,2557,Luke Ridnour,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,4.45,18,2,11,10
+15821,2010,2009-10,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,34
+15834,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,4.25,24,1,0,0
+15836,2010,2009-10,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,5.05,22,1,0,12
+15841,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.25,23,1,0,28
+15855,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,25.75,20,1,1,10
+15858,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,30
+15866,2010,2009-10,1610612749,Milwaukee Bucks,711,Jerry Stackhouse,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,21.95,17,1,1,53
+15872,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,19.55,16,1,2,8
+15883,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,12.75,15,1,2,24
+15888,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,25.25,26,1,2,39
+15895,2010,2009-10,1610612749,Milwaukee Bucks,2557,Luke Ridnour,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.0,16.25,17,1,2,46
+15898,2010,2009-10,1610612756,Phoenix Suns,101112,Channing Frye,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,25.85,26,1,3,8
+15903,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,4.75,9,1,3,22
+15908,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.1,14.15,16,1,3,36
+15911,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,0
+15932,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,6.75,15,1,4,41
+15935,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.75,7,1,4,59
+15944,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,18.45,16,1,5,14
+15954,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.65,23,1,5,27
+15962,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,32
+15973,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.1,29.15,23,1,5,51
+15980,2010,2009-10,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,19.25,20,1,6,10
+15982,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,29
+15995,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,5.85,12,1,6,57
+16006,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,9.15,7,1,7,19
+16009,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,31
+16038,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,16.55,16,1,7,57
+16046,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,27.95,26,1,8,10
+16051,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,10.25,7,1,8,20
+16058,2010,2009-10,1610612749,Milwaukee Bucks,2422,John Salmons,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,21.75,16,1,8,44
+16066,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.95,22,1,9,1
+16103,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,22.05,17,1,10,4
+16108,2010,2009-10,1610612756,Phoenix Suns,2202,Jason Richardson,G,SG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,25.55,25,1,10,18
+16116,2010,2009-10,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,04-03-2010,20901138,MIL,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.3,18.35,20,1,10,36
+16122,2010,2009-10,1610612756,Phoenix Suns,959,Steve Nash,G,PG,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,11.65,15,1,10,47
+16127,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,9.75,4,1,11,1
+16135,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,12.75,10,1,11,8
+16144,2010,2009-10,1610612756,Phoenix Suns,255,Grant Hill,F,SF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,11.85,9,1,11,22
+16152,2010,2009-10,1610612749,Milwaukee Bucks,101106,Andrew Bogut,C,C,04-03-2010,20901138,MIL,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,36
+16161,2010,2009-10,1610612756,Phoenix Suns,2405,Amar'e Stoudemire,F,PF,04-03-2010,20901138,MIL,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.7,20.05,15,1,11,48

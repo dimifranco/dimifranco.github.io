@@ -1,0 +1,168 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+13201,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,20
+13203,2015,2014-15,1610612754,Indiana Pacers,202388,Donald Sloan,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,6.45,13,4,0,25
+13205,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,11.55,6,4,0,47
+13207,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,27.65,26,4,0,50
+13210,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,4,0,55
+13213,2015,2014-15,1610612754,Indiana Pacers,204014,Damjan Rudez,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.25,23,4,1,6
+13217,2015,2014-15,1610612748,Miami Heat,204054,Zoran Dragic,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,24.75,25,4,1,25
+13219,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,30.65,25,4,1,36
+13222,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,4,2,1
+13234,2015,2014-15,1610612754,Indiana Pacers,203142,Chris Copeland,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,23.95,27,4,2,37
+13241,2015,2014-15,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,04-05-2015,21401149,IND,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,5
+13244,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,31
+13247,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.85,25,4,3,36
+13248,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.45,1,4,3,53
+13252,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,4,7
+13256,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,20.55,21,4,4,15
+13259,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,28.85,27,4,4,36
+13260,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,5.25,24,4,4,45
+13261,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,4,5,0
+13272,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,5.65,14,4,5,25
+13278,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,33.45,28,4,5,51
+13284,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,6.15,5,4,6,3
+13286,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,6,17
+13289,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.45,0,4,6,22
+13298,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,30.95,28,4,7,0
+13299,2015,2014-15,1610612754,Indiana Pacers,202388,Donald Sloan,G,PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,4,7,10
+13313,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,8.55,4,4,7,46
+13319,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.9,30.75,27,4,7,47
+13320,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,9.15,6,4,8,10
+13326,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,10.55,5,4,8,28
+13329,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,4,8,49
+13332,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,4,8,52
+13337,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.45,23,4,8,56
+13342,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,17.05,19,4,9,19
+13359,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.9,31.35,26,4,9,34
+13370,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.6,19.85,26,4,10,17
+13378,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,10,19
+13391,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,11.25,6,4,10,35
+13395,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,4,10,57
+13396,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,25.25,20,4,11,23
+13401,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.65,0,4,11,48
+13415,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,13.05,17,3,0,5
+13417,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,19.45,16,3,0,19
+13420,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,3.95,16,3,0,37
+13439,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.1,28.85,26,3,0,58
+13451,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,10.85,11,3,1,42
+13461,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,28.75,26,3,2,3
+13467,2015,2014-15,1610612754,Indiana Pacers,2561,David West,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.05,0,3,2,25
+13469,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,16.55,19,3,2,39
+13486,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,9.65,5,3,2,58
+13515,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,5.95,24,3,3,35
+13522,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,23.05,28,3,3,45
+13524,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,3,3,52
+13525,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,3,4,10
+13528,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.25,3,3,4,32
+13531,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,27.75,27,3,4,52
+13533,2015,2014-15,1610612754,Indiana Pacers,2561,David West,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,9.65,11,3,4,56
+13550,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,3,5,15
+13554,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,5.25,23,3,5,34
+13564,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.1,31.55,26,3,5,54
+13570,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,3,6,7
+13572,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,10.25,9,3,6,18
+13576,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,6.15,4,3,6,32
+13578,2015,2014-15,1610612754,Indiana Pacers,201588,George Hill,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.65,22,3,6,52
+13581,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,8.55,15,3,7,16
+13585,2015,2014-15,1610612754,Indiana Pacers,201588,George Hill,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.25,23,3,7,28
+13590,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,6.65,11,3,7,42
+13594,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,8.95,8,3,8,2
+13596,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,16.55,11,3,8,22
+13603,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,20.65,21,3,8,32
+13605,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,3,8,54
+13613,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,3,9,6
+13616,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,17.55,24,3,9,7
+13620,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,9.35,18,3,9,21
+13625,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,4.65,19,3,9,44
+13626,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.05,0,3,10,4
+13629,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,12.15,7,3,10,21
+13635,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.05,1,3,10,36
+13639,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,25.25,20,3,10,51
+13643,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.65,4,3,11,9
+13651,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,3.65,23,3,11,37
+13663,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,6.15,16,2,0,0
+13698,2015,2014-15,1610612754,Indiana Pacers,201155,Rodney Stuckey,G,PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,2,0,27
+13704,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,25.25,25,2,0,36
+13731,2015,2014-15,1610612754,Indiana Pacers,204014,Damjan Rudez,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,10.05,19,2,0,58
+13738,2015,2014-15,1610612754,Indiana Pacers,201588,George Hill,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,19.05,16,2,1,14
+13743,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,2,1,27
+13745,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,4.95,23,2,1,46
+13770,2015,2014-15,1610612754,Indiana Pacers,201588,George Hill,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.85,3,2,2,11
+13772,2015,2014-15,1610612754,Indiana Pacers,201588,George Hill,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,2,2,14
+13781,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.1,13.25,8,2,2,30
+13792,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,2,2,52
+13796,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,2,54
+13797,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.15,25,2,3,12
+13815,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,3,34
+13822,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,23.05,20,2,3,56
+13830,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,4.95,12,2,4,10
+13845,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,20.95,17,2,4,39
+13848,2015,2014-15,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.7,31.35,26,2,4,49
+13853,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,18.95,26,2,5,3
+13868,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.85,1,2,5,22
+13878,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,2,5,39
+13882,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.95,23,2,5,41
+13885,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,2,5,48
+13892,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,20.95,26,2,6,1
+13898,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,11.85,6,2,6,17
+13899,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,3.85,23,2,6,34
+13901,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,6,53
+13903,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,3.85,23,2,7,8
+13924,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,6.35,11,2,7,42
+13930,2015,2014-15,1610612754,Indiana Pacers,202388,Donald Sloan,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,10.85,24,2,7,53
+13945,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.75,1,2,8,32
+13950,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.1,11.85,6,2,8,38
+13952,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,16.75,21,2,8,53
+13959,2015,2014-15,1610612754,Indiana Pacers,201155,Rodney Stuckey,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.75,23,2,9,7
+13966,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.15,1,2,9,32
+13968,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,2,9,35
+13969,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.05,0,2,9,54
+13978,2015,2014-15,1610612754,Indiana Pacers,201155,Rodney Stuckey,G,PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,3.85,1,2,10,4
+13982,2015,2014-15,1610612748,Miami Heat,201563,Michael Beasley,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,7.45,18,2,10,17
+13991,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,2,10,36
+13995,2015,2014-15,1610612754,Indiana Pacers,202388,Donald Sloan,G,PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,3.85,23,2,10,54
+13997,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-18.5,18.75,22,2,11,11
+14000,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,3.35,23,2,11,20
+14016,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,14.95,18,1,0,0
+14028,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,0,9
+14032,2015,2014-15,1610612754,Indiana Pacers,201155,Rodney Stuckey,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,1,0,25
+14039,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.35,23,1,0,30
+14045,2015,2014-15,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,0,47
+14049,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.25,2,1,0,48
+14072,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.05,3,1,1,15
+14075,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,1,1,25
+14079,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,11.55,23,1,1,34
+14084,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.25,3,1,1,58
+14088,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.0,13.45,9,1,2,0
+14099,2015,2014-15,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.35,3,1,2,25
+14104,2015,2014-15,1610612754,Indiana Pacers,201155,Rodney Stuckey,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.4,20.15,25,1,2,28
+14109,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,5.85,23,1,2,52
+14114,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,17.05,18,1,3,5
+14120,2015,2014-15,1610612748,Miami Heat,203516,James Ennis III,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,29.05,27,1,3,25
+14127,2015,2014-15,1610612754,Indiana Pacers,202331,Paul George,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,13.55,13,1,3,45
+14131,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,1,4,1
+14136,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,6.75,9,1,4,2
+14157,2015,2014-15,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.95,22,1,4,29
+14165,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,10.25,5,1,5,0
+14166,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.4,12.45,9,1,5,20
+14175,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,6.95,7,1,5,56
+14190,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,29.85,26,1,6,56
+14192,2015,2014-15,1610612754,Indiana Pacers,2561,David West,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.3,17.35,12,1,7,7
+14197,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,10.55,10,1,7,24
+14199,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,29.65,27,1,7,38
+14216,2015,2014-15,1610612754,Indiana Pacers,2561,David West,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,31.35,26,1,7,57
+14226,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,20
+14231,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.65,25,1,8,33
+14246,2015,2014-15,1610612748,Miami Heat,201609,Goran Dragic,G,SG-PG,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.15,0,1,8,43
+14255,2015,2014-15,1610612754,Indiana Pacers,2561,David West,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,10.25,17,1,8,59
+14265,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,1,9,21
+14266,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,1,9,43
+14271,2015,2014-15,1610612748,Miami Heat,2736,Luol Deng,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,9,47
+14288,2015,2014-15,1610612748,Miami Heat,201611,Henry Walker,F,SF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,32.85,27,1,10,2
+14313,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.85,2,1,10,30
+14315,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.65,1,1,10,31
+14320,2015,2014-15,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,7.45,9,1,10,35
+14325,2015,2014-15,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,23.85,20,1,10,49
+14327,2015,2014-15,1610612754,Indiana Pacers,203524,Solomon Hill,F,SF,04-05-2015,21401149,IND,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,1,11,5
+14335,2015,2014-15,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,04-05-2015,21401149,IND,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,4.45,14,1,11,21
+14340,2015,2014-15,1610612754,Indiana Pacers,101139,CJ Miles,G,SG,04-05-2015,21401149,IND,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,32.95,28,1,11,44

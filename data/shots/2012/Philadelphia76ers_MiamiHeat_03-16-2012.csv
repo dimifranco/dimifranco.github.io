@@ -1,0 +1,168 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+55283,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.8,29.95,25,4,0,13
+55298,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.95,7,4,0,28
+55304,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.1,32.95,28,4,0,35
+55308,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.4,30.15,25,4,0,59
+55311,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,19.55,17,4,1,5
+55313,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.0,20.85,19,4,1,27
+55362,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.2,14.65,10,4,2,25
+55366,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,5.65,11,4,2,58
+55388,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.6,31.05,26,4,3,33
+55401,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.05,15,4,3,53
+55407,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.65,1,4,4,14
+55412,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,7.45,2,4,4,18
+55418,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.8,25.05,25,4,4,38
+55423,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.5,20.85,15,4,5,5
+55424,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,16.55,14,4,5,33
+55429,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.65,3,4,5,43
+55434,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.1,15.95,10,4,6,7
+55445,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,9.65,23,4,6,27
+55453,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,30.45,25,4,6,45
+55459,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,22.05,26,4,6,55
+55468,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,13.75,8,4,7,2
+55471,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.45,2,4,7,16
+55480,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,15.65,12,4,7,23
+55491,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.1,30.95,26,4,7,40
+55499,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.55,2,4,8,20
+55505,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,25.35,25,4,8,14
+55513,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,21.75,16,4,8,22
+55541,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,4,8,56
+55545,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,4,9,3
+55548,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,9,23
+55558,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,31.05,25,4,9,38
+55576,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,6.95,15,4,10,37
+55582,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,18.65,16,4,11,1
+55585,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.2,16.55,11,4,11,6
+55590,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.1,25.25,20,4,11,16
+55597,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,4.75,19,4,11,24
+55603,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.65,1,4,11,38
+55612,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.05,2,4,11,42
+55653,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.65,22,3,0,8
+55654,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.15,2,3,0,29
+55658,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,20.55,21,3,0,39
+55678,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,7.75,5,3,0,54
+55680,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,3,1,17
+55684,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,13.45,13,3,1,28
+55694,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,3,1,58
+55700,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.55,3,3,2,0
+55709,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.2,14.65,17,3,2,6
+55716,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,25.05,25,3,2,27
+55739,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,3,2,54
+55743,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.15,1,3,3,4
+55745,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.45,1,3,3,28
+55754,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,3.85,17,3,3,34
+55763,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.95,23,3,3,46
+55806,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,3,4,11
+55809,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,5.55,15,3,4,13
+55817,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,20.95,18,3,4,23
+55828,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,5.85,8,3,4,58
+55839,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,20.65,18,3,5,25
+55840,2012,2011-12,1610612755,Philadelphia 76ers,202730,Lavoy Allen,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,5.35,14,3,5,53
+55844,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,21.15,18,3,6,13
+55848,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,30.15,25,3,6,38
+55861,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.85,6,3,6,48
+55874,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.55,2,3,7,10
+55879,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.95,2,3,7,12
+55898,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.35,3,3,7,20
+55904,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.85,2,3,7,26
+55908,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,10.25,14,3,7,51
+55914,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,2.85,23,3,7,56
+55919,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,8.05,3,3,8,1
+55927,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.35,3,3,8,7
+55933,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,3,8,38
+55941,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,6.75,10,3,8,56
+55949,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.8,21.15,19,3,9,10
+55961,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,8.25,3,3,9,27
+55968,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.85,2,3,9,31
+55976,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,21.15,16,3,9,38
+55991,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,19.85,17,3,10,6
+56005,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.5,29.45,24,3,10,33
+56008,2012,2011-12,1610612755,Philadelphia 76ers,202730,Lavoy Allen,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,11.55,9,3,10,57
+56017,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,21.15,18,3,11,14
+56024,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,7.45,17,3,11,35
+56062,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,32.85,27,2,0,1
+56065,2012,2011-12,1610612755,Philadelphia 76ers,201970,Sam Young,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,4.65,1,2,0,7
+56075,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,19.55,24,2,0,32
+56089,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,8.25,5,2,0,47
+56094,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.65,1,2,1,8
+56132,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,13.25,8,2,1,30
+56160,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,23.55,18,2,2,9
+56172,2012,2011-12,1610612748,Miami Heat,2592,James Jones,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,19.55,24,2,2,30
+56178,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,4.75,2,2,2,38
+56181,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,5.35,4,2,3,1
+56187,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.1,17.65,12,2,3,16
+56213,2012,2011-12,1610612755,Philadelphia 76ers,201975,Jodie Meeks,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,23.95,25,2,3,41
+56221,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.25,3,2,3,53
+56225,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.85,6,2,4,16
+56228,2012,2011-12,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.35,3,2,4,31
+56237,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.25,2,2,4,46
+56272,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,2,5,21
+56278,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.25,23,2,5,29
+56325,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.05,1,2,5,58
+56334,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,19.45,18,2,6,5
+56356,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.05,3,2,6,31
+56365,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,5.55,8,2,6,50
+56372,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,8.85,9,2,7,1
+56383,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,2,7,20
+56388,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.3,17.85,13,2,7,22
+56403,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,2,7,45
+56410,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.05,3,2,7,51
+56412,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,3.95,11,2,8,1
+56435,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.15,3,2,8,10
+56447,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,5.25,11,2,8,25
+56457,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,14.65,15,2,8,50
+56464,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.75,24,2,9,11
+56468,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,12.35,12,2,9,37
+56471,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,5.55,9,2,9,54
+56474,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.2,5.25,15,2,10,11
+56480,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,11.35,14,2,10,20
+56487,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,10.05,6,2,10,50
+56497,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.15,1,2,11,8
+56506,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,2,11,27
+56516,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,9.15,4,2,11,33
+56522,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.05,2,2,11,36
+56558,2012,2011-12,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,19.75,25,1,0,0
+56566,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,1,0,8
+56571,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.9,5.25,3,1,0,9
+56604,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,4.75,2,1,0,41
+56614,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,28.05,25,1,0,52
+56623,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.8,30.25,25,1,1,12
+56628,2012,2011-12,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.2,22.05,17,1,1,26
+56630,2012,2011-12,1610612755,Philadelphia 76ers,101150,Lou Williams,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.7,30.65,26,1,1,44
+56637,2012,2011-12,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.15,1,1,1,55
+56661,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.95,1,1,2,19
+56665,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,1,2,21
+56666,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.45,1,1,2,40
+56674,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,4.75,10,1,2,48
+56678,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.05,0,1,3,11
+56682,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,1,3,28
+56723,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,4.45,4,1,3,58
+56729,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,8.25,10,1,4,6
+56741,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,22.85,17,1,4,14
+56748,2012,2011-12,1610612755,Philadelphia 76ers,201152,Thaddeus Young,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.75,1,1,4,31
+56753,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,1.75,11,1,4,53
+56761,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.75,17,1,5,12
+56775,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,4.15,14,1,5,32
+56778,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,12.65,12,1,5,47
+56782,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,6,2
+56790,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,3.15,16,1,6,26
+56819,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.95,0,1,6,30
+56826,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,3.55,9,1,6,33
+56834,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,4.25,3,1,6,36
+56840,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.25,1,1,6,51
+56851,2012,2011-12,1610612755,Philadelphia 76ers,202696,Nikola Vucevic,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.8,21.75,16,1,7,12
+56860,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.65,23,1,7,17
+56871,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,14.95,11,1,7,32
+56880,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.1,10.55,8,1,7,42
+56888,2012,2011-12,1610612755,Philadelphia 76ers,1882,Elton Brand,C,C,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,6.65,12,1,7,47
+56902,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,5.05,3,1,8,8
+56913,2012,2011-12,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.05,23,1,8,46
+56918,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.6,16.75,25,1,9,1
+56926,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,1,9,18
+56929,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,1,9,41
+56940,2012,2011-12,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,2.85,14,1,9,50
+56944,2012,2011-12,1610612755,Philadelphia 76ers,2738,Andre Iguodala,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,1,9,56
+56978,2012,2011-12,1610612755,Philadelphia 76ers,202323,Evan Turner,F,SF,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,2.75,11,1,10,15
+56993,2012,2011-12,1610612748,Miami Heat,2544,LeBron James,F,SF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,5.25,13,1,10,57
+57002,2012,2011-12,1610612755,Philadelphia 76ers,201950,Jrue Holiday,G,PG,03-16-2012,21100643,PHI,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,18.45,16,1,11,11
+57017,2012,2011-12,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-16-2012,21100643,PHI,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.6,18.65,13,1,11,36

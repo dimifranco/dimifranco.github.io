@@ -1,0 +1,167 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+186480,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,19.65,24,4,0,0
+186481,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.05,1,4,0,5
+186482,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.5,14.75,25,4,0,6
+186488,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,4,0,22
+186491,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.8,13.25,14,4,0,31
+186496,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.0,23.25,18,4,0,38
+186501,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.55,1,4,0,54
+186503,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,4.75,19,4,1,9
+186504,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.2,13.25,13,4,1,15
+186505,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,10.85,10,4,1,27
+186506,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,7.05,3,4,1,48
+186508,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,2,5
+186515,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.5,5.15,2,4,2,48
+186516,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.45,0,4,3,4
+186517,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,19
+186519,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,4,3,21
+186520,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.75,25,4,3,41
+186521,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.1,5.55,10,4,3,55
+186529,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,4,36
+186530,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,5.25,19,4,4,56
+186534,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.55,1,4,5,9
+186535,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,8.85,10,4,5,25
+186540,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,4,5,51
+186542,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.05,1,4,5,53
+186544,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.6,11.35,8,4,5,55
+186554,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.1,17.35,15,4,6,8
+186556,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.2,7.35,19,4,6,23
+186557,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,22.15,16,4,6,42
+186559,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,10.45,8,4,6,52
+186567,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,7,22
+186576,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,19.65,19,4,8,1
+186583,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,4,8,17
+186584,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.7,11.75,8,4,8,24
+186588,2016,2015-16,1610612748,Miami Heat,201177,Josh McRoberts,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.45,1,4,8,33
+186591,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,20.85,19,4,8,35
+186592,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,4,9,0
+186594,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,4,9,6
+186595,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.5,14.45,17,4,9,14
+186605,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.45,1,4,9,36
+186606,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.4,7.35,21,4,9,47
+186608,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,4,9,56
+186611,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.45,2,4,10,17
+186615,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,5.95,2,4,10,35
+186618,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.4,18.85,16,4,11,6
+186620,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,18.35,15,4,11,16
+186621,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,4,11,37
+186625,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.55,4,4,11,39
+186631,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.5,24.05,25,3,0,1
+186633,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.05,0,3,0,26
+186636,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.05,2,3,0,31
+186641,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,3,0,47
+186645,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.9,23.55,24,3,1,13
+186648,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,26.05,25,3,1,28
+186649,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.55,1,3,1,31
+186650,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,15.65,18,3,1,47
+186651,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,3,1,57
+186653,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.0,5.95,5,3,2,23
+186656,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,6.35,23,3,2,40
+186658,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,3,0
+186662,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.7,5.95,19,3,3,22
+186664,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,4.85,14,3,3,48
+186667,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.1,9.95,4,3,3,50
+186669,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,18.65,15,3,4,16
+186674,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.55,1,3,4,50
+186680,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,9.05,3,3,5,1
+186682,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.1,17.65,14,3,5,22
+186683,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,6.1,17.25,13,3,5,33
+186684,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,3,5,50
+186691,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.8,6.35,5,3,6,27
+186693,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.4,18.15,13,3,6,51
+186695,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.2,20.85,19,3,7,18
+186697,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.4,18.65,21,3,7,37
+186701,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,6.35,2,3,7,56
+186702,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.2,18.35,16,3,8,10
+186707,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.0,19.15,25,3,8,50
+186710,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.9,18.65,16,3,8,58
+186712,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,3,9,7
+186716,2016,2015-16,1610612748,Miami Heat,1626196,Josh Richardson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,7.45,6,3,9,25
+186718,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.95,0,3,9,32
+186720,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,5.95,3,3,9,50
+186721,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,10,11
+186726,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.35,4,3,10,30
+186728,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,20.15,25,3,10,46
+186730,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,5.95,18,3,10,57
+186733,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.85,2,3,11,19
+186736,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.95,23,3,11,44
+186744,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.45,0,2,0,1
+186746,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,9.35,24,2,0,3
+186748,2016,2015-16,1610612748,Miami Heat,1626196,Josh Richardson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,22.65,24,2,0,27
+186750,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.4,18.35,13,2,0,30
+186754,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,0,54
+186758,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.85,1,2,0,59
+186761,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,5.55,2,2,1,25
+186762,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.7,16.75,22,2,1,41
+186763,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,1,59
+186764,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,13.75,8,2,2,16
+186765,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.3,7.85,15,2,2,24
+186771,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,2,59
+186780,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,5.55,1,2,3,48
+186782,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.2,20.15,24,2,3,57
+186785,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.05,1,2,4,28
+186789,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.25,1,2,4,58
+186794,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.05,1,2,5,28
+186800,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,2,6,1
+186803,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,2,6,20
+186807,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.25,15,2,6,28
+186808,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.5,5.95,23,2,6,41
+186810,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.85,2,2,6,48
+186811,2016,2015-16,1610612748,Miami Heat,201177,Josh McRoberts,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.55,1,2,7,6
+186812,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.1,18.15,15,2,7,18
+186817,2016,2015-16,1610612748,Miami Heat,201177,Josh McRoberts,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,18.15,23,2,7,39
+186819,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,2,7,43
+186820,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,2,7,59
+186822,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.3,16.75,12,2,8,2
+186823,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,5.95,2,2,8,18
+186824,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.15,1,2,8,39
+186826,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,2,8,54
+186828,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.6,9.85,8,2,9,15
+186831,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.15,1,2,9,35
+186835,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,28.05,25,2,9,55
+186836,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.3,16.25,12,2,10,7
+186837,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,18.35,15,2,10,18
+186839,2016,2015-16,1610612748,Miami Heat,2757,Beno Udrih,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,2,10,31
+186840,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,6.35,2,2,10,42
+186843,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.7,18.35,18,2,11,1
+186845,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.05,1,2,11,21
+186852,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.1,17.15,11,2,11,43
+186857,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.15,1,1,0,0
+186859,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,5.95,1,1,0,7
+186860,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,18.65,16,1,0,29
+186862,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,20.35,17,1,0,41
+186867,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.35,2,1,1,23
+186871,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.55,1,1,1,42
+186883,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,11.95,6,1,2,12
+186884,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,1,2,27
+186886,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,2,52
+186887,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.0,8.35,24,1,2,54
+186890,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.4,16.35,24,1,3,9
+186897,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.6,22.45,24,1,3,52
+186903,2016,2015-16,1610612748,Miami Heat,204020,Tyler Johnson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.45,24,1,4,28
+186905,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.35,1,1,4,55
+186913,2016,2015-16,1610612748,Miami Heat,1626159,Justise Winslow,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,6.35,23,1,5,10
+186914,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.35,22,1,5,26
+186917,2016,2015-16,1610612748,Miami Heat,1626196,Josh Richardson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,27.65,25,1,5,40
+186918,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.9,19.15,13,1,6,5
+186921,2016,2015-16,1610612748,Miami Heat,1626196,Josh Richardson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.55,1,1,6,20
+186923,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,23.55,18,1,6,37
+186928,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.95,24,1,6,49
+186936,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.7,13.25,15,1,7,23
+186940,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,19.15,18,1,7,33
+186942,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,11.75,9,1,7,46
+186947,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.95,23,1,8,0
+186955,2016,2015-16,1610612748,Miami Heat,2736,Luol Deng,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.6,5.95,18,1,8,28
+186959,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,1,8,33
+186961,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.85,1,1,8,47
+186964,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.6,28.95,25,1,8,54
+186969,2016,2015-16,1610612748,Miami Heat,202355,Hassan Whiteside,C,C,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,11.95,14,1,9,16
+186973,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.6,5.95,24,1,9,43
+186979,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.05,1,1,9,55
+186980,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,8.05,16,1,10,19
+186982,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.55,23,1,10,36
+186984,2016,2015-16,1610612748,Miami Heat,1626196,Josh Richardson,G,SG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.35,23,1,10,50
+186985,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,22.15,24,1,11,1
+186987,2016,2015-16,1610612748,Miami Heat,2547,Chris Bosh,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,19.35,17,1,11,12
+186990,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,11-12-2015,21500124,MIA,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.1,19.65,16,1,11,23
+186993,2016,2015-16,1610612748,Miami Heat,201609,Goran Dragic,G,PG,11-12-2015,21500124,MIA,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.55,2,1,11,40

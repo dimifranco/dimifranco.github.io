@@ -1,0 +1,154 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+88005,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,26.55,28,4,0,0
+88012,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,29.05,27,4,0,26
+88014,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,4,0,34
+88017,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,4,0,53
+88020,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.4,29.45,24,4,1,9
+88024,2011,2010-11,1610612738,Boston Celtics,202376,Luke Harangody,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,15.95,25,4,1,35
+88029,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,20.65,25,4,1,44
+88033,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,3.15,20,4,1,52
+88041,2011,2010-11,1610612738,Boston Celtics,202376,Luke Harangody,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.95,2,4,2,15
+88043,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,26.85,24,4,2,27
+88046,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,16.45,24,4,2,44
+88055,2011,2010-11,1610612738,Boston Celtics,202376,Luke Harangody,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,3,19
+88061,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,22.85,24,4,3,21
+88069,2011,2010-11,1610612738,Boston Celtics,202376,Luke Harangody,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,5.55,19,4,3,49
+88133,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.95,0,4,4,46
+88142,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.8,29.15,25,4,5,2
+88143,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,8.35,8,4,5,8
+88148,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,22.85,19,4,5,29
+88196,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,30.25,25,4,6,20
+88202,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.3,13.85,16,4,6,37
+88209,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,12.15,6,4,6,59
+88237,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.55,25,4,7,27
+88266,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.6,5.35,14,4,8,40
+88276,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,22.85,17,4,8,51
+88282,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.3,20.15,17,4,9,8
+88306,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.35,0,4,9,25
+88314,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,8.55,3,4,9,43
+88329,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,4,10,5
+88334,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.15,3,4,10,6
+88340,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,16.25,25,4,10,24
+88348,2011,2010-11,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,4.95,17,4,10,40
+88353,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.0,7.45,11,4,10,53
+88363,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.35,1,4,11,13
+88371,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,4,11,37
+88415,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,27.45,24,3,0,16
+88417,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.5,3.35,20,3,0,31
+88436,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,8.85,3,3,0,53
+88438,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,14.95,13,3,1,14
+88443,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,10.45,8,3,1,32
+88445,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.0,15.15,25,3,1,48
+88448,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,3,2,6
+88460,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,17.95,24,3,2,21
+88471,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.1,13.25,10,3,2,32
+88473,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,3,2,50
+88479,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.9,27.65,25,3,2,55
+88493,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,15.65,24,3,3,21
+88496,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,9.15,3,3,3,27
+88519,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.55,5,3,3,41
+88527,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,6.75,5,3,3,55
+88554,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,21.45,16,3,4,19
+88561,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.9,13.45,8,3,4,35
+88562,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,26.95,24,3,4,55
+88573,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,4.95,18,3,5,2
+88604,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,5.25,6,3,5,26
+88608,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,10.85,10,3,5,45
+88638,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,20.35,18,3,6,7
+88645,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,4.75,4,3,6,17
+88647,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,18.95,16,3,6,41
+88656,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.85,2,3,6,58
+88661,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.3,22.75,19,3,7,7
+88672,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.8,13.45,10,3,7,28
+88674,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,3,7,46
+88684,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.55,19,3,7,52
+88687,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.5,19.55,14,3,8,6
+88693,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.15,24,3,8,29
+88707,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.85,1,3,8,51
+88719,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.65,23,3,9,12
+88723,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.4,30.25,25,3,9,36
+88740,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.05,2,3,10,1
+88746,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,9.35,7,3,10,18
+88755,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,6.45,6,3,10,34
+88763,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,11.25,18,3,10,54
+88776,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,3,11,10
+88778,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,15.35,21,3,11,26
+88822,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-23.0,15.45,25,2,0,0
+88859,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,2,0,35
+88877,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,6.45,4,2,1,10
+88890,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,6.75,8,2,1,26
+88900,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.55,5,2,1,49
+88901,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.0,27.45,23,2,2,6
+88909,2011,2010-11,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,6.95,5,2,2,29
+88952,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,13.55,13,2,3,26
+88986,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,2,4,19
+89053,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,11.35,11,2,4,42
+89063,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.1,6.45,7,2,4,53
+89066,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,22.75,20,2,5,12
+89076,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.2,21.15,20,2,5,23
+89077,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,6.45,10,2,5,37
+89087,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.1,26.65,21,2,5,51
+89114,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,7.25,8,2,6,22
+89127,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.7,17.95,25,2,6,30
+89130,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,26.95,22,2,6,42
+89136,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.95,1,2,7,8
+89137,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.95,1,2,7,30
+89148,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,28.05,25,2,7,36
+89160,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,7.45,5,2,7,44
+89182,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,6.75,4,2,7,53
+89193,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.95,3,2,8,4
+89196,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.4,14.15,24,2,8,12
+89203,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,4.25,23,2,8,20
+89209,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.8,18.75,21,2,8,35
+89216,2011,2010-11,1610612738,Boston Celtics,101144,Von Wafer,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.65,2,2,8,43
+89225,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,2,8,49
+89244,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.0,31.75,26,2,9,2
+89257,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,8.25,6,2,9,11
+89260,2011,2010-11,1610612756,Phoenix Suns,201609,Goran Dragic,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,2,9,32
+89266,2011,2010-11,1610612738,Boston Celtics,406,Shaquille O'Neal,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,6.15,8,2,9,38
+89271,2011,2010-11,1610612756,Phoenix Suns,2554,Mickael Pietrus,G,SG-SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,13.55,11,2,9,58
+89278,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.8,27.45,24,2,10,11
+89293,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,2,10,35
+89304,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.35,3,2,10,38
+89308,2011,2010-11,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.1,23.85,19,2,11,7
+89314,2011,2010-11,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,2,11,27
+89346,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,29.35,24,1,0,0
+89354,2011,2010-11,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.3,12.65,8,1,0,8
+89396,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,8.55,4,1,0,33
+89409,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,5.95,10,1,0,43
+89411,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.3,22.45,17,1,1,7
+89415,2011,2010-11,1610612738,Boston Celtics,201623,Semih Erden,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,1,1,21
+89422,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,8.45,17,1,1,43
+89437,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,24.15,19,1,1,58
+89483,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.2,29.15,24,1,2,42
+89491,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,25.85,21,1,2,52
+89502,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,1,3,35
+89512,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,9.15,3,1,3,38
+89518,2011,2010-11,1610612738,Boston Celtics,201175,Glen Davis,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,25.75,20,1,3,50
+89532,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.55,24,1,4,9
+89543,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,7.55,4,1,4,15
+89544,2011,2010-11,1610612756,Phoenix Suns,201162,Jared Dudley,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,10.05,14,1,4,36
+89553,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,16.85,16,1,4,42
+89555,2011,2010-11,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.45,2,1,5,0
+89579,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.5,6.65,4,1,5,24
+89580,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.65,1,1,5,37
+89591,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.85,1,1,5,57
+89597,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,1,6,11
+89599,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,5.25,1,1,6,12
+89615,2011,2010-11,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,7.55,7,1,6,21
+89648,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,8.25,7,1,7,1
+89656,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,5.05,10,1,7,6
+89657,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.0,19.55,16,1,7,26
+89670,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,4.25,20,1,7,40
+89677,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,20.35,19,1,7,50
+89711,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,17.05,20,1,8,7
+89717,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,19.75,16,1,8,19
+89754,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,26.85,24,1,8,53
+89765,2011,2010-11,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,22.05,16,1,9,13
+89809,2011,2010-11,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.7,16.55,13,1,9,44
+89827,2011,2010-11,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.2,29.65,24,1,9,57
+89829,2011,2010-11,1610612756,Phoenix Suns,1713,Vince Carter,G,SG,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.75,3,1,10,6
+89846,2011,2010-11,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,7.75,20,1,10,14
+89885,2011,2010-11,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.1,17.85,13,1,11,1
+89895,2011,2010-11,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2011,21000690,PHX,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,1,11,15
+89936,2011,2010-11,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-28-2011,21000690,PHX,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,23.55,18,1,11,45

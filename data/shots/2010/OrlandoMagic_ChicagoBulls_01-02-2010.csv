@@ -1,0 +1,180 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+121354,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,24.95,26,4,0,7
+121358,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,27.15,25,4,0,11
+121363,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,27.75,27,4,0,15
+121377,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,21.65,26,4,0,27
+121380,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,25.75,21,4,0,35
+121387,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,5.05,23,4,1,2
+121389,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.35,6,4,1,19
+121391,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,43
+121397,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,16.75,16,4,1,47
+121399,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.5,13.55,17,4,2,0
+121410,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,34
+121414,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,20.55,17,4,2,44
+121416,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,24.65,25,4,3,8
+121430,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.9,22.05,17,4,3,18
+121441,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,11.05,7,4,3,34
+121449,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,4.95,23,4,3,50
+121451,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,4,6
+121464,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.9,16.75,18,4,4,14
+121467,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,22.25,19,4,4,37
+121474,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,16.05,18,4,4,54
+121483,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,23.05,19,4,5,18
+121495,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,18.45,19,4,5,35
+121497,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.85,23,4,5,52
+121513,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,55
+121522,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,5.35,14,4,6,11
+121529,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,30.15,25,4,6,30
+121536,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.75,20,4,6,49
+121548,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,29.05,25,4,6,59
+121554,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,20.05,17,4,7,14
+121560,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,32
+121571,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,4.95,17,4,7,47
+121580,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,1
+121585,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,9.95,24,4,8,19
+121610,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,39
+121614,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,45
+121620,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,6.15,13,4,9,0
+121633,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,23
+121667,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,58
+121677,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.1,30.25,25,4,10,7
+121685,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,19.85,19,4,10,15
+121690,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,26
+121703,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,38
+121743,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.3,12.95,8,4,11,6
+121751,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.3,19.75,21,4,11,17
+121788,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.45,25,4,11,44
+121802,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.4,44.35,42,3,0,0
+121808,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,21.25,16,3,0,1
+121858,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.0,20.55,16,3,0,28
+121868,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,26.95,22,3,0,45
+121893,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,49
+121901,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.6,24.15,25,3,1,52
+121910,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,59
+121914,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,0
+121935,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,22
+121963,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,25.55,25,3,2,54
+122017,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,35
+122022,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,24.75,22,3,3,39
+122036,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,8.65,12,3,3,52
+122051,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,55
+122052,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,16
+122058,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,31
+122062,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,23.85,25,3,4,36
+122070,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.2,21.15,16,3,4,50
+122071,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,4.65,24,3,5,5
+122080,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,18.15,19,3,5,23
+122082,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,8.65,5,3,5,43
+122087,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.1,15.15,17,3,5,55
+122098,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,26.85,25,3,6,7
+122133,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,26.85,25,3,6,32
+122144,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.55,17,3,6,41
+122153,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.3,24.75,26,3,6,53
+122162,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,21.95,24,3,7,12
+122172,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,10.05,10,3,7,21
+122181,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,35
+122186,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,36
+122193,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,22.55,17,3,7,50
+122202,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,27.95,22,3,8,14
+122236,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,20.85,16,3,8,51
+122244,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.6,17.55,18,3,8,58
+122273,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,21
+122283,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,9.45,11,3,9,43
+122290,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,10.75,5,3,10,5
+122292,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,11.65,10,3,10,25
+122296,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,39
+122299,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,26.35,25,3,10,48
+122302,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.8,30.45,25,3,11,16
+122308,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,10.25,16,3,11,25
+122329,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.45,22,2,0,21
+122335,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,23.85,24,2,0,37
+122343,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,51
+122347,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,1
+122355,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,8.25,9,2,1,4
+122361,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,32
+122370,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,34
+122374,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,35
+122382,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.65,25,2,1,42
+122388,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.0,11.25,9,2,1,54
+122428,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,17
+122437,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.8,21.95,18,2,2,35
+122526,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,26.35,24,2,3,46
+122537,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,1
+122548,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.7,12.35,16,2,4,13
+122556,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,6.45,15,2,4,31
+122562,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.15,25,2,4,49
+122571,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,0
+122573,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,11.95,7,2,5,6
+122579,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,6.45,15,2,5,17
+122615,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,8.65,14,2,5,42
+122622,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,46
+122625,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,6
+122639,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,42
+122641,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,43
+122652,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,9
+122653,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,8.35,19,2,7,27
+122661,2010,2009-10,1610612741,Chicago Bulls,1802,Brad Miller,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,45
+122667,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,51
+122673,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.0,10.85,7,2,8,3
+122677,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,16.55,24,2,8,18
+122692,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.5,22.45,18,2,8,39
+122710,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,30.15,25,2,9,3
+122721,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,17.65,25,2,9,21
+122728,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,21.15,19,2,9,27
+122731,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,48
+122733,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.65,22,2,9,49
+122753,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,28.85,23,2,10,21
+122760,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,20.05,21,2,10,30
+122767,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,20.35,20,2,10,43
+122776,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.2,19.25,20,2,11,10
+122781,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,26
+122783,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,28.85,24,2,11,36
+122797,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,11,46
+122812,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,5.85,22,1,0,0
+122833,2010,2009-10,1610612741,Chicago Bulls,201949,James Johnson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,20
+122837,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.6,29.95,24,1,0,33
+122842,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,5.35,15,1,0,40
+122862,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,10
+122870,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,16.85,22,1,1,19
+122878,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,38
+122889,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,19.25,20,1,1,41
+122891,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.3,22.55,25,1,1,55
+122896,2010,2009-10,1610612741,Chicago Bulls,2422,John Salmons,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,8.35,17,1,2,8
+122901,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,17
+122915,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.8,13.45,16,1,2,26
+122920,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.0,18.95,21,1,2,38
+122936,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,25
+122938,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,38
+122946,2010,2009-10,1610612741,Chicago Bulls,200748,Tyrus Thomas,F,PF-C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.2,18.65,15,1,3,46
+122957,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,4
+122995,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,15.95,20,1,4,30
+123004,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.1,21.25,16,1,4,46
+123011,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,23.55,25,1,5,0
+123026,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.1,19.75,21,1,5,8
+123033,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,16
+123039,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.75,7,1,5,34
+123054,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,13.45,14,1,5,38
+123069,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,52
+123082,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,1
+123091,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,2
+123117,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,35
+123130,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,37
+123139,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,51
+123141,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,4
+123154,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,7.25,11,1,7,33
+123160,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.7,20.35,17,1,7,53
+123165,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,12
+123172,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,24.45,19,1,8,28
+123191,2010,2009-10,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-21.1,5.25,21,1,8,48
+123204,2010,2009-10,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.3,7.25,7,1,9,8
+123215,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,12.15,13,1,9,21
+123216,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.75,22,1,9,33
+123227,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,44
+123234,2010,2009-10,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.0,25.85,20,1,9,56
+123238,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,7
+123257,2010,2009-10,1610612741,Chicago Bulls,2550,Kirk Hinrich,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,12.65,8,1,10,20
+123258,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,4.45,23,1,10,34
+123274,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.65,11,1,10,56
+123278,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,5
+123287,2010,2009-10,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-02-2010,20900482,CHI,ORL,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,17
+123294,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-02-2010,20900482,CHI,ORL,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,26.85,25,1,11,35

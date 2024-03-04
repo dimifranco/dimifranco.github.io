@@ -1,0 +1,180 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+47987,2012,2011-12,1610612749,Milwaukee Bucks,202699,Tobias Harris,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.4,18.65,19,4,0,1
+47993,2012,2011-12,1610612738,Boston Celtics,202734,E'Twaun Moore,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,3.05,23,4,0,13
+47998,2012,2011-12,1610612738,Boston Celtics,202734,E'Twaun Moore,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.95,0,4,0,16
+47999,2012,2011-12,1610612749,Milwaukee Bucks,202336,Larry Sanders,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,6.65,6,4,0,34
+48003,2012,2011-12,1610612738,Boston Celtics,2562,Sasha Pavlovic,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,7.55,7,4,0,42
+48020,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.4,8.85,15,4,1,0
+48032,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,12.15,18,4,1,33
+48035,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,12.45,20,4,2,5
+48038,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.5,31.35,26,4,2,23
+48044,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.0,19.85,14,4,2,35
+48045,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.65,0,4,2,49
+48048,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,20.35,24,4,3,9
+48050,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,4,3,26
+48054,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,16.45,20,4,3,48
+48071,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,5.85,8,4,4,12
+48083,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,4,34
+48087,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.05,1,4,4,36
+48092,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,9.35,6,4,4,39
+48098,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,5.25,7,4,4,57
+48101,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,18.15,19,4,5,20
+48103,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,17.55,15,4,5,39
+48112,2012,2011-12,1610612738,Boston Celtics,2039,Keyon Dooling,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,24.25,21,4,5,54
+48115,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,17.55,14,4,6,8
+48119,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.95,0,4,6,18
+48120,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,6.75,5,4,6,27
+48123,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,4,6,44
+48134,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,4,7,1
+48136,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,11.35,15,4,7,15
+48138,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,4,7,34
+48139,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,4,7,36
+48143,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-5.1,19.75,15,4,7,50
+48150,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.95,1,4,8,42
+48154,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.0,30.25,25,4,9,2
+48164,2012,2011-12,1610612738,Boston Celtics,2039,Keyon Dooling,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,4,9,28
+48168,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,3.85,23,4,9,32
+48169,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,4,10,0
+48172,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.7,6.65,17,4,10,14
+48177,2012,2011-12,1610612738,Boston Celtics,201880,Greg Stiemsma,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,10,27
+48182,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,12.15,24,4,10,59
+48184,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,4,11,22
+48187,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.65,4,4,11,25
+48192,2012,2011-12,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.35,0,4,11,40
+48195,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,3,0,0
+48197,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.2,15.65,17,3,0,21
+48200,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,7.75,7,3,0,48
+48202,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,5.25,17,3,1,6
+48205,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,6.65,24,3,1,19
+48213,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.5,20.85,18,3,1,33
+48219,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.3,4.75,7,3,1,50
+48228,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,3.95,11,3,2,1
+48230,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.2,9.45,17,3,2,20
+48235,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,4.65,12,3,2,25
+48246,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,23.85,19,3,2,36
+48251,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,4.95,13,3,2,51
+48255,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,12.95,25,3,3,6
+48258,2012,2011-12,1610612738,Boston Celtics,201880,Greg Stiemsma,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,4.15,16,3,3,25
+48262,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,3,43
+48278,2012,2011-12,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,5.65,5,3,4,8
+48280,2012,2011-12,1610612738,Boston Celtics,201880,Greg Stiemsma,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,14.05,13,3,4,24
+48282,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.55,0,3,4,47
+48288,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,3.95,6,3,5,15
+48312,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,4.25,1,3,6,4
+48319,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.1,21.65,18,3,6,15
+48321,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,3,6,34
+48325,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,4.15,1,3,6,39
+48332,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.75,5,3,7,4
+48337,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,3,7,19
+48340,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.65,0,3,7,23
+48344,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,8.85,18,3,7,35
+48346,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,12.95,24,3,7,57
+48349,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,26.05,26,3,8,16
+48353,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,6.15,6,3,8,40
+48358,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.55,5,3,9,0
+48360,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.8,30.75,25,3,9,15
+48367,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.2,9.65,24,3,9,41
+48369,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,10.75,5,3,9,59
+48371,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,3.65,17,3,10,9
+48379,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.7,3.95,12,3,10,20
+48383,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,9.95,23,3,10,31
+48389,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,18.15,15,3,10,37
+48394,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,9.45,23,3,10,50
+48396,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.8,23.95,19,3,11,9
+48397,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.55,25,3,11,23
+48398,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,27.95,26,3,11,42
+48403,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.45,24,2,0,2
+48409,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,9.15,3,2,0,10
+48412,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.05,2,2,0,28
+48414,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.55,3,2,0,36
+48422,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.7,13.55,16,2,0,45
+48425,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,11.35,23,2,1,3
+48431,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,2,1,35
+48436,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.75,4,2,1,39
+48439,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,2,4
+48443,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,2,2,28
+48446,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,14.85,17,2,2,45
+48448,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,2,3,3
+48466,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,2,3,19
+48470,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,15.95,15,2,3,31
+48472,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.25,16,2,3,47
+48480,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.55,23,2,4,10
+48484,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,27.15,25,2,4,26
+48487,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.65,0,2,4,39
+48493,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,5,11
+48496,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.55,3,2,5,40
+48500,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,4.75,1,2,5,29
+48513,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,4.25,23,2,6,6
+48526,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,18.45,24,2,6,28
+48529,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,22.85,17,2,6,38
+48534,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.75,26,2,6,53
+48547,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,7,24
+48553,2012,2011-12,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.95,1,2,7,49
+48557,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.25,22,2,7,59
+48561,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.15,1,2,8,14
+48566,2012,2011-12,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.85,0,2,8,17
+48571,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.45,2,2,8,18
+48574,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,7.75,8,2,8,30
+48577,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,2,8,50
+48585,2012,2011-12,1610612738,Boston Celtics,2039,Keyon Dooling,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.6,6.15,16,2,9,9
+48587,2012,2011-12,1610612749,Milwaukee Bucks,201601,Luc Mbah a Moute,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,5.05,16,2,9,24
+48592,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,17.55,15,2,9,49
+48596,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,5.25,8,2,10,0
+48598,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.9,20.05,25,2,10,20
+48603,2012,2011-12,1610612738,Boston Celtics,2039,Keyon Dooling,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,9.15,5,2,10,34
+48604,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,6.75,9,2,10,58
+48612,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,15.65,19,2,11,9
+48617,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,8.05,18,2,11,21
+48621,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,5.65,0,2,11,44
+48627,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,7.25,2,1,0,1
+48629,2012,2011-12,1610612738,Boston Celtics,202340,Avery Bradley,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,15.65,16,1,0,16
+48630,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,1,0,28
+48633,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,13.05,23,1,0,39
+48634,2012,2011-12,1610612749,Milwaukee Bucks,2757,Beno Udrih,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.5,22.25,17,1,0,54
+48638,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,18.45,19,1,1,0
+48649,2012,2011-12,1610612749,Milwaukee Bucks,2399,Mike Dunleavy,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,4.75,11,1,1,45
+48656,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,7.45,20,1,1,52
+48659,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,13.25,17,1,2,12
+48670,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,1,2,15
+48673,2012,2011-12,1610612738,Boston Celtics,201880,Greg Stiemsma,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,9.15,16,1,2,27
+48675,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,10.25,9,1,2,35
+48677,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,5.25,10,1,2,50
+48679,2012,2011-12,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.95,3,1,3,2
+48682,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,20.65,25,1,3,15
+48687,2012,2011-12,1610612738,Boston Celtics,2554,Mickael Pietrus,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,11.25,24,1,3,41
+48691,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.35,2,1,3,49
+48695,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,13.8,15.15,16,1,3,59
+48716,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.75,3,1,4,20
+48719,2012,2011-12,1610612738,Boston Celtics,201880,Greg Stiemsma,C,C,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,4,26
+48722,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.6,5.95,13,1,4,29
+48724,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.65,3,1,4,46
+48726,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,6.45,1,1,4,49
+48729,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,1,5,4
+48739,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,5,18
+48740,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,1,5,40
+48754,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,8.25,6,1,5,50
+48761,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.55,1,1,5,57
+48765,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.05,1,1,6,5
+48770,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,12.35,14,1,6,13
+48773,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,12.75,23,1,6,35
+48776,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.3,13.75,16,1,6,47
+48781,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,1,7,4
+48783,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.2,9.15,8,1,7,5
+48787,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.15,24,1,7,19
+48804,2012,2011-12,1610612738,Boston Celtics,708,Kevin Garnett,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,16.25,17,1,7,59
+48806,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.25,10,1,8,15
+48817,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,1,8,23
+48826,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,16.85,16,1,8,39
+48827,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.25,0,1,8,54
+48831,2012,2011-12,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,1,9,4
+48835,2012,2011-12,1610612749,Milwaukee Bucks,101141,Ersan Ilyasova,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,1,9,16
+48848,2012,2011-12,1610612749,Milwaukee Bucks,201943,Brandon Jennings,G,PG,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,7.45,3,1,9,25
+48854,2012,2011-12,1610612738,Boston Celtics,101138,Brandon Bass,F,PF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,4.65,14,1,9,40
+48859,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.85,1,1,9,47
+48864,2012,2011-12,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.35,24,1,10,0
+48867,2012,2011-12,1610612749,Milwaukee Bucks,2568,Carlos Delfino,F,SF,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,3.85,24,1,10,18
+48872,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,10,25
+48874,2012,2011-12,1610612749,Milwaukee Bucks,101145,Monta Ellis,G,SG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,16.45,18,1,10,50
+48881,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,17.15,21,1,11,0
+48887,2012,2011-12,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-22-2012,21100694,MIL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,9.95,6,1,11,23
+48894,2012,2011-12,1610612749,Milwaukee Bucks,2400,Drew Gooden,C,C,03-22-2012,21100694,MIL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,3.15,19,1,11,41

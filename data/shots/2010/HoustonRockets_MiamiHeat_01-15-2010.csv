@@ -1,0 +1,161 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+105923,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,16
+105927,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,19
+105961,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,27
+105965,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,27
+105991,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.75,24,4,0,41
+105997,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,1
+106004,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.05,22,4,1,10
+106009,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.3,29.85,24,4,1,27
+106011,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,41
+106016,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,13.05,10,4,2,2
+106018,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,6.15,17,4,2,19
+106044,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.2,19.25,14,4,2,48
+106058,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.55,23,4,3,21
+106078,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,26.65,24,4,3,41
+106082,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,6.65,22,4,3,45
+106113,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,20.95,16,4,4,46
+106118,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,8.05,10,4,5,24
+106124,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,29.65,24,4,5,7
+106132,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,12.35,13,4,5,18
+106174,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.8,23.05,18,4,5,45
+106211,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,7.15,15,4,6,18
+106225,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.7,27.65,24,4,6,46
+106234,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,5.55,5,4,7,0
+106256,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.45,24,4,7,30
+106258,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,12.15,15,4,7,39
+106265,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,8.95,15,4,7,47
+106273,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,7
+106286,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.3,29.65,24,4,8,20
+106295,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,49
+106299,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,7.75,6,4,8,56
+106302,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,21
+106312,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.2,25.25,27,4,9,25
+106318,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,7.15,18,4,9,31
+106327,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.8,12.65,7,4,9,48
+106329,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,26.55,24,4,10,6
+106369,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.45,22,4,10,47
+106378,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,14.15,20,4,11,0
+106382,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,22.05,19,4,11,25
+106398,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.15,25,4,11,36
+106412,2010,2009-10,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,0
+106435,2010,2009-10,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,8.65,6,3,0,27
+106440,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-3.6,19.45,14,3,0,30
+106471,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.4,24.65,24,3,1,0
+106474,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,10.85,23,3,1,28
+106515,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,58
+106526,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,12.45,7,3,2,5
+106551,2010,2009-10,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,23
+106589,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,11.25,6,3,2,54
+106593,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.1,9.65,5,3,3,16
+106596,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,12.95,7,3,3,32
+106634,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,49
+106639,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,7
+106645,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,10.55,16,3,4,33
+106655,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,5.35,17,3,4,46
+106667,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,2
+106674,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,7.25,23,3,5,18
+106686,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.7,20.35,16,3,5,34
+106704,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.55,23,3,5,51
+106719,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,5
+106731,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.3,29.65,24,3,6,15
+106740,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,23.85,18,3,6,42
+106749,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,25.75,24,3,7,0
+106760,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,12
+106766,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,12.65,15,3,7,21
+106773,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,36
+106780,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.0,25.25,24,3,7,37
+106801,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.9,22.75,18,3,8,1
+106810,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,30.45,25,3,8,16
+106816,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,22
+106825,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,25
+106831,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,7.85,11,3,8,34
+106836,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.5,20.65,20,3,9,0
+106841,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,16
+106870,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,43
+106879,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.2,26.15,22,3,10,3
+106901,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,22
+106913,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,24.75,19,3,10,36
+106927,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,55
+106932,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,7.85,14,3,11,13
+106945,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,18.45,15,3,11,40
+106971,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,9.45,11,2,0,5
+106978,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.7,28.75,24,2,0,29
+106987,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.3,19.75,17,2,0,42
+106995,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.5,28.05,24,2,0,57
+106999,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,16.55,24,2,1,8
+107054,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,6.95,10,2,2,17
+107061,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.8,20.65,24,2,2,36
+107096,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,7.45,15,2,2,56
+107099,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,13.25,8,2,3,10
+107104,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,22
+107108,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.1,20.55,17,2,3,45
+107114,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,9.75,10,2,3,59
+107156,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,23.55,18,2,4,43
+107164,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,16.6,18.75,21,2,5,0
+107196,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,11.35,6,2,5,40
+107215,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,0
+107246,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,14
+107255,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,32
+107267,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,27.45,24,2,6,40
+107281,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,17.35,15,2,7,2
+107315,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,20
+107327,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,26
+107331,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.7,13.55,12,2,7,43
+107334,2010,2009-10,1610612745,Houston Rockets,200768,Kyle Lowry,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,21.45,19,2,8,8
+107337,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,13.45,24,2,8,26
+107345,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,10.25,8,2,8,41
+107349,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,53
+107409,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.4,28.75,24,2,10,2
+107413,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,11.55,6,2,10,9
+107419,2010,2009-10,1610612745,Houston Rockets,2431,David Andersen,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.85,15,2,10,30
+107420,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,42
+107427,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,27.15,24,2,11,2
+107433,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,5.25,8,2,11,8
+107438,2010,2009-10,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.6,21.75,16,2,11,23
+107448,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,16.75,15,2,11,29
+107454,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.7,23.65,18,2,11,44
+107469,2010,2009-10,1610612745,Houston Rockets,201171,Carl Landry,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,0
+107472,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.4,10.25,5,1,0,14
+107477,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,32
+107480,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,36
+107488,2010,2009-10,1610612748,Miami Heat,2748,Dorell Wright,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,53
+107505,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,3
+107538,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,12.45,20,1,1,28
+107546,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,45
+107548,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,59
+107559,2010,2009-10,1610612745,Houston Rockets,201978,Chase Budinger,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,23.15,17,1,2,13
+107565,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,27
+107570,2010,2009-10,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.3,22.55,18,1,2,30
+107618,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,23.95,21,1,2,55
+107627,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.6,14.05,24,1,3,19
+107632,2010,2009-10,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,36
+107638,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,54
+107660,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,27
+107672,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,16.75,13,1,4,29
+107675,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,44
+107685,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.6,10.25,5,1,4,52
+107691,2010,2009-10,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.9,12.35,7,1,5,3
+107700,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,7.25,15,1,5,16
+107708,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,12.95,15,1,5,29
+107723,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,24.25,19,1,5,49
+107733,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,8.25,14,1,5,56
+107741,2010,2009-10,1610612748,Miami Heat,2047,Quentin Richardson,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,8.95,22,1,6,14
+107747,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,11.35,8,1,6,34
+107755,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,9.65,18,1,6,49
+107779,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,23.35,24,1,7,12
+107789,2010,2009-10,1610612748,Miami Heat,201563,Michael Beasley,F,PF,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,6.75,12,1,7,20
+107796,2010,2009-10,1610612745,Houston Rockets,101236,Chuck Hayes,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,40
+107801,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,9.65,4,1,7,57
+107808,2010,2009-10,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.8,12.45,10,1,8,16
+107815,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.4,24.45,19,1,8,34
+107823,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,7.15,7,1,9,1
+107831,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,13
+107840,2010,2009-10,1610612745,Houston Rockets,2449,Luis Scola,F,PF,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,31
+107854,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,7.85,11,1,10,1
+107867,2010,2009-10,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,20
+107877,2010,2009-10,1610612745,Houston Rockets,201166,Aaron Brooks,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,30.45,25,1,10,29
+107884,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,41
+107892,2010,2009-10,1610612748,Miami Heat,1747,Rafer Alston,G,PG,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,43
+107938,2010,2009-10,1610612745,Houston Rockets,2203,Shane Battier,G,SG,01-15-2010,20900580,HOU,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,8.05,22,1,11,19
+107953,2010,2009-10,1610612748,Miami Heat,979,Jermaine O'Neal,C,C,01-15-2010,20900580,HOU,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,7.75,8,1,11,39

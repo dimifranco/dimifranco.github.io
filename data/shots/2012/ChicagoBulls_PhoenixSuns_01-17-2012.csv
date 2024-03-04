@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+128942,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.15,1,4,0,5
+128944,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,4,0,29
+128946,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,23.05,21,4,0,29
+128963,2012,2011-12,1610612741,Chicago Bulls,2243,Brian Scalabrine,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.4,12.75,8,4,0,43
+128965,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,26.05,25,4,1,4
+128973,2012,2011-12,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,24.45,24,4,1,29
+128978,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.35,1,4,1,35
+128992,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.75,4,4,2,15
+128994,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,20.95,17,4,2,39
+129001,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,4,2,52
+129006,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,9.75,8,4,3,9
+129029,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.35,23,4,3,58
+129030,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,26.35,21,4,4,24
+129040,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.95,6,4,4,32
+129044,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,22.85,17,4,4,41
+129049,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.15,2,4,5,1
+129052,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,14.15,19,4,5,3
+129057,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.65,16,4,5,20
+129085,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.35,1,4,5,49
+129087,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.65,2,4,5,52
+129096,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,4,6,16
+129100,2012,2011-12,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.0,22.75,25,4,6,17
+129104,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,19.05,20,4,6,25
+129113,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,6.45,16,4,6,33
+129116,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,4,6,59
+129122,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,5.05,13,4,7,22
+129125,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,19.05,16,4,7,40
+129126,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.8,18.15,21,4,8,1
+129132,2012,2011-12,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.9,20.95,20,4,8,11
+129137,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.15,24,4,8,28
+129148,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,23.95,24,4,8,48
+129155,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.95,2,4,9,0
+129169,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,6.65,22,4,9,32
+129179,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,24.95,25,4,9,53
+129185,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,5.95,18,4,10,4
+129187,2012,2011-12,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,10.45,17,4,10,16
+129190,2012,2011-12,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,8.25,13,4,10,31
+129210,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.65,2,4,10,47
+129212,2012,2011-12,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.2,12.95,9,4,11,6
+129217,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.5,17.95,13,4,11,16
+129220,2012,2011-12,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.75,2,4,11,32
+129222,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,4.15,16,4,11,35
+129234,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.5,17.65,19,3,0,0
+129239,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,4.45,19,3,0,17
+129261,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,20.85,17,3,0,45
+129273,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.95,1,3,0,59
+129274,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.05,1,3,1,14
+129276,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,12.15,7,3,1,26
+129278,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,28.25,26,3,1,40
+129283,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.95,4,3,1,53
+129294,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,9.95,5,3,2,11
+129300,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,3,2,38
+129327,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.25,25,3,3,11
+129328,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,23.85,25,3,3,24
+129336,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.7,17.35,12,3,3,35
+129343,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,7.45,17,3,3,58
+129349,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.0,11.25,6,3,4,6
+129360,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,15.95,21,3,4,23
+129362,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,14.65,14,3,4,49
+129369,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,5.55,1,3,5,3
+129371,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.15,1,3,5,9
+129377,2012,2011-12,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.2,20.65,15,3,5,21
+129380,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,5.35,1,3,5,39
+129385,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,11.85,6,3,5,46
+129389,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,19.45,25,3,6,2
+129390,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.5,15.55,15,3,7,0
+129402,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.6,21.25,19,3,6,26
+129425,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.75,23,3,7,12
+129427,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.15,2,3,7,28
+129431,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,22.25,17,3,7,42
+129434,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,5.55,16,3,7,50
+129437,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.6,22.85,18,3,8,41
+129444,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,9.15,11,3,8,56
+129450,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.3,9.45,11,3,9,18
+129466,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.15,23,3,9,34
+129478,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.95,0,3,10,6
+129480,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,4.95,14,3,10,7
+129483,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,6.15,17,3,10,14
+129488,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.0,23.15,19,3,10,23
+129491,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,28.75,26,3,10,32
+129494,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,3,11,2
+129499,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,1.75,13,3,11,15
+129507,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,9.45,5,3,11,45
+129516,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,40.05,37,2,0,0
+129526,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,22.45,18,2,0,2
+129536,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,2,0,26
+129539,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,22.45,20,2,0,41
+129555,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,2,1,17
+129561,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.85,5,2,1,39
+129563,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,2,1,58
+129572,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,7.75,15,2,2,4
+129575,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.25,2,2,2,30
+129577,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.15,1,2,2,50
+129579,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,10.55,5,2,2,57
+129594,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.8,5.25,16,2,3,14
+129598,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,20.35,18,2,3,28
+129605,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,18.95,17,2,3,44
+129611,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,14.65,9,2,4,22
+129615,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.55,1,2,4,35
+129617,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,11.95,7,2,4,36
+129618,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,10.25,5,2,4,47
+129620,2012,2011-12,1610612756,Phoenix Suns,2072,Michael Redd,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.25,25,2,5,8
+129623,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-5.4,20.85,16,2,5,25
+129642,2012,2011-12,1610612741,Chicago Bulls,101249,John Lucas III,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,6.75,16,2,5,50
+129658,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,6.15,20,2,6,28
+129662,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,2,6,49
+129664,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.1,9.95,5,2,7,11
+129670,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.1,15.35,11,2,7,51
+129675,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,4.25,13,2,8,10
+129704,2012,2011-12,1610612756,Phoenix Suns,201577,Robin Lopez,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,2,9,3
+129715,2012,2011-12,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.2,24.75,20,2,9,28
+129732,2012,2011-12,1610612756,Phoenix Suns,200769,Shannon Brown,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.1,20.95,15,2,9,52
+129739,2012,2011-12,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,3.05,20,2,10,2
+129744,2012,2011-12,1610612756,Phoenix Suns,101124,Hakim Warrick,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,6.15,10,2,10,21
+129750,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,23.95,21,2,10,37
+129752,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,14.05,9,2,10,57
+129766,2012,2011-12,1610612741,Chicago Bulls,201600,Omer Asik,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,2,11,43
+129779,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,10.85,5,1,0,3
+129781,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,7.25,5,1,0,23
+129787,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,18.65,18,1,0,34
+129788,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.1,19.45,20,1,0,46
+129794,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,1,1,1
+129795,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,19.25,20,1,1,18
+129798,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.95,1,1,1,38
+129806,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,11.95,14,1,1,52
+129807,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.6,19.75,15,1,2,12
+129814,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,8.55,5,1,2,25
+129815,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.65,1,1,2,44
+129819,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,16.85,17,1,2,52
+129820,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,23.65,25,1,3,11
+129827,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,21.65,19,1,3,20
+129829,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.35,16,1,3,36
+129834,2012,2011-12,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,1,3,47
+129840,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.15,2,1,3,59
+129864,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.5,20.95,16,1,4,56
+129866,2012,2011-12,1610612756,Phoenix Suns,201162,Jared Dudley,G,SG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,20.85,21,1,5,16
+129875,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,1,5,22
+129877,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.65,1,1,5,40
+129883,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.1,10.55,16,1,5,47
+129885,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.9,18.65,20,1,6,9
+129893,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,5.85,19,1,6,27
+129896,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,11.85,21,1,6,38
+129903,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.25,24,1,6,49
+129907,2012,2011-12,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.6,19.05,20,1,7,5
+129915,2012,2011-12,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.0,28.85,24,1,7,11
+129922,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.05,16,1,7,27
+129927,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,16.25,14,1,7,43
+129941,2012,2011-12,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,7,52
+129945,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.75,2,1,7,53
+129946,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,21.95,17,1,8,5
+129950,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,24.75,19,1,8,17
+129959,2012,2011-12,1610612741,Chicago Bulls,1888,Richard Hamilton,G,SG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,3.35,19,1,8,47
+129965,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,17.65,17,1,8,55
+129967,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,6.45,14,1,9,7
+129968,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,6.35,6,1,9,23
+129976,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.45,1,1,9,37
+129978,2012,2011-12,1610612756,Phoenix Suns,959,Steve Nash,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,23.95,24,1,9,57
+129983,2012,2011-12,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,21.95,16,1,10,16
+129991,2012,2011-12,1610612756,Phoenix Suns,101162,Marcin Gortat,C,C,01-17-2012,21100198,CHI,PHX,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.45,1,1,10,31
+130001,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,13.45,13,1,10,39
+130015,2012,2011-12,1610612741,Chicago Bulls,2430,Carlos Boozer,F,PF,01-17-2012,21100198,CHI,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,16.05,18,1,11,14
+130023,2012,2011-12,1610612756,Phoenix Suns,255,Grant Hill,F,SF,01-17-2012,21100198,CHI,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,20.65,18,1,11,39

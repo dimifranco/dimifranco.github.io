@@ -1,0 +1,171 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+35920,2016,2015-16,1610612756,Phoenix Suns,201978,Chase Budinger,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.7,4.15,10,4,0,2
+35927,2016,2015-16,1610612762,Utah Jazz,203481,Jeff Withey,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.1,4.65,19,4,0,9
+35934,2016,2015-16,1610612756,Phoenix Suns,203098,John Jenkins,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,6.85,3,4,0,31
+35947,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,5.15,3,4,1,4
+35961,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.0,18.85,17,4,1,20
+35964,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,4.15,17,4,1,29
+35981,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.2,13.95,14,4,2,18
+35984,2016,2015-16,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.1,13.25,8,4,2,32
+35985,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,4.65,1,4,3,1
+35990,2016,2015-16,1610612756,Phoenix Suns,201978,Chase Budinger,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.4,14.45,9,4,3,6
+35993,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.7,28.05,24,4,3,28
+35998,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,26.55,24,4,4,0
+36015,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.0,28.05,24,4,4,31
+36018,2016,2015-16,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,10.95,6,4,4,41
+36022,2016,2015-16,1610612762,Utah Jazz,203481,Jeff Withey,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.85,2,4,4,51
+36047,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,23.55,24,4,5,10
+36049,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.1,21.15,24,4,5,30
+36052,2016,2015-16,1610612756,Phoenix Suns,203098,John Jenkins,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.4,16.75,21,4,5,44
+36057,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,6,1
+36062,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.5,9.35,6,4,6,3
+36070,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,3.15,13,4,6,17
+36074,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,4.15,3,4,6,33
+36081,2016,2015-16,1610612756,Phoenix Suns,203098,John Jenkins,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.3,9.85,24,4,6,51
+36084,2016,2015-16,1610612756,Phoenix Suns,203098,John Jenkins,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,11.45,17,4,7,4
+36095,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,26.55,24,4,7,23
+36105,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,24.75,25,4,7,33
+36108,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.6,28.45,24,4,7,50
+36113,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,20.85,21,4,8,10
+36114,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.15,3,4,8,23
+36118,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.8,5.95,23,4,8,42
+36133,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.7,6.85,22,4,9,13
+36148,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,4.15,3,4,9,24
+36153,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,15.25,14,4,9,41
+36157,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,25.05,19,4,9,51
+36182,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,28.95,24,4,10,21
+36188,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.2,26.55,25,4,10,26
+36194,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.6,14.25,10,4,10,36
+36201,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,8.85,7,4,10,54
+36202,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.4,20.15,16,4,11,2
+36214,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,11,27
+36227,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.3,17.85,13,3,0,3
+36232,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.1,19.35,24,3,0,16
+36235,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.0,5.15,3,3,0,33
+36243,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.15,2,3,0,38
+36251,2016,2015-16,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.6,23.55,24,3,0,57
+36267,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.0,5.15,3,3,1,14
+36281,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.7,5.45,2,3,1,22
+36283,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,29.15,23,3,1,22
+36288,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.7,10.85,5,3,1,30
+36293,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.75,6,3,1,43
+36311,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,4.15,4,3,2,23
+36320,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.8,17.35,14,3,2,44
+36324,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.8,5.15,3,3,2,58
+36328,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.1,28.05,23,3,3,17
+36341,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.3,7.35,5,3,3,49
+36344,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,5.15,1,3,3,58
+36353,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.3,28.05,23,3,4,14
+36364,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.15,1,3,4,29
+36370,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,26.85,24,3,4,34
+36378,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.95,2,3,4,55
+36385,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,5,5
+36387,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.05,2,3,5,6
+36393,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.4,5.25,10,3,5,30
+36397,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.35,24,3,5,50
+36407,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,18.65,25,3,6,7
+36418,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,5.45,23,3,6,33
+36422,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,18.15,22,3,6,41
+36433,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.85,4,3,7,7
+36439,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,31.95,26,3,7,20
+36441,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-4.8,13.25,9,3,7,30
+36447,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.9,7.35,10,3,7,50
+36458,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,9.35,4,3,7,59
+36512,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.85,3,3,9,29
+36517,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.55,25,3,9,36
+36521,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,4.15,3,3,9,42
+36527,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.1,27.05,21,3,9,47
+36534,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,20.15,16,3,9,58
+36543,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,19.65,18,3,10,6
+36549,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,20.65,16,3,10,19
+36551,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,26.55,24,3,10,35
+36556,2016,2015-16,1610612756,Phoenix Suns,2199,Tyson Chandler,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.0,14.75,17,3,10,48
+36567,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,6.35,2,3,11,6
+36571,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,13.75,18,3,11,8
+36579,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,21.65,18,3,11,29
+36582,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.4,20.15,18,3,11,42
+36601,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,12.45,24,2,0,0
+36608,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.8,24.75,24,2,0,16
+36612,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.6,8.85,6,2,0,39
+36624,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.5,13.95,8,2,0,52
+36632,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.1,24.75,24,2,1,8
+36634,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.1,5.95,24,2,1,15
+36643,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,25.25,24,2,1,42
+36667,2016,2015-16,1610612756,Phoenix Suns,2199,Tyson Chandler,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,1,55
+36669,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.95,4,2,1,57
+36673,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,2.65,11,2,2,14
+36677,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,9.55,4,2,2,26
+36678,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,2,48
+36682,2016,2015-16,1610612756,Phoenix Suns,2199,Tyson Chandler,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.15,2,2,3,11
+36686,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,3.15,18,2,3,34
+36696,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,4.25,3,2,3,50
+36702,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.8,17.85,18,2,3,58
+36705,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,28.05,25,2,4,9
+36709,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,5.15,3,2,4,32
+36727,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.45,24,2,5,7
+36732,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,23.55,24,2,5,25
+36750,2016,2015-16,1610612756,Phoenix Suns,203141,Mirza Teletovic,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.6,28.45,23,2,5,41
+36766,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.1,20.35,24,2,6,15
+36773,2016,2015-16,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,9.35,24,2,6,39
+36777,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,8.35,24,2,7,0
+36784,2016,2015-16,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.6,18.15,21,2,7,11
+36788,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.2,20.15,14,2,7,25
+36793,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.45,3,2,7,41
+36796,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.4,29.65,24,2,8,3
+36808,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,27.65,23,2,8,18
+36818,2016,2015-16,1610612756,Phoenix Suns,203462,Archie Goodwin,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.9,19.65,24,2,8,25
+36820,2016,2015-16,1610612756,Phoenix Suns,203462,Archie Goodwin,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.7,5.95,2,2,8,33
+36822,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.2,23.55,18,2,8,51
+36833,2016,2015-16,1610612756,Phoenix Suns,101179,Ronnie Price,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.65,23,2,9,16
+36837,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.1,5.55,6,2,9,25
+36842,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,11.45,6,2,9,42
+36844,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.5,19.15,14,2,9,46
+36858,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.1,19.65,17,2,9,58
+36861,2016,2015-16,1610612756,Phoenix Suns,202720,Jon Leuer,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.5,5.45,3,2,10,19
+36876,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,3.15,17,2,10,46
+36880,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.35,23,2,11,1
+36886,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,11,17
+36889,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.1,8.85,18,2,11,30
+36898,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.7,15.25,10,1,0,10
+36902,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,28.95,24,1,0,31
+36905,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.2,26.55,24,1,0,37
+36930,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,7.35,2,1,1,5
+36934,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.75,7,1,1,20
+36937,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,18.65,16,1,1,38
+36942,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.7,5.95,22,1,1,54
+36964,2016,2015-16,1610612762,Utah Jazz,203187,Chris Johnson,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,21.75,17,1,2,24
+36968,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,5.55,20,1,2,45
+36982,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,3,13
+36985,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.35,2,1,3,26
+36992,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,26.25,24,1,3,54
+37004,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.5,22.65,17,1,4,16
+37009,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,6.85,3,1,4,27
+37014,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,6.85,24,1,4,43
+37022,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,23.75,18,1,4,53
+37031,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.8,3.65,14,1,5,6
+37038,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,22.15,19,1,5,18
+37039,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,5,38
+37046,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.0,23.55,21,1,5,57
+37048,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.8,9.35,5,1,6,15
+37053,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.7,7.85,4,1,6,29
+37061,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,3.65,3,1,6,52
+37064,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.5,11.95,13,1,7,4
+37071,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.2,26.55,24,1,7,18
+37082,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.0,17.35,23,1,7,47
+37093,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.2,16.85,16,1,8,6
+37098,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,8,20
+37108,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,5.95,1,1,8,28
+37114,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-7.1,18.15,14,1,8,33
+37123,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.0,28.95,24,1,8,40
+37132,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,23.05,18,1,8,51
+37136,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,03-17-2016,21501019,UTA,PHX,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.8,14.25,10,1,9,8
+37144,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.85,3,1,9,25
+37151,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.15,2,1,9,38
+37158,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,14.25,10,1,9,54
+37171,2016,2015-16,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,25.25,23,1,10,26
+37174,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,8.45,3,1,10,36
+37181,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,13.25,12,1,10,41
+37185,2016,2015-16,1610612756,Phoenix Suns,1626164,Devin Booker,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,29.95,24,1,11,0
+37192,2016,2015-16,1610612756,Phoenix Suns,202688,Brandon Knight,G,SG,03-17-2016,21501019,UTA,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.5,17.35,18,1,11,4
+37196,2016,2015-16,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-17-2016,21501019,UTA,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.9,2.85,13,1,11,24
+37205,2016,2015-16,1610612756,Phoenix Suns,203458,Alex Len,C,C,03-17-2016,21501019,UTA,PHX,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.85,3,1,11,45

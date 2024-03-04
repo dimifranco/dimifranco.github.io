@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+38,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.25,1,4,0,5
+44,2013,2012-13,1610612763,Memphis Grizzlies,202347,Quincy Pondexter,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,4.95,23,4,0,42
+49,2013,2012-13,1610612763,Memphis Grizzlies,202347,Quincy Pondexter,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,4.95,23,4,1,12
+61,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.2,22.45,19,4,1,38
+62,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,6.75,5,4,1,53
+78,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,28.75,25,4,2,30
+90,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,2,45
+94,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,11.35,15,4,2,54
+124,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.9,22.45,20,4,3,5
+128,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,7.25,6,4,3,19
+140,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.8,9.75,5,4,3,38
+144,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,32.35,29,4,3,55
+165,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.95,25,4,4,20
+202,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,9.45,7,4,4,49
+232,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,4,5,21
+238,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.95,3,4,5,22
+248,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.4,17.65,19,4,5,42
+258,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,4.95,1,4,5,46
+307,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,21.15,20,4,6,12
+308,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.5,22.25,19,4,6,38
+317,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,6.75,13,4,6,52
+329,2013,2012-13,1610612763,Memphis Grizzlies,2039,Keyon Dooling,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.6,29.45,25,4,7,6
+368,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,29.65,24,4,7,39
+379,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.65,1,4,8,0
+384,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,4.45,0,4,8,2
+413,2013,2012-13,1610612763,Memphis Grizzlies,201948,Austin Daye,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.75,23,4,8,26
+417,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,27.45,25,4,8,42
+426,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.05,0,4,8,56
+437,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,20.95,16,4,9,5
+482,2013,2012-13,1610612763,Memphis Grizzlies,201948,Austin Daye,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.9,29.45,25,4,10,7
+518,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.65,1,4,10,37
+525,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.35,25,4,10,39
+533,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.5,19.55,14,4,10,59
+544,2013,2012-13,1610612763,Memphis Grizzlies,201948,Austin Daye,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,24.95,25,4,11,21
+550,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.1,12.15,9,4,11,30
+566,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,5.95,14,4,11,46
+591,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.2,30.45,25,3,0,1
+600,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.2,20.15,14,3,0,8
+603,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,19.05,20,3,0,31
+649,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,3,0,52
+662,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.95,3,3,1,2
+671,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.8,29.15,26,3,1,6
+691,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,3,1,54
+698,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,27.65,26,3,2,15
+734,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.45,1,3,2,41
+741,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,9.15,9,3,3,22
+748,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,3,3,30
+761,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,3,3,31
+766,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,6.75,8,3,3,33
+774,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.2,19.45,20,3,3,46
+814,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,21.15,20,3,4,19
+830,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,8.05,3,3,4,35
+896,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,9.75,22,3,5,29
+906,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.45,2,3,5,33
+912,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,9.65,16,3,5,54
+958,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.4,10.85,7,3,6,14
+1003,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,3,6,42
+1006,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.35,1,3,7,3
+1029,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.85,23,3,7,31
+1048,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.75,1,3,7,57
+1082,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,3,8,34
+1089,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.45,2,3,8,35
+1091,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,12.35,9,3,8,59
+1109,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,3,9,18
+1116,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,18.45,19,3,9,23
+1135,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,3,9,43
+1142,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,3,9,45
+1157,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.35,2,3,10,14
+1168,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,4.75,1,3,10,19
+1174,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.65,0,3,10,29
+1205,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.2,16.45,11,3,10,44
+1231,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.3,23.85,19,3,11,15
+1242,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,8.55,4,3,11,34
+1253,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,11,36
+1258,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,8.35,14,3,11,37
+1283,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.35,1,2,0,0
+1296,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,7.45,2,2,0,6
+1333,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.45,2,2,0,28
+1362,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.05,1,2,1,7
+1377,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,2,1,17
+1387,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,8.55,3,2,1,23
+1397,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.35,3,2,1,27
+1402,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,28.25,26,2,1,46
+1435,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.95,6,2,2,5
+1457,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.35,1,2,2,52
+1475,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.65,1,2,2,37
+1491,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,2,2,54
+1494,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,2,2,56
+1511,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,3,11
+1516,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,12.65,18,2,3,14
+1524,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,8.35,14,2,3,20
+1528,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,3,47
+1534,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,10.45,15,2,4,2
+1613,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.85,0,2,4,41
+1624,2013,2012-13,1610612763,Memphis Grizzlies,202347,Quincy Pondexter,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.35,1,2,5,1
+1645,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.1,21.95,17,2,5,31
+1699,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.05,1,2,7,28
+1725,2013,2012-13,1610612763,Memphis Grizzlies,2039,Keyon Dooling,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,20.95,20,2,6,10
+1729,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,2,6,26
+1736,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,13.75,17,2,6,44
+1743,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.45,6,2,6,58
+1756,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.1,14.05,16,2,7,18
+1775,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,2,7,32
+1779,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,7,35
+1796,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,7.25,2,2,7,46
+1828,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,2,8,2
+1842,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.7,25.25,20,2,8,12
+1844,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.85,1,2,8,31
+1850,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.2,6.45,4,2,8,34
+1855,2013,2012-13,1610612763,Memphis Grizzlies,2039,Keyon Dooling,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,7.85,19,2,8,49
+1857,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,13.25,17,2,9,9
+1870,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.8,22.05,17,2,9,48
+1880,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.2,10.05,7,2,10,0
+1895,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,24.25,21,2,10,16
+1899,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.4,18.15,19,2,10,28
+1937,2013,2012-13,1610612763,Memphis Grizzlies,201589,Darrell Arthur,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,9.35,13,2,10,53
+1955,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.2,7.75,6,2,11,23
+1967,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,7.25,6,2,11,36
+1996,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.25,1,1,0,0
+2017,2013,2012-13,1610612763,Memphis Grizzlies,202334,Ed Davis,C,C-PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,1,0,21
+2019,2013,2012-13,1610612763,Memphis Grizzlies,201573,Jerryd Bayless,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.45,4,1,0,22
+2024,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.8,29.95,25,1,0,33
+2031,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,23.15,19,1,0,47
+2034,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.6,11.35,8,1,1,2
+2048,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,3.65,17,1,1,23
+2050,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.0,22.45,17,1,1,46
+2062,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.85,1,1,2,55
+2080,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.7,7.15,11,1,2,12
+2084,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,17.35,12,1,2,25
+2094,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,4.75,22,1,2,51
+2105,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,1,2,57
+2117,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,1,2,59
+2123,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.9,8.65,4,1,3,3
+2131,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,12.75,11,1,3,34
+2141,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,24.65,21,1,3,49
+2167,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,13.25,18,1,4,5
+2173,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,5.35,20,1,4,15
+2188,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,1,4,24
+2216,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,28.35,25,1,4,46
+2261,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.9,9.65,7,1,5,40
+2267,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.8,29.85,25,1,6,1
+2289,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,24.15,21,1,6,34
+2301,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,20.65,20,1,6,51
+2313,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,1,7,11
+2326,2013,2012-13,1610612763,Memphis Grizzlies,2419,Tayshaun Prince,F,SF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.8,28.75,25,1,7,27
+2339,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,8.25,6,1,8,3
+2353,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.6,17.85,13,1,8,15
+2372,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.05,4,1,8,29
+2385,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,1,8,43
+2397,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,1,9,8
+2404,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,15.15,14,1,9,10
+2408,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,9,33
+2417,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,17.65,21,1,9,55
+2423,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-17-2013,21201223,MEM,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,10,6
+2438,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,5.25,20,1,10,9
+2462,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.95,0,1,10,25
+2470,2013,2012-13,1610612763,Memphis Grizzlies,2754,Tony Allen,G,SG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,10.45,8,1,10,27
+2475,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,17.05,13,1,10,50
+2492,2013,2012-13,1610612763,Memphis Grizzlies,201144,Mike Conley,G,PG,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,27.75,25,1,11,3
+2504,2013,2012-13,1610612763,Memphis Grizzlies,201188,Marc Gasol,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.45,1,1,11,9
+2513,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.75,2,1,11,21
+2528,2013,2012-13,1610612763,Memphis Grizzlies,2216,Zach Randolph,F,PF,04-17-2013,21201223,MEM,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,11.35,13,1,11,43

@@ -1,0 +1,144 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+86993,2014,2013-14,1610612748,Miami Heat,201563,Michael Beasley,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,8.05,23,4,0,16
+86998,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,18.65,16,4,0,35
+87031,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.45,1,4,0,49
+87040,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.8,25.25,20,4,0,51
+87043,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,7.65,2,4,1,4
+87049,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,5.25,17,4,1,14
+87078,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.65,22,4,1,31
+87088,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,4,1,51
+87093,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.8,4.65,19,4,2,1
+87102,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.15,2,4,2,6
+87131,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.35,0,4,2,35
+87144,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,4.45,2,4,2,36
+87145,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,6.35,14,4,3,5
+87150,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,10.55,12,4,3,23
+87178,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.8,18.45,17,4,4,6
+87185,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.55,3,4,4,28
+87190,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,4,4,48
+87203,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,23.15,26,4,5,3
+87223,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,6.15,17,4,5,45
+87230,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.5,26.35,21,4,5,51
+87247,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,7.75,5,4,6,29
+87254,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.65,0,4,7,1
+87259,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.65,2,4,7,26
+87272,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,4,7,41
+87274,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,4.75,9,4,8,2
+87282,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,14.05,13,4,8,23
+87297,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,12.15,6,4,8,45
+87323,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,13.85,13,4,9,27
+87327,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.1,22.75,20,4,9,47
+87347,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.1,13.55,18,4,10,15
+87353,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.95,22,4,10,24
+87383,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.3,25.25,25,4,10,58
+87388,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,4,11,14
+87396,2014,2013-14,1610612752,New York Knicks,202719,Jeremy Tyler,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.8,6.65,10,4,11,26
+87406,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,29.65,24,4,11,47
+87426,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,28.25,29,3,0,2
+87454,2014,2013-14,1610612752,New York Knicks,2030,Kenyon Martin,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.3,9.95,4,3,0,18
+87483,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-15.9,19.55,21,3,0,36
+87492,2014,2013-14,1610612752,New York Knicks,2030,Kenyon Martin,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.75,2,3,0,53
+87498,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,8.95,3,3,0,55
+87513,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.1,29.85,25,3,1,32
+87551,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,26.65,21,3,1,59
+87555,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,28.55,24,3,2,25
+87565,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,8.65,24,3,3,25
+87620,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,3,4,9
+87622,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,3,4,26
+87654,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,3,4,47
+87665,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.45,1,3,4,58
+87676,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,7.75,4,3,5,12
+87681,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.8,17.05,24,3,5,36
+87693,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,24.75,25,3,5,47
+87718,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.45,2,3,6,22
+87738,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,3,6,55
+87742,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.75,22,3,7,21
+87749,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,26.95,21,3,7,40
+87755,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,28.05,25,3,8,3
+87760,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,3.95,23,3,8,20
+87768,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,15.35,14,3,8,37
+87787,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,7.45,2,3,8,54
+87818,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.65,2,3,9,21
+87825,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,22.75,21,3,9,26
+87833,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,9.95,24,3,9,35
+87840,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.35,1,3,9,47
+87852,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,20.95,16,3,10,2
+87870,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.8,24.15,22,3,10,20
+87879,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,3,10,46
+87881,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,27.65,25,3,11,3
+87900,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,12.45,18,3,11,38
+87912,2014,2013-14,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,2,0,5
+87918,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,27.25,25,2,0,6
+87926,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,12.35,18,2,0,11
+87939,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.1,29.45,25,2,0,31
+87941,2014,2013-14,1610612752,New York Knicks,2030,Kenyon Martin,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.35,7,2,0,47
+87951,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.7,25.85,21,2,0,59
+87957,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.85,1,2,1,8
+87964,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.2,17.05,16,2,1,15
+87988,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.65,2,2,1,50
+87990,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,15.45,19,2,2,9
+88017,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.45,23,2,2,51
+88021,2014,2013-14,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.55,4,2,3,8
+88031,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.15,1,2,3,24
+88053,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.9,29.15,25,2,3,47
+88058,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.5,29.15,24,2,4,0
+88067,2014,2013-14,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,2,4,27
+88102,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,2,5,1
+88114,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,15.15,17,2,5,26
+88118,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.95,1,2,5,44
+88126,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.8,27.65,24,2,5,46
+88135,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.45,1,2,6,18
+88141,2014,2013-14,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.9,4.95,23,2,6,39
+88156,2014,2013-14,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,7,15
+88165,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.6,17.65,12,2,7,16
+88183,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,2,7,42
+88188,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.75,1,2,7,57
+88197,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.5,31.85,27,2,8,14
+88202,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.15,22,2,8,33
+88237,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,7.85,13,2,9,5
+88244,2014,2013-14,1610612752,New York Knicks,2405,Amar'e Stoudemire,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,23.95,19,2,9,21
+88253,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,5.85,12,2,9,34
+88259,2014,2013-14,1610612752,New York Knicks,202719,Jeremy Tyler,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,8.65,3,2,9,41
+88276,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,4.15,23,2,10,7
+88279,2014,2013-14,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,6.75,22,2,10,26
+88280,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,8.05,20,2,10,51
+88287,2014,2013-14,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,28.75,26,2,11,3
+88297,2014,2013-14,1610612748,Miami Heat,951,Ray Allen,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,11.05,24,2,11,27
+88306,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.2,16.85,24,2,11,44
+88331,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.3,29.05,24,1,0,5
+88340,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.2,29.65,25,1,0,44
+88348,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,6.45,2,1,0,52
+88356,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.95,22,1,1,12
+88360,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,1,1,28
+88372,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,19.75,25,1,1,55
+88396,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,8.65,4,1,2,11
+88407,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,1,2,20
+88409,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.45,1,1,2,42
+88419,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.6,25.25,25,1,2,59
+88427,2014,2013-14,1610612752,New York Knicks,203501,Tim Hardaway Jr.,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.4,3.85,22,1,3,9
+88448,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,1,3,28
+88458,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,28.55,25,1,3,39
+88465,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,27.65,25,1,3,54
+88469,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.45,2,1,4,7
+88476,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,1,4,17
+88482,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.65,0,1,4,36
+88487,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,11.25,23,1,5,1
+88491,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.1,4.15,24,1,5,26
+88526,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,5.85,18,1,5,47
+88538,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.15,1,1,6,1
+88549,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,7.8,28.35,24,1,6,15
+88569,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,1,6,53
+88575,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,5.85,23,1,7,16
+88583,2014,2013-14,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.95,25,1,7,34
+88594,2014,2013-14,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.35,22,1,7,52
+88601,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,1,8,0
+88631,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.4,22.45,25,1,8,32
+88642,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.25,2,1,8,39
+88649,2014,2013-14,1610612752,New York Knicks,2747,JR Smith,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,6.45,1,1,8,59
+88673,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,6.45,18,1,9,38
+88684,2014,2013-14,1610612752,New York Knicks,2199,Tyson Chandler,C,C,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.95,2,1,9,49
+88691,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.3,21.75,25,1,10,4
+88694,2014,2013-14,1610612752,New York Knicks,101109,Raymond Felton,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,1,10,27
+88707,2014,2013-14,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.2,8.25,9,1,10,47
+88712,2014,2013-14,1610612752,New York Knicks,203143,Pablo Prigioni,G,PG,02-01-2014,21300705,NYK,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.6,20.55,25,1,11,1
+88721,2014,2013-14,1610612752,New York Knicks,2546,Carmelo Anthony,F,PF,02-01-2014,21300705,NYK,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,27.25,24,1,11,17

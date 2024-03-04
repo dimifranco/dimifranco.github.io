@@ -1,0 +1,154 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+23228,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,15.35,18,4,0,9
+23230,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,27.25,25,4,0,26
+23233,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,21.95,25,4,0,41
+23237,2014,2013-14,1610612748,Miami Heat,201563,Michael Beasley,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,7.45,22,4,0,50
+23239,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,11.95,23,4,1,3
+23241,2014,2013-14,1610612748,Miami Heat,203120,Justin Hamilton,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,27.15,25,4,1,24
+23256,2014,2013-14,1610612748,Miami Heat,203120,Justin Hamilton,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,7.55,6,4,1,49
+23266,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,8.05,9,4,2,10
+23270,2014,2013-14,1610612748,Miami Heat,203120,Justin Hamilton,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,25.05,26,4,2,14
+23278,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.05,0,4,2,37
+23282,2014,2013-14,1610612748,Miami Heat,203120,Justin Hamilton,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,4.15,19,4,2,44
+23298,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,4,3,29
+23302,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,3,38
+23305,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,21.75,18,4,3,53
+23307,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.75,0,4,4,15
+23317,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,26.85,27,4,4,48
+23322,2014,2013-14,1610612749,Milwaukee Bucks,203507,Giannis Antetokounmpo,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.4,17.15,17,4,5,6
+23325,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,14.15,20,4,5,31
+23335,2014,2013-14,1610612749,Milwaukee Bucks,203474,DJ Stephens,G,SG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,3.85,1,4,5,53
+23337,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,3.55,16,4,5,59
+23343,2014,2013-14,1610612749,Milwaukee Bucks,203474,DJ Stephens,G,SG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.15,1,4,6,9
+23347,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,11.25,14,4,6,13
+23350,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,4.45,1,4,6,40
+23359,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,4.15,1,4,6,55
+23362,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.7,4.45,6,4,6,56
+23363,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.0,5.55,9,4,7,6
+23366,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.35,0,4,7,22
+23374,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,19.85,17,4,7,30
+23378,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,4,7,46
+23380,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.05,0,4,7,49
+23385,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,4,8,5
+23387,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,8,30
+23400,2014,2013-14,1610612749,Milwaukee Bucks,203474,DJ Stephens,G,SG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,4.15,1,4,9,16
+23406,2014,2013-14,1610612749,Milwaukee Bucks,203474,DJ Stephens,G,SG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.45,1,4,9,41
+23410,2014,2013-14,1610612749,Milwaukee Bucks,203507,Giannis Antetokounmpo,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,5.25,16,4,9,45
+23415,2014,2013-14,1610612749,Milwaukee Bucks,203507,Giannis Antetokounmpo,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.35,1,4,9,51
+23418,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,15.35,22,4,10,11
+23423,2014,2013-14,1610612749,Milwaukee Bucks,203507,Giannis Antetokounmpo,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,11.35,24,4,10,28
+23427,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,4,10,47
+23433,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.65,0,4,10,54
+23440,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.95,23,4,11,5
+23454,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,4,11,34
+23463,2014,2013-14,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-10.0,17.95,16,3,0,0
+23471,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,4.25,23,3,0,20
+23475,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,26.35,21,3,0,44
+23480,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,5.05,22,3,0,54
+23484,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,18.65,13,3,1,15
+23489,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.65,2,3,1,41
+23491,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,6.15,8,3,1,59
+23499,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,3,2,14
+23501,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.7,25.05,24,3,2,20
+23503,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,8.25,8,3,2,28
+23504,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,3,2,32
+23507,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,3,2,38
+23512,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.7,14.35,17,3,3,0
+23520,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.6,29.15,25,3,3,25
+23522,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.95,0,3,3,44
+23524,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.95,0,3,4,0
+23526,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.3,5.65,5,3,4,6
+23527,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.95,0,3,4,26
+23529,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,3,4,52
+23533,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.05,23,3,5,14
+23538,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.2,7.15,13,3,5,37
+23546,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.75,0,3,6,0
+23566,2014,2013-14,1610612749,Milwaukee Bucks,202399,Jeff Adrien,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,3,6,22
+23567,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,3,6,47
+23572,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,4.75,14,3,7,2
+23578,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.1,19.05,13,3,7,20
+23580,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,20.15,25,3,7,31
+23586,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,3,7,41
+23587,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.7,22.75,24,3,8,4
+23591,2014,2013-14,1610612749,Milwaukee Bucks,202399,Jeff Adrien,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,8.25,3,3,8,28
+23599,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.7,19.55,16,3,9,21
+23614,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.45,0,3,10,33
+23616,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,3,10,35
+23618,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,3,10,55
+23619,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,29.35,25,3,11,12
+23623,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,3,11,38
+23629,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.7,33.45,28,2,0,0
+23639,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.0,31.05,26,2,0,45
+23641,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.75,0,2,1,11
+23646,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,23.65,25,2,1,16
+23651,2014,2013-14,1610612748,Miami Heat,2203,Shane Battier,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,21.95,25,2,1,37
+23667,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.5,3.95,6,2,2,29
+23671,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.45,0,2,2,40
+23673,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.25,1,2,2,41
+23681,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,3.05,18,2,3,14
+23684,2014,2013-14,1610612749,Milwaukee Bucks,203507,Giannis Antetokounmpo,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,8.05,2,2,3,18
+23703,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,23.05,17,2,3,50
+23709,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,5.35,24,2,4,10
+23713,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,2,4,22
+23715,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,2,4,24
+23726,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,7.55,9,2,4,44
+23727,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,22.25,26,2,5,10
+23731,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.45,1,2,5,34
+23735,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,2,5,36
+23741,2014,2013-14,1610612749,Milwaukee Bucks,203474,DJ Stephens,G,SG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,5.25,1,2,5,48
+23752,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,6.15,3,2,5,55
+23761,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.4,10.25,15,2,6,35
+23764,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,2,6,56
+23768,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,4.25,13,2,7,1
+23774,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.2,22.25,25,2,7,27
+23776,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.25,1,2,7,53
+23777,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.85,0,2,7,55
+23778,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.05,0,2,7,59
+23781,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.6,25.35,20,2,8,14
+23792,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,9.15,8,2,8,35
+23795,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.45,0,2,8,59
+23796,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,26.65,26,2,9,4
+23800,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,23.35,26,2,9,20
+23801,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.95,25,2,9,36
+23810,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.35,0,2,9,48
+23813,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,2,9,50
+23817,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,7.15,6,2,10,16
+23819,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.7,20.65,19,2,10,35
+23823,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.0,19.85,26,2,10,51
+23830,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.75,0,2,11,19
+23841,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,25.85,24,1,0,0
+23843,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.45,0,1,0,12
+23858,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,3.95,22,1,0,55
+23864,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.35,1,1,1,4
+23866,2014,2013-14,1610612748,Miami Heat,1740,Rashard Lewis,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,6.75,7,1,1,5
+23869,2014,2013-14,1610612749,Milwaukee Bucks,203114,Khris Middleton,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.25,0,1,1,18
+23873,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.15,1,1,1,22
+23877,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.45,1,1,1,32
+23879,2014,2013-14,1610612749,Milwaukee Bucks,203089,John Henson,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.65,1,1,1,35
+23882,2014,2013-14,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,6.75,7,1,1,36
+23894,2014,2013-14,1610612749,Milwaukee Bucks,202327,Ekpe Udoh,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.7,9.35,4,1,2,57
+23910,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.75,0,1,3,42
+23916,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,4,3
+23920,2014,2013-14,1610612748,Miami Heat,202708,Norris Cole,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,12.95,24,1,4,8
+23929,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,3.15,13,1,4,48
+23934,2014,2013-14,1610612748,Miami Heat,2365,Chris Andersen,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,3.95,14,1,4,53
+23936,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,9.95,4,1,5,10
+23937,2014,2013-14,1610612748,Miami Heat,2544,LeBron James,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.65,0,1,5,33
+23950,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.25,0,1,5,50
+23966,2014,2013-14,1610612749,Milwaukee Bucks,2585,Zaza Pachulia,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Running Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,5.95,3,1,6,27
+23976,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.25,0,1,6,50
+23984,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,5.2,19.75,15,1,7,10
+23989,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.9,5.85,4,1,7,32
+23993,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,2.45,20,1,7,54
+23995,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,6.15,23,1,8,7
+24011,2014,2013-14,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,3.35,14,1,8,28
+24017,2014,2013-14,1610612749,Milwaukee Bucks,201196,Ramon Sessions,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,7.25,24,1,8,37
+24031,2014,2013-14,1610612749,Milwaukee Bucks,202399,Jeff Adrien,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.3,8.65,4,1,9,12
+24046,2014,2013-14,1610612749,Milwaukee Bucks,202399,Jeff Adrien,F,PF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,1,9,40
+24050,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,17.15,14,1,9,49
+24052,2014,2013-14,1610612749,Milwaukee Bucks,202399,Jeff Adrien,F,PF,03-29-2014,21301091,MIL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.8,3.55,15,1,10,3
+24060,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,20.35,24,1,10,23
+24071,2014,2013-14,1610612748,Miami Heat,2547,Chris Bosh,C,C,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.2,7.75,8,1,10,44
+24077,2014,2013-14,1610612748,Miami Heat,201962,Toney Douglas,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.25,24,1,10,51
+24086,2014,2013-14,1610612749,Milwaukee Bucks,202688,Brandon Knight,G,PG,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.9,21.75,25,1,11,14
+24092,2014,2013-14,1610612748,Miami Heat,2592,James Jones,F,SF,03-29-2014,21301091,MIL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,5.95,24,1,11,35

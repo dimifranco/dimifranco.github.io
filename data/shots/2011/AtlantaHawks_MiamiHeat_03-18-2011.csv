@@ -1,0 +1,151 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+33087,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.1,29.35,26,4,0,0
+33089,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.2,24.15,18,4,0,4
+33096,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.85,2,4,0,8
+33106,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.6,10.05,21,4,0,27
+33111,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,25.75,25,4,0,41
+33113,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,12.45,18,4,0,50
+33119,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.05,0,4,1,3
+33125,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,13.05,7,4,1,22
+33128,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,7.25,3,4,1,46
+33140,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.45,2,4,1,46
+33144,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,4,2,7
+33148,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.6,22.55,18,4,2,22
+33153,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,4,2,42
+33159,2011,2010-11,1610612748,Miami Heat,436,Juwan Howard,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,8.65,11,4,2,49
+33179,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.0,12.35,9,4,3,26
+33181,2011,2010-11,1610612748,Miami Heat,2048,Jamaal Magloire,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,5.55,0,4,3,40
+33184,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,20.55,25,4,4,9
+33186,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,7.25,23,4,4,29
+33203,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.3,24.45,19,4,4,41
+33211,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,12.15,6,4,4,59
+33217,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.2,21.95,23,4,5,20
+33226,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.4,26.85,21,4,5,36
+33254,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.0,20.55,20,4,6,30
+33259,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,11.35,24,4,6,39
+33269,2011,2010-11,1610612737,Atlanta Hawks,200756,Hilton Armstrong,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,4,6,58
+33276,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,7.75,15,4,6,59
+33282,2011,2010-11,1610612748,Miami Heat,2067,Eddie House,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,14.95,12,4,7,8
+33292,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.7,22.05,17,4,7,25
+33322,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.55,0,4,7,58
+33334,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.35,4,4,8,17
+33339,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,16.55,20,4,8,40
+33349,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,10.05,19,4,8,58
+33350,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,4,9,7
+33363,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,27.75,25,4,9,18
+33376,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,6.15,17,4,9,34
+33382,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.8,7.15,19,4,9,58
+33384,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,6.15,2,4,10,8
+33396,2011,2010-11,1610612737,Atlanta Hawks,2585,Zaza Pachulia,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,6.15,2,4,10,23
+33398,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.65,1,4,10,40
+33421,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,7.15,4,4,11,6
+33446,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,23.95,18,4,11,44
+33462,2011,2010-11,1610612748,Miami Heat,2592,James Jones,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.0,29.45,24,3,0,0
+33469,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.1,26.85,22,3,0,3
+33488,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.3,26.65,21,3,0,35
+33576,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.45,1,3,1,14
+33581,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.25,2,3,1,15
+33587,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.35,3,3,1,21
+33592,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.9,11.65,8,3,1,34
+33610,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,16.85,21,3,2,10
+33612,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.5,17.85,19,3,2,25
+33645,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.45,1,3,2,49
+33651,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.35,0,3,2,53
+33667,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,8.05,8,3,3,33
+33691,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.1,24.45,26,3,4,3
+33697,2011,2010-11,1610612737,Atlanta Hawks,201952,Jeff Teague,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.3,20.55,20,3,4,24
+33709,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,8.95,3,3,4,36
+33717,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,7.15,15,3,4,41
+33729,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.55,1,3,4,48
+33734,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,25.05,25,3,5,9
+33749,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,21.45,24,3,5,42
+33763,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,9.75,4,3,5,51
+33765,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,27.45,22,3,6,5
+33792,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,8.95,22,3,6,47
+33800,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,10.55,15,3,6,51
+33818,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.9,13.85,17,3,7,12
+33840,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.1,26.55,25,3,7,41
+33852,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,10.25,6,3,7,48
+33872,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,7.75,23,3,8,18
+33877,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,8.95,23,3,8,26
+33888,2011,2010-11,1610612737,Atlanta Hawks,2215,Jason Collins,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,20.05,17,3,8,42
+33891,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,25.05,24,3,8,59
+33903,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,7.85,14,3,9,15
+33905,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,30.95,25,3,9,33
+33911,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,3,9,53
+33916,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,6.0,22.85,18,3,10,17
+33920,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.6,17.65,13,3,10,41
+33929,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,21.65,25,3,11,5
+33940,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.7,17.05,13,3,11,21
+33973,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.0,37.35,32,2,0,0
+34034,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,10.05,23,2,0,31
+34036,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,22.75,20,2,0,37
+34040,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-1.8,13.45,8,2,0,48
+34103,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,8.55,15,2,1,55
+34129,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.0,25.35,25,2,2,45
+34169,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.25,23,2,3,11
+34179,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,22.55,25,2,3,39
+34184,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.75,23,2,3,47
+34192,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,4,5
+34207,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,14.85,20,2,4,18
+34217,2011,2010-11,1610612737,Atlanta Hawks,2863,Damien Wilkins,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,9.45,4,2,4,30
+34224,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.05,5,2,5,4
+34226,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,10.45,23,2,5,29
+34235,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.1,14.35,22,2,5,45
+34254,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,14.65,19,2,6,12
+34264,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,6.95,18,2,6,22
+34267,2011,2010-11,1610612748,Miami Heat,201202,Joel Anthony,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,16.05,10,2,6,35
+34318,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.9,10.45,14,2,6,58
+34328,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,7,10
+34335,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.9,30.95,25,2,7,29
+34337,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.55,2,2,7,43
+34341,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,2,8,6
+34347,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.8,15.65,10,2,8,25
+34368,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,11.65,7,2,8,43
+34388,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,17.85,13,2,8,57
+34396,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,7.15,2,2,9,19
+34428,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.7,6.15,15,2,9,53
+34444,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,10.45,5,2,10,4
+34455,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.45,25,2,10,13
+34460,2011,2010-11,1610612748,Miami Heat,2034,Mike Miller,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.65,23,2,10,37
+34471,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.65,10,2,10,46
+34481,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.3,16.45,11,2,11,8
+34493,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,8.65,19,2,11,20
+34501,2011,2010-11,1610612748,Miami Heat,1710,Mike Bibby,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.9,17.05,18,2,11,42
+34513,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,13.75,21,1,0,0
+34523,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,16.75,11,1,0,23
+34527,2011,2010-11,1610612737,Atlanta Hawks,101107,Marvin Williams,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.0,17.05,15,1,0,39
+34534,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-7.8,29.15,25,1,0,50
+34555,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,6.45,18,1,1,5
+34557,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,1,32
+34567,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,10.25,19,1,1,53
+34593,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,1,2,17
+34597,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,2,40
+34605,2011,2010-11,1610612737,Atlanta Hawks,2037,Jamal Crawford,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.35,25,1,2,58
+34608,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.9,23.95,19,1,3,17
+34616,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.7,24.75,20,1,3,31
+34619,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,1,3,49
+34680,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,7.15,9,1,4,21
+34683,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.5,20.15,14,1,4,45
+34689,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,10.45,7,1,5,0
+34698,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,1,5,26
+34706,2011,2010-11,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,5.85,16,1,5,28
+34715,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.65,1,1,5,51
+34726,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,9.95,24,1,5,59
+34734,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,5.85,3,1,6,16
+34751,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.0,7.45,14,1,6,29
+34757,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,8.85,14,1,6,40
+34765,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,11.05,7,1,6,57
+34774,2011,2010-11,1610612748,Miami Heat,2544,LeBron James,F,SF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,24.75,24,1,7,12
+34789,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,11.05,6,1,7,28
+34826,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,6.15,1,1,8,7
+34831,2011,2010-11,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.8,29.05,24,1,8,19
+34842,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.15,2,1,8,30
+34860,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,10.45,5,1,8,50
+34864,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,1,9,14
+34873,2011,2010-11,1610612737,Atlanta Hawks,2746,Josh Smith,F,PF,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.0,19.85,20,1,9,24
+34886,2011,2010-11,1610612737,Atlanta Hawks,2207,Joe Johnson,G,SG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.05,1,1,9,55
+34896,2011,2010-11,1610612737,Atlanta Hawks,2550,Kirk Hinrich,G,SG-PG,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,20.35,25,1,10,26
+34906,2011,2010-11,1610612748,Miami Heat,956,Erick Dampier,C,C,03-18-2011,21001020,ATL,MIA,Missed Shot,False,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,1,10,45
+34913,2011,2010-11,1610612737,Atlanta Hawks,201143,Al Horford,C,C,03-18-2011,21001020,ATL,MIA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,11.95,16,1,11,10
+34916,2011,2010-11,1610612748,Miami Heat,2547,Chris Bosh,F,PF,03-18-2011,21001020,ATL,MIA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,9.75,17,1,11,28

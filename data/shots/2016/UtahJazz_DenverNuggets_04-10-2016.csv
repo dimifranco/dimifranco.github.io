@@ -1,0 +1,160 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+4950,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,30.45,25,4,0,24
+4959,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,0,48
+4982,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.3,5.15,23,4,1,16
+4987,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.1,21.65,25,4,1,36
+4993,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,11.35,7,4,2,0
+4994,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,6.35,24,4,2,9
+4999,2016,2015-16,1610612743,Denver Nuggets,1626253,Axel Toupane,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,5.45,23,4,2,30
+5001,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,2,44
+5024,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.0,7.35,2,4,3,13
+5039,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.3,5.55,3,4,3,27
+5054,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.8,6.85,23,4,4,6
+5061,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.1,18.15,13,4,4,20
+5063,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,18.15,22,4,4,41
+5077,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.7,9.95,4,4,5,9
+5085,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.35,2,4,5,28
+5087,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.1,11.75,6,4,5,39
+5096,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.25,0,4,5,45
+5101,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,4.75,23,4,5,53
+5114,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,9.85,4,4,6,29
+5119,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,7.35,2,4,6,49
+5133,2016,2015-16,1610612743,Denver Nuggets,201571,D.J. Augustin,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.6,20.15,23,4,6,59
+5139,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,29.95,24,4,7,7
+5143,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,13.45,24,4,7,21
+5179,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.0,22.75,17,4,7,46
+5184,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,29.65,24,4,8,6
+5186,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.8,8.85,6,4,8,17
+5195,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.25,23,4,8,40
+5197,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.45,5,4,9,0
+5205,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.05,1,4,9,11
+5236,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,6.85,13,4,9,42
+5247,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,10,28
+5259,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,10.85,6,4,10,57
+5262,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.55,25,4,11,9
+5267,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,26.65,26,4,11,34
+5278,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.0,9.35,24,3,0,1
+5279,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.6,9.55,8,3,0,26
+5284,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,5.15,24,3,0,41
+5310,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.05,2,3,1,25
+5314,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.7,27.05,24,3,1,45
+5322,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.3,5.45,22,3,1,56
+5325,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,16
+5348,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,2,35
+5356,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.4,43.85,38,3,2,50
+5371,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,8.05,4,3,2,51
+5382,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.55,1,3,3,13
+5388,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,5.25,1,3,3,33
+5401,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,3,3,43
+5406,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,5.15,24,3,3,47
+5412,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.7,9.95,23,3,4,5
+5423,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.2,11.75,24,3,4,24
+5434,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,22.15,18,3,4,41
+5435,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.9,30.45,25,3,5,3
+5448,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.85,23,3,5,21
+5458,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.45,2,3,5,30
+5485,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.95,1,3,5,56
+5487,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,5.25,23,3,6,14
+5498,2016,2015-16,1610612743,Denver Nuggets,203960,JaKarr Sampson,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,6.55,2,3,6,26
+5508,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.85,1,3,6,41
+5514,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,5.95,2,3,6,56
+5529,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,6.55,1,3,7,21
+5544,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.25,23,3,7,53
+5547,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.2,20.35,25,3,8,16
+5549,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.05,24,3,8,36
+5554,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.6,7.35,2,3,8,48
+5563,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.4,5.95,1,3,8,52
+5565,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.95,2,3,9,4
+5568,2016,2015-16,1610612743,Denver Nuggets,203960,JaKarr Sampson,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,18.15,25,3,9,12
+5571,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,23.05,25,3,9,25
+5575,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.9,9.85,19,3,9,47
+5586,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,9.85,5,3,10,27
+5590,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.4,10.35,18,3,10,41
+5597,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,3.65,23,3,10,52
+5604,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.15,1,3,11,10
+5607,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,7.85,3,3,11,34
+5632,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.2,29.45,24,2,0,0
+5638,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.45,1,2,0,18
+5645,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.7,24.25,19,2,0,33
+5648,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.45,22,2,0,44
+5656,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,26.05,25,2,1,10
+5660,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.7,6.55,2,2,1,21
+5664,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.1,20.35,22,2,1,49
+5670,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.9,5.95,2,2,2,7
+5682,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.05,2,2,2,16
+5685,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.05,4,2,2,18
+5690,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,2,2,37
+5698,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.5,18.85,24,2,2,59
+5701,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,2,3,9
+5718,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,27.05,25,2,3,17
+5724,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,7.35,2,2,3,35
+5727,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.95,1,2,3,37
+5732,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.55,2,2,3,56
+5736,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.7,13.95,8,2,4,4
+5740,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,24.55,25,2,4,25
+5759,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,5.45,23,2,4,40
+5763,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,23.75,25,2,5,5
+5769,2016,2015-16,1610612743,Denver Nuggets,1626253,Axel Toupane,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,4.65,23,2,5,16
+5772,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.7,22.65,25,2,5,37
+5791,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,5.15,2,2,5,54
+5794,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.0,3.35,12,2,6,2
+5812,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.0,26.55,24,2,6,25
+5818,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,15.8,22.15,23,2,6,41
+5823,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.8,7.35,23,2,7,0
+5841,2016,2015-16,1610612762,Utah Jazz,203526,Raul Neto,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.1,18.85,21,2,7,32
+5849,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,5.45,11,2,7,52
+5874,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.4,28.95,24,2,8,22
+5884,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,6.05,23,2,8,37
+5906,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.5,22.75,26,2,9,12
+5913,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.45,2,2,9,33
+5915,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.95,2,2,9,51
+5918,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,4.65,2,2,9,55
+5926,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.55,1,2,10,19
+5931,2016,2015-16,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.95,3,2,10,25
+5936,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,10,45
+5939,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.8,10.35,10,2,10,52
+5942,2016,2015-16,1610612743,Denver Nuggets,203115,Will Barton,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.1,6.05,7,2,11,16
+5946,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,10.85,15,2,11,37
+5965,2016,2015-16,1610612743,Denver Nuggets,201571,D.J. Augustin,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-14.6,56.35,53,1,0,0
+5968,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,1,0,0
+5971,2016,2015-16,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,5.15,7,1,0,0
+5974,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.5,10.35,16,1,0,20
+5977,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,0,27
+5982,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.2,6.05,1,1,0,42
+5987,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.0,5.25,23,1,0,49
+5996,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,6.55,8,1,1,1
+6022,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,6.85,2,1,2,3
+6026,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.0,5.25,24,1,2,19
+6031,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.2,7.05,2,1,2,39
+6086,2016,2015-16,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,19.65,25,1,3,21
+6091,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,27.55,26,1,3,33
+6093,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,12.75,7,1,3,44
+6094,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.2,23.55,18,1,4,1
+6097,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,4,40
+6098,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,29.45,25,1,4,46
+6107,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,15.75,11,1,5,2
+6136,2016,2015-16,1610612743,Denver Nuggets,203914,Gary Harris,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,7.85,23,1,5,17
+6143,2016,2015-16,1610612743,Denver Nuggets,203530,Joffrey Lauvergne,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Tip Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.05,0,1,5,25
+6145,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.3,6.85,13,1,5,35
+6150,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.6,28.05,24,1,5,53
+6170,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,6.35,1,1,6,8
+6178,2016,2015-16,1610612743,Denver Nuggets,201589,Darrell Arthur,F,PF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.1,28.05,24,1,6,14
+6179,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,6.35,3,1,6,25
+6186,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.65,25,1,6,43
+6198,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.2,11.75,6,1,7,5
+6214,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.5,14.75,10,1,7,40
+6219,2016,2015-16,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,29.95,24,1,7,51
+6226,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.2,10.35,5,1,8,10
+6245,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.5,5.95,24,1,8,26
+6257,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.9,22.65,17,1,8,45
+6258,2016,2015-16,1610612762,Utah Jazz,202714,Shelvin Mack,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.0,8.85,6,1,8,52
+6280,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,6.85,8,1,9,32
+6286,2016,2015-16,1610612743,Denver Nuggets,1626144,Emmanuel Mudiay,G,PG,04-10-2016,21501198,DEN,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,6.35,1,1,9,46
+6298,2016,2015-16,1610612743,Denver Nuggets,203999,Nikola Jokic,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.1,7.35,2,1,10,7
+6303,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,7.85,2,1,10,11
+6305,2016,2015-16,1610612762,Utah Jazz,1626168,Trey Lyles,F,PF,04-10-2016,21501198,DEN,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.6,17.65,21,1,10,28
+6313,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.0,10.95,16,1,10,51
+6314,2016,2015-16,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,04-10-2016,21501198,DEN,UTA,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,11,13
+6321,2016,2015-16,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,7.05,18,1,11,15
+6332,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.85,2,1,11,33
+6338,2016,2015-16,1610612743,Denver Nuggets,203994,Jusuf Nurkic,C,C,04-10-2016,21501198,DEN,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.7,8.55,4,1,11,44

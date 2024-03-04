@@ -1,0 +1,148 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+90527,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.1,32.85,28,4,0,0
+90528,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,1
+90529,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,27.25,25,4,0,23
+90530,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,29.35,26,4,0,41
+90531,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,11.85,10,4,0,51
+90532,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,1,15
+90533,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,26.85,25,4,1,21
+90534,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,12.35,13,4,1,49
+90535,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,15
+90536,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,2,37
+90537,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,13.25,12,4,2,56
+90541,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,59
+90546,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,9.15,15,4,4,32
+90548,2010,2009-10,1610612753,Orlando Magic,101162,Marcin Gortat,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.3,12.35,16,4,4,52
+90550,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.7,13.25,9,4,5,5
+90551,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.2,26.85,25,4,5,27
+90553,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,24.15,26,4,5,47
+90554,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.0,14.95,10,4,6,23
+90558,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,25.75,22,4,6,37
+90561,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.4,25.75,22,4,6,48
+90562,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,12.45,10,4,7,5
+90571,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,11.95,6,4,8,4
+90578,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,22
+90580,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,46
+90582,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,59
+90585,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,8.05,17,4,9,19
+90593,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.5,26.95,25,4,9,43
+90594,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,10.45,10,4,9,52
+90598,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,10,20
+90599,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.1,22.75,25,4,10,47
+90602,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.7,9.35,10,4,11,6
+90603,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,11,22
+90606,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,9.15,23,4,11,39
+90609,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.2,26.65,26,4,11,45
+90616,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.2,36.75,34,3,0,0
+90618,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,6.95,20,3,0,1
+90620,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Running Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,8.55,8,3,0,9
+90624,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,9.95,24,3,0,28
+90627,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,9.95,8,3,0,43
+90630,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.4,21.45,16,3,1,0
+90637,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,13.75,9,3,1,16
+90642,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,14.65,13,3,1,41
+90643,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,19.75,19,3,1,59
+90646,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.7,13.75,10,3,2,8
+90652,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,29.05,25,3,2,44
+90654,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,13.45,8,3,3,1
+90656,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,31.35,26,3,3,22
+90659,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,11.95,9,3,3,42
+90660,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,9.15,23,3,3,52
+90664,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.4,20.65,25,3,4,36
+90666,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,55
+90670,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,33
+90671,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.1,17.85,24,3,5,53
+90674,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.5,21.95,24,3,6,5
+90676,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,10.55,6,3,6,14
+90678,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,6,24
+90679,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,11.05,24,3,6,30
+90681,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,7,21
+90683,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,10.25,23,3,7,30
+90684,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.3,13.75,11,3,7,48
+90685,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.2,30.75,25,3,8,1
+90686,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,23.95,26,3,8,14
+90688,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.7,22.85,18,3,8,24
+90689,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-18.9,24.15,26,3,8,40
+90690,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.55,5,3,8,58
+90694,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.3,15.95,16,3,9,17
+90697,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,39
+90698,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.4,8.35,8,3,9,41
+90702,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,9.35,22,3,9,59
+90703,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,10,11
+90704,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,9.45,13,3,10,26
+90705,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.45,10,3,10,51
+90710,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.15,25,3,11,18
+90715,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,12.45,7,3,11,44
+90721,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,12.45,24,2,0,1
+90727,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,34
+90729,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.45,23,2,0,46
+90733,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,12.45,24,2,1,5
+90740,2010,2009-10,1610612738,Boston Celtics,2243,Brian Scalabrine,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,13.45,24,2,1,34
+90741,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,13.75,13,2,1,42
+90748,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,26.55,26,2,2,7
+90750,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.1,24.15,24,2,2,33
+90752,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,27.65,25,2,2,39
+90755,2010,2009-10,1610612738,Boston Celtics,2243,Brian Scalabrine,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,9.15,23,2,2,52
+90758,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,7
+90759,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.5,10.55,11,2,3,16
+90764,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.6,22.25,20,2,3,40
+90769,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,26.05,22,2,4,1
+90775,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,40
+90778,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,54
+90781,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,31.25,26,2,4,58
+90784,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,8.85,11,2,5,3
+90787,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.3,19.05,19,2,5,23
+90792,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,7.25,23,2,5,46
+90795,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,6,20
+90796,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,8.55,10,2,6,33
+90798,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,34.35,29,2,7,2
+90804,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,41
+90806,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,7,55
+90807,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,11.55,14,2,8,7
+90810,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,9.35,14,2,8,18
+90817,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.9,26.05,25,2,8,43
+90818,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,51
+90819,2010,2009-10,1610612753,Orlando Magic,2554,Mickael Pietrus,F,SF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,11
+90821,2010,2009-10,1610612753,Orlando Magic,201583,Ryan Anderson,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,10.85,17,2,9,13
+90826,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.6,31.25,26,2,9,43
+90828,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.3,13.45,8,2,10,9
+90829,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,34
+90833,2010,2009-10,1610612738,Boston Celtics,2067,Eddie House,G,PG-SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.4,29.45,24,2,10,56
+90835,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,11.65,7,2,11,15
+90837,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,24.15,20,2,11,36
+90842,2010,2009-10,1610612753,Orlando Magic,1715,Jason Williams,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-15.7,50.45,47,1,0,0
+90843,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.55,23,1,0,1
+90849,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,8.55,14,1,0,32
+90864,2010,2009-10,1610612753,Orlando Magic,200755,JJ Redick,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.0,24.45,25,1,1,16
+90873,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,13
+90877,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,10.85,7,1,2,55
+90878,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,11.95,6,1,3,22
+90881,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,57
+90886,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.5,21.45,24,1,3,36
+90890,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,51
+90903,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,35
+90905,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,43
+90907,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,9.15,15,1,4,52
+90909,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.8,27.75,26,1,5,7
+90910,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,18
+90911,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.6,22.85,17,1,5,26
+90912,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,12.75,11,1,5,48
+90915,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,5,57
+90918,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.3,17.85,14,1,6,5
+90921,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.7,19.45,20,1,6,17
+90931,2010,2009-10,1610612753,Orlando Magic,1740,Rashard Lewis,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.6,22.05,17,1,6,54
+90935,2010,2009-10,1610612738,Boston Celtics,2570,Kendrick Perkins,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,9.15,11,1,7,3
+90939,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.2,16.25,21,1,7,31
+90941,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,42
+90949,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,11.35,7,1,7,57
+90951,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,13.75,20,1,8,14
+90954,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.8,11.85,6,1,8,42
+90961,2010,2009-10,1610612753,Orlando Magic,2730,Dwight Howard,C,C,01-28-2010,20900675,ORL,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,2.3,13.45,8,1,9,23
+90965,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,41
+90969,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,01-28-2010,20900675,ORL,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,13.75,21,1,10,6
+90971,2010,2009-10,1610612753,Orlando Magic,2440,Matt Barnes,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,10.25,23,1,10,18
+90975,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.6,30.45,26,1,10,44
+90978,2010,2009-10,1610612753,Orlando Magic,1713,Vince Carter,G,SG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.6,11.25,10,1,10,54
+90984,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,01-28-2010,20900675,ORL,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.4,13.25,8,1,11,17
+90990,2010,2009-10,1610612753,Orlando Magic,2749,Jameer Nelson,G,PG,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,18.0,19.25,22,1,11,35
+90996,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,01-28-2010,20900675,ORL,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,11,46

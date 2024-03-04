@@ -1,0 +1,156 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+54436,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.3,31.55,26,4,0,2
+54438,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,11
+54440,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,26.55,27,4,0,6
+54446,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.1,6.65,9,4,0,18
+54449,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,0,25
+54454,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.6,19.85,14,4,0,37
+54457,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,27.95,26,4,0,56
+54474,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,19.75,26,4,1,14
+54477,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-17.1,17.95,21,4,1,32
+54480,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,11.25,11,4,1,53
+54485,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,6.15,23,4,2,17
+54486,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,6.35,11,4,2,39
+54499,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,3,1
+54501,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,8.25,16,4,3,20
+54504,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.3,6.65,15,4,3,38
+54518,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.0,30.45,25,4,5,2
+54520,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,13
+54521,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,17
+54526,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,5,21
+54529,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.4,9.15,16,4,5,30
+54532,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,11.95,7,4,5,52
+54538,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,8.35,12,4,6,34
+54540,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,29.65,27,4,7,5
+54543,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,11.55,24,4,7,18
+54544,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,7,48
+54545,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.5,22.25,25,4,8,9
+54550,2010,2009-10,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,12.45,10,4,8,14
+54564,2010,2009-10,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.9,15.35,25,4,8,26
+54568,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,14.85,24,4,8,37
+54570,2010,2009-10,1610612738,Boston Celtics,200749,Shelden Williams,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,8,59
+54573,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.9,22.55,17,4,9,11
+54576,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,4,9,37
+54578,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,11.85,9,4,9,54
+54580,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.4,22.05,17,4,10,15
+54587,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,13.05,15,4,10,55
+54588,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.6,31.85,26,4,11,10
+54608,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,22.6,17.05,25,3,0,0
+54610,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,5
+54612,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,29
+54614,2010,2009-10,1610612738,Boston Celtics,200749,Shelden Williams,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,0,32
+54616,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,30.25,27,3,0,39
+54617,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,8.95,3,3,0,54
+54623,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,1,4
+54625,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.8,7.25,5,3,1,13
+54626,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.8,18.15,14,3,1,37
+54627,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.7,9.95,21,3,1,56
+54630,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,13
+54641,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,2,52
+54643,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.0,8.95,18,3,3,8
+54645,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,33
+54646,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,3,55
+54648,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,8.95,24,3,4,0
+54659,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.35,23,3,4,24
+54662,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.3,6.95,17,3,4,51
+54668,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,4,55
+54670,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,8
+54673,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,6.45,4,3,5,29
+54676,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,5,32
+54677,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,20.85,25,3,5,53
+54686,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,8.55,9,3,6,50
+54690,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,8.35,13,3,6,57
+54693,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,11.55,15,3,7,19
+54696,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,17.55,25,3,7,48
+54698,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,1.0,15.95,10,3,7,56
+54701,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,8,22
+54704,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,5.95,23,3,8,41
+54705,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.05,23,3,9,2
+54709,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.2,8.35,16,3,9,30
+54713,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,3,9,52
+54717,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.1,9.75,11,3,10,16
+54719,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,18.65,14,3,10,40
+54724,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-5.3,29.85,25,3,10,48
+54728,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.2,14.15,8,3,11,18
+54730,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.0,7.75,13,3,11,35
+54738,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,12.45,7,2,0,2
+54748,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.8,30.75,25,2,0,24
+54755,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.9,6.35,6,2,0,31
+54757,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,0,36
+54759,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.9,10.05,18,2,0,41
+54761,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,6
+54763,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.4,6.15,6,2,1,12
+54764,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,1,37
+54775,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.35,25,2,2,27
+54778,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,2,53
+54781,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,3,15
+54785,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,8.35,5,2,3,45
+54788,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,4,2
+54795,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.5,8.85,8,2,4,13
+54796,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.5,8.05,8,2,4,25
+54798,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,4
+54804,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,5,17
+54807,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.4,26.65,21,2,5,34
+54808,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,31.85,26,2,5,45
+54811,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,6.65,22,2,5,50
+54815,2010,2009-10,1610612738,Boston Celtics,200749,Shelden Williams,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,7.85,4,2,6,2
+54818,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,7.85,16,2,6,26
+54830,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,6.95,11,2,7,25
+54835,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,5.05,17,2,7,54
+54837,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.1,31.35,26,2,8,7
+54839,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,8,21
+54841,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,5.65,16,2,8,23
+54852,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.1,10.75,18,2,8,49
+54856,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.5,11.85,6,2,8,58
+54857,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,9,19
+54859,2010,2009-10,1610612765,Detroit Pistons,201948,Austin Daye,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.45,23,2,9,21
+54862,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.5,11.55,6,2,9,31
+54863,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.7,21.55,18,2,9,49
+54874,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,2,10,24
+54878,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,7.75,6,2,10,38
+54881,2010,2009-10,1610612738,Boston Celtics,200749,Shelden Williams,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.9,19.25,14,2,10,58
+54885,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,7.55,22,2,11,11
+54888,2010,2009-10,1610612738,Boston Celtics,101126,Nate Robinson,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.1,8.95,14,2,11,29
+54890,2010,2009-10,1610612765,Detroit Pistons,101198,Will Bynum,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.5,19.55,16,2,11,46
+54900,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,5.95,18,1,0,0
+54910,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,6.45,13,1,0,1
+54924,2010,2009-10,1610612738,Boston Celtics,2754,Tony Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,0,41
+54928,2010,2009-10,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,13.75,12,1,0,41
+54933,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.6,30.95,25,1,0,50
+54935,2010,2009-10,1610612765,Detroit Pistons,101131,Jason Maxiell,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,1,9
+54937,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,10.85,6,1,1,11
+54940,2010,2009-10,1610612765,Detroit Pistons,101111,Charlie Villanueva,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,8.55,23,1,1,27
+54941,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,11.25,15,1,1,40
+54943,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,10.05,24,1,2,4
+54948,2010,2009-10,1610612765,Detroit Pistons,2732,Ben Gordon,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,28.35,26,1,2,19
+54953,2010,2009-10,1610612738,Boston Celtics,2605,Marquis Daniels,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,10.45,12,1,2,30
+54955,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,2,55
+54966,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,20
+54967,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,40
+54969,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,3,43
+54970,2010,2009-10,1610612738,Boston Celtics,201175,Glen Davis,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,4,11
+54976,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,14.6,14.85,17,1,4,39
+54980,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.9,8.95,13,1,4,52
+54982,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.0,10.45,15,1,5,5
+54985,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.5,10.45,6,1,5,16
+54998,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.7,30.65,25,1,5,56
+55001,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.1,27.95,26,1,6,7
+55005,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,6,28
+55008,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.5,11.35,14,1,6,33
+55010,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-5.0,18.65,14,1,6,54
+55014,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-6.4,25.35,21,1,7,22
+55022,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,7,36
+55025,2010,2009-10,1610612738,Boston Celtics,951,Ray Allen,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,7.55,23,1,7,43
+55027,2010,2009-10,1610612738,Boston Celtics,200765,Rajon Rondo,G,PG,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,8,21
+55028,2010,2009-10,1610612765,Detroit Pistons,201973,Jonas Jerebko,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,14.85,18,1,8,34
+55031,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.2,13.45,17,1,8,45
+55034,2010,2009-10,1610612738,Boston Celtics,1718,Paul Pierce,F,SF,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,21.45,16,1,8,55
+55056,2010,2009-10,1610612765,Detroit Pistons,1112,Ben Wallace,C,C,03-02-2010,20900895,DET,BOS,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,9,35
+55059,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,11.85,18,1,9,45
+55061,2010,2009-10,1610612765,Detroit Pistons,1888,Richard Hamilton,G,SG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.0,32.05,26,1,9,54
+55062,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.25,0,1,10,6
+55064,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,19.75,20,1,10,18
+55073,2010,2009-10,1610612765,Detroit Pistons,201155,Rodney Stuckey,G,PG,03-02-2010,20900895,DET,BOS,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,11.05,23,1,10,44
+55077,2010,2009-10,1610612738,Boston Celtics,708,Kevin Garnett,F,PF,03-02-2010,20900895,DET,BOS,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,6.65,5,1,11,1
+55078,2010,2009-10,1610612765,Detroit Pistons,2419,Tayshaun Prince,F,SF,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,5.85,19,1,11,10
+55082,2010,2009-10,1610612738,Boston Celtics,739,Rasheed Wallace,C,C,03-02-2010,20900895,DET,BOS,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.1,31.05,26,1,11,37

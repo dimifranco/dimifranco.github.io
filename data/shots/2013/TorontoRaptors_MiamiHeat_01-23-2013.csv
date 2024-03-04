@@ -1,0 +1,171 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+98497,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,27.65,25,5,0,17
+98498,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,6.35,2,5,0,30
+98499,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,8.05,24,5,0,45
+98500,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.15,24,5,0,59
+98501,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.65,3,5,1,20
+98502,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,26.65,25,5,1,49
+98504,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.0,15.35,10,5,2,1
+98505,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.8,15.15,24,5,2,14
+98507,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.0,20.85,18,5,2,38
+98508,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,3.8,30.75,25,5,3,2
+98510,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.6,27.65,26,5,3,19
+98511,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,28.85,25,5,3,38
+98512,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,11.35,16,5,4,0
+98518,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,28.55,26,5,4,38
+98522,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.5,23.55,20,4,0,1
+98527,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.55,0,4,0,21
+98556,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,30.95,25,4,1,20
+98560,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.9,25.35,25,4,1,23
+98563,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.3,19.75,16,4,1,41
+98564,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.6,27.75,24,4,1,51
+98570,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,4,2,12
+98572,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.55,4,4,2,16
+98587,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,8.55,7,4,2,51
+98592,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,17.2,19.05,22,4,3,2
+98612,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,23.55,27,4,3,31
+98615,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,8.35,3,4,3,53
+98616,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Running Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.95,2,4,4,8
+98626,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.2,12.95,7,4,4,24
+98641,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,27.45,27,4,4,52
+98655,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,7.25,3,4,5,20
+98659,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,14.85,13,4,5,34
+98666,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.65,23,4,5,48
+98686,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,4,6,8
+98698,2013,2012-13,1610612761,Toronto Raptors,101249,John Lucas III,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.0,14.05,14,4,6,22
+98702,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.75,0,4,6,38
+98704,2013,2012-13,1610612761,Toronto Raptors,101249,John Lucas III,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,28.75,27,4,6,51
+98733,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.5,9.35,22,4,7,20
+98736,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,6.15,3,4,7,48
+98740,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.6,7.55,24,4,8,4
+98761,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,7.25,3,4,8,40
+98785,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,11.55,9,4,8,57
+98798,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-3.9,14.05,9,4,9,27
+98802,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,4,9,39
+98819,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,27.65,28,4,10,9
+98830,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,29.05,25,4,10,15
+98834,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.5,24.75,24,4,10,35
+98858,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.8,20.35,24,4,11,15
+98862,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-6.1,29.15,24,4,11,3
+98877,2013,2012-13,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,4,11,22
+98886,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.7,6.65,3,4,11,29
+98897,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.6,28.35,25,4,11,44
+98917,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,27.15,27,3,0,4
+98925,2013,2012-13,1610612748,Miami Heat,201202,Joel Anthony,C,C,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,3,0,18
+98926,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.5,28.05,26,3,0,37
+98936,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,8.05,9,3,0,52
+98949,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,3,1,8
+98985,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,11.55,23,3,1,31
+98990,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.4,25.05,26,3,1,47
+98999,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.9,24.95,20,3,2,13
+99002,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.4,12.95,9,3,2,29
+99005,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.6,12.35,7,3,2,51
+99006,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.95,1,3,3,12
+99036,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.95,0,3,3,40
+99049,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.0,7.85,3,3,4,4
+99055,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,3,4,16
+99061,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.7,18.15,24,3,4,30
+99098,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.6,13.85,19,3,5,0
+99109,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.9,11.05,10,3,5,20
+99115,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.0,29.85,25,3,5,29
+99124,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.9,26.35,25,3,5,37
+99139,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.8,16.25,11,3,6,2
+99176,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,8.35,6,3,6,38
+99184,2013,2012-13,1610612748,Miami Heat,2617,Udonis Haslem,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,8.25,11,3,6,58
+99186,2013,2012-13,1610612761,Toronto Raptors,202361,Landry Fields,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.65,0,3,7,8
+99208,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.35,1,3,7,29
+99211,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.35,1,3,7,34
+99220,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.95,3,3,7,41
+99225,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,10.75,22,3,7,55
+99244,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,3,8,9
+99263,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,30.25,26,3,8,23
+99267,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.5,30.15,26,3,8,43
+99274,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.8,21.75,17,3,8,49
+99302,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.1,10.25,17,3,9,24
+99309,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,23.15,20,3,9,42
+99312,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.1,27.65,22,3,9,52
+99366,2013,2012-13,1610612761,Toronto Raptors,202361,Landry Fields,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,19.05,16,3,10,23
+99372,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.2,6.75,11,3,10,47
+99379,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.7,5.05,15,3,10,50
+99382,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.5,20.95,20,3,11,7
+99388,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,21.45,18,3,11,25
+99409,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,4.15,2,2,0,1
+99456,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,9.15,5,2,0,10
+99472,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.65,23,2,0,33
+99474,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,27.45,28,2,0,39
+99477,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.8,8.35,11,2,0,55
+99519,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,7.15,3,2,1,29
+99534,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,27.25,24,2,2,8
+99552,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.65,23,2,2,24
+99554,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,30.15,27,2,2,43
+99555,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,10.75,8,2,2,53
+99583,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,18.45,17,2,3,17
+99587,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.9,4.95,17,2,3,34
+99591,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,3,57
+99597,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.6,26.05,26,2,4,7
+99600,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,18.95,18,2,4,15
+99622,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,4,32
+99632,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,11.35,7,2,4,38
+99634,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.8,32.15,26,2,4,54
+99640,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.2,29.95,25,2,5,13
+99646,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,21.15,18,2,5,29
+99652,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.35,23,2,5,39
+99682,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.4,28.35,25,2,5,54
+99719,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,29.15,26,2,6,24
+99736,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,11.65,16,2,6,51
+99742,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.35,1,2,7,7
+99746,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,2,7,30
+99751,2013,2012-13,1610612748,Miami Heat,951,Ray Allen,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,6.65,16,2,7,54
+99763,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,14.65,19,2,8,20
+99776,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.0,27.75,24,2,8,47
+99831,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-6.1,7.15,6,2,9,5
+99846,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.5,8.25,9,2,9,28
+99851,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,10.25,20,2,9,42
+99853,2013,2012-13,1610612761,Toronto Raptors,202361,Landry Fields,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,2,10,5
+99860,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,4.75,0,2,10,8
+99867,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,5.7,18.65,14,2,10,16
+99873,2013,2012-13,1610612761,Toronto Raptors,200768,Kyle Lowry,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.9,28.55,27,2,10,26
+99879,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.4,12.75,9,2,10,52
+99883,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,30.25,28,2,11,7
+99892,2013,2012-13,1610612748,Miami Heat,2034,Mike Miller,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.8,12.35,20,2,11,19
+99899,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,12.75,10,2,11,26
+99906,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.1,24.95,26,2,11,30
+99929,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.0,14.65,18,1,0,1
+99937,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.4,12.75,9,1,0,27
+99944,2013,2012-13,1610612748,Miami Heat,202708,Norris Cole,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,9.45,13,1,0,41
+99947,2013,2012-13,1610612761,Toronto Raptors,203082,Terrence Ross,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.7,20.35,21,1,0,50
+99957,2013,2012-13,1610612748,Miami Heat,2203,Shane Battier,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.15,6,1,1,6
+99961,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,10.05,8,1,1,30
+99966,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.6,14.55,12,1,1,52
+99972,2013,2012-13,1610612761,Toronto Raptors,101187,Alan Anderson,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,9.15,23,1,2,9
+99976,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,4.75,0,1,2,26
+99996,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,7.25,4,1,2,56
+100023,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.95,0,1,3,39
+100040,2013,2012-13,1610612761,Toronto Raptors,202361,Landry Fields,F,SF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.95,1,1,4,10
+100047,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,6.95,4,1,4,18
+100050,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.95,0,1,4,42
+100053,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.2,3.95,10,1,5,4
+100055,2013,2012-13,1610612761,Toronto Raptors,202361,Landry Fields,F,SF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,6.15,8,1,5,15
+100060,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,6.35,1,1,5,36
+100082,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,1,5,54
+100091,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.5,11.05,25,1,6,8
+100094,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.55,0,1,6,24
+100103,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.75,1,1,6,32
+100117,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.5,13.85,13,1,6,57
+100132,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.35,1,1,7,16
+100143,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,8.25,3,1,7,17
+100147,2013,2012-13,1610612761,Toronto Raptors,201942,DeMar DeRozan,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.1,10.05,9,1,7,29
+100155,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.85,2,1,7,45
+100164,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,10.45,12,1,7,56
+100194,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.8,17.85,25,1,8,16
+100199,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,1,8,36
+100207,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.4,5.65,1,1,8,54
+100212,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.1,12.45,16,1,8,59
+100260,2013,2012-13,1610612748,Miami Heat,2548,Dwyane Wade,G,SG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.0,22.25,17,1,9,54
+100263,2013,2012-13,1610612761,Toronto Raptors,202334,Ed Davis,C,C-PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,5.85,1,1,10,11
+100271,2013,2012-13,1610612748,Miami Heat,2544,LeBron James,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.35,1,1,10,32
+100273,2013,2012-13,1610612761,Toronto Raptors,101161,Amir Johnson,F,PF,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,13.25,9,1,10,43
+100281,2013,2012-13,1610612748,Miami Heat,201596,Mario Chalmers,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.2,6.65,5,1,10,55
+100291,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,11.55,7,1,11,1
+100296,2013,2012-13,1610612761,Toronto Raptors,101181,Jose Calderon,G,PG,01-23-2013,21200619,MIA,TOR,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.85,25,1,11,23
+100306,2013,2012-13,1610612748,Miami Heat,2547,Chris Bosh,C,C,01-23-2013,21200619,MIA,TOR,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.15,1,1,11,42

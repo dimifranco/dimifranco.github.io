@@ -1,0 +1,172 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+44479,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.9,5.85,14,4,1,59
+44484,2015,2014-15,1610612745,Houston Rockets,203910,Nick Johnson,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,27.75,24,4,0,23
+44486,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,6.95,22,4,0,30
+44490,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,6.65,1,4,0,46
+44493,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,1,7
+44494,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.0,29.65,24,4,1,14
+44496,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.2,15.35,10,4,1,37
+44497,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.9,5.55,2,4,1,45
+44504,2015,2014-15,1610612745,Houston Rockets,203909,KJ McDaniels,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.7,5.35,17,4,2,11
+44505,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,4.25,1,4,2,31
+44511,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.1,13.85,8,4,2,56
+44524,2015,2014-15,1610612745,Houston Rockets,201595,Joey Dorsey,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,3,19
+44525,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.2,11.05,8,4,3,36
+44526,2015,2014-15,1610612745,Houston Rockets,203143,Pablo Prigioni,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.7,30.65,25,4,3,51
+44528,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,11.25,24,4,3,59
+44529,2015,2014-15,1610612745,Houston Rockets,201595,Joey Dorsey,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.25,1,4,4,11
+44530,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.2,22.45,17,4,4,27
+44535,2015,2014-15,1610612745,Houston Rockets,201595,Joey Dorsey,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.7,5.95,3,4,4,40
+44536,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,24.75,25,4,4,59
+44540,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-7.3,29.15,24,4,5,10
+44542,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.2,17.55,24,4,5,19
+44552,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.05,24,4,5,29
+44554,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.3,27.75,25,4,5,38
+44556,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,7.25,3,4,6,3
+44557,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,8.25,23,4,6,19
+44561,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.9,29.95,24,4,6,36
+44565,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.85,2,4,6,59
+44567,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.9,23.05,25,4,7,15
+44569,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.25,2,4,7,38
+44571,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,8.35,23,4,7,49
+44575,2015,2014-15,1610612745,Houston Rockets,1891,Jason Terry,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.95,23,4,8,1
+44577,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.4,29.85,24,4,8,10
+44595,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,22.55,24,4,8,47
+44602,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.25,2,4,9,2
+44603,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.65,2,4,9,2
+44605,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,6.65,5,4,9,9
+44607,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,4,9,18
+44611,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.0,11.55,6,4,9,24
+44617,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,15.95,19,4,10,8
+44629,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,9.35,23,4,10,21
+44633,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.5,28.85,25,4,10,50
+44635,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,4,10,58
+44638,2015,2014-15,1610612745,Houston Rockets,1891,Jason Terry,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.5,14.15,24,4,11,23
+44639,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.7,17.95,14,4,11,37
+44650,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,31.55,26,3,0,0
+44652,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.9,19.25,14,3,0,4
+44655,2015,2014-15,1610612745,Houston Rockets,1891,Jason Terry,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.9,26.65,27,3,0,29
+44658,2015,2014-15,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.8,26.65,24,3,0,42
+44660,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.05,2,3,0,48
+44663,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.4,12.35,7,3,0,48
+44675,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.8,30.15,25,3,1,23
+44689,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.6,13.55,24,3,1,45
+44691,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,5.65,1,3,2,4
+44697,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.95,2,3,2,22
+44706,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-4.3,19.75,15,3,2,50
+44710,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,7.3,18.75,15,3,3,12
+44716,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,6.45,24,3,3,23
+44718,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,6.15,2,3,3,30
+44732,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,6.65,3,3,3,46
+44734,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.4,25.25,24,3,4,2
+44750,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.4,10.55,21,3,4,32
+44752,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,6.45,23,3,4,49
+44754,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.1,27.75,25,3,4,55
+44758,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.75,23,3,5,13
+44759,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.7,28.05,27,3,5,21
+44766,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,3,5,58
+44783,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.7,9.75,8,3,6,27
+44784,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,14.05,12,3,6,51
+44786,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.6,25.75,20,3,7,32
+44790,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.8,11.95,6,3,7,47
+44791,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.0,8.95,7,3,8,9
+44794,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,6.95,23,3,8,20
+44798,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.85,15,3,8,30
+44801,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,8.05,3,3,8,56
+44802,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.5,25.85,24,3,9,15
+44806,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,9.35,4,3,9,32
+44808,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.65,23,3,9,45
+44811,2015,2014-15,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.2,28.35,25,3,10,11
+44812,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.65,2,3,10,24
+44817,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,7.25,5,3,10,55
+44818,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.4,24.45,24,3,11,16
+44823,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,8.65,3,3,11,39
+44830,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.65,1,2,0,31
+44834,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,17.95,25,2,0,4
+44836,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.0,22.85,25,2,0,26
+44841,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,2,0,37
+44845,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.0,16.45,15,2,0,54
+44853,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.1,25.25,20,2,1,7
+44855,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,9.65,13,2,1,16
+44856,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,8.65,19,2,1,45
+44859,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,11.55,6,2,2,10
+44871,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,5.6,11.35,8,2,2,30
+44873,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Step Back Jump shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-7.2,19.25,15,2,2,40
+44874,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,3,0
+44881,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,25.55,24,2,3,29
+44886,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.7,27.25,22,2,3,34
+44891,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.8,11.35,6,2,3,51
+44894,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,10.25,23,2,4,11
+44909,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.85,2,2,4,39
+44913,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.95,1,2,4,43
+44914,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,26.85,24,2,5,11
+44915,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.1,21.15,20,2,5,36
+44920,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,2,5,48
+44930,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Hook Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,5.55,10,2,5,55
+44932,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,25.75,21,2,6,9
+44945,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.85,2,2,6,35
+44949,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,6.35,2,2,6,39
+44950,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.55,2,2,6,40
+44952,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,8.55,22,2,7,6
+44953,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.65,24,2,7,18
+44959,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.4,6.75,23,2,7,41
+44970,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.4,13.85,8,2,8,19
+44981,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-21.4,17.05,24,2,8,41
+44984,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.9,14.05,20,2,8,46
+44987,2015,2014-15,1610612745,Houston Rockets,1891,Jason Terry,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.9,17.15,24,2,9,3
+44989,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.3,26.65,25,2,9,17
+44991,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,21.65,16,2,9,36
+44995,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,2,9,52
+44998,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,8.65,3,2,9,58
+45001,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.6,25.85,24,2,10,11
+45004,2015,2014-15,1610612762,Utah Jazz,204060,Joe Ingles,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.1,26.65,26,2,10,25
+45012,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.65,2,2,10,51
+45024,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.5,9.65,23,2,11,22
+45027,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,9.95,9,2,11,43
+45043,2015,2014-15,1610612745,Houston Rockets,2746,Josh Smith,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.35,22,1,0,35
+45050,2015,2014-15,1610612762,Utah Jazz,202344,Trevor Booker,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.45,2,1,0,51
+45054,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,6.65,1,1,0,51
+45057,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,4.65,16,1,0,54
+45058,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.85,3,1,1,19
+45060,2015,2014-15,1610612762,Utah Jazz,203504,Trey Burke,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,21.45,18,1,1,30
+45065,2015,2014-15,1610612762,Utah Jazz,202407,Elijah Millsap,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,15.15,15,1,1,46
+45067,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,6.95,3,1,1,59
+45071,2015,2014-15,1610612745,Houston Rockets,201147,Corey Brewer,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.25,2,1,2,17
+45074,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,9.15,6,1,2,32
+45082,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.9,29.95,24,1,2,53
+45086,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.65,1,1,3,8
+45089,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,8.05,2,1,3,11
+45091,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,7.25,2,1,3,12
+45093,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,11.35,11,1,3,30
+45095,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.0,26.15,24,1,3,46
+45097,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,21.95,23,1,3,52
+45100,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.05,1,1,4,8
+45105,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,6.95,2,1,4,9
+45111,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.7,8.55,23,1,4,41
+45114,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.0,6.65,23,1,5,1
+45118,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,29.95,24,1,5,9
+45148,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,23.95,18,1,5,55
+45155,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,11.35,23,1,6,7
+45158,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,6,26
+45162,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,11.95,6,1,6,28
+45166,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.05,24,1,6,48
+45168,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.6,24.65,24,1,7,1
+45170,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,7,8
+45173,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,17.15,12,1,7,31
+45175,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,7,44
+45180,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,8.25,23,1,7,52
+45187,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.5,7.55,6,1,8,2
+45191,2015,2014-15,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.0,29.85,24,1,8,10
+45199,2015,2014-15,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.2,28.55,24,1,8,26
+45204,2015,2014-15,1610612745,Houston Rockets,201976,Patrick Beverley,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,10.55,5,1,8,45
+45206,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.95,1,1,9,6
+45211,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,8.05,4,1,9,32
+45215,2015,2014-15,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.1,5.25,15,1,9,53
+45222,2015,2014-15,1610612745,Houston Rockets,203093,Terrence Jones,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,11.55,7,1,10,7
+45226,2015,2014-15,1610612745,Houston Rockets,201935,James Harden,G,SG,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.6,6.75,3,1,10,12
+45233,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,10.45,5,1,10,25
+45234,2015,2014-15,1610612762,Utah Jazz,203918,Rodney Hood,G,SG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.25,25,1,10,43
+45238,2015,2014-15,1610612745,Houston Rockets,202700,Donatas Motiejunas,F,PF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,28.35,25,1,10,59
+45243,2015,2014-15,1610612745,Houston Rockets,2772,Trevor Ariza,F,SF,03-12-2015,21400965,UTA,HOU,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,7.15,2,1,11,5
+45245,2015,2014-15,1610612762,Utah Jazz,203497,Rudy Gobert,C,C,03-12-2015,21400965,UTA,HOU,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.35,0,1,11,12
+45249,2015,2014-15,1610612762,Utah Jazz,203957,Dante Exum,G,PG,03-12-2015,21400965,UTA,HOU,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.2,25.25,21,1,11,33

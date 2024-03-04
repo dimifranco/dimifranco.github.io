@@ -1,0 +1,163 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+7177,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.25,0,4,0,3
+7181,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.1,20.05,14,4,0,22
+7195,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,4,0,44
+7197,2011,2010-11,1610612739,Cleveland Cavaliers,101121,Joey Graham,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,10.55,5,4,0,45
+7209,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.75,1,4,0,58
+7215,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,4,1,21
+7223,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,4,1,27
+7231,2011,2010-11,1610612739,Cleveland Cavaliers,101121,Joey Graham,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,30.45,25,4,1,44
+7235,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.45,0,4,1,58
+7240,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.85,25,4,1,59
+7256,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,26.95,25,4,2,21
+7264,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.2,6.45,23,4,2,28
+7267,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.4,10.25,9,4,2,49
+7274,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.65,2,4,3,3
+7277,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,9.35,17,4,3,24
+7282,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.0,12.95,7,4,3,40
+7321,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,6.35,14,4,4,1
+7325,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.9,9.45,15,4,4,22
+7330,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.5,7.25,19,4,4,34
+7337,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.1,18.65,24,4,4,48
+7345,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.9,12.75,12,4,5,14
+7374,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.2,9.15,24,4,5,32
+7390,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.5,20.05,14,4,5,46
+7393,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,8.65,15,4,6,14
+7399,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-8.0,8.65,8,4,6,36
+7418,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,25.35,23,4,7,25
+7421,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.2,19.25,17,4,7,39
+7427,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-13.3,18.45,18,4,7,59
+7437,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,9.65,20,4,8,20
+7459,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.8,19.75,18,4,8,44
+7468,2011,2010-11,1610612741,Chicago Bulls,201600,Omer Asik,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,4,9,0
+7478,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,20.95,18,4,9,26
+7485,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.2,28.85,24,4,9,41
+7523,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-7.0,25.75,21,4,10,15
+7531,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,9.65,15,4,10,34
+7536,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.6,11.55,7,4,11,1
+7539,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.2,24.25,19,4,11,26
+7550,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.4,26.95,24,4,11,36
+7564,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.2,27.15,25,3,0,0
+7567,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.95,0,3,0,5
+7601,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,3,0,47
+7613,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.9,6.75,4,3,1,1
+7620,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.15,1,3,1,18
+7628,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.65,0,3,1,35
+7633,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,3,1,52
+7635,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,18.95,17,3,2,7
+7641,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,3,2,42
+7667,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.1,9.75,4,3,3,0
+7680,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.95,0,3,3,23
+7690,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.9,31.55,26,3,3,37
+7700,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.65,0,3,4,3
+7704,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,7.85,13,3,4,4
+7717,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.4,7.75,6,3,4,34
+7725,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.0,23.65,24,3,4,41
+7728,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,4,55
+7733,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,25.75,25,3,5,1
+7740,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.7,29.85,26,3,5,12
+7781,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,5,44
+7789,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Putback Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.45,1,3,5,52
+7795,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.1,5.55,17,3,5,55
+7823,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.0,5.85,17,3,6,41
+7830,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.55,2,3,6,45
+7840,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.85,0,3,7,6
+7846,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,3,7,29
+7853,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,12.95,13,3,7,39
+7873,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.1,8.85,12,3,8,15
+7880,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.75,1,3,8,34
+7884,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,24.45,25,3,8,59
+7894,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.35,1,3,9,3
+7905,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,3,9,5
+7911,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.65,3,3,9,6
+7927,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.05,0,3,9,23
+7933,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.45,2,3,9,30
+7936,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,10.25,15,3,9,50
+7944,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.35,0,3,10,12
+7947,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.5,11.35,16,3,10,14
+7952,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.5,18.15,17,3,10,34
+7957,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,4.0,20.05,15,3,10,54
+7963,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.75,5,3,11,5
+7967,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,6.65,23,3,11,18
+7973,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,23.35,24,3,11,39
+8006,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,12.75,15,2,0,1
+8013,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.5,7.25,7,2,0,22
+8016,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.7,10.55,16,2,0,38
+8044,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.35,0,2,1,26
+8050,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,20.55,17,2,1,41
+8064,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.95,0,2,2,6
+8070,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-17.4,6.35,17,2,2,20
+8075,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.5,6.35,18,2,2,38
+8095,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,4.95,0,2,2,57
+8110,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.6,6.35,11,2,3,6
+8119,2011,2010-11,1610612739,Cleveland Cavaliers,202412,Manny Harris,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.85,2,2,3,17
+8133,2011,2010-11,1610612739,Cleveland Cavaliers,202412,Manny Harris,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.75,1,2,3,19
+8136,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-2.1,20.05,14,2,3,20
+8154,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.3,26.15,25,2,3,37
+8162,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,10.05,14,2,3,55
+8166,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,5.95,23,2,4,7
+8170,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.4,10.75,15,2,4,27
+8180,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.0,27.95,25,2,4,36
+8185,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,2,4,54
+8192,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,2.4,20.05,14,2,5,17
+8217,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.15,0,2,5,56
+8229,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.65,0,2,6,12
+8233,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.2,13.55,21,2,6,19
+8262,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.05,0,2,6,50
+8275,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,7.55,5,2,7,9
+8283,2011,2010-11,1610612739,Cleveland Cavaliers,201623,Semih Erden,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.45,4,2,7,12
+8290,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,6.35,23,2,7,35
+8300,2011,2010-11,1610612739,Cleveland Cavaliers,201623,Semih Erden,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,5.95,1,2,7,58
+8321,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.25,24,2,8,15
+8323,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.65,0,2,8,34
+8330,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.6,5.85,2,2,8,52
+8338,2011,2010-11,1610612741,Chicago Bulls,2594,Kyle Korver,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.2,13.75,17,2,9,29
+8365,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.2,21.25,18,2,10,14
+8379,2011,2010-11,1610612739,Cleveland Cavaliers,101121,Joey Graham,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,7.15,5,2,10,44
+8407,2011,2010-11,1610612741,Chicago Bulls,201228,C.J. Watson,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,14.15,14,2,11,2
+8417,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.6,8.85,4,2,11,7
+8425,2011,2010-11,1610612741,Chicago Bulls,201959,Taj Gibson,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-13.8,8.25,14,2,11,17
+8442,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,9.35,10,2,11,23
+8449,2011,2010-11,1610612739,Cleveland Cavaliers,202376,Luke Harangody,F,PF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.65,22,2,11,44
+8464,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.0,37.85,32,1,0,0
+8468,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,6.95,1,1,0,3
+8480,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,5.6,22.55,18,1,0,41
+8487,2011,2010-11,1610612741,Chicago Bulls,703,Kurt Thomas,F,PF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.05,17,1,0,59
+8493,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.45,1,1,1,10
+8504,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,12.95,18,1,1,20
+8507,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.6,12.95,13,1,1,41
+8548,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.4,8.55,20,1,2,13
+8550,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.25,1,1,2,37
+8579,2011,2010-11,1610612739,Cleveland Cavaliers,201196,Ramon Sessions,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.4,12.45,15,1,2,53
+8597,2011,2010-11,1610612741,Chicago Bulls,200758,Ronnie Brewer,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.55,0,1,3,13
+8622,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.3,28.75,25,1,3,35
+8630,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.8,8.85,17,1,3,44
+8635,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,3,56
+8644,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-13.8,27.15,25,1,4,1
+8659,2011,2010-11,1610612739,Cleveland Cavaliers,200789,Daniel Gibson,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.9,7.45,20,1,4,17
+8672,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,5.55,0,1,4,28
+8683,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,7.45,2,1,4,48
+8729,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,9.15,15,1,5,34
+8733,2011,2010-11,1610612739,Cleveland Cavaliers,1515,Anthony Parker,F,SF,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-10.3,28.25,25,1,8,38
+8740,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,13.05,14,1,5,45
+8741,2011,2010-11,1610612739,Cleveland Cavaliers,1884,Baron Davis,G,PG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.0,27.95,22,1,6,2
+8746,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,1,6,20
+8760,2011,2010-11,1610612739,Cleveland Cavaliers,200797,Ryan Hollins,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.15,0,1,6,38
+8774,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-5.1,10.05,7,1,6,45
+8779,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.1,28.75,25,1,7,2
+8820,2011,2010-11,1610612741,Chicago Bulls,201565,Derrick Rose,G,PG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,10.75,6,1,7,58
+8827,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,1,8,20
+8843,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.5,11.05,23,1,8,31
+8850,2011,2010-11,1610612741,Chicago Bulls,2736,Luol Deng,F,SF,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.25,24,1,8,58
+8854,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,1,9,3
+8865,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,1,9,8
+8880,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,11.95,14,1,9,12
+8882,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,12.75,13,1,9,26
+8894,2011,2010-11,1610612739,Cleveland Cavaliers,202087,Alonzo Gee,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,10.55,6,1,9,37
+8903,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,7.45,23,1,9,59
+8915,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.1,10.45,6,1,10,17
+8927,2011,2010-11,1610612741,Chicago Bulls,2430,Carlos Boozer,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.35,1,1,10,34
+8931,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,22.55,17,1,10,47
+8950,2011,2010-11,1610612741,Chicago Bulls,201149,Joakim Noah,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.85,0,1,11,6
+8956,2011,2010-11,1610612741,Chicago Bulls,2586,Keith Bogans,G,SG,04-08-2011,21001180,CLE,CHI,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.2,26.95,25,1,11,37
+8960,2011,2010-11,1610612739,Cleveland Cavaliers,201581,JJ Hickson,C,C,04-08-2011,21001180,CLE,CHI,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.65,1,1,11,26

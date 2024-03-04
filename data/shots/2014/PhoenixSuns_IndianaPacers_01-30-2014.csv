@@ -1,0 +1,179 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+90059,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,1.3,30.95,25,4,0,8
+90062,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.9,22.05,19,4,0,32
+90071,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,4,0,44
+90073,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,4.15,23,4,0,48
+90078,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.35,1,4,1,12
+90079,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.5,11.05,8,4,1,28
+90081,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.55,17,4,1,42
+90082,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.2,30.65,25,4,2,3
+90084,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.6,30.15,25,4,2,17
+90087,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.7,5.25,24,4,2,22
+90092,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,4,2,42
+90093,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.7,32.35,27,4,2,58
+90098,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.9,25.05,19,4,3,14
+90099,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.6,18.95,20,4,3,31
+90100,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,4,3,48
+90109,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.35,1,4,4,6
+90117,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.25,1,4,5,3
+90119,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.25,0,4,5,24
+90120,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,6.65,1,4,5,26
+90122,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.1,31.05,25,4,5,31
+90126,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-0.7,22.45,17,4,5,43
+90133,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.0,14.95,9,4,6,13
+90140,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.5,22.75,18,4,6,45
+90141,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.2,14.95,15,4,6,54
+90142,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.9,7.15,6,4,7,13
+90145,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.6,4.95,8,4,7,29
+90151,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,26.05,26,4,7,48
+90154,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.9,4.75,15,4,7,57
+90157,2014,2013-14,1610612756,Phoenix Suns,202397,Ish Smith,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.65,1,4,8,2
+90159,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.55,0,4,8,20
+90163,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,8.85,3,4,8,23
+90165,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,4,8,44
+90168,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.35,0,4,8,55
+90169,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.9,24.75,19,4,9,18
+90177,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.6,6.35,3,4,9,44
+90178,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,7.85,8,4,10,6
+90181,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-24.4,3.95,24,4,10,35
+90182,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.0,20.15,25,4,10,57
+90190,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.85,1,4,11,51
+90191,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,2.4,31.75,26,3,0,0
+90193,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.8,20.35,17,3,0,15
+90195,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.35,2,3,0,28
+90197,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.7,28.25,26,3,0,37
+90198,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.7,5.25,14,3,1,2
+90201,2014,2013-14,1610612756,Phoenix Suns,203458,Alex Len,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-4.2,17.35,12,3,1,43
+90203,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-2.4,32.05,26,3,2,8
+90205,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,11.25,7,3,2,21
+90212,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.65,1,3,3,1
+90214,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.65,1,3,3,10
+90216,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.35,1,3,3,26
+90219,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.6,7.15,7,3,3,41
+90222,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.35,0,3,4,4
+90225,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,23.05,26,3,4,12
+90226,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,4.75,2,3,4,40
+90229,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,24.95,25,3,5,5
+90230,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.25,0,3,5,28
+90232,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.8,29.05,27,3,5,42
+90233,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.9,18.65,17,3,5,49
+90234,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.1,6.95,13,3,6,12
+90237,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.65,1,3,6,30
+90241,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,12.65,17,3,6,33
+90242,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,3,6,48
+90247,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,7.85,3,3,7,1
+90251,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.85,1,3,7,14
+90255,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.1,5.35,11,3,7,36
+90262,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,5.65,22,3,8,9
+90267,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.1,6.35,14,3,8,30
+90268,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.15,1,3,9,9
+90272,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.7,9.65,15,3,9,19
+90273,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,20.35,17,3,9,40
+90276,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,6.15,0,3,9,56
+90279,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,4.95,0,3,10,30
+90281,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,6.95,2,3,10,48
+90283,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,5.35,3,3,10,53
+90285,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.65,1,3,11,16
+90291,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.75,0,3,11,38
+90293,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.0,9.95,16,3,11,40
+90296,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.5,5.25,15,2,0,6
+90306,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.5,29.45,26,2,0,28
+90310,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,5.85,1,2,1,0
+90312,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,7.75,15,2,1,20
+90314,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,4.75,14,2,1,29
+90315,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.9,6.65,23,2,1,32
+90318,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.3,9.65,8,2,1,40
+90320,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,21.25,27,2,2,9
+90322,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.9,5.65,11,2,2,25
+90323,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.8,25.75,26,2,2,50
+90326,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,25.35,25,2,2,58
+90327,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,12.95,7,2,3,17
+90335,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-15.9,8.35,16,2,3,55
+90337,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,12.7,17.65,17,2,4,11
+90340,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,2,4,24
+90341,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.8,7.45,5,2,4,36
+90343,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,4,52
+90344,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,4.95,0,2,5,0
+90347,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,3.4,20.85,15,2,5,7
+90356,2014,2013-14,1610612756,Phoenix Suns,203458,Alex Len,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.0,4.95,1,2,5,36
+90359,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.3,4.75,14,2,5,50
+90361,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.65,1,2,6,12
+90364,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,11.65,6,2,6,18
+90366,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,5.65,16,2,6,46
+90367,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.25,1,2,7,9
+90370,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,4.95,22,2,7,36
+90372,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,2.85,2,2,7,40
+90377,2014,2013-14,1610612756,Phoenix Suns,203458,Alex Len,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,4.75,0,2,7,44
+90378,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.25,1,2,7,45
+90380,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,17.95,17,2,7,48
+90381,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,13.25,15,2,8,1
+90382,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,4.95,15,2,8,14
+90385,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.0,25.25,25,2,8,40
+90388,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,14.1,17.85,18,2,8,46
+90390,2014,2013-14,1610612756,Phoenix Suns,203458,Alex Len,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.7,11.55,19,2,8,49
+90394,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.3,17.95,16,2,8,52
+90397,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.7,20.35,17,2,9,13
+90399,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,30.75,28,2,9,23
+90401,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.65,1,2,9,32
+90403,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.15,2,2,9,53
+90406,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,0.5,31.05,25,2,10,0
+90407,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,13.55,8,2,10,14
+90413,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.2,4.15,1,2,10,20
+90414,2014,2013-14,1610612754,Indiana Pacers,101133,Ian Mahinmi,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.25,1,2,10,24
+90416,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,5.25,1,2,10,27
+90417,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.3,5.65,16,2,10,36
+90418,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,5.65,0,2,10,57
+90422,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.65,1,2,11,13
+90423,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.15,2,2,11,30
+90426,2014,2013-14,1610612754,Indiana Pacers,201228,C.J. Watson,G,PG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.55,0,2,11,37
+90431,2014,2013-14,1610612756,Phoenix Suns,2571,Leandro Barbosa,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-17.1,25.25,26,1,0,0
+90433,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.95,1,1,0,4
+90434,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,1,0,6
+90438,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.6,19.25,18,1,0,26
+90439,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.2,20.35,26,1,0,33
+90442,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.25,0,1,0,46
+90444,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,9.45,6,1,0,49
+90445,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-0.2,31.75,26,1,1,0
+90447,2014,2013-14,1610612756,Phoenix Suns,202694,Marcus Morris Sr.,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.0,11.85,14,1,1,26
+90450,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.0,10.05,4,1,1,33
+90451,2014,2013-14,1610612756,Phoenix Suns,202693,Markieff Morris,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,11.65,6,1,1,46
+90452,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.6,20.85,17,1,2,6
+90453,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.85,0,1,2,22
+90462,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.7,13.05,7,1,3,1
+90464,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,5.55,4,1,3,25
+90465,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.5,10.75,8,1,3,37
+90469,2014,2013-14,1610612754,Indiana Pacers,101122,Danny Granger,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,8.35,10,1,3,45
+90472,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.55,1,1,3,49
+90473,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.1,16.55,12,1,4,5
+90475,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.85,2,1,4,23
+90476,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.95,2,1,4,42
+90479,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.05,0,1,4,50
+90483,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,9.15,4,1,4,53
+90485,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.9,5.05,10,1,4,59
+90486,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,1,5,19
+90487,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.35,0,1,5,29
+90489,2014,2013-14,1610612756,Phoenix Suns,203101,Miles Plumlee,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.3,6.45,9,1,5,43
+90490,2014,2013-14,1610612754,Indiana Pacers,202331,Paul George,F,SF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.2,8.85,9,1,6,4
+90495,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,6.15,6,1,6,24
+90498,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,25.35,26,1,6,34
+90501,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.05,0,1,6,37
+90506,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-7.7,7.75,8,1,6,44
+90507,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,27.75,25,1,7,4
+90509,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-1.3,23.35,18,1,7,13
+90512,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,1,7,24
+90513,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,6.45,1,1,7,44
+90514,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,15.2,3.85,15,1,7,53
+90515,2014,2013-14,1610612756,Phoenix Suns,200782,P.J. Tucker,F,SF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.5,4.75,16,1,8,20
+90517,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.25,2,1,8,36
+90518,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.55,1,1,8,47
+90522,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.3,26.85,22,1,8,55
+90525,2014,2013-14,1610612754,Indiana Pacers,202362,Lance Stephenson,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-19.6,23.95,27,1,9,8
+90530,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.3,14.55,15,1,9,16
+90532,2014,2013-14,1610612754,Indiana Pacers,201588,George Hill,G,PG,01-30-2014,21300686,IND,PHX,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,4.75,0,1,9,28
+90535,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.7,22.05,16,1,9,49
+90540,2014,2013-14,1610612754,Indiana Pacers,201579,Roy Hibbert,C,C,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,8.85,3,1,10,1
+90542,2014,2013-14,1610612756,Phoenix Suns,101112,Channing Frye,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.6,8.35,19,1,10,22
+90545,2014,2013-14,1610612754,Indiana Pacers,2449,Luis Scola,F,PF,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.8,8.85,9,1,10,33
+90553,2014,2013-14,1610612756,Phoenix Suns,201609,Goran Dragic,G,SG,01-30-2014,21300686,IND,PHX,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.2,12.75,7,1,11,4
+90554,2014,2013-14,1610612754,Indiana Pacers,2561,David West,F,PF,01-30-2014,21300686,IND,PHX,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,5.25,1,1,11,18
+90558,2014,2013-14,1610612756,Phoenix Suns,101123,Gerald Green,G,SG,01-30-2014,21300686,IND,PHX,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,18.35,18,1,11,26

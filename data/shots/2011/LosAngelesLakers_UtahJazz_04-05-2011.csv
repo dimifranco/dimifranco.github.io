@@ -1,0 +1,168 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+11267,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.6,32.05,27,4,0,16
+11274,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,29.35,24,4,0,51
+11282,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,8.85,23,4,1,18
+11287,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,6.35,16,4,1,24
+11290,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.9,5.35,2,4,1,36
+11296,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.35,0,4,1,53
+11297,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.3,28.55,25,4,1,54
+11303,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,4,2,20
+11307,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.0,29.65,25,4,2,22
+11310,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.6,27.65,25,4,2,39
+11329,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,7.15,1,4,3,4
+11335,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.35,1,4,3,25
+11339,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.3,3.95,22,4,3,41
+11350,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.35,1,4,4,2
+11357,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.4,7.75,2,4,4,11
+11365,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,16.9,15.95,20,4,4,39
+11370,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,9.45,4,4,4,52
+11378,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.1,18.45,16,4,5,0
+11393,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,7.15,2,4,5,15
+11399,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.4,12.65,7,4,5,34
+11404,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.4,12.75,7,4,5,50
+11406,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.8,8.95,7,4,5,52
+11410,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.2,12.35,7,4,6,16
+11416,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.4,26.35,22,4,6,28
+11420,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.7,5.65,2,4,6,55
+11440,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.0,27.75,25,4,7,13
+11448,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,8.6,24.25,20,4,7,28
+11453,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,3.0,13.55,8,4,7,45
+11474,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.3,9.75,5,4,7,57
+11500,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,4.3,22.55,17,4,8,23
+11503,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,1.3,11.35,6,4,8,27
+11524,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.95,2,4,8,44
+11534,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,19.85,17,4,8,56
+11550,2011,2010-11,1610612747,Los Angeles Lakers,2575,Luke Walton,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,8.55,3,4,9,4
+11558,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,7.55,2,4,9,23
+11562,2011,2010-11,1610612762,Utah Jazz,201602,Kyle Weaver,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.3,5.25,11,4,9,25
+11569,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.7,25.75,24,4,9,50
+11571,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,7.25,2,4,10,13
+11581,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.5,16.85,12,4,10,22
+11589,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.35,10,4,10,56
+11598,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,4,11,5
+11603,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.3,7.55,2,4,11,7
+11614,2011,2010-11,1610612747,Los Angeles Lakers,2575,Luke Walton,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,4.95,8,4,11,16
+11632,2011,2010-11,1610612747,Los Angeles Lakers,2575,Luke Walton,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,18.2,22.05,24,4,11,40
+11650,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-10.5,38.35,34,3,0,0
+11655,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.9,28.55,25,3,0,4
+11670,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.9,5.55,1,3,0,18
+11673,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.8,14.35,18,3,0,31
+11683,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,3,0,42
+11687,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,3,0,45
+11690,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.8,21.75,16,3,0,52
+11699,2011,2010-11,1610612747,Los Angeles Lakers,2575,Luke Walton,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.0,17.15,22,3,1,3
+11708,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,7.9,6.15,7,3,1,26
+11715,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.65,2,3,1,47
+11756,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,8.85,21,3,2,21
+11764,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.4,6.35,5,3,2,31
+11776,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.2,5.35,22,3,2,41
+11783,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.8,5.95,13,3,2,50
+11792,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.6,7.45,6,3,3,14
+11796,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,5.95,0,3,3,30
+11809,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.65,1,3,3,34
+11815,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.35,2,3,3,36
+11847,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,1.9,25.55,20,3,4,13
+11853,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,5.9,29.45,24,3,4,37
+11879,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-22.8,5.25,22,3,4,54
+11889,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.0,11.15,13,3,5,19
+11899,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,7.45,8,3,5,27
+11905,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,5.65,0,3,5,33
+11907,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.25,2,3,5,36
+11918,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.95,1,3,5,51
+11921,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.3,11.95,7,3,5,53
+11948,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.0,6.15,1,3,6,15
+11960,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.2,12.15,7,3,6,26
+11971,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,6.15,1,3,6,58
+11981,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.9,23.05,24,3,7,4
+11985,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.45,3,3,7,14
+11992,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.1,9.95,9,3,7,34
+12014,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,7.25,2,3,7,42
+12044,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,3,8,23
+12048,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,7.15,11,3,8,25
+12055,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.55,1,3,8,44
+12060,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.8,6.15,2,3,8,49
+12071,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,12.15,6,3,9,24
+12083,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.2,23.85,24,3,9,39
+12113,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.7,9.35,6,3,10,17
+12132,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,8.85,4,3,10,25
+12135,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.4,11.85,13,3,10,39
+12152,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,3,10,51
+12163,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,3,10,55
+12167,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.6,5.25,10,3,10,58
+12178,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,7.8,29.85,25,3,11,8
+12190,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,3,11,45
+12213,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Back Court,BC,Back Court Shot,-7.3,45.55,40,2,0,0
+12257,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,9.8,19.55,17,2,0,14
+12311,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,3.7,9.15,5,2,0,55
+12319,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.1,4.75,23,2,0,57
+12322,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,2,1,20
+12366,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,2.1,24.95,19,2,2,5
+12409,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.3,7.55,4,2,2,46
+12448,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.95,2,2,3,48
+12456,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,6.45,1,2,4,0
+12460,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-3.2,22.55,17,2,4,3
+12473,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,5.55,1,2,4,23
+12548,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,1.0,21.15,15,2,5,9
+12552,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-12.1,16.25,16,2,5,31
+12560,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,8.9,29.05,25,2,5,55
+12564,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,6.95,2,2,6,25
+12569,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,8.35,3,2,6,41
+12576,2011,2010-11,1610612762,Utah Jazz,201602,Kyle Weaver,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,4.3,29.85,24,2,7,0
+12584,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.4,17.55,16,2,7,7
+12596,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.3,7.75,2,2,7,21
+12640,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-1.2,19.55,14,2,7,48
+12642,2011,2010-11,1610612762,Utah Jazz,201602,Kyle Weaver,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,6.35,1,2,8,3
+12648,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,6.8,12.35,9,2,8,5
+12652,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,0.5,14.95,9,2,8,25
+12661,2011,2010-11,1610612762,Utah Jazz,201602,Kyle Weaver,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-13.8,13.45,16,2,8,35
+12668,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.35,2,2,8,43
+12672,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Jump shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,7.55,3,2,8,58
+12682,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,0.7,12.95,7,2,9,11
+12707,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.7,6.35,2,2,9,37
+12711,2011,2010-11,1610612762,Utah Jazz,202379,Jeremy Evans,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.7,6.15,2,2,11,6
+12717,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-14.6,6.35,14,2,9,56
+12729,2011,2010-11,1610612762,Utah Jazz,201602,Kyle Weaver,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.6,16.85,16,2,10,21
+12741,2011,2010-11,1610612747,Los Angeles Lakers,1885,Lamar Odom,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-4.5,29.95,25,2,10,42
+12749,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,21.5,15.95,24,2,10,57
+12757,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.9,6.15,1,2,11,5
+12767,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.6,10.55,7,2,11,7
+12780,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,11.2,28.05,25,2,11,16
+12785,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,11.4,6.45,11,2,11,41
+12809,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,3.5,23.95,19,1,0,0
+12840,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.5,5.95,4,1,0,45
+12859,2011,2010-11,1610612747,Los Angeles Lakers,200769,Shannon Brown,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,5.85,2,1,1,3
+12865,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,8.05,10,1,1,23
+12888,2011,2010-11,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,4.65,22,1,2,8
+12895,2011,2010-11,1610612747,Los Angeles Lakers,2440,Matt Barnes,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,4.95,0,1,2,33
+12903,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.7,29.95,24,1,2,40
+12944,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,10.3,10.75,11,1,3,14
+12956,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,9.45,9,1,3,24
+12966,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.3,26.95,25,1,3,31
+12967,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-1.2,31.55,26,1,3,47
+12999,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-8.9,19.45,16,1,4,21
+13009,2011,2010-11,1610612747,Los Angeles Lakers,977,Kobe Bryant,G,SG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.4,24.45,21,1,4,26
+13013,2011,2010-11,1610612762,Utah Jazz,1922,Francisco Elson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,5.9,21.15,16,1,4,35
+13051,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.2,21.95,17,1,4,55
+13058,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,2.4,11.35,6,1,5,14
+13064,2011,2010-11,1610612762,Utah Jazz,2248,Earl Watson,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,14.2,25.75,24,1,5,31
+13096,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.2,5.65,2,1,5,50
+13107,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.0,7.85,6,1,5,56
+13118,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-2.8,25.75,20,1,6,16
+13148,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-15.5,7.75,15,1,6,52
+13155,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-6.9,23.35,19,1,7,2
+13165,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-14.6,12.95,16,1,7,16
+13180,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.2,28.55,25,1,7,41
+13212,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,8.95,3,1,7,58
+13233,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.2,7.45,12,1,8,15
+13241,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,5.35,22,1,8,23
+13263,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.75,2,1,8,45
+13269,2011,2010-11,1610612747,Los Angeles Lakers,965,Derek Fisher,G,PG,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.8,12.35,10,1,8,49
+13273,2011,2010-11,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,5.55,0,1,9,10
+13280,2011,2010-11,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,5.85,11,1,9,11
+13288,2011,2010-11,1610612747,Los Angeles Lakers,101115,Andrew Bynum,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.75,1,1,9,33
+13291,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.95,1,1,9,39
+13305,2011,2010-11,1610612762,Utah Jazz,101139,CJ Miles,F,SF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.9,12.75,22,1,10,5
+13335,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,4.8,14.55,10,1,10,28
+13350,2011,2010-11,1610612747,Los Angeles Lakers,1897,Metta World Peace,F,SF,04-05-2011,21001161,LAL,UTA,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,15.7,24.25,24,1,10,46
+13353,2011,2010-11,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.5,5.65,18,1,11,12
+13382,2011,2010-11,1610612747,Los Angeles Lakers,2200,Pau Gasol,C,C,04-05-2011,21001161,LAL,UTA,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,5.05,14,1,11,45

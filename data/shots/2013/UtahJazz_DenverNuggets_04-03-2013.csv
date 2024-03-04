@@ -1,0 +1,158 @@
+,SEASON_1,SEASON_2,TEAM_ID,TEAM_NAME,PLAYER_ID,PLAYER_NAME,POSITION_GROUP,POSITION,GAME_DATE,GAME_ID,HOME_TEAM,AWAY_TEAM,EVENT_TYPE,SHOT_MADE,ACTION_TYPE,SHOT_TYPE,BASIC_ZONE,ZONE_NAME,ZONE_ABB,ZONE_RANGE,LOC_X,LOC_Y,SHOT_DISTANCE,QUARTER,MINS_LEFT,SECS_LEFT
+17825,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,5.25,0,4,0,41
+17832,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-14.0,23.65,23,4,0,56
+17850,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-11.9,27.45,25,4,1,5
+17854,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-16.3,19.25,21,4,1,16
+17863,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,15.5,14.65,18,4,1,29
+17879,2013,2012-13,1610612762,Utah Jazz,201960,DeMarre Carroll,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,11.9,24.15,22,4,2,6
+17898,2013,2012-13,1610612762,Utah Jazz,202379,Jeremy Evans,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.85,0,4,2,29
+17921,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.4,13.75,8,4,2,51
+17958,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,7.55,2,4,3,16
+17961,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.0,6.35,2,4,3,32
+17973,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side,L,8-16 ft.,7.9,6.65,8,4,3,43
+17976,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-0.6,13.25,8,4,3,48
+17981,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,5.55,1,4,4,9
+17984,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.6,19.45,16,4,4,29
+18005,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-6.9,17.05,13,4,5,0
+18017,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,12.95,24,4,5,7
+18024,2013,2012-13,1610612743,Denver Nuggets,201580,JaVale McGee,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,4,5,25
+18036,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.7,9.65,24,4,5,35
+18038,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.9,10.55,23,4,5,55
+18045,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.9,11.95,6,4,6,7
+18065,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,17.5,22.05,24,4,6,36
+18069,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.4,23.55,18,4,6,43
+18090,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.65,1,4,7,4
+18101,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,24.0,8.05,24,4,7,26
+18104,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,6.8,29.65,25,4,7,43
+18107,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,5.95,1,4,8,1
+18108,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,4,8,19
+18119,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,10.9,27.15,24,4,8,26
+18123,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-12.7,10.85,13,4,8,36
+18158,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,0.4,19.45,14,4,8,57
+18183,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,19.4,19.55,24,4,9,52
+18198,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.15,2,4,10,25
+18200,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.2,7.45,2,4,10,46
+18211,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,18.7,4.95,18,4,11,4
+18213,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.4,23.15,21,4,11,25
+18253,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.8,4.95,0,3,0,1
+18255,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.5,7.15,1,3,0,17
+18262,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,7.45,4,3,0,19
+18279,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,5.85,1,3,0,35
+18285,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.6,6.65,2,3,0,58
+18292,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,20.7,18.15,24,3,1,19
+18304,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-9.4,28.85,25,3,1,36
+18305,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.6,4.45,19,3,1,51
+18314,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,6.7,6.15,6,3,1,59
+18360,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,6.65,1,3,2,38
+18361,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,25.55,23,3,2,53
+18374,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-6.2,17.95,14,3,3,11
+18375,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.5,4.75,1,3,3,18
+18381,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.3,5.85,2,3,3,26
+18392,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,8.05,23,3,3,34
+18419,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.8,5.95,2,3,4,11
+18424,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-14.4,26.15,25,3,4,33
+18476,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.7,5.55,0,3,5,22
+18484,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.1,29.15,25,3,5,28
+18490,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.7,5.65,5,3,5,48
+18495,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-16.5,25.25,25,3,6,1
+18517,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-0.7,9.65,4,3,6,36
+18527,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,17.5,3.55,17,3,7,11
+18531,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,20.9,8.35,21,3,7,36
+18583,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.2,5.65,0,3,8,30
+18590,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.3,4.45,19,3,8,53
+18596,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-11.1,25.55,23,3,9,3
+18622,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.85,2,3,9,27
+18628,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.7,24.75,25,3,9,41
+18637,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.8,4.25,22,3,10,4
+18644,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center,RC,16-24 ft.,-9.9,18.45,16,3,10,28
+18654,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,9.35,23,3,10,36
+18656,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.55,2,3,10,44
+18664,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,7.5,20.35,16,3,11,1
+18667,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.1,27.25,25,3,11,19
+18681,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-20.3,4.65,20,3,11,40
+18715,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-15.5,25.05,25,2,0,20
+18717,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-19.3,6.75,19,2,0,36
+18723,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-8.9,5.65,8,2,0,54
+18724,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.1,4.65,1,2,1,6
+18734,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.45,22,2,1,11
+18764,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,1,44
+18773,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,23.4,8.35,23,2,1,51
+18774,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,5.65,0,2,2,12
+18797,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,21.0,10.05,21,2,2,34
+18808,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,13.4,17.95,18,2,2,41
+18814,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.3,7.25,23,2,3,3
+18818,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,6.15,2,2,3,14
+18833,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.1,7.25,2,2,3,34
+18836,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,6.45,1,2,3,36
+18838,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.3,18.65,13,2,3,50
+18860,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.0,17.15,25,2,4,15
+18867,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side,R,8-16 ft.,-5.4,11.25,8,2,4,31
+18874,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-11.1,14.95,14,2,4,39
+18900,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-2.0,9.45,4,2,5,14
+18902,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Hook Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,8.35,3,2,5,34
+18913,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,14.2,5.05,14,2,5,47
+18919,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.5,5.55,1,2,6,0
+18924,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.6,14.65,14,2,6,1
+18944,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-16.6,4.75,16,2,6,35
+18972,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.1,29.65,24,2,7,6
+18978,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.0,3.15,19,2,7,43
+18987,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.1,9.75,19,2,7,46
+19039,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.4,5.65,3,2,8,8
+19050,2013,2012-13,1610612743,Denver Nuggets,201580,JaVale McGee,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.9,6.35,1,2,8,23
+19058,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-20.3,20.05,25,2,8,35
+19063,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.2,7.15,3,2,8,43
+19064,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,13.6,6.35,13,2,9,2
+19072,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.4,10.25,10,2,9,24
+19073,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.3,5.35,0,2,9,37
+19079,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Running Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.4,5.85,2,2,9,43
+19082,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-4.0,22.25,17,2,10,1
+19088,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.55,0,2,10,28
+19102,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,16-24 ft.,-18.4,14.85,20,2,10,44
+19128,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-8.3,28.05,24,2,11,5
+19136,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,0.5,28.85,23,2,11,24
+19147,2013,2012-13,1610612762,Utah Jazz,2224,Jamaal Tinsley,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,12.3,26.95,24,2,11,35
+19169,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Backcourt,Back Court,BC,Back Court Shot,-0.2,76.45,71,1,0,0
+19176,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.1,5.35,2,1,0,1
+19182,2013,2012-13,1610612762,Utah Jazz,202692,Alec Burks,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-9.5,6.75,9,1,0,3
+19186,2013,2012-13,1610612743,Denver Nuggets,203095,Evan Fournier,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.3,5.35,2,1,0,18
+19189,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.2,6.35,3,1,0,37
+19193,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,5.1,10.45,7,1,0,37
+19216,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,5.95,2,1,1,6
+19249,2013,2012-13,1610612743,Denver Nuggets,201580,JaVale McGee,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Tip Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.7,6.15,1,1,1,26
+19254,2013,2012-13,1610612743,Denver Nuggets,201163,Wilson Chandler,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,12.75,14,1,1,27
+19259,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,9.8,17.05,15,1,1,49
+19279,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.6,12.45,24,1,2,0
+19285,2013,2012-13,1610612762,Utah Jazz,101107,Marvin Williams,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Left Corner 3,Left Side,L,24+ ft.,22.6,7.75,22,1,2,8
+19290,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,9.15,3,1,2,32
+19317,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.0,5.65,0,1,3,5
+19323,2013,2012-13,1610612743,Denver Nuggets,201147,Corey Brewer,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,12.8,12.65,14,1,3,23
+19326,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-22.3,14.55,24,1,3,35
+19333,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-3.4,8.65,4,1,4,1
+19336,2013,2012-13,1610612762,Utah Jazz,202324,Derrick Favors,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,0.4,6.15,0,1,4,20
+19362,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,6.65,4,1,4,39
+19368,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center,RC,24+ ft.,-12.9,26.65,24,1,4,55
+19400,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center,LC,16-24 ft.,10.3,21.65,19,1,5,27
+19432,2013,2012-13,1610612743,Denver Nuggets,201568,Danilo Gallinari,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-3.1,5.05,3,1,5,41
+19438,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Right Side,R,8-16 ft.,-10.0,7.15,10,1,5,53
+19453,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,1.1,5.95,1,1,6,16
+19465,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Driving Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.5,5.95,3,1,6,23
+19467,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,Mid-Range,Center,C,16-24 ft.,-5.0,23.35,18,1,6,37
+19472,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,2.4,5.35,2,1,6,48
+19480,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,13.0,25.85,24,1,6,56
+19485,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,4.0,10.25,6,1,7,14
+19487,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-1.5,10.85,5,1,7,39
+19495,2013,2012-13,1610612743,Denver Nuggets,201585,Kosta Koufos,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-2.1,6.35,2,1,8,1
+19507,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,5.65,1,1,8,4
+19514,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,16-24 ft.,19.4,10.55,20,1,8,17
+19527,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-7.2,3.05,7,1,8,24
+19529,2013,2012-13,1610612762,Utah Jazz,2744,Al Jefferson,C,C,04-03-2013,21201118,UTA,DEN,Made Shot,True,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,3.4,5.85,3,1,8,40
+19543,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Center,C,24+ ft.,-3.6,29.35,24,1,9,13
+19557,2013,2012-13,1610612762,Utah Jazz,2590,Mo Williams,G,PG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Layup Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-1.8,7.45,2,1,9,16
+19570,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Left Side,L,8-16 ft.,8.7,8.65,9,1,9,24
+19576,2013,2012-13,1610612762,Utah Jazz,200794,Paul Millsap,F,PF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,Mid-Range,Center,C,8-16 ft.,-0.7,20.05,14,1,9,33
+19593,2013,2012-13,1610612743,Denver Nuggets,201585,Kosta Koufos,C,C,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,8-16 ft.,-2.6,14.05,9,1,9,51
+19605,2013,2012-13,1610612743,Denver Nuggets,2738,Andre Iguodala,G,SG,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center,C,Less Than 8 ft.,-4.0,7.75,4,1,10,0
+19641,2013,2012-13,1610612743,Denver Nuggets,202702,Kenneth Faried,F,PF,04-03-2013,21201118,UTA,DEN,Made Shot,True,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center,C,Less Than 8 ft.,-0.6,5.25,0,1,10,43
+19644,2013,2012-13,1610612762,Utah Jazz,200751,Randy Foye,G,SG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,16.3,23.95,24,1,11,0
+19659,2013,2012-13,1610612762,Utah Jazz,202330,Gordon Hayward,F,SF,04-03-2013,21201118,UTA,DEN,Missed Shot,False,Jump Shot,3PT Field Goal,Right Corner 3,Right Side,R,24+ ft.,-23.1,7.45,23,1,11,16
+19670,2013,2012-13,1610612743,Denver Nuggets,1889,Andre Miller,G,PG,04-03-2013,21201118,UTA,DEN,Made Shot,True,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center,LC,24+ ft.,9.5,27.95,24,1,11,40
