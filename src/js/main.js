@@ -134,7 +134,16 @@ function update_players(url, player_selected, select_name) {
                                     })
                 }
             }
-            drawShotChart(positions)
+
+            years = ['2022', '2021', '2020']
+            adjust_position = false
+            for (year of years) {
+                if (url.indexOf(year) !== -1) {
+                    adjust_position = true
+                    break
+                }
+            }
+            draw_shot_chart(positions, adjust_position)
         },
         dataType: "text",
         complete: function () {
@@ -144,3 +153,24 @@ function update_players(url, player_selected, select_name) {
 }
 
 init_page()
+
+/*
+function sleep(milliseconds) {
+    return new Promise(resolve => setTimeout(resolve, milliseconds));
+}
+
+async function debug_selector() {
+    $("#season_selector").val('2023')
+    $("#date_selector").val('04-04-2023')
+    update_games('2023', null)
+    await sleep(100)
+    $("#game_selector").val('Philadelphia76ers_BostonCeltics')
+    update_page(false)
+    $("#player_selector").val('Joel Embiid')
+    update_page(false)
+}
+
+
+//debug_selector()
+setTimeout(debug_selector, 100)
+*/
