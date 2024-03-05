@@ -5,7 +5,18 @@ circle {
 .label {
     font-family: Arial, sans-serif;
     font-size: 12px;
-    fill: black;
+    fill: white;
     pointer-events: none; 
     display: none;
+}
+
+#svg_shots, #svg_court {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    z-index: -1;
+}
+
+#svg_court {
+    z-index: -2;
 }
