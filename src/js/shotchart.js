@@ -32,9 +32,7 @@ function draw_shot_chart(positions, adjust_position) {
     const height_zone = 190
     const height_baseline = y_board + 40
     draw_rect(svg_court, center_x - width_zone / 2, height_baseline - height_zone, width_zone, height_zone)
-    
     draw_arc(svg_court, center_x, center_y - 42, radius, -Math.PI / 2, Math.PI / 2, false)
-
     draw_arc(svg_court, center_x, height_baseline - height_zone, width_zone / 3, -Math.PI / 2, Math.PI / 2, false)
     draw_arc(svg_court, center_x, height_baseline - height_zone, width_zone / 3, Math.PI / 2,  3 * Math.PI / 2, true)
 
@@ -84,7 +82,7 @@ function draw_shot_chart(positions, adjust_position) {
             .attr('r', 0)
             .attr('opacity', 0)
             .transition()
-            .delay(function(d, i) { return i * 10 })
+            .delay(function(d, i) { return i * 50 })
             .duration(500)
             .attr('r', 5)
             .attr('opacity', 1)
@@ -111,11 +109,187 @@ function draw_shot_chart(positions, adjust_position) {
 
 }
 
+function search_game_by_field(games, field, date) {
+    for (game of games) {
+        if (game[field] == date) {
+            return game
+        }
+    }
+    return null
+}
+
+function draw_game_statistics(data) {
+    /*
+    TODO: create statistics for the game
+    - hits and misses (pie charts: total, 2s, 3s, per quarter, distance/zone, time, longest streak)
+    - TODO free throws
+    - type of shots (pie chart)
+
+    TODO: profile image
+    - seasonal statistics
+    - final: ranking per category
+
+    Necessary stats:
+    Points, Assists, Rebounds, Blocks, Steals, Turnovers (descending)
+    FtPoints, FTA 
+    FG2M, FG2A
+    FG3M, FG3A 
+    Minutes
+    */
+    $('#svg_player_game_statistics').empty()
+
+
+    const data_json = $.parseJSON(data)
+    
+    
+    const player_stats_season = data_json.single_row_table_data
+    const player_stats_games = data_json.multi_row_table_data
+
+    // filter game by date
+    var date = $('#date_selector').val()
+    yyyy_mm_dd = date.split('-')
+    date = yyyy_mm_dd[2] + '-' + yyyy_mm_dd[0] + '-' + yyyy_mm_dd[1] 
+    game = search_game_by_field(player_stats_games, 'Date', date)
+    console.log(game)
+
+
+    const svg_player_game_statistics = d3.select('#svg_player_game_statistics')
+                                        .append('svg')
+                                        .attr('width', window.innerWidth)
+                                        .attr('height', window.innerHeight)
+    
+    // update empty fields 
+    fields = ['FG2M', 'FG2A', 'FG3M', 'FG3A']
+    for (field of fields) {
+        if (!(field in game)) {
+            game[field] = 0
+        }
+    }
+
+    fg_made = game.FG2M + game.FG3M
+    fg_attempted = game.FG2A + game.FG3A
+    fg = [
+        { label: 'Made', value: fg_made },
+        { label: 'Missed', value: fg_attempted - fg_made }
+    ]
+    fg2 = [
+        { label: 'Made', value: game.FG2M },
+        { label: 'Missed', value: game.FG2A - game.FG2M }
+    ]
+    fg3 = [
+        { label: 'Made', value: game.FG3M },
+        { label: 'Missed', value: game.FG3A - game.FG3M }
+    ]
+
+    function get_percentage_label(made , attempted) {
+        return  ((made / attempted * 100).toFixed(2)) +  '%'
+    }
+    
+    draw_pie_chart(svg_player_game_statistics, fg, 200, height / 2, 120, 'Field Goals', get_percentage_label(fg_made, fg_attempted), fg_attempted)
+    draw_pie_chart(svg_player_game_statistics, fg2, 500, height / 2, 120, '2-Point Field Goals', get_percentage_label(game.FG2M, game.FG2A), game.FG2A)
+    draw_pie_chart(svg_player_game_statistics, fg3, 800, height / 2, 120, '3-Point Field Goals', get_percentage_label(game.FG3M, game.FG3A), game.FG3A)
+                    
+}
+
+            
+$('#button_player_game_statistics').on('click', function () {
+    year = $('#season_selector').val()
+    season = (parseInt(year) - 1) + '-' + (parseInt(year) % 100) 
+    player_id = $('#button_player_game_statistics').val()
+    $.ajax({
+        url: 'https://api.pbpstats.com/get-game-logs/nba?Season=' + season + '&SeasonType=Regular%2BSeason&EntityId=' + player_id + '&EntityType=Player',
+        async: false,
+        success: function (data) {
+            draw_game_statistics(data)
+        },
+        dataType: 'text',
+        complete: function () {
+            console.log('Loaded seasonal statistics successfully.')
+        }
+    })
+})
+
+
+
+function draw_pie_chart(svg, data, x, y, radius, label, value, total) {
+    
+    var color = d3.scaleOrdinal()
+                    .domain(data.map(function(d) { return d.label }))
+                    .range(d3.schemeCategory10)
+    var pie = d3.pie()
+                    .sort(null)
+                    .value(function(d) { return d.value })
+
+    if (total > 0) {
+        padding_x = 10
+        padding_y = 10
+        arc = d3.arc()
+            .innerRadius(0)
+            .outerRadius(radius)
+        
+        var arcs = svg.selectAll('arc')
+                    .data(pie(data))
+                    .enter()
+                    .append('g')
+                    .attr('class', 'arc')
+                    .attr('transform', 'translate(' + x + ',' + y + ')')
+    
+        arcs.append('path')
+            .attr('fill', function (d) { return color(d.data.label) })
+            .transition()
+            .duration(750)
+            .attrTween('d', function (b) {
+                b.innerRadius = 0
+                var i = d3.interpolate({startAngle: 0, endAngle: 0}, b)
+                return function(t) { return arc(i(t)) }
+              })
+        
+        arcs.append('text')
+            .attr('transform', function(d) {
+              var pos = arc.centroid(d)
+              var midAngle = d.startAngle + (d.endAngle - d.startAngle) / 2
+              pos[0] = radius * 0.85 * (midAngle < Math.PI ? 1 : -1) + padding_x * (midAngle < Math.PI ? 1 : -1)
+              pos[1] = radius * 0.85 * (midAngle < Math.PI ? 1 : -1) + padding_y * (midAngle < Math.PI ? 1 : -1)
+              return 'translate(' + pos + ')'
+            })
+            .attr('dy', '0.35em')
+            .attr('text-anchor', function(d) {
+              return (d.startAngle + (d.endAngle - d.startAngle) / 2) < Math.PI ? 'start' : 'end'
+            })
+            .text(function(d) { return d.data.label + ': ' + d.data.value })
+      
+        arcs.append('line')
+            .attr('x1', function(d) { return arc.centroid(d)[0] })
+            .attr('y1', function(d) { return arc.centroid(d)[1] })
+            .attr('x2', function(d) {
+              var pos = arc.centroid(d)
+              var midAngle = d.startAngle + (d.endAngle - d.startAngle) / 2
+              pos[0] = radius * 0.85  * (midAngle < Math.PI ? 1 : -1)
+              return pos[0]
+            })
+            .attr('y2', function(d) {
+              var pos = arc.centroid(d)
+              var midAngle = d.startAngle + (d.endAngle - d.startAngle) / 2
+              pos[1] = radius * 0.85 * (midAngle < Math.PI ? 1 : -1)
+              return pos[1]
+            })
+            .attr('stroke', 'black')
+    }
+
+    svg.append('text')
+        .attr('x', x)
+        .attr('y', y)
+        .attr('text-anchor', 'middle')
+        .text(label  + ': ' + value)
+        .style('fill', 'black')
+
+    
+}
+
 function draw_line(svg, p1, p2) {
     const line_generator = d3.line()
                                 .x(d => d.x)
                                 .y(d => d.y)
-
     svg.append('path')
         .attr('d', line_generator([
             { x: p1.x, y: p1.y}, 
@@ -148,7 +322,6 @@ function draw_circle(svg, x, y, r) {
         .attr('stroke', 'black')
         .attr('stroke-width', line_thickness)
         .attr('fill', 'none')
-
 }
 
 function draw_arc(svg, x, y, r, start, end, stroke) {

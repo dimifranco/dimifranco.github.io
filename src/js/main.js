@@ -117,24 +117,29 @@ function update_players(url, player_selected, select_name) {
                 player_selected = Array.from(players)[0]
             }
             $("#player_selector").val(player_selected)
-
+            
             // draw
             positions = []
+            player_id = -1
             for (shot of shots) {
                 if (shot.PLAYER_NAME == player_selected) {
                     sec = shot.SECS_LEFT
                     min = shot.MINS_LEFT
                     quarter = shot.QUARTER
                     time = min + ':' + sec + ' (' + ((quarter <= 4) ? (quarter + '. Quarter') : ((quarter - 4) + '. Overtime')) + ')'
+                    $("#button_player_game_statistics").val(shot.PLAYER_ID) // TODO only once 
                     positions.push({'x': parseFloat(shot.LOC_X), 
                                     'y': parseFloat(shot.LOC_Y), 
                                     'shot_made': shot.SHOT_MADE == 'True',
                                     'distance': shot.SHOT_DISTANCE + ' ft',
-                                    'time': time
+                                    'time': time,
+                                    'shot_type': shot.ACTION_TYPE,
+                                    'zone': shot.BASIC_ZONE,
+                                    'id': shot.PLAYER_ID
                                     })
                 }
             }
-            
+
             // shot locations for years 2020-2022 are flawed (newly computed in shotchart.js)
             years = ['2022', '2021', '2020']
             regex = /\/(\d{4})\//

@@ -20,3 +20,10 @@ circle {
 #svg_court {
     z-index: -2;
 }
+
+#svg_player_game_statistics {
+    position: absolute;
+    top: 800px;
+    left: 100px;
+    color: black;
+}
